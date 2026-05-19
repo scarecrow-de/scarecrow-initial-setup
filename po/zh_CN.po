@@ -29,23 +29,23 @@ msgstr ""
 msgid "Initial Setup"
 msgstr "初始配置"
 
-#: scarecrow-initial-setup/gis-assistant.c:423
+#: scarecrow-initial-setup/scis-assistant.c:423
 msgid "_Next"
 msgstr "前进(_N)"
 
-#: scarecrow-initial-setup/gis-assistant.c:424
+#: scarecrow-initial-setup/scis-assistant.c:424
 msgid "_Accept"
 msgstr "接受(_A)"
 
-#: scarecrow-initial-setup/gis-assistant.c:425
+#: scarecrow-initial-setup/scis-assistant.c:425
 msgid "_Skip"
 msgstr "跳过(_S)"
 
-#: scarecrow-initial-setup/gis-assistant.c:426
+#: scarecrow-initial-setup/scis-assistant.c:426
 msgid "_Previous"
 msgstr "返回(_P)"
 
-#: scarecrow-initial-setup/gis-assistant.c:427
+#: scarecrow-initial-setup/scis-assistant.c:427
 msgid "_Cancel"
 msgstr "取消(_C)"
 
@@ -57,31 +57,31 @@ msgstr "强制现有用户模式"
 msgid "— GNOME initial setup"
 msgstr "— GNOME 初始配置"
 
-#: scarecrow-initial-setup/pages/account/gis-account-avatar-chooser.ui:36
+#: scarecrow-initial-setup/pages/account/scis-account-avatar-chooser.ui:36
 msgid "Take a Picture…"
 msgstr "拍张照片…"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.c:184
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.c:184
 msgid "Failed to register account"
 msgstr "注册帐号失败"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.c:378
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.c:378
 msgid "No supported way to authenticate with this domain"
 msgstr "无法支持在该域进行认证"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.c:418
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.c:418
 msgid "Failed to join domain"
 msgstr "加入域失败"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.c:486
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.c:486
 msgid "Failed to log into domain"
 msgstr "登录到域失败"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:17
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:17
 msgid "Enterprise Login"
 msgstr "企业登录"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:18
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:18
 msgid ""
 "Enterprise login allows an existing centrally managed user account to be "
 "used on this device. You can also use this account to access company "
@@ -90,34 +90,34 @@ msgstr ""
 "企业登录允许在本机上使用已有的、集中式管理的用户帐号。您也可以使用此帐号访问"
 "互联网上公司所有的资源。"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:36
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:287
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:36
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:287
 msgid "_Domain"
 msgstr "域(_D)"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:53
-#: scarecrow-initial-setup/pages/account/gis-account-page-local.ui:84
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:53
+#: scarecrow-initial-setup/pages/account/scis-account-page-local.ui:84
 msgid "_Username"
 msgstr "用户名(_U)"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:70
-#: scarecrow-initial-setup/pages/password/gis-password-page.ui:34
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:70
+#: scarecrow-initial-setup/pages/password/scis-password-page.ui:34
 msgid "_Password"
 msgstr "密码(_P)"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:146
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:146
 msgid "Enterprise domain or realm name"
 msgstr "企业域或领域名称"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:211
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:211
 msgid "C_ontinue"
 msgstr "继续(_O)"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:246
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:246
 msgid "Domain Administrator Login"
 msgstr "域管理员登录"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:266
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:266
 msgid ""
 "In order to use enterprise logins, this computer needs to be enrolled in a "
 "domain. Please have your network administrator type the domain password "
@@ -126,66 +126,66 @@ msgstr ""
 "要想使用企业登录，该计算机需要在该域内登记。请让网络管理员在此输入域密码，并"
 "为您的计算机设置一个唯一的计算机名。"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:321
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:321
 msgid "_Computer"
 msgstr "计算机(_C)"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:353
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:353
 msgid "Administrator _Name"
 msgstr "管理员名称(_N)"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:387
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:387
 msgid "Administrator Password"
 msgstr "管理员密码"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-local.c:207
+#: scarecrow-initial-setup/pages/account/scis-account-page-local.c:207
 msgid "Please check the name and username. You can choose a picture too."
 msgstr "请检查名称和用户名。您还可以选择图片。"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-local.c:453
+#: scarecrow-initial-setup/pages/account/scis-account-page-local.c:453
 msgid "We need a few details to complete setup."
 msgstr "我们需要一些详细信息来完成设置。"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-local.c:559
+#: scarecrow-initial-setup/pages/account/scis-account-page-local.c:559
 msgid "Administrator"
 msgstr "管理员"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-local.c:565
-#: scarecrow-initial-setup/pages/account/gis-account-page-local.c:608
+#: scarecrow-initial-setup/pages/account/scis-account-page-local.c:565
+#: scarecrow-initial-setup/pages/account/scis-account-page-local.c:608
 #, c-format
 msgid "Failed to create user '%s': "
 msgstr "创建用户 '%s' 失败："
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-local.ui:21
+#: scarecrow-initial-setup/pages/account/scis-account-page-local.ui:21
 msgid "Avatar image"
 msgstr "头像图片"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-local.ui:38
-#: scarecrow-initial-setup/pages/account/gis-account-page.c:283
+#: scarecrow-initial-setup/pages/account/scis-account-page-local.ui:38
+#: scarecrow-initial-setup/pages/account/scis-account-page.c:283
 msgid "About You"
 msgstr "关于您"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-local.ui:39
+#: scarecrow-initial-setup/pages/account/scis-account-page-local.ui:39
 msgid "Please provide a name and username. You can choose a picture too."
 msgstr "请提供名称和用户名。您还可以选择图片。"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-local.ui:53
+#: scarecrow-initial-setup/pages/account/scis-account-page-local.ui:53
 msgid "_Full Name"
 msgstr "全名(_F)"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-local.ui:149
+#: scarecrow-initial-setup/pages/account/scis-account-page-local.ui:149
 msgid "Set up _parental controls for this user"
 msgstr "为该用户设置家长控制(_P)"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-local.ui:156
+#: scarecrow-initial-setup/pages/account/scis-account-page-local.ui:156
 msgid "For use by a parent or supervisor, who must set up their own password."
 msgstr "由家长或超级用户使用，必须设置各自密码。"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page.ui:43
+#: scarecrow-initial-setup/pages/account/scis-account-page.ui:43
 msgid "_Enterprise Login"
 msgstr "企业登录(_E)"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page.ui:53
+#: scarecrow-initial-setup/pages/account/scis-account-page.ui:53
 msgid "Go online to set up Enterprise Login."
 msgstr "上线以设置企业登录。"
 
@@ -240,25 +240,25 @@ msgstr "用户名只能包含从 a-z 的大小写字母、数字和“.”“-�
 msgid "This will be used to name your home folder and can’t be changed."
 msgstr "这将用于创建您的主目录且无法更改。"
 
-#: scarecrow-initial-setup/pages/goa/gis-goa-page.c:92
+#: scarecrow-initial-setup/pages/goa/scis-goa-page.c:92
 msgid "Add Account"
 msgstr "添加帐号"
 
-#: scarecrow-initial-setup/pages/goa/gis-goa-page.c:357
+#: scarecrow-initial-setup/pages/goa/scis-goa-page.c:357
 msgid "Online Accounts"
 msgstr "在线帐号"
 
-#: scarecrow-initial-setup/pages/goa/gis-goa-page.ui:17
+#: scarecrow-initial-setup/pages/goa/scis-goa-page.ui:17
 msgid "Connect Your Online Accounts"
 msgstr "连接您的在线帐号"
 
-#: scarecrow-initial-setup/pages/goa/gis-goa-page.ui:18
+#: scarecrow-initial-setup/pages/goa/scis-goa-page.ui:18
 msgid ""
 "Connect your accounts to easily access your email, online calendar, "
 "contacts, documents and photos."
 msgstr "连接帐号，轻松访问您的邮件、在线日历、联系人、文档和照片。"
 
-#: scarecrow-initial-setup/pages/goa/gis-goa-page.ui:48
+#: scarecrow-initial-setup/pages/goa/scis-goa-page.ui:48
 msgid ""
 "Accounts can be added and removed at any time from the Settings application."
 msgstr "账号可以在“设置”应用程序里随时添加和移除。"
@@ -279,12 +279,12 @@ msgstr "更多…"
 msgid "No inputs found"
 msgstr "未找到输入设备"
 
-#: scarecrow-initial-setup/pages/keyboard/gis-keyboard-page.c:504
-#: scarecrow-initial-setup/pages/keyboard/gis-keyboard-page.ui:15
+#: scarecrow-initial-setup/pages/keyboard/scis-keyboard-page.c:504
+#: scarecrow-initial-setup/pages/keyboard/scis-keyboard-page.ui:15
 msgid "Typing"
 msgstr "输入"
 
-#: scarecrow-initial-setup/pages/keyboard/gis-keyboard-page.ui:16
+#: scarecrow-initial-setup/pages/keyboard/scis-keyboard-page.ui:16
 msgid "Select your keyboard layout or an input method."
 msgstr "选择您的键盘布局或者其他输入方式。"
 
@@ -292,7 +292,7 @@ msgstr "选择您的键盘布局或者其他输入方式。"
 msgid "No languages found"
 msgstr "未找到其他语言"
 
-#: scarecrow-initial-setup/pages/language/gis-language-page.c:262
+#: scarecrow-initial-setup/pages/language/scis-language-page.c:262
 msgid "Welcome"
 msgstr "欢迎"
 
@@ -300,32 +300,32 @@ msgstr "欢迎"
 #. * like greeting somebody at the door. If the exclamation mark is not
 #. * suitable for this in your language you may replace it.
 #.
-#: scarecrow-initial-setup/pages/language/gis-welcome-widget.c:136
+#: scarecrow-initial-setup/pages/language/scis-welcome-widget.c:136
 msgid "Welcome!"
 msgstr "欢迎！"
 
-#: scarecrow-initial-setup/pages/network/gis-network-page.c:318
+#: scarecrow-initial-setup/pages/network/scis-network-page.c:318
 msgctxt "Wireless access point"
 msgid "Other…"
 msgstr "其他…"
 
-#: scarecrow-initial-setup/pages/network/gis-network-page.c:403
+#: scarecrow-initial-setup/pages/network/scis-network-page.c:403
 msgid "Wireless networking is disabled"
 msgstr "无线网络已禁用"
 
-#: scarecrow-initial-setup/pages/network/gis-network-page.c:410
+#: scarecrow-initial-setup/pages/network/scis-network-page.c:410
 msgid "Checking for available wireless networks"
 msgstr "正在检查可用的无线网络"
 
-#: scarecrow-initial-setup/pages/network/gis-network-page.c:805
+#: scarecrow-initial-setup/pages/network/scis-network-page.c:805
 msgid "Network"
 msgstr "网络"
 
-#: scarecrow-initial-setup/pages/network/gis-network-page.ui:18
+#: scarecrow-initial-setup/pages/network/scis-network-page.ui:18
 msgid "Wi-Fi"
 msgstr "Wi-Fi"
 
-#: scarecrow-initial-setup/pages/network/gis-network-page.ui:19
+#: scarecrow-initial-setup/pages/network/scis-network-page.ui:19
 msgid ""
 "Connecting to the internet helps you get new apps, information, and other "
 "upgrades. It also helps set the time and your location automatically."
@@ -333,67 +333,67 @@ msgstr ""
 "连接到互联网可以帮助您获取新应用、新信息和其它更新内容，也能帮助您自动设置时"
 "间、时区和位置信息。"
 
-#: scarecrow-initial-setup/pages/network/gis-network-page.ui:76
+#: scarecrow-initial-setup/pages/network/scis-network-page.ui:76
 msgid "No wireless available"
 msgstr "无线不可用"
 
-#: scarecrow-initial-setup/pages/network/gis-network-page.ui:91
+#: scarecrow-initial-setup/pages/network/scis-network-page.ui:91
 msgid "Turn On"
 msgstr "打开"
 
 #. Translators: The placeholder is the user’s full name.
-#: scarecrow-initial-setup/pages/parental-controls/gis-parental-controls-page.c:102
+#: scarecrow-initial-setup/pages/parental-controls/scis-parental-controls-page.c:102
 #, c-format
 msgid "Parental Controls for %s"
 msgstr "对 %s 用户的家长控制"
 
-#: scarecrow-initial-setup/pages/parental-controls/gis-parental-controls-page.c:104
+#: scarecrow-initial-setup/pages/parental-controls/scis-parental-controls-page.c:104
 msgid "Set restrictions on what this user can run or install."
 msgstr "设置对该用户可运行或安装内容的限制。"
 
-#: scarecrow-initial-setup/pages/parental-controls/gis-parental-controls-page.c:199
+#: scarecrow-initial-setup/pages/parental-controls/scis-parental-controls-page.c:199
 msgid "Parental Controls"
 msgstr "家长控制"
 
 #. Don’t break UI compatibility if parental controls are disabled.
-#: scarecrow-initial-setup/pages/password/gis-password-page.c:79
+#: scarecrow-initial-setup/pages/password/scis-password-page.c:79
 msgid "Set a Password"
 msgstr "设置密码"
 
-#: scarecrow-initial-setup/pages/password/gis-password-page.c:80
-#: scarecrow-initial-setup/pages/password/gis-password-page.c:89
+#: scarecrow-initial-setup/pages/password/scis-password-page.c:80
+#: scarecrow-initial-setup/pages/password/scis-password-page.c:89
 msgid "Be careful not to lose your password."
 msgstr "请记好您的密码。"
 
 #. Translators: The placeholder is for the user’s full name.
-#: scarecrow-initial-setup/pages/password/gis-password-page.c:87
+#: scarecrow-initial-setup/pages/password/scis-password-page.c:87
 #, c-format
 msgid "Set a Password for %s"
 msgstr "设置用户 %s 的密码"
 
-#: scarecrow-initial-setup/pages/password/gis-password-page.c:95
+#: scarecrow-initial-setup/pages/password/scis-password-page.c:95
 msgid "Set a Parent Password"
 msgstr "设置一个家长密码"
 
 #. Translators: The placeholder is the full name of the child user on the system.
-#: scarecrow-initial-setup/pages/password/gis-password-page.c:97
+#: scarecrow-initial-setup/pages/password/scis-password-page.c:97
 #, c-format
 msgid "This password will control access to the parental controls for %s."
 msgstr "该密码将决定对用户 %s 的家长控制访问。"
 
-#: scarecrow-initial-setup/pages/password/gis-password-page.c:228
+#: scarecrow-initial-setup/pages/password/scis-password-page.c:228
 msgid "This is a weak password."
 msgstr "这是一个弱密码。"
 
-#: scarecrow-initial-setup/pages/password/gis-password-page.c:234
+#: scarecrow-initial-setup/pages/password/scis-password-page.c:234
 msgid "The passwords do not match."
 msgstr "密码不匹配。"
 
-#: scarecrow-initial-setup/pages/password/gis-password-page.c:420
+#: scarecrow-initial-setup/pages/password/scis-password-page.c:420
 msgid "Password"
 msgstr "密码"
 
-#: scarecrow-initial-setup/pages/password/gis-password-page.ui:66
+#: scarecrow-initial-setup/pages/password/scis-password-page.ui:66
 msgid "_Confirm"
 msgstr "确认(_C)"
 
@@ -515,7 +515,7 @@ msgstr "加上更多字母，数字和标点符号可改善密码强度。"
 #. * like "Fedora" or "Ubuntu". It falls back to "GNOME" if we can't
 #. * detect any distribution.
 #.
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:68
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:68
 #, c-format
 msgid ""
 "Sending reports of technical problems helps us to improve %s. Reports are "
@@ -527,41 +527,41 @@ msgstr ""
 #. * like "Fedora" or "Ubuntu". It falls back to "GNOME" if we can't
 #. * detect any distribution.
 #.
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:78
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:78
 #, c-format
 msgid "Problem data will be collected by %s:"
 msgstr "问题数据将被 %s 收集："
 
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:79
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:135
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:210
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:79
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:135
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:210
 msgid "Privacy Policy"
 msgstr "隐私政策"
 
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:135
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:135
 msgid "Uses Mozilla Location Service:"
 msgstr "使用 Mozilla 位置服务："
 
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:246
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.ui:16
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:246
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.ui:16
 msgid "Privacy"
 msgstr "隐私"
 
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.ui:31
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.ui:31
 msgid "Location Services"
 msgstr "位置服务"
 
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.ui:52
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.ui:52
 msgid ""
 "Allows applications to determine your geographical location. An indication "
 "is shown when location services are in use."
 msgstr "允许应用程序确定您的地理位置。定位服务使用时会有指示状态提示。"
 
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.ui:74
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.ui:74
 msgid "Automatic Problem Reporting"
 msgstr "自动提交问题报告"
 
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.ui:110
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.ui:110
 msgid ""
 "Privacy controls can be changed at any time from the Settings application."
 msgstr "隐私控制可以随时在“设置”应用程序里更改。"
@@ -569,7 +569,7 @@ msgstr "隐私控制可以随时在“设置”应用程序里更改。"
 #. Translators: the parameter here is the name of a distribution,
 #. * like "Fedora" or "Ubuntu". It falls back to "GNOME 3" if we can't
 #. * detect any distribution.
-#: scarecrow-initial-setup/pages/summary/gis-summary-page.c:233
+#: scarecrow-initial-setup/pages/summary/scis-summary-page.c:233
 #, c-format
 msgid "_Start Using %s"
 msgstr "开始使用 %s(_S)"
@@ -577,21 +577,21 @@ msgstr "开始使用 %s(_S)"
 #. Translators: the parameter here is the name of a distribution,
 #. * like "Fedora" or "Ubuntu". It falls back to "GNOME 3" if we can't
 #. * detect any distribution.
-#: scarecrow-initial-setup/pages/summary/gis-summary-page.c:240
+#: scarecrow-initial-setup/pages/summary/scis-summary-page.c:240
 #, c-format
 msgid "%s is ready to be used. We hope that you love it!"
 msgstr "%s 已就绪。我们希望您喜欢它！"
 
-#: scarecrow-initial-setup/pages/summary/gis-summary-page.c:264
+#: scarecrow-initial-setup/pages/summary/scis-summary-page.c:264
 msgid "Setup Complete"
 msgstr "配置完成"
 
-#: scarecrow-initial-setup/pages/summary/gis-summary-page.ui:70
+#: scarecrow-initial-setup/pages/summary/scis-summary-page.ui:70
 msgid "All done!"
 msgstr "全部搞定！"
 
 #. Translators: "city, country"
-#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:261
+#: scarecrow-initial-setup/pages/timezone/scis-timezone-page.c:261
 #, c-format
 msgctxt "timezone loc"
 msgid "%s, %s"
@@ -600,39 +600,39 @@ msgstr "%s，%s"
 #. Translators: UTC here means the Coordinated Universal Time.
 #. * %:::z will be replaced by the offset from UTC e.g. UTC+02
 #.
-#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:298
+#: scarecrow-initial-setup/pages/timezone/scis-timezone-page.c:298
 msgid "UTC%:::z"
 msgstr "UTC%:::z"
 
 #. Translators: This is the time format used in 12-hour mode.
-#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:302
+#: scarecrow-initial-setup/pages/timezone/scis-timezone-page.c:302
 msgid "%l:%M %p"
 msgstr "%p %l:%M"
 
 #. Translators: This is the time format used in 24-hour mode.
-#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:305
+#: scarecrow-initial-setup/pages/timezone/scis-timezone-page.c:305
 msgid "%R"
 msgstr "%R"
 
 #. Translators: "timezone (utc shift)"
-#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:308
+#: scarecrow-initial-setup/pages/timezone/scis-timezone-page.c:308
 #, c-format
 msgctxt "timezone map"
 msgid "%s (%s)"
 msgstr "%s (%s)"
 
-#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:473
-#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.ui:17
+#: scarecrow-initial-setup/pages/timezone/scis-timezone-page.c:473
+#: scarecrow-initial-setup/pages/timezone/scis-timezone-page.ui:17
 msgid "Time Zone"
 msgstr "时区"
 
-#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.ui:18
+#: scarecrow-initial-setup/pages/timezone/scis-timezone-page.ui:18
 msgid ""
 "The time zone will be set automatically if your location can be found. You "
 "can also search for a city to set it yourself."
 msgstr "如果您的位置可被发现，时区将会自动设置。您也可以搜索城市来自己设置。"
 
-#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.ui:56
+#: scarecrow-initial-setup/pages/timezone/scis-timezone-page.ui:56
 msgid "Please search for a nearby city"
 msgstr "请搜索就近的城市"
 
@@ -644,22 +644,22 @@ msgstr "请搜索就近的城市"
 #. * keep or remove. The %s is getting replaced with the name and version
 #. * of the OS, e.g. "GNOME 3.38"
 #.
-#: scarecrow-initial-setup/pages/welcome/gis-welcome-page.c:209
+#: scarecrow-initial-setup/pages/welcome/scis-welcome-page.c:209
 #, c-format
 msgid "Welcome to %s !"
 msgstr "欢迎来到 %s！"
 
-#: scarecrow-initial-setup/pages/welcome/gis-welcome-page.ui:5
+#: scarecrow-initial-setup/pages/welcome/scis-welcome-page.ui:5
 msgid "Setup"
 msgstr "设置"
 
-#: scarecrow-initial-setup/pages/welcome/gis-welcome-page.ui:43
+#: scarecrow-initial-setup/pages/welcome/scis-welcome-page.ui:43
 msgid ""
 "Setup will guide you through making an account and enabling some features. "
 "We’ll have you up and running in no time."
 msgstr "安装程序将指导您创建帐户并启用某些功能。我们将协助您迅速完成配置。"
 
-#: scarecrow-initial-setup/pages/welcome/gis-welcome-page.ui:54
+#: scarecrow-initial-setup/pages/welcome/scis-welcome-page.ui:54
 msgid "_Start Setup"
 msgstr "开始配置(_S)"
 

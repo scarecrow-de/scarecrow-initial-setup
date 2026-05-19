@@ -45,7 +45,7 @@ scarecrow-initial-setup-*.tar.xz
 
 scarecrow-initial-setup/scarecrow-initial-setup
 scarecrow-initial-setup/scarecrow-initial-setup-copy-worker
-scarecrow-initial-setup/gis-assistant-resources.[ch]
+scarecrow-initial-setup/scis-assistant-resources.[ch]
 
 scarecrow-initial-setup/pages/welcome/welcome-resources.[ch]
 scarecrow-initial-setup/pages/language/language-resources.[ch]

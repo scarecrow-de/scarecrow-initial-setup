@@ -24,23 +24,23 @@ msgstr ""
 msgid "Initial Setup"
 msgstr "Početna postavka"
 
-#: ../scarecrow-initial-setup/gis-assistant.c:384
+#: ../scarecrow-initial-setup/scis-assistant.c:384
 msgid "_Next"
 msgstr "_Sljedeće"
 
-#: ../scarecrow-initial-setup/gis-assistant.c:385
+#: ../scarecrow-initial-setup/scis-assistant.c:385
 msgid "_Accept"
 msgstr "_Prihvati"
 
-#: ../scarecrow-initial-setup/gis-assistant.c:386
+#: ../scarecrow-initial-setup/scis-assistant.c:386
 msgid "_Skip"
 msgstr "_Preskoči"
 
-#: ../scarecrow-initial-setup/gis-assistant.c:387
+#: ../scarecrow-initial-setup/scis-assistant.c:387
 msgid "_Previous"
 msgstr "_Prethodno"
 
-#: ../scarecrow-initial-setup/gis-assistant.c:388
+#: ../scarecrow-initial-setup/scis-assistant.c:388
 msgid "_Cancel"
 msgstr "_Otkaži"
 
@@ -52,32 +52,32 @@ msgstr "Forsiraj postojeći korisnički mod"
 msgid "- GNOME initial setup"
 msgstr "GNOME Poćetna postavka"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page.c:231
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-local.ui.h:2
+#: ../scarecrow-initial-setup/pages/account/scis-account-page.c:231
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-local.ui.h:2
 msgid "About You"
 msgstr "O Vama"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.c:180
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-enterprise.c:180
 msgid "Failed to register account"
 msgstr "Neuspješna registracija naloga"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.c:374
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-enterprise.c:374
 msgid "No supported way to authenticate with this domain"
 msgstr "Nema podržanog načina za potvrđivanje identiteta sa ovom domenom"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.c:414
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-enterprise.c:414
 msgid "Failed to join domain"
 msgstr "Neuspješan pristup domeni"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.c:482
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-enterprise.c:482
 msgid "Failed to log into domain"
 msgstr "Neuspješno prijavljivanje na domenu"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui.h:1
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui.h:1
 msgid "Enterprise Login"
 msgstr "Službena prijava"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui.h:2
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui.h:2
 msgid ""
 "Enterprise login allows an existing centrally managed user account to be "
 "used on this device."
@@ -85,33 +85,33 @@ msgstr ""
 "Službena prijava dozvoljava korištenje postojećeg centralno kontrolisanog "
 "korisničkog računa na ovom uređaju."
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui.h:3
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui.h:3
 msgid "_Domain"
 msgstr "_Domena"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui.h:4
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-local.ui.h:5
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui.h:4
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-local.ui.h:5
 msgid "_Username"
 msgstr "_Korisničko ime"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui.h:5
-#: ../scarecrow-initial-setup/pages/password/gis-password-page.ui.h:3
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui.h:5
+#: ../scarecrow-initial-setup/pages/password/scis-password-page.ui.h:3
 msgid "_Password"
 msgstr "_Lozinka"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui.h:6
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui.h:6
 msgid "Enterprise domain or realm name"
 msgstr "Poslovna domena ili naziv područja"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui.h:7
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui.h:7
 msgid "C_ontinue"
 msgstr "N_astavi"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui.h:8
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui.h:8
 msgid "Domain Administrator Login"
 msgstr "Prijavljivanje administratora domena"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui.h:9
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui.h:9
 msgid ""
 "In order to use enterprise logins, this computer needs to be enrolled in a "
 "domain. Please have your network administrator type the domain password "
@@ -121,36 +121,36 @@ msgstr ""
 "Molim neka Vaš administrator mreže upiše lozinku domene ovdje, i izaberite "
 "jedinstveno ime za Vaš računar."
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui.h:10
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui.h:10
 msgid "_Computer"
 msgstr "_Računar"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui.h:11
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui.h:11
 msgid "Administrator _Name"
 msgstr "Ime _administratora"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui.h:12
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui.h:12
 msgid "Administrator Password"
 msgstr "Šifra Administratora"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-local.c:203
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-local.c:203
 msgid "Are these the right details? You can change them if you want."
 msgstr "Da li su ovo ispravni detalji? Možete ih promijeniti ukoliko želite."
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-local.c:404
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-local.ui.h:3
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-local.c:404
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-local.ui.h:3
 msgid "We need a few details to complete setup."
 msgstr "Potrebno je nekoliko detalja za završetak postavki."
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-local.ui.h:1
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-local.ui.h:1
 msgid "Avatar image"
 msgstr "Slika avatara."
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-local.ui.h:4
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-local.ui.h:4
 msgid "_Full Name"
 msgstr "_Ime i prezime"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page.ui.h:1
+#: ../scarecrow-initial-setup/pages/account/scis-account-page.ui.h:1
 msgid "Set Up _Enterprise Login"
 msgstr "Postavi _Službenu prijavu"
 
@@ -213,12 +213,12 @@ msgid "This will be used to name your home folder and can't be changed."
 msgstr ""
 "Ovo će biti korišteno kao ime početne datoteke i neće se moći promjeniti."
 
-#: ../scarecrow-initial-setup/pages/eulas/gis-eula-page.c:301
-#: ../scarecrow-initial-setup/pages/eulas/gis-eula-page.ui.h:1
+#: ../scarecrow-initial-setup/pages/eulas/scis-eula-page.c:301
+#: ../scarecrow-initial-setup/pages/eulas/scis-eula-page.ui.h:1
 msgid "License Agreements"
 msgstr "Licencni ugovor"
 
-#: ../scarecrow-initial-setup/pages/eulas/gis-eula-page.ui.h:2
+#: ../scarecrow-initial-setup/pages/eulas/scis-eula-page.ui.h:2
 msgid ""
 "I have _agreed to the terms and conditions in this end user license "
 "agreement."
@@ -226,19 +226,19 @@ msgstr ""
 "Slažem se sa pojmovima i uslovima u ovom finalnom korisničkom licencnom "
 "ugovoru."
 
-#: ../scarecrow-initial-setup/pages/goa/gis-goa-page.c:87
+#: ../scarecrow-initial-setup/pages/goa/scis-goa-page.c:87
 msgid "Add Account"
 msgstr "Dodaj nalog"
 
-#: ../scarecrow-initial-setup/pages/goa/gis-goa-page.c:335
+#: ../scarecrow-initial-setup/pages/goa/scis-goa-page.c:335
 msgid "Online Accounts"
 msgstr "Nalozi na mreži"
 
-#: ../scarecrow-initial-setup/pages/goa/gis-goa-page.ui.h:1
+#: ../scarecrow-initial-setup/pages/goa/scis-goa-page.ui.h:1
 msgid "Connect Your Online Accounts"
 msgstr "Konektuj vaše online korisničke račune"
 
-#: ../scarecrow-initial-setup/pages/goa/gis-goa-page.ui.h:2
+#: ../scarecrow-initial-setup/pages/goa/scis-goa-page.ui.h:2
 msgid ""
 "Connecting your accounts will allow you to easily access your email, online "
 "calendar, contacts, documents and photos."
@@ -246,7 +246,7 @@ msgstr ""
 "Povezivanje Vaših računa će dozvoliti da lahko pristupite Vašem email-u, "
 "online kalendaru, kontaktima, dokumentima i fotografijama."
 
-#: ../scarecrow-initial-setup/pages/goa/gis-goa-page.ui.h:3
+#: ../scarecrow-initial-setup/pages/goa/scis-goa-page.ui.h:3
 msgid "You can review your online accounts (and add others) after setup."
 msgstr ""
 "Možete pogledati Vaše postojeće online račune (i dodati druge) nakon "
@@ -269,12 +269,12 @@ msgstr "Više…"
 msgid "No inputs found"
 msgstr "Nema pronađenih ulaza"
 
-#: ../scarecrow-initial-setup/pages/keyboard/gis-keyboard-page.c:363
-#: ../scarecrow-initial-setup/pages/keyboard/gis-keyboard-page.ui.h:1
+#: ../scarecrow-initial-setup/pages/keyboard/scis-keyboard-page.c:363
+#: ../scarecrow-initial-setup/pages/keyboard/scis-keyboard-page.ui.h:1
 msgid "Typing"
 msgstr "Tipkanje"
 
-#: ../scarecrow-initial-setup/pages/keyboard/gis-keyboard-page.ui.h:2
+#: ../scarecrow-initial-setup/pages/keyboard/scis-keyboard-page.ui.h:2
 msgid "Select your keyboard layout or an input method."
 msgstr "Odaberite raspored tipkovnice ili metod ulaza."
 
@@ -282,32 +282,32 @@ msgstr "Odaberite raspored tipkovnice ili metod ulaza."
 msgid "No languages found"
 msgstr "Jezici nisu pronađeni"
 
-#: ../scarecrow-initial-setup/pages/language/gis-language-page.c:282
+#: ../scarecrow-initial-setup/pages/language/scis-language-page.c:282
 msgid "Welcome"
 msgstr "Dobro došli"
 
-#: ../scarecrow-initial-setup/pages/language/gis-welcome-widget.c:119
+#: ../scarecrow-initial-setup/pages/language/scis-welcome-widget.c:119
 msgid "Welcome!"
 msgstr "Dobro došli!"
 
-#: ../scarecrow-initial-setup/pages/network/gis-network-page.c:307
+#: ../scarecrow-initial-setup/pages/network/scis-network-page.c:307
 msgctxt "Wireless access point"
 msgid "Other…"
 msgstr "Ostalo…"
 
-#: ../scarecrow-initial-setup/pages/network/gis-network-page.c:358
+#: ../scarecrow-initial-setup/pages/network/scis-network-page.c:358
 msgid "Checking for available wireless networks"
 msgstr "Pretraživanje dostupnih wireless mreža"
 
-#: ../scarecrow-initial-setup/pages/network/gis-network-page.c:614
+#: ../scarecrow-initial-setup/pages/network/scis-network-page.c:614
 msgid "Network"
 msgstr "Mreža"
 
-#: ../scarecrow-initial-setup/pages/network/gis-network-page.ui.h:1
+#: ../scarecrow-initial-setup/pages/network/scis-network-page.ui.h:1
 msgid "Wi-Fi"
 msgstr "Wi-Fi"
 
-#: ../scarecrow-initial-setup/pages/network/gis-network-page.ui.h:2
+#: ../scarecrow-initial-setup/pages/network/scis-network-page.ui.h:2
 msgid ""
 "Connecting to the Internet will enable you to set the time, add your "
 "details, and enable you to access your email, calendar, and contacts. It is "
@@ -317,27 +317,27 @@ msgstr ""
 "podatke i omogućiti Vam pristup email-u , kalendaru i kontaktima . To je "
 "također potrebno za službenu prijavu računima ."
 
-#: ../scarecrow-initial-setup/pages/network/gis-network-page.ui.h:3
+#: ../scarecrow-initial-setup/pages/network/scis-network-page.ui.h:3
 msgid "No wireless available"
 msgstr "Nema dostupne bežične mreže"
 
-#: ../scarecrow-initial-setup/pages/password/gis-password-page.c:138
+#: ../scarecrow-initial-setup/pages/password/scis-password-page.c:138
 msgid "The passwords do not match."
 msgstr "Lozinke se ne podudaraju."
 
-#: ../scarecrow-initial-setup/pages/password/gis-password-page.c:260
+#: ../scarecrow-initial-setup/pages/password/scis-password-page.c:260
 msgid "Password"
 msgstr "Lozinka"
 
-#: ../scarecrow-initial-setup/pages/password/gis-password-page.ui.h:1
+#: ../scarecrow-initial-setup/pages/password/scis-password-page.ui.h:1
 msgid "Set a Password"
 msgstr "Postavi lozinku"
 
-#: ../scarecrow-initial-setup/pages/password/gis-password-page.ui.h:2
+#: ../scarecrow-initial-setup/pages/password/scis-password-page.ui.h:2
 msgid "Be careful not to lose your password."
 msgstr "Budite pažljivi da ne izgubite svoju lozinku."
 
-#: ../scarecrow-initial-setup/pages/password/gis-password-page.ui.h:4
+#: ../scarecrow-initial-setup/pages/password/scis-password-page.ui.h:4
 msgid "_Verify"
 msgstr "_Potvrdi"
 
@@ -475,7 +475,7 @@ msgstr "Jačina: Visoka"
 #. * liki "Fedora" or "Ubuntu". It falls back to "GNOME 3" if we can't
 #. * detect any distribution.
 #.
-#: ../scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:109
+#: ../scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:109
 #, c-format
 msgid ""
 "Sending reports of technical problems helps us to improve %s. Reports are "
@@ -484,25 +484,25 @@ msgstr ""
 "Slanje izvještaja o tehničkim problemima nam pomaže da se poboljša %s. "
 "Izvještaji se anonimno šalju bez ličnih podataka."
 
-#: ../scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:116
-#: ../scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:239
+#: ../scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:116
+#: ../scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:239
 msgid "Privacy Policy"
 msgstr "Polica privatnosti"
 
-#: ../scarecrow-initial-setup/pages/privacy/gis-privacy-page.ui.h:1
+#: ../scarecrow-initial-setup/pages/privacy/scis-privacy-page.ui.h:1
 msgid "Privacy"
 msgstr "Privatnost"
 
-#: ../scarecrow-initial-setup/pages/privacy/gis-privacy-page.ui.h:2
+#: ../scarecrow-initial-setup/pages/privacy/scis-privacy-page.ui.h:2
 msgid "Privacy controls can be changed at any time from Settings."
 msgstr ""
 "Kontrole privatnosti mogu se mijenjati u bilo koje vrijeme od Postavke."
 
-#: ../scarecrow-initial-setup/pages/privacy/gis-privacy-page.ui.h:3
+#: ../scarecrow-initial-setup/pages/privacy/scis-privacy-page.ui.h:3
 msgid "Location Services"
 msgstr "Usluge vezane za Lokaciju"
 
-#: ../scarecrow-initial-setup/pages/privacy/gis-privacy-page.ui.h:4
+#: ../scarecrow-initial-setup/pages/privacy/scis-privacy-page.ui.h:4
 msgid ""
 "Allows applications to determine your geographical location. An indication "
 "is shown when location services are in use."
@@ -510,7 +510,7 @@ msgstr ""
 "Omogućava aplikaciji da utvrdi vaš geografski položaj. Indikator se "
 "prikazuje kada su u upotrebi usluge lokacije."
 
-#: ../scarecrow-initial-setup/pages/privacy/gis-privacy-page.ui.h:5
+#: ../scarecrow-initial-setup/pages/privacy/scis-privacy-page.ui.h:5
 msgid "Automatic Problem Reporting"
 msgstr "Automatsko javljanje problema"
 
@@ -518,19 +518,19 @@ msgstr "Automatsko javljanje problema"
 msgid "No regions found"
 msgstr "Nisu pronađene regije"
 
-#: ../scarecrow-initial-setup/pages/region/gis-region-page.c:226
-#: ../scarecrow-initial-setup/pages/region/gis-region-page.ui.h:1
+#: ../scarecrow-initial-setup/pages/region/scis-region-page.c:226
+#: ../scarecrow-initial-setup/pages/region/scis-region-page.ui.h:1
 msgid "Region"
 msgstr "Regija"
 
-#: ../scarecrow-initial-setup/pages/region/gis-region-page.ui.h:2
+#: ../scarecrow-initial-setup/pages/region/scis-region-page.ui.h:2
 msgid "Choose your country or region."
 msgstr "Izberite Vašu državu ili regiju."
 
 #. Translators: the parameter here is the nami of a distribution,
 #. * liki "Fedora" or "Ubuntu". It falls back to "GNOME 3" if we can't
 #. * detect any distribution.
-#: ../scarecrow-initial-setup/pages/summary/gis-summary-page.c:328
+#: ../scarecrow-initial-setup/pages/summary/scis-summary-page.c:328
 #, c-format
 msgid "_Start using %s"
 msgstr "_Početak korištenja %s"
@@ -538,7 +538,7 @@ msgstr "_Početak korištenja %s"
 #. Translators: the parameter here is the nami of a distribution,
 #. * liki "Fedora" or "Ubuntu". It falls back to "GNOME 3" if we can't
 #. * detect any distribution.
-#: ../scarecrow-initial-setup/pages/summary/gis-summary-page.c:335
+#: ../scarecrow-initial-setup/pages/summary/scis-summary-page.c:335
 #, c-format
 msgid ""
 "Thank you for choosing %s.\n"
@@ -547,15 +547,15 @@ msgstr ""
 "Hvala na odabiru %s.\n"
 "Nadamo se da Vam se sviđa."
 
-#: ../scarecrow-initial-setup/pages/summary/gis-summary-page.c:361
+#: ../scarecrow-initial-setup/pages/summary/scis-summary-page.c:361
 msgid "Ready to Go"
 msgstr "Spreman za polazak"
 
-#: ../scarecrow-initial-setup/pages/summary/gis-summary-page.ui.h:1
+#: ../scarecrow-initial-setup/pages/summary/scis-summary-page.ui.h:1
 msgid "You're all set!"
 msgstr "Sve ste postavili!"
 
-#: ../scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:183
+#: ../scarecrow-initial-setup/pages/timezone/scis-timezone-page.c:183
 #, c-format
 msgid ""
 "We think that your time zone is %s. Press Next to continue or search for a "
@@ -564,11 +564,11 @@ msgstr ""
 "Mislimo da je vaša vremenska zona %s . Pritisnite Dalje za nastavak ili "
 "tražite grad da biste ručno postavili vremensku zonu ."
 
-#: ../scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:489
-#: ../scarecrow-initial-setup/pages/timezone/gis-timezone-page.ui.h:1
+#: ../scarecrow-initial-setup/pages/timezone/scis-timezone-page.c:489
+#: ../scarecrow-initial-setup/pages/timezone/scis-timezone-page.ui.h:1
 msgid "Time Zone"
 msgstr "Vremenska zona"
 
-#: ../scarecrow-initial-setup/pages/timezone/gis-timezone-page.ui.h:2
+#: ../scarecrow-initial-setup/pages/timezone/scis-timezone-page.ui.h:2
 msgid "Please search for a nearby city"
 msgstr "Molim nađite grad koji je u blizini."

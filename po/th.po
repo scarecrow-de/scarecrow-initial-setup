@@ -22,67 +22,67 @@ msgstr ""
 msgid "Initial Setup"
 msgstr "ตั้งค่าเริ่มแรก"
 
-#: ../scarecrow-initial-setup/gis-assistant.c:185
+#: ../scarecrow-initial-setup/scis-assistant.c:185
 msgid "_Next"
 msgstr "_ต่อไป"
 
-#: ../scarecrow-initial-setup/gis-assistant.c:186
+#: ../scarecrow-initial-setup/scis-assistant.c:186
 msgid "_Back"
 msgstr "_ถอยกลับ"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page.c:191
+#: ../scarecrow-initial-setup/pages/account/scis-account-page.c:191
 msgid "Passwords do not match"
 msgstr "รหัสผ่านไม่ตรงกัน"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page.c:533
+#: ../scarecrow-initial-setup/pages/account/scis-account-page.c:533
 msgid "Login"
 msgstr "เข้าระบบ"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page.ui.h:1
+#: ../scarecrow-initial-setup/pages/account/scis-account-page.ui.h:1
 msgid "Create Local Account"
 msgstr "สร้างบัญชีในเครื่อง"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page.ui.h:2
+#: ../scarecrow-initial-setup/pages/account/scis-account-page.ui.h:2
 msgid "_Cancel"
 msgstr "_ยกเลิก"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page.ui.h:3
+#: ../scarecrow-initial-setup/pages/account/scis-account-page.ui.h:3
 msgid "_Done"
 msgstr "_เสร็จสิ้น"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page.ui.h:4
+#: ../scarecrow-initial-setup/pages/account/scis-account-page.ui.h:4
 msgid "_Full Name"
 msgstr "_ชื่อเต็ม"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page.ui.h:5
+#: ../scarecrow-initial-setup/pages/account/scis-account-page.ui.h:5
 msgid "_Username"
 msgstr "_ชื่อผู้ใช้"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page.ui.h:6
+#: ../scarecrow-initial-setup/pages/account/scis-account-page.ui.h:6
 msgid "_Require a password to use this account"
 msgstr "_ต้องใช้รหัสผ่านเพื่อใช้บัญชีนี้"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page.ui.h:7
+#: ../scarecrow-initial-setup/pages/account/scis-account-page.ui.h:7
 msgid "_Password"
 msgstr "_รหัสผ่าน"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page.ui.h:8
+#: ../scarecrow-initial-setup/pages/account/scis-account-page.ui.h:8
 msgid "_Confirm Password"
 msgstr "ยื_นยันรหัสผ่าน"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page.ui.h:9
+#: ../scarecrow-initial-setup/pages/account/scis-account-page.ui.h:9
 msgid "_Act as administrator of this computer"
 msgstr "_ทำหน้าที่เสมือนผู้ดูแลระบบของเครื่องคอมพิวเตอร์นี้"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page.ui.h:10
+#: ../scarecrow-initial-setup/pages/account/scis-account-page.ui.h:10
 msgid "Choose How to Login"
 msgstr "เลือกวิธีเข้าระบบ"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page.ui.h:11
+#: ../scarecrow-initial-setup/pages/account/scis-account-page.ui.h:11
 msgid "Create a Local Account"
 msgstr "สร้างบัญชีในเครื่อง"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page.ui.h:12
+#: ../scarecrow-initial-setup/pages/account/scis-account-page.ui.h:12
 msgid "Use an Enterprise Login"
 msgstr "ใช้บัญชีเข้าระบบองค์กร"
 
@@ -155,13 +155,13 @@ msgstr ""
 " ➣ ตัวเลข\n"
 " ➣ อักขระ '.', '-' หรือ '_'"
 
-#: ../scarecrow-initial-setup/pages/eulas/gis-eula-pages.c:248
+#: ../scarecrow-initial-setup/pages/eulas/scis-eula-pages.c:248
 msgid ""
 "I have _agreed to the terms and conditions in this end user license "
 "agreement."
 msgstr "ฉัน_เห็นด้วยกับข้อตกลงและเงื่อนไขในข้อตกลงสัญญาอนุญาตสิทธิ์ผู้ใช้นี้"
 
-#: ../scarecrow-initial-setup/pages/eulas/gis-eula-pages.c:274
+#: ../scarecrow-initial-setup/pages/eulas/scis-eula-pages.c:274
 msgid "License Agreements"
 msgstr "ข้อตกลงสัญญาอนุญาต"
 
@@ -172,35 +172,35 @@ msgstr "ข้อตกลงสัญญาอนุญาต"
 msgid "Add Account"
 msgstr "เพิ่มบัญชี"
 
-#: ../scarecrow-initial-setup/pages/goa/gis-goa-page.c:79
+#: ../scarecrow-initial-setup/pages/goa/scis-goa-page.c:79
 msgid "Error creating account"
 msgstr "เกิดข้อผิดพลาดขณะสร้างบัญชี"
 
-#: ../scarecrow-initial-setup/pages/goa/gis-goa-page.c:111
+#: ../scarecrow-initial-setup/pages/goa/scis-goa-page.c:111
 msgid "Error removing account"
 msgstr "เกิดข้อผิดพลาดขณะลบบัญชี"
 
-#: ../scarecrow-initial-setup/pages/goa/gis-goa-page.c:137
+#: ../scarecrow-initial-setup/pages/goa/scis-goa-page.c:137
 msgid "Are you sure you want to remove the account?"
 msgstr "คุณแน่ใจหรือว่าจะลบบัญชีนี้?"
 
-#: ../scarecrow-initial-setup/pages/goa/gis-goa-page.c:139
+#: ../scarecrow-initial-setup/pages/goa/scis-goa-page.c:139
 msgid "This will not remove the account on the server."
 msgstr "การลบนี้จะไม่เป็นการลบบัญชีที่เซิร์ฟเวอร์"
 
-#: ../scarecrow-initial-setup/pages/goa/gis-goa-page.c:140
+#: ../scarecrow-initial-setup/pages/goa/scis-goa-page.c:140
 msgid "_Remove"
 msgstr "_ลบ"
 
-#: ../scarecrow-initial-setup/pages/goa/gis-goa-page.c:186
+#: ../scarecrow-initial-setup/pages/goa/scis-goa-page.c:186
 msgid "Remove"
 msgstr "ลบ"
 
-#: ../scarecrow-initial-setup/pages/goa/gis-goa-page.c:303
+#: ../scarecrow-initial-setup/pages/goa/scis-goa-page.c:303
 msgid "Online Accounts"
 msgstr "บัญชีออนไลน์"
 
-#: ../scarecrow-initial-setup/pages/goa/gis-goa-page.ui.h:1
+#: ../scarecrow-initial-setup/pages/goa/scis-goa-page.ui.h:1
 msgid "Link other accounts"
 msgstr "เชื่อมโยงบัญชีอื่น"
 
@@ -233,92 +233,92 @@ msgstr "จีน (ตัวย่อ)"
 msgid "Unspecified"
 msgstr "ไม่ระบุ"
 
-#: ../scarecrow-initial-setup/pages/language/gis-language-page.c:89
+#: ../scarecrow-initial-setup/pages/language/scis-language-page.c:89
 #, c-format
 msgid "Use %s"
 msgstr "ใช้ %s"
 
-#: ../scarecrow-initial-setup/pages/language/gis-language-page.c:283
+#: ../scarecrow-initial-setup/pages/language/scis-language-page.c:283
 msgid "Welcome"
 msgstr "ยินดีต้อนรับ"
 
-#: ../scarecrow-initial-setup/pages/language/gis-language-page.ui.h:1
+#: ../scarecrow-initial-setup/pages/language/scis-language-page.ui.h:1
 msgid "Show _all"
 msgstr "แสดง_ทั้งหมด"
 
-#: ../scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:274
+#: ../scarecrow-initial-setup/pages/timezone/scis-timezone-page.c:274
 msgid "Search for a location"
 msgstr "ค้นหาตำแหน่งที่ตั้ง"
 
-#: ../scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:312
-#: ../scarecrow-initial-setup/pages/timezone/gis-timezone-page.ui.h:3
+#: ../scarecrow-initial-setup/pages/timezone/scis-timezone-page.c:312
+#: ../scarecrow-initial-setup/pages/timezone/scis-timezone-page.ui.h:3
 msgid "Location"
 msgstr "ตำแหน่งที่ตั้ง"
 
-#: ../scarecrow-initial-setup/pages/timezone/gis-timezone-page.ui.h:1
+#: ../scarecrow-initial-setup/pages/timezone/scis-timezone-page.ui.h:1
 msgid "Choose Your Location"
 msgstr "เลือกตำแหน่งที่ตั้งของคุณ"
 
-#: ../scarecrow-initial-setup/pages/timezone/gis-timezone-page.ui.h:2
+#: ../scarecrow-initial-setup/pages/timezone/scis-timezone-page.ui.h:2
 msgid "_Determine your location automatically"
 msgstr "_พิจารณาตำแหน่งที่ตั้งของคุณโดยอัตโนมัติ"
 
-#: ../scarecrow-initial-setup/pages/timezone/gis-timezone-page.ui.h:4
+#: ../scarecrow-initial-setup/pages/timezone/scis-timezone-page.ui.h:4
 msgid "Time Zone"
 msgstr "เขตเวลา"
 
 #. TRANSLATORS: this is when the access point is not listed
 #. *                           * in the dropdown (or hidden) and the user has to select
 #. *                           * another entry manually
-#: ../scarecrow-initial-setup/pages/network/gis-network-page.c:239
+#: ../scarecrow-initial-setup/pages/network/scis-network-page.c:239
 msgctxt "Wireless access point"
 msgid "Other..."
 msgstr "เครือข่ายอื่น..."
 
-#: ../scarecrow-initial-setup/pages/network/gis-network-page.c:319
+#: ../scarecrow-initial-setup/pages/network/scis-network-page.c:319
 msgid "Network is not available."
 msgstr "ไม่มีเครือข่าย"
 
-#: ../scarecrow-initial-setup/pages/network/gis-network-page.c:321
+#: ../scarecrow-initial-setup/pages/network/scis-network-page.c:321
 msgid "No network devices found."
 msgstr "ไม่พบอุปกรณ์เครือข่าย"
 
-#: ../scarecrow-initial-setup/pages/network/gis-network-page.c:368
+#: ../scarecrow-initial-setup/pages/network/scis-network-page.c:368
 msgid "Checking for available wireless networks"
 msgstr "กำลังตรวจเครือข่ายไร้สายที่มีอยู่"
 
-#: ../scarecrow-initial-setup/pages/network/gis-network-page.c:707
+#: ../scarecrow-initial-setup/pages/network/scis-network-page.c:707
 msgid "Network"
 msgstr "เครือข่าย"
 
-#: ../scarecrow-initial-setup/pages/network/gis-network-page.ui.h:1
+#: ../scarecrow-initial-setup/pages/network/scis-network-page.ui.h:1
 msgid "Wireless Networks"
 msgstr "เครือข่ายไร้สาย"
 
-#: ../scarecrow-initial-setup/pages/summary/gis-summary-page.c:361
+#: ../scarecrow-initial-setup/pages/summary/scis-summary-page.c:361
 msgid "Thank You"
 msgstr "ขอขอบคุณ"
 
-#: ../scarecrow-initial-setup/pages/summary/gis-summary-page.ui.h:1
+#: ../scarecrow-initial-setup/pages/summary/scis-summary-page.ui.h:1
 msgid "Enjoy GNOME!"
 msgstr "ขอให้สนุกกับ GNOME!"
 
-#: ../scarecrow-initial-setup/pages/summary/gis-summary-page.ui.h:2
+#: ../scarecrow-initial-setup/pages/summary/scis-summary-page.ui.h:2
 msgid "Your new account is ready to use."
 msgstr "บัญชีใหม่ของคุณพร้อมใช้งานแล้ว"
 
-#: ../scarecrow-initial-setup/pages/summary/gis-summary-page.ui.h:3
+#: ../scarecrow-initial-setup/pages/summary/scis-summary-page.ui.h:3
 msgid "You may change any of these options at any time in the System Settings."
 msgstr "คุณอาจเปลี่ยนตัวเลือกต่างๆ เหล่านี้เมื่อใดก็ได้ด้วยเมนู \"ตั้งค่าระบบ\""
 
-#: ../scarecrow-initial-setup/pages/summary/gis-summary-page.ui.h:4
+#: ../scarecrow-initial-setup/pages/summary/scis-summary-page.ui.h:4
 msgid "_Start using GNOME 3"
 msgstr "เ_ริ่มใช้ GNOME 3"
 
-#: ../scarecrow-initial-setup/pages/summary/gis-summary-page.ui.h:5
+#: ../scarecrow-initial-setup/pages/summary/scis-summary-page.ui.h:5
 msgid "New to GNOME 3 and need help finding your way around?"
 msgstr "เป็นผู้ใช้ GNOME 3 ใหม่และต้องการให้ช่วยนำทางไหม?"
 
-#: ../scarecrow-initial-setup/pages/summary/gis-summary-page.ui.h:6
+#: ../scarecrow-initial-setup/pages/summary/scis-summary-page.ui.h:6
 msgid "_Take a Tour"
 msgstr "_พาเยี่ยมชม"

@@ -29,27 +29,27 @@ msgstr "ڕێکخستنی سەرەتایی"
 msgid "preferences-system"
 msgstr "preferences-system"
 
-#: scarecrow-initial-setup/gis-assistant.c:428
+#: scarecrow-initial-setup/scis-assistant.c:428
 msgid "_Next"
 msgstr "_دواتر"
 
-#: scarecrow-initial-setup/gis-assistant.c:429
+#: scarecrow-initial-setup/scis-assistant.c:429
 msgid "_Done"
 msgstr "_ئەنجامدرا"
 
-#: scarecrow-initial-setup/gis-assistant.c:430
+#: scarecrow-initial-setup/scis-assistant.c:430
 msgid "_Accept"
 msgstr "پەسەندکردن_"
 
-#: scarecrow-initial-setup/gis-assistant.c:431
+#: scarecrow-initial-setup/scis-assistant.c:431
 msgid "_Skip"
 msgstr "_پەڕاندن"
 
-#: scarecrow-initial-setup/gis-assistant.c:432
+#: scarecrow-initial-setup/scis-assistant.c:432
 msgid "_Previous"
 msgstr "_پێشوو"
 
-#: scarecrow-initial-setup/gis-assistant.c:433
+#: scarecrow-initial-setup/scis-assistant.c:433
 msgid "_Cancel"
 msgstr "_وازهێنان"
 
@@ -61,115 +61,115 @@ msgstr "چوونەدەرەوە بە زۆر لە دۆخی بەکارهێنەر"
 msgid "— GNOME initial setup"
 msgstr "— ڕێکخستنی سەرەتای گنۆم"
 
-#: scarecrow-initial-setup/pages/account/gis-account-avatar-chooser.ui:36
+#: scarecrow-initial-setup/pages/account/scis-account-avatar-chooser.ui:36
 msgid "Take a Picture…"
 msgstr "وێنەیەک بگرە..."
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.c:184
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.c:184
 msgid "Failed to register account"
 msgstr "تۆمارکردنی هەژمارەکەت شکستی هێنا"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.c:378
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.c:378
 msgid "No supported way to authenticate with this domain"
 msgstr "هیچ ڕێگایەک نییە بۆ سەلماندن لەگەڵ ئەم دۆمەینە"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.c:418
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.c:418
 msgid "Failed to join domain"
 msgstr "پەیوەستبوون بە دۆمەینەوە شکستی هێنا"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.c:486
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.c:486
 msgid "Failed to log into domain"
 msgstr "چوونه‌ژووره‌وه‌ بۆ دۆمەینەکە شکستی هێنا"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:17
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:17
 msgid "Enterprise Login"
 msgstr "چوونه‌ژووره‌وه‌ی پرۆژه‌ی ئابووری"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:18
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:18
 msgid ""
 "Enterprise login allows an existing centrally managed user account to be "
 "used on this device. You can also use this account to access company "
 "resources on the internet."
 msgstr ""
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:36
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:287
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:36
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:287
 msgid "_Domain"
 msgstr "_دۆمەین"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:53
-#: scarecrow-initial-setup/pages/account/gis-account-page-local.ui:84
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:53
+#: scarecrow-initial-setup/pages/account/scis-account-page-local.ui:84
 msgid "_Username"
 msgstr "_نازناو"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:70
-#: scarecrow-initial-setup/pages/password/gis-password-page.ui:34
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:70
+#: scarecrow-initial-setup/pages/password/scis-password-page.ui:34
 msgid "_Password"
 msgstr "_تێپەڕەوشە"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:146
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:146
 msgid "Enterprise domain or realm name"
 msgstr "دۆمەینی پرۆژه‌ی ئابووری یان ناوی بوار"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:211
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:211
 msgid "C_ontinue"
 msgstr "_بەردەوامبوون"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:246
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:246
 msgid "Domain Administrator Login"
 msgstr "بەڕێوبەری چونەژوورەی دۆمەین"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:266
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:266
 msgid ""
 "In order to use enterprise logins, this computer needs to be enrolled in a "
 "domain. Please have your network administrator type the domain password "
 "here, and choose a unique computer name for your computer."
 msgstr ""
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:321
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:321
 msgid "_Computer"
 msgstr "_کۆمپیوتەر"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:353
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:353
 msgid "Administrator _Name"
 msgstr "ناوی _بەڕێوبەر"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:387
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:387
 msgid "Administrator Password"
 msgstr "تێپەڕەوشەی بەڕێوبەر"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-local.c:207
+#: scarecrow-initial-setup/pages/account/scis-account-page-local.c:207
 msgid "Please check the name and username. You can choose a picture too."
 msgstr ""
 "تکایە پێداچوونەوە بە  ناو و وشەی تێپەڕەکەدا بکە. هەروەها دەتوانی وێنەیەک "
 "هەڵبژێری."
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-local.c:456
+#: scarecrow-initial-setup/pages/account/scis-account-page-local.c:456
 msgid "We need a few details to complete setup."
 msgstr "ئێمە هەندێک زانیاریمان پێویستە بۆ تەواوکردنی ڕێکخستنەکان."
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-local.ui:21
+#: scarecrow-initial-setup/pages/account/scis-account-page-local.ui:21
 msgid "Avatar image"
 msgstr "وێنەی وێنۆچکە"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-local.ui:38
-#: scarecrow-initial-setup/pages/account/gis-account-page.c:281
+#: scarecrow-initial-setup/pages/account/scis-account-page-local.ui:38
+#: scarecrow-initial-setup/pages/account/scis-account-page.c:281
 msgid "About You"
 msgstr "دەربارەی تۆ"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-local.ui:39
+#: scarecrow-initial-setup/pages/account/scis-account-page-local.ui:39
 msgid "Please provide a name and username. You can choose a picture too."
 msgstr "تکایە ناو و نازناو دابینبکە. هەروەها دەتوانی وێنەش هەڵبژێری."
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-local.ui:53
+#: scarecrow-initial-setup/pages/account/scis-account-page-local.ui:53
 msgid "_Full Name"
 msgstr "_ناوی تەواو"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page.ui:43
+#: scarecrow-initial-setup/pages/account/scis-account-page.ui:43
 msgid "_Enterprise Login"
 msgstr "_چوونەژورەوەی ئابووری"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page.ui:53
+#: scarecrow-initial-setup/pages/account/scis-account-page.ui:53
 msgid "Go online to set up Enterprise Login."
 msgstr "سەرهێڵ بە تاکو  چوونەژوورەوە بەشێوەی بازرگانی دروست بکەیت"
 
@@ -222,12 +222,12 @@ msgstr ""
 msgid "This will be used to name your home folder and can’t be changed."
 msgstr "ئەمە بەکاردێ بۆ بوخچەی ماڵەوە وە ناتوانرێ بگۆڕدرێ."
 
-#: scarecrow-initial-setup/pages/eulas/gis-eula-page.c:301
-#: scarecrow-initial-setup/pages/eulas/gis-eula-page.ui:21
+#: scarecrow-initial-setup/pages/eulas/scis-eula-page.c:301
+#: scarecrow-initial-setup/pages/eulas/scis-eula-page.ui:21
 msgid "License Agreements"
 msgstr "ڕێککەوتنەکانی مۆڵەت"
 
-#: scarecrow-initial-setup/pages/eulas/gis-eula-page.ui:50
+#: scarecrow-initial-setup/pages/eulas/scis-eula-page.ui:50
 msgid ""
 "I have _agreed to the terms and conditions in this end user license "
 "agreement."
@@ -235,20 +235,20 @@ msgstr ""
 "من _ڕازیبووم بە شەرتوو مەرجەکان لە کۆتایی ڕێککەوتنەکانی مۆڵەتی بەکارهێنەر."
 
 #. Show the login dialog
-#: scarecrow-initial-setup/pages/goa/gis-goa-page.c:111
-#: scarecrow-initial-setup/pages/livepatch/gis-auth-dialog.c:260
+#: scarecrow-initial-setup/pages/goa/scis-goa-page.c:111
+#: scarecrow-initial-setup/pages/livepatch/scis-auth-dialog.c:260
 msgid "Add Account"
 msgstr "هەژمار زیادبکە"
 
-#: scarecrow-initial-setup/pages/goa/gis-goa-page.c:378
+#: scarecrow-initial-setup/pages/goa/scis-goa-page.c:378
 msgid "Online Accounts"
 msgstr "هەژمارەکانی سەرهێڵ"
 
-#: scarecrow-initial-setup/pages/goa/gis-goa-page.ui:17
+#: scarecrow-initial-setup/pages/goa/scis-goa-page.ui:17
 msgid "Connect Your Online Accounts"
 msgstr "هەژماری سەرهێڵت پەیوەست بکە"
 
-#: scarecrow-initial-setup/pages/goa/gis-goa-page.ui:18
+#: scarecrow-initial-setup/pages/goa/scis-goa-page.ui:18
 msgid ""
 "Connect your accounts to easily access your online calendar, documents, "
 "photos and more."
@@ -256,7 +256,7 @@ msgstr ""
 "هەژمارەکەت پەیوەست بکە بۆ ئەوەی بە ئاسانی بگەی بە ڕۆژژمێری سەرهێڵ، "
 "به‌ڵگه‌نامەکان، وێنەکان وە زیاتر."
 
-#: scarecrow-initial-setup/pages/goa/gis-goa-page.ui:48
+#: scarecrow-initial-setup/pages/goa/scis-goa-page.ui:48
 msgid ""
 "Accounts can be added and removed at any time from the Settings application."
 msgstr "هەژمارەکان دتوانرێ زیادبکرێ و لاببرێ  هەرکاتێ لە ڕێکخستنی بەرنامەکان"
@@ -277,12 +277,12 @@ msgstr "زیاتر..."
 msgid "No inputs found"
 msgstr "هیچ تێخراوێک نەدۆزرایەوە"
 
-#: scarecrow-initial-setup/pages/keyboard/gis-keyboard-page.c:482
-#: scarecrow-initial-setup/pages/keyboard/gis-keyboard-page.ui:15
+#: scarecrow-initial-setup/pages/keyboard/scis-keyboard-page.c:482
+#: scarecrow-initial-setup/pages/keyboard/scis-keyboard-page.ui:15
 msgid "Typing"
 msgstr "نووسین"
 
-#: scarecrow-initial-setup/pages/keyboard/gis-keyboard-page.ui:16
+#: scarecrow-initial-setup/pages/keyboard/scis-keyboard-page.ui:16
 msgid "Select your keyboard layout or an input method."
 msgstr "نەخشەی کیبۆردەکەت دیاری بکە یان شێوازی تێخراو"
 
@@ -290,7 +290,7 @@ msgstr "نەخشەی کیبۆردەکەت دیاری بکە یان شێوازی 
 msgid "No languages found"
 msgstr "هیچ لە زمانەکان نەدۆزرایەوە"
 
-#: scarecrow-initial-setup/pages/language/gis-language-page.c:262
+#: scarecrow-initial-setup/pages/language/scis-language-page.c:262
 msgid "Welcome"
 msgstr "بەخێرهاتی"
 
@@ -298,32 +298,32 @@ msgstr "بەخێرهاتی"
 #. * like greeting somebody at the door. If the exclamation mark is not
 #. * suitable for this in your language you may replace it.
 #.
-#: scarecrow-initial-setup/pages/language/gis-welcome-widget.c:136
+#: scarecrow-initial-setup/pages/language/scis-welcome-widget.c:136
 msgid "Welcome!"
 msgstr "بەخێرهاتی!"
 
-#: scarecrow-initial-setup/pages/network/gis-network-page.c:318
+#: scarecrow-initial-setup/pages/network/scis-network-page.c:318
 msgctxt "Wireless access point"
 msgid "Other…"
 msgstr "هیتر..."
 
-#: scarecrow-initial-setup/pages/network/gis-network-page.c:403
+#: scarecrow-initial-setup/pages/network/scis-network-page.c:403
 msgid "Wireless networking is disabled"
 msgstr "ڕایەڵەی بێتەل ناچالاککراوە"
 
-#: scarecrow-initial-setup/pages/network/gis-network-page.c:410
+#: scarecrow-initial-setup/pages/network/scis-network-page.c:410
 msgid "Checking for available wireless networks"
 msgstr "گەڕان بۆ ڕایەڵەی بێتەلی بەردەست"
 
-#: scarecrow-initial-setup/pages/network/gis-network-page.c:805
+#: scarecrow-initial-setup/pages/network/scis-network-page.c:805
 msgid "Network"
 msgstr "ڕایەڵە"
 
-#: scarecrow-initial-setup/pages/network/gis-network-page.ui:18
+#: scarecrow-initial-setup/pages/network/scis-network-page.ui:18
 msgid "Wi-Fi"
 msgstr "وای-فای"
 
-#: scarecrow-initial-setup/pages/network/gis-network-page.ui:19
+#: scarecrow-initial-setup/pages/network/scis-network-page.ui:19
 msgid ""
 "Connecting to the Internet will enable you to set the time, add your "
 "details, and enable you to access your email, calendar, and contacts. It is "
@@ -333,37 +333,37 @@ msgstr ""
 "چالاک دەکات بۆ داستکەوتنی پۆستی ئەلیکترۆنی، ڕۆژژمێر، وە پەیوەندیەکان. وە "
 "هەروەها پێویستە بۆ چوونەژوورەوەی هەژاماری پرۆژه‌ی ئابووری."
 
-#: scarecrow-initial-setup/pages/network/gis-network-page.ui:76
+#: scarecrow-initial-setup/pages/network/scis-network-page.ui:76
 msgid "No wireless available"
 msgstr "هیچ بێتەلێک بەردەست نییە."
 
-#: scarecrow-initial-setup/pages/network/gis-network-page.ui:91
+#: scarecrow-initial-setup/pages/network/scis-network-page.ui:91
 msgid "Turn On"
 msgstr "داگیرساندن"
 
-#: scarecrow-initial-setup/pages/password/gis-password-page.c:229
+#: scarecrow-initial-setup/pages/password/scis-password-page.c:229
 msgid "This is a weak password."
 msgstr "ئەمە تێپەڕەوشەیەکی بێ ‌هێزە."
 
-#: scarecrow-initial-setup/pages/password/gis-password-page.c:235
+#: scarecrow-initial-setup/pages/password/scis-password-page.c:235
 msgid "The passwords do not match."
 msgstr "تێپەڕەوشەکان وەک یەک نین."
 
-#: scarecrow-initial-setup/pages/password/gis-password-page.c:421
+#: scarecrow-initial-setup/pages/password/scis-password-page.c:421
 msgid "Password"
 msgstr "تێپەڕەوشە"
 
 #. Don’t break UI compatibility if parental controls are disabled.
-#: scarecrow-initial-setup/pages/password/gis-password-page.c:79
+#: scarecrow-initial-setup/pages/password/scis-password-page.c:79
 msgid "Set a Password"
 msgstr "تێپەڕەوشە دابنێ"
 
-#: scarecrow-initial-setup/pages/password/gis-password-page.c:80
-#: scarecrow-initial-setup/pages/password/gis-password-page.c:89
+#: scarecrow-initial-setup/pages/password/scis-password-page.c:80
+#: scarecrow-initial-setup/pages/password/scis-password-page.c:89
 msgid "Be careful not to lose your password."
 msgstr "ئاگاداربە تێپەڕەوشە لەدەستنەدەی."
 
-#: scarecrow-initial-setup/pages/password/gis-password-page.ui:66
+#: scarecrow-initial-setup/pages/password/scis-password-page.ui:66
 msgid "_Confirm"
 msgstr "_دڵنیابوونەوە"
 
@@ -493,7 +493,7 @@ msgstr "پیتی زیاتر بەکاربێنە، ژمارە و خاڵبەندی 
 #. * like "Fedora" or "Ubuntu". It falls back to "GNOME" if we can't
 #. * detect any distribution.
 #.
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:68
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:68
 #, c-format
 msgid ""
 "Sending reports of technical problems helps us to improve %s. Reports are "
@@ -504,44 +504,44 @@ msgstr ""
 #. * like "Fedora" or "Ubuntu". It falls back to "GNOME" if we can't
 #. * detect any distribution.
 #.
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:78
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:78
 #, c-format
 msgid "Problem data will be collected by %s:"
 msgstr "زانیاری کێشە رادەکێشرێت لەلایەن %s:"
 
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:79
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:135
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:210
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:79
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:135
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:210
 msgid "Privacy Policy"
 msgstr "ڕێبازی تایبەتێتی"
 
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:135
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:135
 msgid "Uses Mozilla Location Service:"
 msgstr "خزمەتگوزاری شوێنی مۆزیلا بەکاردێنێت:"
 
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:246
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:246
 msgid "Welcome to Ubuntu"
 msgstr "بەخێربێی بۆ ئوبونتو"
 
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.ui:16
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.ui:16
 msgid "Privacy"
 msgstr "تایبه‌تی"
 
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.ui:31
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.ui:31
 msgid "Location Services"
 msgstr "خزمەتگوزارییەکانی شوێن"
 
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.ui:52
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.ui:52
 msgid ""
 "Allows applications to determine your geographical location. An indication "
 "is shown when location services are in use."
 msgstr ""
 
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.ui:74
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.ui:74
 msgid "Automatic Problem Reporting"
 msgstr "ناردنی ڕاپۆرتی خۆکارانەی کێشەکان"
 
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.ui:110
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.ui:110
 msgid ""
 "Privacy controls can be changed at any time from the Settings application."
 msgstr ""
@@ -550,51 +550,51 @@ msgstr ""
 msgid "No regions found"
 msgstr "هیچ هەرێمێک نەدۆزرایەوە"
 
-#: scarecrow-initial-setup/pages/region/gis-region-page.c:225
-#: scarecrow-initial-setup/pages/region/gis-region-page.ui:15
+#: scarecrow-initial-setup/pages/region/scis-region-page.c:225
+#: scarecrow-initial-setup/pages/region/scis-region-page.ui:15
 msgid "Region"
 msgstr "هەرێم"
 
-#: scarecrow-initial-setup/pages/region/gis-region-page.ui:16
+#: scarecrow-initial-setup/pages/region/scis-region-page.ui:16
 msgid "Choose your country or region."
 msgstr "وڵاتەکەت یا هەرێمەکەت هەڵبژێرە."
 
-#: scarecrow-initial-setup/pages/software/gis-software-page.c:186
+#: scarecrow-initial-setup/pages/software/scis-software-page.c:186
 msgid "Software Repositories"
 msgstr ""
 
 #. TRANSLATORS: this is the third party repositories info bar.
-#: scarecrow-initial-setup/pages/software/gis-software-page.c:190
+#: scarecrow-initial-setup/pages/software/scis-software-page.c:190
 msgid "Access additional software from selected third party sources."
 msgstr ""
 
 #. TRANSLATORS: this is the third party repositories info bar.
-#: scarecrow-initial-setup/pages/software/gis-software-page.c:194
+#: scarecrow-initial-setup/pages/software/scis-software-page.c:194
 msgid ""
 "Some of this software is proprietary and therefore has restrictions on use, "
 "sharing, and access to source code."
 msgstr ""
 
-#: scarecrow-initial-setup/pages/software/gis-software-page.ui:16
+#: scarecrow-initial-setup/pages/software/scis-software-page.ui:16
 msgid "Additional Software Repositories"
 msgstr ""
 
-#: scarecrow-initial-setup/pages/software/gis-software-page.ui:28
+#: scarecrow-initial-setup/pages/software/scis-software-page.ui:28
 msgid "<a href=\"more\">Find out more…</a>"
 msgstr "<a href=\"more\">زیاترببینە...</a>"
 
-#: scarecrow-initial-setup/pages/software/gis-software-page.ui:42
+#: scarecrow-initial-setup/pages/software/scis-software-page.ui:42
 msgid "Third Party Repositories"
 msgstr ""
 
-#: scarecrow-initial-setup/pages/software/gis-software-page.ui:138
+#: scarecrow-initial-setup/pages/software/scis-software-page.ui:138
 msgid ""
 "Proprietary software typically has restrictions on how it can be used and on "
 "access to source code. This prevents anyone but the software owner from "
 "inspecting, improving or learning from its code."
 msgstr ""
 
-#: scarecrow-initial-setup/pages/software/gis-software-page.ui:150
+#: scarecrow-initial-setup/pages/software/scis-software-page.ui:150
 msgid ""
 "In contrast, Free Software can be freely run, copied, distributed, studied "
 "and modified."
@@ -603,21 +603,21 @@ msgstr ""
 #. Translators: the parameter here is the name of a distribution,
 #. * like "Fedora" or "Ubuntu". It falls back to "GNOME 3" if we can't
 #. * detect any distribution.
-#: scarecrow-initial-setup/pages/summary/gis-summary-page.c:227
+#: scarecrow-initial-setup/pages/summary/scis-summary-page.c:227
 #, c-format
 msgid "_Start Using %s"
 msgstr ""
 
-#: scarecrow-initial-setup/pages/summary/gis-summary-page.c:303
+#: scarecrow-initial-setup/pages/summary/scis-summary-page.c:303
 msgid "Ready to Go"
 msgstr "ئامادەیە بۆ ڕۆشتن"
 
-#: scarecrow-initial-setup/pages/summary/gis-summary-page.ui:64
+#: scarecrow-initial-setup/pages/summary/scis-summary-page.ui:64
 msgid "You’re ready to go!"
 msgstr "تۆ ئامادەی بۆ ڕۆشتن"
 
 #. Translators: "city, country"
-#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:261
+#: scarecrow-initial-setup/pages/timezone/scis-timezone-page.c:261
 #, c-format
 msgctxt "timezone loc"
 msgid "%s, %s"
@@ -626,62 +626,62 @@ msgstr "%s, %s"
 #. Translators: UTC here means the Coordinated Universal Time.
 #. * %:::z will be replaced by the offset from UTC e.g. UTC+02
 #.
-#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:298
+#: scarecrow-initial-setup/pages/timezone/scis-timezone-page.c:298
 msgid "UTC%:::z"
 msgstr "UTC%:::z"
 
 #. Translators: This is the time format used in 12-hour mode.
-#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:302
+#: scarecrow-initial-setup/pages/timezone/scis-timezone-page.c:302
 msgid "%l:%M %p"
 msgstr "%l:%M %p"
 
 #. Translators: This is the time format used in 24-hour mode.
-#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:305
+#: scarecrow-initial-setup/pages/timezone/scis-timezone-page.c:305
 msgid "%R"
 msgstr "%R"
 
 #. Translators: "timezone (utc shift)"
-#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:308
+#: scarecrow-initial-setup/pages/timezone/scis-timezone-page.c:308
 #, c-format
 msgctxt "timezone map"
 msgid "%s (%s)"
 msgstr "%s (%s)"
 
-#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:462
-#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.ui:17
+#: scarecrow-initial-setup/pages/timezone/scis-timezone-page.c:462
+#: scarecrow-initial-setup/pages/timezone/scis-timezone-page.ui:17
 msgid "Time Zone"
 msgstr "Time Zone"
 
-#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.ui:18
+#: scarecrow-initial-setup/pages/timezone/scis-timezone-page.ui:18
 msgid ""
 "The time zone will be set automatically if your location can be found. You "
 "can also search for a city to set it yourself."
 msgstr ""
 
-#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.ui:56
+#: scarecrow-initial-setup/pages/timezone/scis-timezone-page.ui:56
 msgid "Please search for a nearby city"
 msgstr "تکایە گەڕان بکە بۆ شاری نزیک لێمەوە"
 
-#: scarecrow-initial-setup/pages/ubuntu-report/gis-ubuntu-report-page.c:78
+#: scarecrow-initial-setup/pages/ubuntu-report/scis-ubuntu-report-page.c:78
 #, c-format
 msgid "Failed to get report information: %s"
 msgstr "نەتوانرا ڕاپۆرتی زانیاری بەدەستبخەین :%s"
 
-#: scarecrow-initial-setup/pages/ubuntu-report/gis-ubuntu-report-page.c:84
+#: scarecrow-initial-setup/pages/ubuntu-report/scis-ubuntu-report-page.c:84
 msgid "Report"
 msgstr "ڕاپۆرت"
 
-#: scarecrow-initial-setup/pages/ubuntu-report/gis-ubuntu-report-page.c:118
+#: scarecrow-initial-setup/pages/ubuntu-report/scis-ubuntu-report-page.c:118
 #, c-format
 msgid "Failed to show privacy policy: %s"
 msgstr "نەتوانی ڕیبازی تایبەتی پیشانبدرێت:%s"
 
-#: scarecrow-initial-setup/pages/ubuntu-report/gis-ubuntu-report-page.c:160
-#: scarecrow-initial-setup/pages/ubuntu-report/gis-ubuntu-report-page.ui:17
+#: scarecrow-initial-setup/pages/ubuntu-report/scis-ubuntu-report-page.c:160
+#: scarecrow-initial-setup/pages/ubuntu-report/scis-ubuntu-report-page.ui:17
 msgid "Help improve Ubuntu"
 msgstr "یارمەتیدەربە لە باشتر کردنی ئوبونتو"
 
-#: scarecrow-initial-setup/pages/ubuntu-report/gis-ubuntu-report-page.c:167
+#: scarecrow-initial-setup/pages/ubuntu-report/scis-ubuntu-report-page.c:167
 #, c-format
 msgid ""
 "Ubuntu can report information that helps developers improve it. This "
@@ -689,113 +689,113 @@ msgid ""
 "approximate location you chose (%s)."
 msgstr ""
 
-#: scarecrow-initial-setup/pages/ubuntu-report/gis-ubuntu-report-page.ui:85
+#: scarecrow-initial-setup/pages/ubuntu-report/scis-ubuntu-report-page.ui:85
 msgid "Show the First Report"
 msgstr "ڕاپۆرت یەکەم پیشان بدە"
 
-#: scarecrow-initial-setup/pages/ubuntu-report/gis-ubuntu-report-page.ui:92
-#: scarecrow-initial-setup/pages/livepatch/gis-livepatch-page.ui:108
+#: scarecrow-initial-setup/pages/ubuntu-report/scis-ubuntu-report-page.ui:92
+#: scarecrow-initial-setup/pages/livepatch/scis-livepatch-page.ui:108
 msgid "Legal notice"
 msgstr "سرنجدانی یاسایی"
 
-#: scarecrow-initial-setup/pages/ubuntu-report/gis-ubuntu-report-page.ui:110
+#: scarecrow-initial-setup/pages/ubuntu-report/scis-ubuntu-report-page.ui:110
 msgid "Would you like to send this information?"
 msgstr "ئایا دەتەوێ ئەم زانیاریانە بنێریت؟"
 
-#: scarecrow-initial-setup/pages/ubuntu-report/gis-ubuntu-report-page.ui:123
+#: scarecrow-initial-setup/pages/ubuntu-report/scis-ubuntu-report-page.ui:123
 msgid "Yes, send system info to Canonical"
 msgstr "بەڵێ، ئەم زانیاریانە بنێرە بۆ کانۆنیکاڵ"
 
-#: scarecrow-initial-setup/pages/ubuntu-report/gis-ubuntu-report-page.ui:132
+#: scarecrow-initial-setup/pages/ubuntu-report/scis-ubuntu-report-page.ui:132
 msgid "No, don't send system info"
 msgstr "نەخێر، زانیارییەکان مەنێرە"
 
-#: scarecrow-initial-setup/pages/ubuntu-report/gis-ubuntu-report-page.ui:142
+#: scarecrow-initial-setup/pages/ubuntu-report/scis-ubuntu-report-page.ui:142
 msgid "You can change your mind later in Settings -> Privacy -> Diagnostics."
 msgstr "دوواتر دەتوانی بیرت بگۆڕیت لە ڕێکخستن -> تایبەتی -> دەستنیشانکاری"
 
-#: scarecrow-initial-setup/pages/livepatch/gis-auth-dialog.c:96
+#: scarecrow-initial-setup/pages/livepatch/scis-auth-dialog.c:96
 #, c-format
 msgid "Failed to add an Ubuntu Single Sign-on account: %s."
 msgstr "نەتوانرا هەژماری یەک چوونە ژورەوەی ئوبونتو زیادبکرێت: %s."
 
-#: scarecrow-initial-setup/pages/livepatch/gis-auth-dialog.c:144
-#: scarecrow-initial-setup/pages/livepatch/gis-auth-dialog.c:160
+#: scarecrow-initial-setup/pages/livepatch/scis-auth-dialog.c:144
+#: scarecrow-initial-setup/pages/livepatch/scis-auth-dialog.c:160
 msgid "To use Livepatch, you need to use an Ubuntu One Account."
 msgstr "بۆ بەکارهێنانی Livepatch، پێویستە بە هەژماری ئوبونتو وەن بەکاربێنیت."
 
-#: scarecrow-initial-setup/pages/livepatch/gis-auth-dialog.c:148
+#: scarecrow-initial-setup/pages/livepatch/scis-auth-dialog.c:148
 msgid "Sign In / Register…"
 msgstr "چوونەژورەوە / خۆتۆمارکردن ..."
 
-#: scarecrow-initial-setup/pages/livepatch/gis-auth-dialog.c:152
+#: scarecrow-initial-setup/pages/livepatch/scis-auth-dialog.c:152
 msgid "To use Livepatch, you need to use your Ubuntu One Account."
 msgstr "بۆ بەکارهێنانی Livepatch، پێویستە بە هەژماری ئوبونتو وەن بەکاربێنیت."
 
-#: scarecrow-initial-setup/pages/livepatch/gis-auth-dialog.c:156
+#: scarecrow-initial-setup/pages/livepatch/scis-auth-dialog.c:156
 msgid "Continue"
 msgstr "بەردەوام بە"
 
-#: scarecrow-initial-setup/pages/livepatch/gis-auth-dialog.c:164
+#: scarecrow-initial-setup/pages/livepatch/scis-auth-dialog.c:164
 msgid "Use"
 msgstr "بەکارهێنان"
 
-#: scarecrow-initial-setup/pages/livepatch/gis-auth-dialog.c:253
+#: scarecrow-initial-setup/pages/livepatch/scis-auth-dialog.c:253
 msgid "Ubuntu Single Sign-on accounts are not supported"
 msgstr "هەژماری یەک چوونەژورەوەی ئەبونتو وەن پشتگیری ناکرێت"
 
-#: scarecrow-initial-setup/pages/livepatch/gis-auth-dialog.ui:32
+#: scarecrow-initial-setup/pages/livepatch/scis-auth-dialog.ui:32
 msgid "Add another…"
 msgstr "دانەیەکی تر زیاد بکە..."
 
-#: scarecrow-initial-setup/pages/livepatch/gis-auth-dialog.ui:48
+#: scarecrow-initial-setup/pages/livepatch/scis-auth-dialog.ui:48
 msgid "Cancel"
 msgstr "پاشگه‌زبوونه‌وه‌"
 
-#: scarecrow-initial-setup/pages/livepatch/gis-livepatch-page.c:58
+#: scarecrow-initial-setup/pages/livepatch/scis-livepatch-page.c:58
 msgid "You're all set: Livepatch is now being enabled."
 msgstr "هەموو شتێک تەواوە: Livepatch ئێستا چالاک کراوە."
 
-#: scarecrow-initial-setup/pages/livepatch/gis-livepatch-page.c:59
+#: scarecrow-initial-setup/pages/livepatch/scis-livepatch-page.c:59
 msgid "You're all set: Livepatch is now on."
 msgstr "هەموو شتێک تەواوە: Livepatch ئێستا کارایە."
 
-#: scarecrow-initial-setup/pages/livepatch/gis-livepatch-page.c:60
+#: scarecrow-initial-setup/pages/livepatch/scis-livepatch-page.c:60
 msgid "Failed to setup Livepatch: please retry."
 msgstr "نەتوانی Livepatch ڕێکبخرێت: تکایە دووبارە هەوڵبدەرەوە."
 
-#: scarecrow-initial-setup/pages/livepatch/gis-livepatch-page.c:61
+#: scarecrow-initial-setup/pages/livepatch/scis-livepatch-page.c:61
 msgid "Failed to disable Livepatch: please retry."
 msgstr "نەتوانرا Livepatch ناچالاک بکرێت: دووبارە هەوڵبدەرەوە"
 
-#: scarecrow-initial-setup/pages/livepatch/gis-livepatch-page.c:195
+#: scarecrow-initial-setup/pages/livepatch/scis-livepatch-page.c:195
 msgid "Sorry there's been a problem with setting up Canonical Livepatch"
 msgstr "ببورە هەڵەیەک هەیە لە کاتی دەستپێکردنی Livepatch ی کانۆنینیکاڵ"
 
-#: scarecrow-initial-setup/pages/livepatch/gis-livepatch-page.c:197
+#: scarecrow-initial-setup/pages/livepatch/scis-livepatch-page.c:197
 #, c-format
 msgid "The error was: %s"
 msgstr "هەڵەکە ئەمە بوو:%s"
 
-#: scarecrow-initial-setup/pages/livepatch/gis-livepatch-page.c:200
+#: scarecrow-initial-setup/pages/livepatch/scis-livepatch-page.c:200
 msgid "Settings…"
 msgstr "ڕێکخستنەکان…"
 
-#: scarecrow-initial-setup/pages/livepatch/gis-livepatch-page.c:202
+#: scarecrow-initial-setup/pages/livepatch/scis-livepatch-page.c:202
 msgid "Ignore"
 msgstr "پشتگوێخستن"
 
-#: scarecrow-initial-setup/pages/livepatch/gis-livepatch-page.c:439
+#: scarecrow-initial-setup/pages/livepatch/scis-livepatch-page.c:439
 #, c-format
 msgid "Failed to show Livepatch policy: %s"
 msgstr "نەتوانی ڕیبازی Livepatch پیشانبدرێت:%s"
 
-#: scarecrow-initial-setup/pages/livepatch/gis-livepatch-page.c:497
-#: scarecrow-initial-setup/pages/livepatch/gis-livepatch-page.ui:17
+#: scarecrow-initial-setup/pages/livepatch/scis-livepatch-page.c:497
+#: scarecrow-initial-setup/pages/livepatch/scis-livepatch-page.ui:17
 msgid "Livepatch"
 msgstr "Livepatch"
 
-#: scarecrow-initial-setup/pages/livepatch/gis-livepatch-page.ui:72
+#: scarecrow-initial-setup/pages/livepatch/scis-livepatch-page.ui:72
 msgid ""
 "Canonical Livepatch helps keep your computer secure, by applying some "
 "updates that would normally require restarting."
@@ -804,30 +804,30 @@ msgstr ""
 "ئەم نوێکارییانە دابمەزرێن ئەوا پێویست بە سەرلەونێ کار پێکردنەوەی سیستەمەکە "
 "دەکات."
 
-#: scarecrow-initial-setup/pages/livepatch/gis-livepatch-page.ui:81
+#: scarecrow-initial-setup/pages/livepatch/scis-livepatch-page.ui:81
 msgid "Would you like to set up Livepatch now?"
 msgstr "ئایا دەتەوێت Livepatch بەکاربخەیت ئێستا؟"
 
-#: scarecrow-initial-setup/pages/livepatch/gis-livepatch-page.ui:99
+#: scarecrow-initial-setup/pages/livepatch/scis-livepatch-page.ui:99
 msgid "Set Up Livepatch…"
 msgstr "بەکارخستنی Livepatch ..."
 
-#: scarecrow-initial-setup/pages/livepatch/gis-livepatch-page.ui:130
+#: scarecrow-initial-setup/pages/livepatch/scis-livepatch-page.ui:130
 msgid "Sign Out"
 msgstr "چوونەدەرەوە"
 
-#: scarecrow-initial-setup/pages/apps/gis-apps-page.c:151
+#: scarecrow-initial-setup/pages/apps/scis-apps-page.c:151
 msgid "Ready to go"
 msgstr "ئامادەیە بۆ ڕۆشتن"
 
-#: scarecrow-initial-setup/pages/apps/gis-apps-page.ui:17
+#: scarecrow-initial-setup/pages/apps/scis-apps-page.ui:17
 msgid "You're ready to go!"
 msgstr "تۆ ئامادەی بۆ ڕۆشتن!"
 
-#: scarecrow-initial-setup/pages/apps/gis-apps-page.ui:29
+#: scarecrow-initial-setup/pages/apps/scis-apps-page.ui:29
 msgid "You can use “Software” to install apps like these:"
 msgstr "دەتوانی \"داوانامە\" بەکاربێنیت بۆ دەمەزراندنی نەرمەکاڵا وەک ئەمانە:"
 
-#: scarecrow-initial-setup/pages/apps/gis-apps-page.ui:101
+#: scarecrow-initial-setup/pages/apps/scis-apps-page.ui:101
 msgid "Open “Software” now"
 msgstr "ئێستا \"داوانامە\" بکەرەوە"

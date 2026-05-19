@@ -26,23 +26,23 @@ msgstr ""
 msgid "Initial Setup"
 msgstr "Configurare inițială"
 
-#: scarecrow-initial-setup/gis-assistant.c:423
+#: scarecrow-initial-setup/scis-assistant.c:423
 msgid "_Next"
 msgstr "_Următorul"
 
-#: scarecrow-initial-setup/gis-assistant.c:424
+#: scarecrow-initial-setup/scis-assistant.c:424
 msgid "_Accept"
 msgstr "_Acceptă"
 
-#: scarecrow-initial-setup/gis-assistant.c:425
+#: scarecrow-initial-setup/scis-assistant.c:425
 msgid "_Skip"
 msgstr "_Omite"
 
-#: scarecrow-initial-setup/gis-assistant.c:426
+#: scarecrow-initial-setup/scis-assistant.c:426
 msgid "_Previous"
 msgstr "_Precedentul"
 
-#: scarecrow-initial-setup/gis-assistant.c:427
+#: scarecrow-initial-setup/scis-assistant.c:427
 msgid "_Cancel"
 msgstr "_Anulează"
 
@@ -54,31 +54,31 @@ msgstr "Forțează modul de utilizator existent"
 msgid "— GNOME initial setup"
 msgstr "— Configurare inițială GNOME"
 
-#: scarecrow-initial-setup/pages/account/gis-account-avatar-chooser.ui:36
+#: scarecrow-initial-setup/pages/account/scis-account-avatar-chooser.ui:36
 msgid "Take a Picture…"
 msgstr "Faceți o fotografie…"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.c:184
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.c:184
 msgid "Failed to register account"
 msgstr "Eșec la înregistrarea contului"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.c:378
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.c:378
 msgid "No supported way to authenticate with this domain"
 msgstr "Nicio metodă suportată pentru autentificarea cu acest domeniu"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.c:418
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.c:418
 msgid "Failed to join domain"
 msgstr "Eșec la alăturarea la domeniu"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.c:486
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.c:486
 msgid "Failed to log into domain"
 msgstr "Eșec la conectarea la domeniu"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:17
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:17
 msgid "Enterprise Login"
 msgstr "Autentificare pentru companii"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:18
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:18
 msgid ""
 "Enterprise login allows an existing centrally managed user account to be "
 "used on this device. You can also use this account to access company "
@@ -88,34 +88,34 @@ msgstr ""
 "să fie folosit pe acest dispozitiv. Puteți folosi acest cont pentru a accesa "
 "resursele companiei de pe internet."
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:36
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:287
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:36
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:287
 msgid "_Domain"
 msgstr "_Domeniu"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:53
-#: scarecrow-initial-setup/pages/account/gis-account-page-local.ui:84
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:53
+#: scarecrow-initial-setup/pages/account/scis-account-page-local.ui:84
 msgid "_Username"
 msgstr "_Nume de utilizator"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:70
-#: scarecrow-initial-setup/pages/password/gis-password-page.ui:34
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:70
+#: scarecrow-initial-setup/pages/password/scis-password-page.ui:34
 msgid "_Password"
 msgstr "_Parolă"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:146
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:146
 msgid "Enterprise domain or realm name"
 msgstr "Domaniu de companie sau un nume de domeniu"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:211
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:211
 msgid "C_ontinue"
 msgstr "C_ontinuă"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:246
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:246
 msgid "Domain Administrator Login"
 msgstr "Conectare administrator domeniu"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:266
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:266
 msgid ""
 "In order to use enterprise logins, this computer needs to be enrolled in a "
 "domain. Please have your network administrator type the domain password "
@@ -126,68 +126,68 @@ msgstr ""
 "parola domeniului aici, și alegeți un nume unic pentru calculatorul "
 "dumneavoastră."
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:321
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:321
 msgid "_Computer"
 msgstr "_Calculator"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:353
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:353
 msgid "Administrator _Name"
 msgstr "_Numele administratorului"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:387
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:387
 msgid "Administrator Password"
 msgstr "Parola administratorului"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-local.c:207
+#: scarecrow-initial-setup/pages/account/scis-account-page-local.c:207
 msgid "Please check the name and username. You can choose a picture too."
 msgstr "Verificați numele și numele de utilizator. Puteți alege și o imagine."
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-local.c:453
+#: scarecrow-initial-setup/pages/account/scis-account-page-local.c:453
 msgid "We need a few details to complete setup."
 msgstr "Avem nevoie de câteva detalii pentru a finaliza configurarea."
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-local.c:559
+#: scarecrow-initial-setup/pages/account/scis-account-page-local.c:559
 msgid "Administrator"
 msgstr "Administrator"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-local.c:565
-#: scarecrow-initial-setup/pages/account/gis-account-page-local.c:608
+#: scarecrow-initial-setup/pages/account/scis-account-page-local.c:565
+#: scarecrow-initial-setup/pages/account/scis-account-page-local.c:608
 #, c-format
 msgid "Failed to create user '%s': "
 msgstr "Nu s-a putut crea utilizatorul „%s”: "
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-local.ui:21
+#: scarecrow-initial-setup/pages/account/scis-account-page-local.ui:21
 msgid "Avatar image"
 msgstr "Imagine de avatar"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-local.ui:38
-#: scarecrow-initial-setup/pages/account/gis-account-page.c:283
+#: scarecrow-initial-setup/pages/account/scis-account-page-local.ui:38
+#: scarecrow-initial-setup/pages/account/scis-account-page.c:283
 msgid "About You"
 msgstr "Despre tine"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-local.ui:39
+#: scarecrow-initial-setup/pages/account/scis-account-page-local.ui:39
 msgid "Please provide a name and username. You can choose a picture too."
 msgstr "Furnizați un nume și un nume de utilizator. Puteți alege și o imagine."
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-local.ui:53
+#: scarecrow-initial-setup/pages/account/scis-account-page-local.ui:53
 msgid "_Full Name"
 msgstr "_Numele complet"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-local.ui:149
+#: scarecrow-initial-setup/pages/account/scis-account-page-local.ui:149
 msgid "Set up _parental controls for this user"
 msgstr "Configurează controale _parentale pentru acest utilizator"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-local.ui:156
+#: scarecrow-initial-setup/pages/account/scis-account-page-local.ui:156
 msgid "For use by a parent or supervisor, who must set up their own password."
 msgstr ""
 "De utilizat de către un părinte sau tutor, care trebuie să-și configureze "
 "propria parolă."
 
-#: scarecrow-initial-setup/pages/account/gis-account-page.ui:43
+#: scarecrow-initial-setup/pages/account/scis-account-page.ui:43
 msgid "_Enterprise Login"
 msgstr "Aut_entificare pentru companii"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page.ui:53
+#: scarecrow-initial-setup/pages/account/scis-account-page.ui:53
 msgid "Go online to set up Enterprise Login."
 msgstr ""
 "Conectați-vă la internet pentru a configura autentificarea pentru companii."
@@ -248,19 +248,19 @@ msgstr ""
 "Acesta va fi folosit pentru denumirea dosarului personal și nu poate fi "
 "modificat."
 
-#: scarecrow-initial-setup/pages/goa/gis-goa-page.c:92
+#: scarecrow-initial-setup/pages/goa/scis-goa-page.c:92
 msgid "Add Account"
 msgstr "Adaugă cont"
 
-#: scarecrow-initial-setup/pages/goa/gis-goa-page.c:357
+#: scarecrow-initial-setup/pages/goa/scis-goa-page.c:357
 msgid "Online Accounts"
 msgstr "Conturi online"
 
-#: scarecrow-initial-setup/pages/goa/gis-goa-page.ui:17
+#: scarecrow-initial-setup/pages/goa/scis-goa-page.ui:17
 msgid "Connect Your Online Accounts"
 msgstr "Conectați-vă la conturile online"
 
-#: scarecrow-initial-setup/pages/goa/gis-goa-page.ui:18
+#: scarecrow-initial-setup/pages/goa/scis-goa-page.ui:18
 msgid ""
 "Connect your accounts to easily access your email, online calendar, "
 "contacts, documents and photos."
@@ -268,7 +268,7 @@ msgstr ""
 "Conectați-vă conturile pentru a accesa cu ușurință adresa de poștă "
 "electronică, contactele, calendarul, documentele și fotografiile."
 
-#: scarecrow-initial-setup/pages/goa/gis-goa-page.ui:48
+#: scarecrow-initial-setup/pages/goa/scis-goa-page.ui:48
 msgid ""
 "Accounts can be added and removed at any time from the Settings application."
 msgstr ""
@@ -290,12 +290,12 @@ msgstr "Mai mult…"
 msgid "No inputs found"
 msgstr "Niciun aranjament găsit"
 
-#: scarecrow-initial-setup/pages/keyboard/gis-keyboard-page.c:504
-#: scarecrow-initial-setup/pages/keyboard/gis-keyboard-page.ui:15
+#: scarecrow-initial-setup/pages/keyboard/scis-keyboard-page.c:504
+#: scarecrow-initial-setup/pages/keyboard/scis-keyboard-page.ui:15
 msgid "Typing"
 msgstr "Tastare"
 
-#: scarecrow-initial-setup/pages/keyboard/gis-keyboard-page.ui:16
+#: scarecrow-initial-setup/pages/keyboard/scis-keyboard-page.ui:16
 msgid "Select your keyboard layout or an input method."
 msgstr "Selectați aranjamentul tastaturii sau o metodă de intrare."
 
@@ -303,7 +303,7 @@ msgstr "Selectați aranjamentul tastaturii sau o metodă de intrare."
 msgid "No languages found"
 msgstr "Nu s-au găsit limbi"
 
-#: scarecrow-initial-setup/pages/language/gis-language-page.c:262
+#: scarecrow-initial-setup/pages/language/scis-language-page.c:262
 msgid "Welcome"
 msgstr "Bine ați venit"
 
@@ -311,32 +311,32 @@ msgstr "Bine ați venit"
 #. * like greeting somebody at the door. If the exclamation mark is not
 #. * suitable for this in your language you may replace it.
 #.
-#: scarecrow-initial-setup/pages/language/gis-welcome-widget.c:136
+#: scarecrow-initial-setup/pages/language/scis-welcome-widget.c:136
 msgid "Welcome!"
 msgstr "Bine ați venit!"
 
-#: scarecrow-initial-setup/pages/network/gis-network-page.c:318
+#: scarecrow-initial-setup/pages/network/scis-network-page.c:318
 msgctxt "Wireless access point"
 msgid "Other…"
 msgstr "Altele…"
 
-#: scarecrow-initial-setup/pages/network/gis-network-page.c:403
+#: scarecrow-initial-setup/pages/network/scis-network-page.c:403
 msgid "Wireless networking is disabled"
 msgstr "Rețeaua fără fir este dezactivată"
 
-#: scarecrow-initial-setup/pages/network/gis-network-page.c:410
+#: scarecrow-initial-setup/pages/network/scis-network-page.c:410
 msgid "Checking for available wireless networks"
 msgstr "Se verifică disponibilitatea rețelelor fără fir"
 
-#: scarecrow-initial-setup/pages/network/gis-network-page.c:805
+#: scarecrow-initial-setup/pages/network/scis-network-page.c:805
 msgid "Network"
 msgstr "Rețea"
 
-#: scarecrow-initial-setup/pages/network/gis-network-page.ui:18
+#: scarecrow-initial-setup/pages/network/scis-network-page.ui:18
 msgid "Wi-Fi"
 msgstr "Wi-Fi"
 
-#: scarecrow-initial-setup/pages/network/gis-network-page.ui:19
+#: scarecrow-initial-setup/pages/network/scis-network-page.ui:19
 msgid ""
 "Connecting to the internet helps you get new apps, information, and other "
 "upgrades. It also helps set the time and your location automatically."
@@ -345,68 +345,68 @@ msgstr ""
 "alte actualizări. Vă ajută de asemenea să vă stabiliți ora și locația "
 "automat."
 
-#: scarecrow-initial-setup/pages/network/gis-network-page.ui:76
+#: scarecrow-initial-setup/pages/network/scis-network-page.ui:76
 msgid "No wireless available"
 msgstr "Nicio rețea fără fir disponibilă"
 
-#: scarecrow-initial-setup/pages/network/gis-network-page.ui:91
+#: scarecrow-initial-setup/pages/network/scis-network-page.ui:91
 msgid "Turn On"
 msgstr "Pornește"
 
 #. Translators: The placeholder is the user’s full name.
-#: scarecrow-initial-setup/pages/parental-controls/gis-parental-controls-page.c:102
+#: scarecrow-initial-setup/pages/parental-controls/scis-parental-controls-page.c:102
 #, c-format
 msgid "Parental Controls for %s"
 msgstr "Controale parentale pentru %s"
 
-#: scarecrow-initial-setup/pages/parental-controls/gis-parental-controls-page.c:104
+#: scarecrow-initial-setup/pages/parental-controls/scis-parental-controls-page.c:104
 msgid "Set restrictions on what this user can run or install."
 msgstr ""
 "Stabilește restricții despre ce acest utilizator poate rula sau instala."
 
-#: scarecrow-initial-setup/pages/parental-controls/gis-parental-controls-page.c:199
+#: scarecrow-initial-setup/pages/parental-controls/scis-parental-controls-page.c:199
 msgid "Parental Controls"
 msgstr "Controale parentale"
 
 #. Don’t break UI compatibility if parental controls are disabled.
-#: scarecrow-initial-setup/pages/password/gis-password-page.c:79
+#: scarecrow-initial-setup/pages/password/scis-password-page.c:79
 msgid "Set a Password"
 msgstr "Stabiliți o parolă"
 
-#: scarecrow-initial-setup/pages/password/gis-password-page.c:80
-#: scarecrow-initial-setup/pages/password/gis-password-page.c:89
+#: scarecrow-initial-setup/pages/password/scis-password-page.c:80
+#: scarecrow-initial-setup/pages/password/scis-password-page.c:89
 msgid "Be careful not to lose your password."
 msgstr "Aveți grijă să nu pierdeți parola."
 
 #. Translators: The placeholder is for the user’s full name.
-#: scarecrow-initial-setup/pages/password/gis-password-page.c:87
+#: scarecrow-initial-setup/pages/password/scis-password-page.c:87
 #, c-format
 msgid "Set a Password for %s"
 msgstr "Stabiliți o parolă pentru %s"
 
-#: scarecrow-initial-setup/pages/password/gis-password-page.c:95
+#: scarecrow-initial-setup/pages/password/scis-password-page.c:95
 msgid "Set a Parent Password"
 msgstr "Stabiliți o parolă părinte"
 
 #. Translators: The placeholder is the full name of the child user on the system.
-#: scarecrow-initial-setup/pages/password/gis-password-page.c:97
+#: scarecrow-initial-setup/pages/password/scis-password-page.c:97
 #, c-format
 msgid "This password will control access to the parental controls for %s."
 msgstr "Această parolă va controla accesul la controalele parentale pentru %s."
 
-#: scarecrow-initial-setup/pages/password/gis-password-page.c:228
+#: scarecrow-initial-setup/pages/password/scis-password-page.c:228
 msgid "This is a weak password."
 msgstr "Aceasta este o parolă slabă."
 
-#: scarecrow-initial-setup/pages/password/gis-password-page.c:234
+#: scarecrow-initial-setup/pages/password/scis-password-page.c:234
 msgid "The passwords do not match."
 msgstr "Parolele nu se potrivesc."
 
-#: scarecrow-initial-setup/pages/password/gis-password-page.c:420
+#: scarecrow-initial-setup/pages/password/scis-password-page.c:420
 msgid "Password"
 msgstr "Parolă"
 
-#: scarecrow-initial-setup/pages/password/gis-password-page.ui:66
+#: scarecrow-initial-setup/pages/password/scis-password-page.ui:66
 msgid "_Confirm"
 msgstr "_Confirmă"
 
@@ -552,7 +552,7 @@ msgstr ""
 #. * like "Fedora" or "Ubuntu". It falls back to "GNOME" if we can't
 #. * detect any distribution.
 #.
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:68
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:68
 #, c-format
 msgid ""
 "Sending reports of technical problems helps us to improve %s. Reports are "
@@ -565,31 +565,31 @@ msgstr ""
 #. * like "Fedora" or "Ubuntu". It falls back to "GNOME" if we can't
 #. * detect any distribution.
 #.
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:78
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:78
 #, c-format
 msgid "Problem data will be collected by %s:"
 msgstr "Datele problemei vor fi colectate de %s:"
 
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:79
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:135
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:210
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:79
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:135
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:210
 msgid "Privacy Policy"
 msgstr "Politică de confidențialitate"
 
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:135
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:135
 msgid "Uses Mozilla Location Service:"
 msgstr "Utilizează serviciul de locație Mozilla:"
 
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:246
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.ui:16
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:246
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.ui:16
 msgid "Privacy"
 msgstr "Confidențialitate"
 
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.ui:31
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.ui:31
 msgid "Location Services"
 msgstr "Servicii de locație"
 
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.ui:52
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.ui:52
 msgid ""
 "Allows applications to determine your geographical location. An indication "
 "is shown when location services are in use."
@@ -597,11 +597,11 @@ msgstr ""
 "Permite aplicațiilor să determine locația dumneavoastră geografică. O "
 "indicație este oprită când serviciile de locație sunt în uz."
 
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.ui:74
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.ui:74
 msgid "Automatic Problem Reporting"
 msgstr "Raportarea automată a problemelor"
 
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.ui:110
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.ui:110
 msgid ""
 "Privacy controls can be changed at any time from the Settings application."
 msgstr ""
@@ -611,7 +611,7 @@ msgstr ""
 #. Translators: the parameter here is the name of a distribution,
 #. * like "Fedora" or "Ubuntu". It falls back to "GNOME 3" if we can't
 #. * detect any distribution.
-#: scarecrow-initial-setup/pages/summary/gis-summary-page.c:233
+#: scarecrow-initial-setup/pages/summary/scis-summary-page.c:233
 #, c-format
 msgid "_Start Using %s"
 msgstr "Începeți _să utilizați %s"
@@ -619,21 +619,21 @@ msgstr "Începeți _să utilizați %s"
 #. Translators: the parameter here is the name of a distribution,
 #. * like "Fedora" or "Ubuntu". It falls back to "GNOME 3" if we can't
 #. * detect any distribution.
-#: scarecrow-initial-setup/pages/summary/gis-summary-page.c:240
+#: scarecrow-initial-setup/pages/summary/scis-summary-page.c:240
 #, c-format
 msgid "%s is ready to be used. We hope that you love it!"
 msgstr "%s este gata de utilizat. Sperăm să vă placă!"
 
-#: scarecrow-initial-setup/pages/summary/gis-summary-page.c:264
+#: scarecrow-initial-setup/pages/summary/scis-summary-page.c:264
 msgid "Setup Complete"
 msgstr "Configurare completă"
 
-#: scarecrow-initial-setup/pages/summary/gis-summary-page.ui:70
+#: scarecrow-initial-setup/pages/summary/scis-summary-page.ui:70
 msgid "All done!"
 msgstr "Finalizat!"
 
 #. Translators: "city, country"
-#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:271
+#: scarecrow-initial-setup/pages/timezone/scis-timezone-page.c:271
 #, c-format
 msgctxt "timezone loc"
 msgid "%s, %s"
@@ -642,33 +642,33 @@ msgstr "%s, %s"
 #. Translators: UTC here means the Coordinated Universal Time.
 #. * %:::z will be replaced by the offset from UTC e.g. UTC+02
 #.
-#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:308
+#: scarecrow-initial-setup/pages/timezone/scis-timezone-page.c:308
 msgid "UTC%:::z"
 msgstr "UTC%:::z"
 
 #. Translators: This is the time format used in 12-hour mode.
-#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:312
+#: scarecrow-initial-setup/pages/timezone/scis-timezone-page.c:312
 msgid "%l:%M %p"
 msgstr "%l:%M %p"
 
 #. Translators: This is the time format used in 24-hour mode.
-#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:315
+#: scarecrow-initial-setup/pages/timezone/scis-timezone-page.c:315
 msgid "%R"
 msgstr "%R"
 
 #. Translators: "timezone (utc shift)"
-#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:318
+#: scarecrow-initial-setup/pages/timezone/scis-timezone-page.c:318
 #, c-format
 msgctxt "timezone map"
 msgid "%s (%s)"
 msgstr "%s (%s)"
 
-#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:483
-#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.ui:17
+#: scarecrow-initial-setup/pages/timezone/scis-timezone-page.c:483
+#: scarecrow-initial-setup/pages/timezone/scis-timezone-page.ui:17
 msgid "Time Zone"
 msgstr "Fus orar"
 
-#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.ui:18
+#: scarecrow-initial-setup/pages/timezone/scis-timezone-page.ui:18
 msgid ""
 "The time zone will be set automatically if your location can be found. You "
 "can also search for a city to set it yourself."
@@ -676,7 +676,7 @@ msgstr ""
 "Fusul orar va fi configurat automată dacă locația dumneavoastră poate fi "
 "găsită. Puteți de asemenea căuta după un oraș și să o configurați manual."
 
-#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.ui:56
+#: scarecrow-initial-setup/pages/timezone/scis-timezone-page.ui:56
 msgid "Please search for a nearby city"
 msgstr "Căutați un oraș apropiat"
 
@@ -688,16 +688,16 @@ msgstr "Căutați un oraș apropiat"
 #. * keep or remove. The %s is getting replaced with the name and version
 #. * of the OS, e.g. "GNOME 3.38"
 #.
-#: scarecrow-initial-setup/pages/welcome/gis-welcome-page.c:209
+#: scarecrow-initial-setup/pages/welcome/scis-welcome-page.c:209
 #, c-format
 msgid "Welcome to %s !"
 msgstr "Bine ați venit la %s!"
 
-#: scarecrow-initial-setup/pages/welcome/gis-welcome-page.ui:5
+#: scarecrow-initial-setup/pages/welcome/scis-welcome-page.ui:5
 msgid "Setup"
 msgstr "Configurare"
 
-#: scarecrow-initial-setup/pages/welcome/gis-welcome-page.ui:43
+#: scarecrow-initial-setup/pages/welcome/scis-welcome-page.ui:43
 msgid ""
 "Setup will guide you through making an account and enabling some features. "
 "We’ll have you up and running in no time."
@@ -705,7 +705,7 @@ msgstr ""
 "Configurarea vă va ghida prin crearea unui cont și activarea unor "
 "funcționalități. Vă vom avea în funcțiune în cel mai scurt timp."
 
-#: scarecrow-initial-setup/pages/welcome/gis-welcome-page.ui:54
+#: scarecrow-initial-setup/pages/welcome/scis-welcome-page.ui:54
 msgid "_Start Setup"
 msgstr "Î_ncepe configurarea"
 

@@ -27,23 +27,23 @@ msgstr ""
 msgid "Initial Setup"
 msgstr "İlk Kurulum"
 
-#: scarecrow-initial-setup/gis-assistant.c:423
+#: scarecrow-initial-setup/scis-assistant.c:423
 msgid "_Next"
 msgstr "_İleri"
 
-#: scarecrow-initial-setup/gis-assistant.c:424
+#: scarecrow-initial-setup/scis-assistant.c:424
 msgid "_Accept"
 msgstr "_Kabul et"
 
-#: scarecrow-initial-setup/gis-assistant.c:425
+#: scarecrow-initial-setup/scis-assistant.c:425
 msgid "_Skip"
 msgstr "_Geç"
 
-#: scarecrow-initial-setup/gis-assistant.c:426
+#: scarecrow-initial-setup/scis-assistant.c:426
 msgid "_Previous"
 msgstr "_Geri"
 
-#: scarecrow-initial-setup/gis-assistant.c:427
+#: scarecrow-initial-setup/scis-assistant.c:427
 msgid "_Cancel"
 msgstr "_Vazgeç"
 
@@ -55,31 +55,31 @@ msgstr "Var olan kullanıcı kipine zorla"
 msgid "— GNOME initial setup"
 msgstr "— GNOME ilk kurulum"
 
-#: scarecrow-initial-setup/pages/account/gis-account-avatar-chooser.ui:36
+#: scarecrow-initial-setup/pages/account/scis-account-avatar-chooser.ui:36
 msgid "Take a Picture…"
 msgstr "Fotoğraf Çek…"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.c:184
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.c:184
 msgid "Failed to register account"
 msgstr "Hesap kaydedilemedi"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.c:378
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.c:378
 msgid "No supported way to authenticate with this domain"
 msgstr "Bu etki alanıyla kimlik doğrulamak için desteklenen yol yok"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.c:418
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.c:418
 msgid "Failed to join domain"
 msgstr "Etki alanına katılma başarısız"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.c:486
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.c:486
 msgid "Failed to log into domain"
 msgstr "Etki alanında oturum açılamadı"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:17
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:17
 msgid "Enterprise Login"
 msgstr "Kurumsal Giriş"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:18
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:18
 msgid ""
 "Enterprise login allows an existing centrally managed user account to be "
 "used on this device. You can also use this account to access company "
@@ -89,34 +89,34 @@ msgstr ""
 "kullanılmasına olanak tanır. Ayrıca bu hesabı internetteki şirket "
 "kaynaklarına erişmek için kullanabilirsiniz."
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:36
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:287
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:36
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:287
 msgid "_Domain"
 msgstr "_Etki Alanı"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:53
-#: scarecrow-initial-setup/pages/account/gis-account-page-local.ui:84
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:53
+#: scarecrow-initial-setup/pages/account/scis-account-page-local.ui:84
 msgid "_Username"
 msgstr "_Kullanıcı Adı"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:70
-#: scarecrow-initial-setup/pages/password/gis-password-page.ui:34
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:70
+#: scarecrow-initial-setup/pages/password/scis-password-page.ui:34
 msgid "_Password"
 msgstr "_Parola"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:146
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:146
 msgid "Enterprise domain or realm name"
 msgstr "Kurumsal etki alanı ya da bölge adı"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:211
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:211
 msgid "C_ontinue"
 msgstr "_Devam"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:246
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:246
 msgid "Domain Administrator Login"
 msgstr "Etki Alanı Yönetici Girişi"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:266
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:266
 msgid ""
 "In order to use enterprise logins, this computer needs to be enrolled in a "
 "domain. Please have your network administrator type the domain password "
@@ -126,67 +126,67 @@ msgstr ""
 "gerekir. Lütfen ağ yöneticinizin etki alanı parolasını buraya yazmasını "
 "sağlayın ve bilgisayarınız için eşsiz ad seçin."
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:321
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:321
 msgid "_Computer"
 msgstr "_Bilgisayar"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:353
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:353
 msgid "Administrator _Name"
 msgstr "Yö_netici Adı"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:387
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:387
 msgid "Administrator Password"
 msgstr "Yönetici Parolası"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-local.c:207
+#: scarecrow-initial-setup/pages/account/scis-account-page-local.c:207
 msgid "Please check the name and username. You can choose a picture too."
 msgstr ""
 "Lütfen adı ve kullanıcı adını gözden geçirin. Fotoğraf da seçebilirsiniz."
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-local.c:453
+#: scarecrow-initial-setup/pages/account/scis-account-page-local.c:453
 msgid "We need a few details to complete setup."
 msgstr "Kurulumu tamamlamak için birkaç ayrıntıya gereksiniyoruz."
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-local.c:559
+#: scarecrow-initial-setup/pages/account/scis-account-page-local.c:559
 msgid "Administrator"
 msgstr "Yönetici"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-local.c:565
-#: scarecrow-initial-setup/pages/account/gis-account-page-local.c:608
+#: scarecrow-initial-setup/pages/account/scis-account-page-local.c:565
+#: scarecrow-initial-setup/pages/account/scis-account-page-local.c:608
 #, c-format
 msgid "Failed to create user '%s': "
 msgstr "'%s' kullanıcısı oluşturulamadı: "
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-local.ui:21
+#: scarecrow-initial-setup/pages/account/scis-account-page-local.ui:21
 msgid "Avatar image"
 msgstr "Görüntü resmi"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-local.ui:38
-#: scarecrow-initial-setup/pages/account/gis-account-page.c:283
+#: scarecrow-initial-setup/pages/account/scis-account-page-local.ui:38
+#: scarecrow-initial-setup/pages/account/scis-account-page.c:283
 msgid "About You"
 msgstr "Hakkınızda"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-local.ui:39
+#: scarecrow-initial-setup/pages/account/scis-account-page-local.ui:39
 msgid "Please provide a name and username. You can choose a picture too."
 msgstr "Lütfen ad ve kullanıcı adı girin. Fotoğraf da seçebilirsiniz."
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-local.ui:53
+#: scarecrow-initial-setup/pages/account/scis-account-page-local.ui:53
 msgid "_Full Name"
 msgstr "_Tam Ad"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-local.ui:149
+#: scarecrow-initial-setup/pages/account/scis-account-page-local.ui:149
 msgid "Set up _parental controls for this user"
 msgstr "Bu kullanıcı için _ebeveyn denetimi kur"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-local.ui:156
+#: scarecrow-initial-setup/pages/account/scis-account-page-local.ui:156
 msgid "For use by a parent or supervisor, who must set up their own password."
 msgstr "Ebeveyn veya gözetmen kullanımı için parola ayarlanmalı."
 
-#: scarecrow-initial-setup/pages/account/gis-account-page.ui:43
+#: scarecrow-initial-setup/pages/account/scis-account-page.ui:43
 msgid "_Enterprise Login"
 msgstr "_Kurumsal Giriş"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page.ui:53
+#: scarecrow-initial-setup/pages/account/scis-account-page.ui:53
 msgid "Go online to set up Enterprise Login."
 msgstr "Kurumsal Giriş için çevrim içi olun."
 
@@ -245,19 +245,19 @@ msgstr ""
 "Başlangıç klasörünüzün adlandırılmasında kullanılacaktır ve sonradan "
 "değiştirilemez."
 
-#: scarecrow-initial-setup/pages/goa/gis-goa-page.c:92
+#: scarecrow-initial-setup/pages/goa/scis-goa-page.c:92
 msgid "Add Account"
 msgstr "Hesap Ekle"
 
-#: scarecrow-initial-setup/pages/goa/gis-goa-page.c:357
+#: scarecrow-initial-setup/pages/goa/scis-goa-page.c:357
 msgid "Online Accounts"
 msgstr "Çevrim İçi Hesaplar"
 
-#: scarecrow-initial-setup/pages/goa/gis-goa-page.ui:17
+#: scarecrow-initial-setup/pages/goa/scis-goa-page.ui:17
 msgid "Connect Your Online Accounts"
 msgstr "Çevrim İçi Hesaplarınıza Bağlanın"
 
-#: scarecrow-initial-setup/pages/goa/gis-goa-page.ui:18
+#: scarecrow-initial-setup/pages/goa/scis-goa-page.ui:18
 msgid ""
 "Connect your accounts to easily access your email, online calendar, "
 "contacts, documents and photos."
@@ -265,7 +265,7 @@ msgstr ""
 "Hesaplarınıza bağlanarak e-postalarınıza, çevrim içi takviminize, "
 "kişilerinize, belgelerinize ve fotoğraflarınıza kolayca erişebilirsiniz."
 
-#: scarecrow-initial-setup/pages/goa/gis-goa-page.ui:48
+#: scarecrow-initial-setup/pages/goa/scis-goa-page.ui:48
 msgid ""
 "Accounts can be added and removed at any time from the Settings application."
 msgstr ""
@@ -288,12 +288,12 @@ msgstr "Daha…"
 msgid "No inputs found"
 msgstr "Hiçbir girdi bulunamadı"
 
-#: scarecrow-initial-setup/pages/keyboard/gis-keyboard-page.c:504
-#: scarecrow-initial-setup/pages/keyboard/gis-keyboard-page.ui:15
+#: scarecrow-initial-setup/pages/keyboard/scis-keyboard-page.c:504
+#: scarecrow-initial-setup/pages/keyboard/scis-keyboard-page.ui:15
 msgid "Typing"
 msgstr "Yazım"
 
-#: scarecrow-initial-setup/pages/keyboard/gis-keyboard-page.ui:16
+#: scarecrow-initial-setup/pages/keyboard/scis-keyboard-page.ui:16
 msgid "Select your keyboard layout or an input method."
 msgstr "Klavye düzeni veya giriş yöntemi seçin."
 
@@ -301,7 +301,7 @@ msgstr "Klavye düzeni veya giriş yöntemi seçin."
 msgid "No languages found"
 msgstr "Hiçbir dil bulunamadı"
 
-#: scarecrow-initial-setup/pages/language/gis-language-page.c:262
+#: scarecrow-initial-setup/pages/language/scis-language-page.c:262
 msgid "Welcome"
 msgstr "Hoş Geldiniz"
 
@@ -309,32 +309,32 @@ msgstr "Hoş Geldiniz"
 #. * like greeting somebody at the door. If the exclamation mark is not
 #. * suitable for this in your language you may replace it.
 #.
-#: scarecrow-initial-setup/pages/language/gis-welcome-widget.c:136
+#: scarecrow-initial-setup/pages/language/scis-welcome-widget.c:136
 msgid "Welcome!"
 msgstr "Hoş Geldiniz!"
 
-#: scarecrow-initial-setup/pages/network/gis-network-page.c:318
+#: scarecrow-initial-setup/pages/network/scis-network-page.c:318
 msgctxt "Wireless access point"
 msgid "Other…"
 msgstr "Diğer…"
 
-#: scarecrow-initial-setup/pages/network/gis-network-page.c:403
+#: scarecrow-initial-setup/pages/network/scis-network-page.c:403
 msgid "Wireless networking is disabled"
 msgstr "Kablosuz ağ kapatıldı"
 
-#: scarecrow-initial-setup/pages/network/gis-network-page.c:410
+#: scarecrow-initial-setup/pages/network/scis-network-page.c:410
 msgid "Checking for available wireless networks"
 msgstr "Kullanılabilir kablosuz ağlar denetleniyor"
 
-#: scarecrow-initial-setup/pages/network/gis-network-page.c:805
+#: scarecrow-initial-setup/pages/network/scis-network-page.c:805
 msgid "Network"
 msgstr "Ağ"
 
-#: scarecrow-initial-setup/pages/network/gis-network-page.ui:18
+#: scarecrow-initial-setup/pages/network/scis-network-page.ui:18
 msgid "Wi-Fi"
 msgstr "Kablosuz"
 
-#: scarecrow-initial-setup/pages/network/gis-network-page.ui:19
+#: scarecrow-initial-setup/pages/network/scis-network-page.ui:19
 msgid ""
 "Connecting to the internet helps you get new apps, information, and other "
 "upgrades. It also helps set the time and your location automatically."
@@ -342,67 +342,67 @@ msgstr ""
 "İnternete bağlanmak yeni uygulamalar, bilgiler ve diğer yükseltmeleri edinmenizi "
 "sağlar. Saati ve konumu kendiliğinden belirlemenizi de sağlar."
 
-#: scarecrow-initial-setup/pages/network/gis-network-page.ui:76
+#: scarecrow-initial-setup/pages/network/scis-network-page.ui:76
 msgid "No wireless available"
 msgstr "Kullanılabilir kablosuz ağ yok"
 
-#: scarecrow-initial-setup/pages/network/gis-network-page.ui:91
+#: scarecrow-initial-setup/pages/network/scis-network-page.ui:91
 msgid "Turn On"
 msgstr "Aç"
 
 #. Translators: The placeholder is the user’s full name.
-#: scarecrow-initial-setup/pages/parental-controls/gis-parental-controls-page.c:102
+#: scarecrow-initial-setup/pages/parental-controls/scis-parental-controls-page.c:102
 #, c-format
 msgid "Parental Controls for %s"
 msgstr "%s için Ebeveyn Denetimi"
 
-#: scarecrow-initial-setup/pages/parental-controls/gis-parental-controls-page.c:104
+#: scarecrow-initial-setup/pages/parental-controls/scis-parental-controls-page.c:104
 msgid "Set restrictions on what this user can run or install."
 msgstr "Bu kullanıcının ne çalıştırabileceğini veya kurabileceğini kısıtla."
 
-#: scarecrow-initial-setup/pages/parental-controls/gis-parental-controls-page.c:199
+#: scarecrow-initial-setup/pages/parental-controls/scis-parental-controls-page.c:199
 msgid "Parental Controls"
 msgstr "Ebeveyn Denetimi"
 
 #. Don’t break UI compatibility if parental controls are disabled.
-#: scarecrow-initial-setup/pages/password/gis-password-page.c:79
+#: scarecrow-initial-setup/pages/password/scis-password-page.c:79
 msgid "Set a Password"
 msgstr "Parola Belirle"
 
-#: scarecrow-initial-setup/pages/password/gis-password-page.c:80
-#: scarecrow-initial-setup/pages/password/gis-password-page.c:89
+#: scarecrow-initial-setup/pages/password/scis-password-page.c:80
+#: scarecrow-initial-setup/pages/password/scis-password-page.c:89
 msgid "Be careful not to lose your password."
 msgstr "Parolanızı kaybetmemeye dikkat edin."
 
 #. Translators: The placeholder is for the user’s full name.
-#: scarecrow-initial-setup/pages/password/gis-password-page.c:87
+#: scarecrow-initial-setup/pages/password/scis-password-page.c:87
 #, c-format
 msgid "Set a Password for %s"
 msgstr "%s için Parola Belirle"
 
-#: scarecrow-initial-setup/pages/password/gis-password-page.c:95
+#: scarecrow-initial-setup/pages/password/scis-password-page.c:95
 msgid "Set a Parent Password"
 msgstr "Ebeveyn Parolası Belirle"
 
 #. Translators: The placeholder is the full name of the child user on the system.
-#: scarecrow-initial-setup/pages/password/gis-password-page.c:97
+#: scarecrow-initial-setup/pages/password/scis-password-page.c:97
 #, c-format
 msgid "This password will control access to the parental controls for %s."
 msgstr "Bu parola %s için ebeveyn denetimine erişimi denetleyecek."
 
-#: scarecrow-initial-setup/pages/password/gis-password-page.c:228
+#: scarecrow-initial-setup/pages/password/scis-password-page.c:228
 msgid "This is a weak password."
 msgstr "Bu zayıf bir paroladır."
 
-#: scarecrow-initial-setup/pages/password/gis-password-page.c:234
+#: scarecrow-initial-setup/pages/password/scis-password-page.c:234
 msgid "The passwords do not match."
 msgstr "Parolalar eşleşmiyor."
 
-#: scarecrow-initial-setup/pages/password/gis-password-page.c:420
+#: scarecrow-initial-setup/pages/password/scis-password-page.c:420
 msgid "Password"
 msgstr "Parola"
 
-#: scarecrow-initial-setup/pages/password/gis-password-page.ui:66
+#: scarecrow-initial-setup/pages/password/scis-password-page.ui:66
 msgid "_Confirm"
 msgstr "_Onayla"
 
@@ -535,7 +535,7 @@ msgstr ""
 #. * like "Fedora" or "Ubuntu". It falls back to "GNOME" if we can't
 #. * detect any distribution.
 #.
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:68
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:68
 #, c-format
 msgid ""
 "Sending reports of technical problems helps us to improve %s. Reports are "
@@ -548,31 +548,31 @@ msgstr ""
 #. * like "Fedora" or "Ubuntu". It falls back to "GNOME" if we can't
 #. * detect any distribution.
 #.
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:78
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:78
 #, c-format
 msgid "Problem data will be collected by %s:"
 msgstr "Sorun verisi %s tarafından toplanacak:"
 
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:79
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:135
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:210
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:79
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:135
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:210
 msgid "Privacy Policy"
 msgstr "Gizlilik İlkesi"
 
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:135
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:135
 msgid "Uses Mozilla Location Service:"
 msgstr "Mozilla Konum Hizmetlerini Kullanır:"
 
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:246
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.ui:16
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:246
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.ui:16
 msgid "Privacy"
 msgstr "Gizlilik"
 
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.ui:31
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.ui:31
 msgid "Location Services"
 msgstr "Konum Hizmetleri"
 
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.ui:52
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.ui:52
 msgid ""
 "Allows applications to determine your geographical location. An indication "
 "is shown when location services are in use."
@@ -580,11 +580,11 @@ msgstr ""
 "Uygulamaların coğrafi konumunuzu belirlemesine olanak tanır. Konum "
 "hizmetleri kullanıldığında size bildirilir."
 
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.ui:74
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.ui:74
 msgid "Automatic Problem Reporting"
 msgstr "Kendiliğinden Sorun Bildirimi"
 
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.ui:110
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.ui:110
 msgid ""
 "Privacy controls can be changed at any time from the Settings application."
 msgstr ""
@@ -594,7 +594,7 @@ msgstr ""
 #. Translators: the parameter here is the name of a distribution,
 #. * like "Fedora" or "Ubuntu". It falls back to "GNOME 3" if we can't
 #. * detect any distribution.
-#: scarecrow-initial-setup/pages/summary/gis-summary-page.c:233
+#: scarecrow-initial-setup/pages/summary/scis-summary-page.c:233
 #, c-format
 msgid "_Start Using %s"
 msgstr "%s Kullanmaya _Başla"
@@ -602,21 +602,21 @@ msgstr "%s Kullanmaya _Başla"
 #. Translators: the parameter here is the name of a distribution,
 #. * like "Fedora" or "Ubuntu". It falls back to "GNOME 3" if we can't
 #. * detect any distribution.
-#: scarecrow-initial-setup/pages/summary/gis-summary-page.c:240
+#: scarecrow-initial-setup/pages/summary/scis-summary-page.c:240
 #, c-format
 msgid "%s is ready to be used. We hope that you love it!"
 msgstr "%s kullanıma hazır. Seveceğinizi umuyoruz!"
 
-#: scarecrow-initial-setup/pages/summary/gis-summary-page.c:264
+#: scarecrow-initial-setup/pages/summary/scis-summary-page.c:264
 msgid "Setup Complete"
 msgstr "Kurulum Tamamlandı"
 
-#: scarecrow-initial-setup/pages/summary/gis-summary-page.ui:70
+#: scarecrow-initial-setup/pages/summary/scis-summary-page.ui:70
 msgid "All done!"
 msgstr "Tümü bitti!"
 
 #. Translators: "city, country"
-#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:261
+#: scarecrow-initial-setup/pages/timezone/scis-timezone-page.c:261
 #, c-format
 msgctxt "timezone loc"
 msgid "%s, %s"
@@ -625,33 +625,33 @@ msgstr "%s, %s"
 #. Translators: UTC here means the Coordinated Universal Time.
 #. * %:::z will be replaced by the offset from UTC e.g. UTC+02
 #.
-#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:298
+#: scarecrow-initial-setup/pages/timezone/scis-timezone-page.c:298
 msgid "UTC%:::z"
 msgstr "UTC%:::z"
 
 #. Translators: This is the time format used in 12-hour mode.
-#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:302
+#: scarecrow-initial-setup/pages/timezone/scis-timezone-page.c:302
 msgid "%l:%M %p"
 msgstr "%l:%M %p"
 
 #. Translators: This is the time format used in 24-hour mode.
-#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:305
+#: scarecrow-initial-setup/pages/timezone/scis-timezone-page.c:305
 msgid "%R"
 msgstr "%R"
 
 #. Translators: "timezone (utc shift)"
-#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:308
+#: scarecrow-initial-setup/pages/timezone/scis-timezone-page.c:308
 #, c-format
 msgctxt "timezone map"
 msgid "%s (%s)"
 msgstr "%s (%s)"
 
-#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:473
-#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.ui:17
+#: scarecrow-initial-setup/pages/timezone/scis-timezone-page.c:473
+#: scarecrow-initial-setup/pages/timezone/scis-timezone-page.ui:17
 msgid "Time Zone"
 msgstr "Saat Dilimi"
 
-#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.ui:18
+#: scarecrow-initial-setup/pages/timezone/scis-timezone-page.ui:18
 msgid ""
 "The time zone will be set automatically if your location can be found. You "
 "can also search for a city to set it yourself."
@@ -659,7 +659,7 @@ msgstr ""
 "Eğer konumunuz bulunabilirse saat dilimi kendiliğinden ayarlanacak. Ayrıca "
 "kendiniz ayarlamak için şehir arayabilirsiniz."
 
-#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.ui:56
+#: scarecrow-initial-setup/pages/timezone/scis-timezone-page.ui:56
 msgid "Please search for a nearby city"
 msgstr "Lütfen yakındaki şehri arayın"
 
@@ -671,16 +671,16 @@ msgstr "Lütfen yakındaki şehri arayın"
 #. * keep or remove. The %s is getting replaced with the name and version
 #. * of the OS, e.g. "GNOME 3.38"
 #.
-#: scarecrow-initial-setup/pages/welcome/gis-welcome-page.c:209
+#: scarecrow-initial-setup/pages/welcome/scis-welcome-page.c:209
 #, c-format
 msgid "Welcome to %s !"
 msgstr "%s’e Hoş Geldiniz !"
 
-#: scarecrow-initial-setup/pages/welcome/gis-welcome-page.ui:5
+#: scarecrow-initial-setup/pages/welcome/scis-welcome-page.ui:5
 msgid "Setup"
 msgstr "Kurulum"
 
-#: scarecrow-initial-setup/pages/welcome/gis-welcome-page.ui:43
+#: scarecrow-initial-setup/pages/welcome/scis-welcome-page.ui:43
 msgid ""
 "Setup will guide you through making an account and enabling some features. "
 "We’ll have you up and running in no time."
@@ -688,7 +688,7 @@ msgstr ""
 "Kurulum, hesap oluştururken ve bazı özellikleri etkinleştirirken yardımcınız "
 "olacak. Sizi çarçabuk hazırlayacağız."
 
-#: scarecrow-initial-setup/pages/welcome/gis-welcome-page.ui:54
+#: scarecrow-initial-setup/pages/welcome/scis-welcome-page.ui:54
 msgid "_Start Setup"
 msgstr "Kurulumu _Başlat"
 

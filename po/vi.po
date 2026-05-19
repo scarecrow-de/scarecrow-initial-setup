@@ -26,23 +26,23 @@ msgstr ""
 msgid "Initial Setup"
 msgstr "Cài đặt lần đầu"
 
-#: ../scarecrow-initial-setup/gis-assistant.c:396
+#: ../scarecrow-initial-setup/scis-assistant.c:396
 msgid "_Next"
 msgstr "_Tiếp"
 
-#: ../scarecrow-initial-setup/gis-assistant.c:397
+#: ../scarecrow-initial-setup/scis-assistant.c:397
 msgid "_Accept"
 msgstr "_Chấp nhận"
 
-#: ../scarecrow-initial-setup/gis-assistant.c:398
+#: ../scarecrow-initial-setup/scis-assistant.c:398
 msgid "_Skip"
 msgstr "_Bỏ qua"
 
-#: ../scarecrow-initial-setup/gis-assistant.c:399
+#: ../scarecrow-initial-setup/scis-assistant.c:399
 msgid "_Previous"
 msgstr "T_rước"
 
-#: ../scarecrow-initial-setup/gis-assistant.c:400
+#: ../scarecrow-initial-setup/scis-assistant.c:400
 msgid "_Cancel"
 msgstr "T_hôi"
 
@@ -54,32 +54,32 @@ msgstr "Ép buộc chế độ người dùng cũ"
 msgid "— GNOME initial setup"
 msgstr "— Cài đặt GNOME lần đầu"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page.c:242
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-local.ui.h:2
+#: ../scarecrow-initial-setup/pages/account/scis-account-page.c:242
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-local.ui.h:2
 msgid "About You"
 msgstr "Vài nét về bạn"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.c:182
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-enterprise.c:182
 msgid "Failed to register account"
 msgstr "Gặp lỗi khi đăng ký tài khoản"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.c:376
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-enterprise.c:376
 msgid "No supported way to authenticate with this domain"
 msgstr "Không có cách xác thực được hỗ trợ nào với miền này"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.c:416
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-enterprise.c:416
 msgid "Failed to join domain"
 msgstr "Gặp lỗi khi gia nhập vào miền"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.c:484
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-enterprise.c:484
 msgid "Failed to log into domain"
 msgstr "Gặp lỗi khi đăng nhập vào miền"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui.h:1
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui.h:1
 msgid "Enterprise Login"
 msgstr "Đăng nhập kiểu công ty"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui.h:2
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui.h:2
 msgid ""
 "Enterprise login allows an existing centrally managed user account to be "
 "used on this device. You can also use this account to access company "
@@ -89,33 +89,33 @@ msgstr ""
 "theo kiểu tập trung để sử dụng trên thiết bị này. Bạn cũng còn có thể dùng "
 "tài khoản này để truy cập các tài nguyên công ty từ internet."
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui.h:3
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui.h:3
 msgid "_Domain"
 msgstr "Tên _miền"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui.h:4
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-local.ui.h:5
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui.h:4
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-local.ui.h:5
 msgid "_Username"
 msgstr "_Tài khoản"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui.h:5
-#: ../scarecrow-initial-setup/pages/password/gis-password-page.ui.h:3
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui.h:5
+#: ../scarecrow-initial-setup/pages/password/scis-password-page.ui.h:3
 msgid "_Password"
 msgstr "Mật _khẩu"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui.h:6
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui.h:6
 msgid "Enterprise domain or realm name"
 msgstr "Tên miền hay tên địa hạt kiểu công ty"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui.h:7
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui.h:7
 msgid "C_ontinue"
 msgstr "Tiế_p tục"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui.h:8
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui.h:8
 msgid "Domain Administrator Login"
 msgstr "Đăng nhập quản trị miền"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui.h:9
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui.h:9
 msgid ""
 "In order to use enterprise logins, this computer needs to be enrolled in a "
 "domain. Please have your network administrator type the domain password "
@@ -125,39 +125,39 @@ msgstr ""
 "Vui lòng điền kiểu quản trị mạng mật khẩu tên miền vào đây, và chọn một tên "
 "máy duy nhất cho máy tính của bạn."
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui.h:10
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui.h:10
 msgid "_Computer"
 msgstr "Má_y tính"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui.h:11
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui.h:11
 msgid "Administrator _Name"
 msgstr "Tên _quản trị viên"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui.h:12
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui.h:12
 msgid "Administrator Password"
 msgstr "Mật khẩu quản trị"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-local.c:203
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-local.c:203
 msgid "Please check the name and username. You can choose a picture too."
 msgstr "Vui lòng kiểm tra tên và tài khoản. Bạn còn có thể chọn một ảnh chụp."
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-local.c:413
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-local.c:413
 msgid "We need a few details to complete setup."
 msgstr "Chúng tôi cần một ít thông tin chi tiết để hoàn tất việc cài đặt."
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-local.ui.h:1
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-local.ui.h:1
 msgid "Avatar image"
 msgstr "Ánh Avatar"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-local.ui.h:3
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-local.ui.h:3
 msgid "Please provide a name and username. You can choose a picture too."
 msgstr "Vui lòng cung cấp tên và tài khoản. Bạn còn có thể chọn một ảnh chụp."
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-local.ui.h:4
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-local.ui.h:4
 msgid "_Full Name"
 msgstr "_Họ tên"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page.ui.h:1
+#: ../scarecrow-initial-setup/pages/account/scis-account-page.ui.h:1
 msgid "Set Up _Enterprise Login"
 msgstr "Cài đặt đăng nhập kiểu công t_y"
 
@@ -218,31 +218,31 @@ msgstr ""
 msgid "This will be used to name your home folder and can’t be changed."
 msgstr "Đây sẽ là tên thư mục cá nhân của bạn và không thể thay đổi."
 
-#: ../scarecrow-initial-setup/pages/eulas/gis-eula-page.c:301
-#: ../scarecrow-initial-setup/pages/eulas/gis-eula-page.ui.h:1
+#: ../scarecrow-initial-setup/pages/eulas/scis-eula-page.c:301
+#: ../scarecrow-initial-setup/pages/eulas/scis-eula-page.ui.h:1
 msgid "License Agreements"
 msgstr "Thỏa thuận giấy phép"
 
-#: ../scarecrow-initial-setup/pages/eulas/gis-eula-page.ui.h:2
+#: ../scarecrow-initial-setup/pages/eulas/scis-eula-page.ui.h:2
 msgid ""
 "I have _agreed to the terms and conditions in this end user license "
 "agreement."
 msgstr ""
 "Tôi đồ_ng ý với những điều khoản trong thỏa thuận giấy phép người dùng cuối"
 
-#: ../scarecrow-initial-setup/pages/goa/gis-goa-page.c:87
+#: ../scarecrow-initial-setup/pages/goa/scis-goa-page.c:87
 msgid "Add Account"
 msgstr "Thêm tài khoản"
 
-#: ../scarecrow-initial-setup/pages/goa/gis-goa-page.c:336
+#: ../scarecrow-initial-setup/pages/goa/scis-goa-page.c:336
 msgid "Online Accounts"
 msgstr "Tài khoản trực tuyến"
 
-#: ../scarecrow-initial-setup/pages/goa/gis-goa-page.ui.h:1
+#: ../scarecrow-initial-setup/pages/goa/scis-goa-page.ui.h:1
 msgid "Connect Your Online Accounts"
 msgstr "Kết nối tài khoản trực tuyến của bạn"
 
-#: ../scarecrow-initial-setup/pages/goa/gis-goa-page.ui.h:2
+#: ../scarecrow-initial-setup/pages/goa/scis-goa-page.ui.h:2
 msgid ""
 "Connect your accounts to easily access your email, online calendar, "
 "contacts, documents and photos."
@@ -250,7 +250,7 @@ msgstr ""
 "Kết nối tài khoản của bạn sẽ cho phép bạn dễ dàng truy cập đến thư, lịch "
 "trực tuyến, liên lạc, tài liệu và ảnh."
 
-#: ../scarecrow-initial-setup/pages/goa/gis-goa-page.ui.h:3
+#: ../scarecrow-initial-setup/pages/goa/scis-goa-page.ui.h:3
 msgid ""
 "Accounts can be added and removed at any time from the Settings application."
 msgstr ""
@@ -273,12 +273,12 @@ msgstr "Còn nữa…"
 msgid "No inputs found"
 msgstr "Không tìm đầu vào nào"
 
-#: ../scarecrow-initial-setup/pages/keyboard/gis-keyboard-page.c:363
-#: ../scarecrow-initial-setup/pages/keyboard/gis-keyboard-page.ui.h:1
+#: ../scarecrow-initial-setup/pages/keyboard/scis-keyboard-page.c:363
+#: ../scarecrow-initial-setup/pages/keyboard/scis-keyboard-page.ui.h:1
 msgid "Typing"
 msgstr "Nhập liệu"
 
-#: ../scarecrow-initial-setup/pages/keyboard/gis-keyboard-page.ui.h:2
+#: ../scarecrow-initial-setup/pages/keyboard/scis-keyboard-page.ui.h:2
 msgid "Select your keyboard layout or an input method."
 msgstr "Chọn bố cục bàn phím hay phương thức nhập liệu."
 
@@ -286,7 +286,7 @@ msgstr "Chọn bố cục bàn phím hay phương thức nhập liệu."
 msgid "No languages found"
 msgstr "Không tìm thấy ngôn ngữ"
 
-#: ../scarecrow-initial-setup/pages/language/gis-language-page.c:292
+#: ../scarecrow-initial-setup/pages/language/scis-language-page.c:292
 msgid "Welcome"
 msgstr "Chào mừng bạn"
 
@@ -294,32 +294,32 @@ msgstr "Chào mừng bạn"
 #. * like greeting somebody at the door. If the exclamation mark is not
 #. * suitable for this in your language you may replace it.
 #.
-#: ../scarecrow-initial-setup/pages/language/gis-welcome-widget.c:123
+#: ../scarecrow-initial-setup/pages/language/scis-welcome-widget.c:123
 msgid "Welcome!"
 msgstr "Chào mừng bạn!"
 
-#: ../scarecrow-initial-setup/pages/network/gis-network-page.c:304
+#: ../scarecrow-initial-setup/pages/network/scis-network-page.c:304
 msgctxt "Wireless access point"
 msgid "Other…"
 msgstr "Khác…"
 
-#: ../scarecrow-initial-setup/pages/network/gis-network-page.c:363
+#: ../scarecrow-initial-setup/pages/network/scis-network-page.c:363
 msgid "Wireless networking is disabled"
 msgstr "Mạng không dây bị tắt"
 
-#: ../scarecrow-initial-setup/pages/network/gis-network-page.c:370
+#: ../scarecrow-initial-setup/pages/network/scis-network-page.c:370
 msgid "Checking for available wireless networks"
 msgstr "Đang kiểm xem có mạng không dây nào dùng được không"
 
-#: ../scarecrow-initial-setup/pages/network/gis-network-page.c:662
+#: ../scarecrow-initial-setup/pages/network/scis-network-page.c:662
 msgid "Network"
 msgstr "Mạng"
 
-#: ../scarecrow-initial-setup/pages/network/gis-network-page.ui.h:1
+#: ../scarecrow-initial-setup/pages/network/scis-network-page.ui.h:1
 msgid "Wi-Fi"
 msgstr "Wi-Fi"
 
-#: ../scarecrow-initial-setup/pages/network/gis-network-page.ui.h:2
+#: ../scarecrow-initial-setup/pages/network/scis-network-page.ui.h:2
 msgid ""
 "Connecting to the Internet will enable you to set the time, add your "
 "details, and enable you to access your email, calendar, and contacts. It is "
@@ -329,31 +329,31 @@ msgstr ""
 "và cho phép bạn truy cập thư điện tử, lịch và liên lạc. Nó cũng cần thiết "
 "cho việc đăng nhập bằng tài khoản kiểu công ty."
 
-#: ../scarecrow-initial-setup/pages/network/gis-network-page.ui.h:3
+#: ../scarecrow-initial-setup/pages/network/scis-network-page.ui.h:3
 msgid "No wireless available"
 msgstr "Không có mạng không dây dùng được"
 
-#: ../scarecrow-initial-setup/pages/network/gis-network-page.ui.h:4
+#: ../scarecrow-initial-setup/pages/network/scis-network-page.ui.h:4
 msgid "Turn On"
 msgstr "Bật lên"
 
-#: ../scarecrow-initial-setup/pages/password/gis-password-page.c:142
+#: ../scarecrow-initial-setup/pages/password/scis-password-page.c:142
 msgid "The passwords do not match."
 msgstr "Mật khẩu không khớp nhau."
 
-#: ../scarecrow-initial-setup/pages/password/gis-password-page.c:264
+#: ../scarecrow-initial-setup/pages/password/scis-password-page.c:264
 msgid "Password"
 msgstr "Mật khẩu"
 
-#: ../scarecrow-initial-setup/pages/password/gis-password-page.ui.h:1
+#: ../scarecrow-initial-setup/pages/password/scis-password-page.ui.h:1
 msgid "Set a Password"
 msgstr "Đặt mật khẩu"
 
-#: ../scarecrow-initial-setup/pages/password/gis-password-page.ui.h:2
+#: ../scarecrow-initial-setup/pages/password/scis-password-page.ui.h:2
 msgid "Be careful not to lose your password."
 msgstr "Hãy cẩn thận đừng quên mật khẩu của mình."
 
-#: ../scarecrow-initial-setup/pages/password/gis-password-page.ui.h:4
+#: ../scarecrow-initial-setup/pages/password/scis-password-page.ui.h:4
 msgid "_Confirm"
 msgstr "Xá_c nhận"
 
@@ -463,7 +463,7 @@ msgstr "Thêm các chữ cái, chữ số và dấu chấm câu sẽ làm cho n�
 #. * like "Fedora" or "Ubuntu". It falls back to "GNOME" if we can't
 #. * detect any distribution.
 #.
-#: ../scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:110
+#: ../scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:110
 #, c-format
 msgid ""
 "Sending reports of technical problems helps us to improve %s. Reports are "
@@ -476,31 +476,31 @@ msgstr ""
 #. * like "Fedora" or "Ubuntu". It falls back to "GNOME" if we can't
 #. * detect any distribution.
 #.
-#: ../scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:120
+#: ../scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:120
 #, c-format
 msgid "Problem data will be collected by %s:"
 msgstr "Dữ liệu trục trặc sẽ được sưu tập bởi %s:"
 
-#: ../scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:121
-#: ../scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:181
-#: ../scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:256
+#: ../scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:121
+#: ../scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:181
+#: ../scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:256
 msgid "Privacy Policy"
 msgstr "Chính sách riêng tư"
 
-#: ../scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:181
+#: ../scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:181
 msgid "Uses Mozilla Location Service:"
 msgstr "Dùng dịch vụ vị trí Mozilla"
 
-#: ../scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:292
-#: ../scarecrow-initial-setup/pages/privacy/gis-privacy-page.ui.h:1
+#: ../scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:292
+#: ../scarecrow-initial-setup/pages/privacy/scis-privacy-page.ui.h:1
 msgid "Privacy"
 msgstr "Riêng tư"
 
-#: ../scarecrow-initial-setup/pages/privacy/gis-privacy-page.ui.h:2
+#: ../scarecrow-initial-setup/pages/privacy/scis-privacy-page.ui.h:2
 msgid "Location Services"
 msgstr "Dịch vụ vị trí"
 
-#: ../scarecrow-initial-setup/pages/privacy/gis-privacy-page.ui.h:3
+#: ../scarecrow-initial-setup/pages/privacy/scis-privacy-page.ui.h:3
 msgid ""
 "Allows applications to determine your geographical location. An indication "
 "is shown when location services are in use."
@@ -508,11 +508,11 @@ msgstr ""
 "Cho phép các ứng dụng dò tìm vị trí địa lý của bạn. Và hiển thị chỉ thị các "
 "dịch vụ vị trí đang được dùng."
 
-#: ../scarecrow-initial-setup/pages/privacy/gis-privacy-page.ui.h:4
+#: ../scarecrow-initial-setup/pages/privacy/scis-privacy-page.ui.h:4
 msgid "Automatic Problem Reporting"
 msgstr "Tự động báo cáo trục trặc"
 
-#: ../scarecrow-initial-setup/pages/privacy/gis-privacy-page.ui.h:5
+#: ../scarecrow-initial-setup/pages/privacy/scis-privacy-page.ui.h:5
 msgid ""
 "Privacy controls can be changed at any time from the Settings application."
 msgstr ""
@@ -522,33 +522,33 @@ msgstr ""
 msgid "No regions found"
 msgstr "Không tìm thấy vùng miền nào"
 
-#: ../scarecrow-initial-setup/pages/region/gis-region-page.c:226
-#: ../scarecrow-initial-setup/pages/region/gis-region-page.ui.h:1
+#: ../scarecrow-initial-setup/pages/region/scis-region-page.c:226
+#: ../scarecrow-initial-setup/pages/region/scis-region-page.ui.h:1
 msgid "Region"
 msgstr "Vùng"
 
-#: ../scarecrow-initial-setup/pages/region/gis-region-page.ui.h:2
+#: ../scarecrow-initial-setup/pages/region/scis-region-page.ui.h:2
 msgid "Choose your country or region."
 msgstr "Chọn nước hay vùng địa lý của bạn."
 
 #. Translators: the parameter here is the name of a distribution,
 #. * like "Fedora" or "Ubuntu". It falls back to "GNOME 3" if we can't
 #. * detect any distribution.
-#: ../scarecrow-initial-setup/pages/summary/gis-summary-page.c:304
+#: ../scarecrow-initial-setup/pages/summary/scis-summary-page.c:304
 #, c-format
 msgid "_Start Using %s"
 msgstr "_Bắt đầu dùng %s"
 
-#: ../scarecrow-initial-setup/pages/summary/gis-summary-page.c:334
+#: ../scarecrow-initial-setup/pages/summary/scis-summary-page.c:334
 msgid "Ready to Go"
 msgstr "Đã sẵn sàng sử dụng"
 
-#: ../scarecrow-initial-setup/pages/summary/gis-summary-page.ui.h:1
+#: ../scarecrow-initial-setup/pages/summary/scis-summary-page.ui.h:1
 msgid "You’re ready to go!"
 msgstr "Bạn đã sẵn sàng sử dụng!"
 
 #. Translators: "city, country"
-#: ../scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:236
+#: ../scarecrow-initial-setup/pages/timezone/scis-timezone-page.c:236
 #, c-format
 msgctxt "timezone loc"
 msgid "%s, %s"
@@ -557,33 +557,33 @@ msgstr "%s, %s"
 #. Translators: UTC here means the Coordinated Universal Time.
 #. * %:::z will be replaced by the offset from UTC e.g. UTC+02
 #.
-#: ../scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:273
+#: ../scarecrow-initial-setup/pages/timezone/scis-timezone-page.c:273
 msgid "UTC%:::z"
 msgstr "UTC%:::z"
 
 #. Translators: This is the time format used in 12-hour mode.
-#: ../scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:277
+#: ../scarecrow-initial-setup/pages/timezone/scis-timezone-page.c:277
 msgid "%l:%M %p"
 msgstr "%l:%M %p"
 
 #. Translators: This is the time format used in 24-hour mode.
-#: ../scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:280
+#: ../scarecrow-initial-setup/pages/timezone/scis-timezone-page.c:280
 msgid "%R"
 msgstr "%R"
 
 #. Translators: "timezone (utc shift)"
-#: ../scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:283
+#: ../scarecrow-initial-setup/pages/timezone/scis-timezone-page.c:283
 #, c-format
 msgctxt "timezone map"
 msgid "%s (%s)"
 msgstr "%s (%s)"
 
-#: ../scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:423
-#: ../scarecrow-initial-setup/pages/timezone/gis-timezone-page.ui.h:1
+#: ../scarecrow-initial-setup/pages/timezone/scis-timezone-page.c:423
+#: ../scarecrow-initial-setup/pages/timezone/scis-timezone-page.ui.h:1
 msgid "Time Zone"
 msgstr "Múi giờ"
 
-#: ../scarecrow-initial-setup/pages/timezone/gis-timezone-page.ui.h:2
+#: ../scarecrow-initial-setup/pages/timezone/scis-timezone-page.ui.h:2
 msgid ""
 "The time zone will be set automatically if your location can be found. You "
 "can also search for a city to set it yourself."
@@ -591,7 +591,7 @@ msgstr ""
 "Sẽ đặt múi giờ một cách tự động nếu không thể tìm thấy vị trí của bạn. Bạn "
 "còn có thể tìm thành phố để tự mình đặt nó."
 
-#: ../scarecrow-initial-setup/pages/timezone/gis-timezone-page.ui.h:3
+#: ../scarecrow-initial-setup/pages/timezone/scis-timezone-page.ui.h:3
 msgid "Please search for a nearby city"
 msgstr "Vui lòng tìm thành phố gần đây"
 
@@ -599,7 +599,7 @@ msgstr "Vui lòng tìm thành phố gần đây"
 #. * like "Fedora" or "Ubuntu". It falls back to "GNOME" if we can't
 #. * detect any distribution.
 #.
-#: ../scarecrow-initial-setup/pages/software/gis-software-page.c:112
+#: ../scarecrow-initial-setup/pages/software/scis-software-page.c:112
 #, c-format
 msgid ""
 "Proprietary software sources provide access to additional software, "
@@ -610,23 +610,23 @@ msgstr ""
 "bao gồm trình duyệt web và các trò chơi. Những phần mềm này bị hạn chế việc "
 "sử dụng và truy cập vào mã nguồn, và nó không được cung cấp bởi %s."
 
-#: ../scarecrow-initial-setup/pages/software/gis-software-page.c:245
+#: ../scarecrow-initial-setup/pages/software/scis-software-page.c:245
 msgid "Software Sources"
 msgstr "Nguồn phần mềm"
 
-#: ../scarecrow-initial-setup/pages/software/gis-software-page.ui.h:1
+#: ../scarecrow-initial-setup/pages/software/scis-software-page.ui.h:1
 msgid "Additional Software Sources"
 msgstr "Các nguồn phần mềm bổ sung"
 
-#: ../scarecrow-initial-setup/pages/software/gis-software-page.ui.h:2
+#: ../scarecrow-initial-setup/pages/software/scis-software-page.ui.h:2
 msgid "<a href=\"more\">Find out more…</a>"
 msgstr "<a href=\"more\">Tìm thêm nữa…</a>"
 
-#: ../scarecrow-initial-setup/pages/software/gis-software-page.ui.h:3
+#: ../scarecrow-initial-setup/pages/software/scis-software-page.ui.h:3
 msgid "Proprietary Software Sources"
 msgstr "Nguồn phần mềm độc quyền"
 
-#: ../scarecrow-initial-setup/pages/software/gis-software-page.ui.h:4
+#: ../scarecrow-initial-setup/pages/software/scis-software-page.ui.h:4
 msgid ""
 "Proprietary software typically has restrictions on how it can be used and on "
 "access to source code. This prevents anyone but the software owner from "
@@ -636,7 +636,7 @@ msgstr ""
 "Điều này ngăn trở mọi người không sở hữu phần mềm khỏi việc điều tra, cải "
 "tiến hay học hỏi từ mã nguồn của nó."
 
-#: ../scarecrow-initial-setup/pages/software/gis-software-page.ui.h:5
+#: ../scarecrow-initial-setup/pages/software/scis-software-page.ui.h:5
 msgid ""
 "In contrast, Free Software can be freely run, copied, distributed, studied "
 "and modified."

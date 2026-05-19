@@ -32,23 +32,23 @@ msgstr "Первоначальная настройка"
 msgid "preferences-system"
 msgstr "preferences-system"
 
-#: scarecrow-initial-setup/gis-assistant.c:423
+#: scarecrow-initial-setup/scis-assistant.c:423
 msgid "_Next"
 msgstr "_Далее"
 
-#: scarecrow-initial-setup/gis-assistant.c:424
+#: scarecrow-initial-setup/scis-assistant.c:424
 msgid "_Accept"
 msgstr "_Принять"
 
-#: scarecrow-initial-setup/gis-assistant.c:425
+#: scarecrow-initial-setup/scis-assistant.c:425
 msgid "_Skip"
 msgstr "_Пропустить"
 
-#: scarecrow-initial-setup/gis-assistant.c:426
+#: scarecrow-initial-setup/scis-assistant.c:426
 msgid "_Previous"
 msgstr "_Назад"
 
-#: scarecrow-initial-setup/gis-assistant.c:427
+#: scarecrow-initial-setup/scis-assistant.c:427
 msgid "_Cancel"
 msgstr "_Отмена"
 
@@ -60,36 +60,36 @@ msgstr "Принудительно использовать режим суще�
 msgid "— GNOME initial setup"
 msgstr "— Первоначальная настройка GNOME"
 
-#: scarecrow-initial-setup/pages/account/gis-account-avatar-chooser.ui:36
+#: scarecrow-initial-setup/pages/account/scis-account-avatar-chooser.ui:36
 msgid "Take a Picture…"
 msgstr "Сделать фотоснимок…"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page.c:264
-#: scarecrow-initial-setup/pages/account/gis-account-page-local.ui:41
+#: scarecrow-initial-setup/pages/account/scis-account-page.c:264
+#: scarecrow-initial-setup/pages/account/scis-account-page-local.ui:41
 msgid "About You"
 msgstr "О вас"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.c:182
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.c:182
 msgid "Failed to register account"
 msgstr "Не удалось зарегистрировать учётную запись"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.c:376
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.c:376
 msgid "No supported way to authenticate with this domain"
 msgstr "Нет поддерживаемых способов аутентификации в этом домене"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.c:416
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.c:416
 msgid "Failed to join domain"
 msgstr "Не удалось присоединиться к домену"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.c:484
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.c:484
 msgid "Failed to log into domain"
 msgstr "Не удалось войти в домен"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:31
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:31
 msgid "Enterprise Login"
 msgstr "Корпоративная учётная запись"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:45
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:45
 msgid ""
 "Enterprise login allows an existing centrally managed user account to be "
 "used on this device. You can also use this account to access company "
@@ -100,34 +100,34 @@ msgstr ""
 "также можете использовать эту учётную запись для доступа к ресурсам компании "
 "в Интернете."
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:65
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:316
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:65
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:316
 msgid "_Domain"
 msgstr "_Домен"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:82
-#: scarecrow-initial-setup/pages/account/gis-account-page-local.ui:101
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:82
+#: scarecrow-initial-setup/pages/account/scis-account-page-local.ui:101
 msgid "_Username"
 msgstr "_Имя пользователя"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:99
-#: scarecrow-initial-setup/pages/password/gis-password-page.ui:66
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:99
+#: scarecrow-initial-setup/pages/password/scis-password-page.ui:66
 msgid "_Password"
 msgstr "_Пароль"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:175
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:175
 msgid "Enterprise domain or realm name"
 msgstr "Название домена предприятия или области"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:240
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:240
 msgid "C_ontinue"
 msgstr "П_родолжить"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:275
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:275
 msgid "Domain Administrator Login"
 msgstr "Вход для администратора домена"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:295
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:295
 msgid ""
 "In order to use enterprise logins, this computer needs to be enrolled in a "
 "domain. Please have your network administrator type the domain password "
@@ -137,43 +137,43 @@ msgstr ""
 "зарегистрирован в домене. Администратор сети должен ввести здесь доменный "
 "пароль и выбрать уникальное имя для вашего компьютера."
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:350
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:350
 msgid "_Computer"
 msgstr "_Компьютер"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:382
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:382
 msgid "Administrator _Name"
 msgstr "Имя _администратора"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:416
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:416
 msgid "Administrator Password"
 msgstr "Пароль администратора"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-local.c:203
+#: scarecrow-initial-setup/pages/account/scis-account-page-local.c:203
 msgid "Please check the name and username. You can choose a picture too."
 msgstr "Проверьте имя и имя пользователя. Также можно выбрать изображение."
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-local.c:422
+#: scarecrow-initial-setup/pages/account/scis-account-page-local.c:422
 msgid "We need a few details to complete setup."
 msgstr "Для завершения осталось указать ещё немного информации."
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-local.ui:21
+#: scarecrow-initial-setup/pages/account/scis-account-page-local.ui:21
 msgid "Avatar image"
 msgstr "Аватар"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-local.ui:53
+#: scarecrow-initial-setup/pages/account/scis-account-page-local.ui:53
 msgid "Please provide a name and username. You can choose a picture too."
 msgstr "Укажите имя и имя пользователя. Также можно выбрать изображение."
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-local.ui:70
+#: scarecrow-initial-setup/pages/account/scis-account-page-local.ui:70
 msgid "_Full Name"
 msgstr "П_олное имя"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page.ui:43
+#: scarecrow-initial-setup/pages/account/scis-account-page.ui:43
 msgid "_Enterprise Login"
 msgstr "_Корпоративная учётная запись"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page.ui:53
+#: scarecrow-initial-setup/pages/account/scis-account-page.ui:53
 msgid "Go online to set up Enterprise Login."
 msgstr "Подключиться к интернету для настройки _корпоративной учётной записи."
 
@@ -228,30 +228,30 @@ msgstr ""
 "Будет использовано для именования вашей домашней папки; не может быть "
 "изменено."
 
-#: scarecrow-initial-setup/pages/eulas/gis-eula-page.c:301
-#: scarecrow-initial-setup/pages/eulas/gis-eula-page.ui:21
+#: scarecrow-initial-setup/pages/eulas/scis-eula-page.c:301
+#: scarecrow-initial-setup/pages/eulas/scis-eula-page.ui:21
 msgid "License Agreements"
 msgstr "Лицензионные соглашения"
 
-#: scarecrow-initial-setup/pages/eulas/gis-eula-page.ui:50
+#: scarecrow-initial-setup/pages/eulas/scis-eula-page.ui:50
 msgid ""
 "I have _agreed to the terms and conditions in this end user license "
 "agreement."
 msgstr "Я _принимаю соглашения и условия этой лицензии."
 
-#: scarecrow-initial-setup/pages/goa/gis-goa-page.c:87
+#: scarecrow-initial-setup/pages/goa/scis-goa-page.c:87
 msgid "Add Account"
 msgstr "Добавить учётную запись"
 
-#: scarecrow-initial-setup/pages/goa/gis-goa-page.c:339
+#: scarecrow-initial-setup/pages/goa/scis-goa-page.c:339
 msgid "Online Accounts"
 msgstr "Сетевые учётные записи"
 
-#: scarecrow-initial-setup/pages/goa/gis-goa-page.ui:39
+#: scarecrow-initial-setup/pages/goa/scis-goa-page.ui:39
 msgid "Connect Your Online Accounts"
 msgstr "Подключить сетевые учётные записи"
 
-#: scarecrow-initial-setup/pages/goa/gis-goa-page.ui:58
+#: scarecrow-initial-setup/pages/goa/scis-goa-page.ui:58
 msgid ""
 "Connect your accounts to easily access your email, online calendar, "
 "contacts, documents and photos."
@@ -259,7 +259,7 @@ msgstr ""
 "Подключите ваши учётные записи для простого доступа к электронной почте, "
 "онлайн-календарю, контактам, документам и фотографиям."
 
-#: scarecrow-initial-setup/pages/goa/gis-goa-page.ui:95
+#: scarecrow-initial-setup/pages/goa/scis-goa-page.ui:95
 msgid ""
 "Accounts can be added and removed at any time from the Settings application."
 msgstr ""
@@ -283,12 +283,12 @@ msgstr "Ещё…"
 msgid "No inputs found"
 msgstr "Источники ввода не найдены"
 
-#: scarecrow-initial-setup/pages/keyboard/gis-keyboard-page.c:480
-#: scarecrow-initial-setup/pages/keyboard/gis-keyboard-page.ui:30
+#: scarecrow-initial-setup/pages/keyboard/scis-keyboard-page.c:480
+#: scarecrow-initial-setup/pages/keyboard/scis-keyboard-page.ui:30
 msgid "Typing"
 msgstr "Набор"
 
-#: scarecrow-initial-setup/pages/keyboard/gis-keyboard-page.ui:42
+#: scarecrow-initial-setup/pages/keyboard/scis-keyboard-page.ui:42
 msgid "Select your keyboard layout or an input method."
 msgstr "Выберите раскладку клавиатуры или способ ввода."
 
@@ -296,7 +296,7 @@ msgstr "Выберите раскладку клавиатуры или спос
 msgid "No languages found"
 msgstr "Языки не найдены"
 
-#: scarecrow-initial-setup/pages/language/gis-language-page.c:308
+#: scarecrow-initial-setup/pages/language/scis-language-page.c:308
 msgid "Welcome"
 msgstr "Добро пожаловать"
 
@@ -304,32 +304,32 @@ msgstr "Добро пожаловать"
 #. * like greeting somebody at the door. If the exclamation mark is not
 #. * suitable for this in your language you may replace it.
 #.
-#: scarecrow-initial-setup/pages/language/gis-welcome-widget.c:123
+#: scarecrow-initial-setup/pages/language/scis-welcome-widget.c:123
 msgid "Welcome!"
 msgstr "Добро пожаловать!"
 
-#: scarecrow-initial-setup/pages/network/gis-network-page.c:313
+#: scarecrow-initial-setup/pages/network/scis-network-page.c:313
 msgctxt "Wireless access point"
 msgid "Other…"
 msgstr "Другая…"
 
-#: scarecrow-initial-setup/pages/network/gis-network-page.c:398
+#: scarecrow-initial-setup/pages/network/scis-network-page.c:398
 msgid "Wireless networking is disabled"
 msgstr "Беспроводные сетевые соединения отключены"
 
-#: scarecrow-initial-setup/pages/network/gis-network-page.c:405
+#: scarecrow-initial-setup/pages/network/scis-network-page.c:405
 msgid "Checking for available wireless networks"
 msgstr "Поиск доступных беспроводных сетей"
 
-#: scarecrow-initial-setup/pages/network/gis-network-page.c:713
+#: scarecrow-initial-setup/pages/network/scis-network-page.c:713
 msgid "Network"
 msgstr "Сеть"
 
-#: scarecrow-initial-setup/pages/network/gis-network-page.ui:33
+#: scarecrow-initial-setup/pages/network/scis-network-page.ui:33
 msgid "Wi-Fi"
 msgstr "Wi-Fi"
 
-#: scarecrow-initial-setup/pages/network/gis-network-page.ui:45
+#: scarecrow-initial-setup/pages/network/scis-network-page.ui:45
 msgid ""
 "Connecting to the Internet will enable you to set the time, add your "
 "details, and enable you to access your email, calendar, and contacts. It is "
@@ -339,35 +339,35 @@ msgstr ""
 "сведения, а также предоставит доступ к электронной почте, календарю и "
 "контактам. Оно также необходимо для корпоративных учётных записей."
 
-#: scarecrow-initial-setup/pages/network/gis-network-page.ui:103
+#: scarecrow-initial-setup/pages/network/scis-network-page.ui:103
 msgid "No wireless available"
 msgstr "Беспроводные сети не найдены"
 
-#: scarecrow-initial-setup/pages/network/gis-network-page.ui:118
+#: scarecrow-initial-setup/pages/network/scis-network-page.ui:118
 msgid "Turn On"
 msgstr "Включить"
 
-#: scarecrow-initial-setup/pages/password/gis-password-page.c:142
+#: scarecrow-initial-setup/pages/password/scis-password-page.c:142
 msgid "This is a weak password."
 msgstr "Это слабый пароль."
 
-#: scarecrow-initial-setup/pages/password/gis-password-page.c:148
+#: scarecrow-initial-setup/pages/password/scis-password-page.c:148
 msgid "The passwords do not match."
 msgstr "Пароли не совпадают."
 
-#: scarecrow-initial-setup/pages/password/gis-password-page.c:270
+#: scarecrow-initial-setup/pages/password/scis-password-page.c:270
 msgid "Password"
 msgstr "Пароль"
 
-#: scarecrow-initial-setup/pages/password/gis-password-page.ui:34
+#: scarecrow-initial-setup/pages/password/scis-password-page.ui:34
 msgid "Set a Password"
 msgstr "Установите пароль"
 
-#: scarecrow-initial-setup/pages/password/gis-password-page.ui:47
+#: scarecrow-initial-setup/pages/password/scis-password-page.ui:47
 msgid "Be careful not to lose your password."
 msgstr "Будьте внимательны, не потеряйте пароль."
 
-#: scarecrow-initial-setup/pages/password/gis-password-page.ui:98
+#: scarecrow-initial-setup/pages/password/scis-password-page.ui:98
 msgid "_Confirm"
 msgstr "_Подтвердить"
 
@@ -501,7 +501,7 @@ msgstr ""
 #. * like "Fedora" or "Ubuntu". It falls back to "GNOME" if we can't
 #. * detect any distribution.
 #.
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:110
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:110
 #, c-format
 msgid ""
 "Sending reports of technical problems helps us to improve %s. Reports are "
@@ -514,31 +514,31 @@ msgstr ""
 #. * like "Fedora" or "Ubuntu". It falls back to "GNOME" if we can't
 #. * detect any distribution.
 #.
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:120
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:120
 #, c-format
 msgid "Problem data will be collected by %s:"
 msgstr "Проблемные данные будут собраны %s:"
 
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:121
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:181
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:256
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:121
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:181
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:256
 msgid "Privacy Policy"
 msgstr "Политика конфиденциальности"
 
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:181
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:181
 msgid "Uses Mozilla Location Service:"
 msgstr "Использует службы определения местоположения Mozilla:"
 
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:292
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.ui:32
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:292
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.ui:32
 msgid "Privacy"
 msgstr "Конфиденциальность"
 
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.ui:49
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.ui:49
 msgid "Location Services"
 msgstr "Службы определения местоположения"
 
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.ui:70
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.ui:70
 msgid ""
 "Allows applications to determine your geographical location. An indication "
 "is shown when location services are in use."
@@ -546,11 +546,11 @@ msgstr ""
 "Позволяют приложениям определять ваше географическое местоположение. "
 "Специальный индикатор будет уведомлять о включении служб."
 
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.ui:92
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.ui:92
 msgid "Automatic Problem Reporting"
 msgstr "Автоматические отчёты о проблемах"
 
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.ui:128
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.ui:128
 msgid ""
 "Privacy controls can be changed at any time from the Settings application."
 msgstr ""
@@ -561,28 +561,28 @@ msgstr ""
 msgid "No regions found"
 msgstr "Регион не найден"
 
-#: scarecrow-initial-setup/pages/region/gis-region-page.c:226
-#: scarecrow-initial-setup/pages/region/gis-region-page.ui:31
+#: scarecrow-initial-setup/pages/region/scis-region-page.c:226
+#: scarecrow-initial-setup/pages/region/scis-region-page.ui:31
 msgid "Region"
 msgstr "Регион"
 
-#: scarecrow-initial-setup/pages/region/gis-region-page.ui:44
+#: scarecrow-initial-setup/pages/region/scis-region-page.ui:44
 msgid "Choose your country or region."
 msgstr "Выберите вашу страну или регион."
 
-#: scarecrow-initial-setup/pages/software/gis-software-page.c:184
+#: scarecrow-initial-setup/pages/software/scis-software-page.c:184
 msgid "Software Repositories"
 msgstr "Источники программного обеспечения"
 
 #. TRANSLATORS: this is the third party repositories info bar.
-#: scarecrow-initial-setup/pages/software/gis-software-page.c:188
+#: scarecrow-initial-setup/pages/software/scis-software-page.c:188
 msgid "Access additional software from selected third party sources."
 msgstr ""
 "Доступ к дополнительному программному обеспечению из выбранных сторонних "
 "источников."
 
 #. TRANSLATORS: this is the third party repositories info bar.
-#: scarecrow-initial-setup/pages/software/gis-software-page.c:192
+#: scarecrow-initial-setup/pages/software/scis-software-page.c:192
 msgid ""
 "Some of this software is proprietary and therefore has restrictions on use, "
 "sharing, and access to source code."
@@ -591,19 +591,19 @@ msgstr ""
 "ограничения на использование, совместное использование и доступ к исходному "
 "коду."
 
-#: scarecrow-initial-setup/pages/software/gis-software-page.ui:31
+#: scarecrow-initial-setup/pages/software/scis-software-page.ui:31
 msgid "Additional Software Repositories"
 msgstr "Дополнительные источники программного обеспечения"
 
-#: scarecrow-initial-setup/pages/software/gis-software-page.ui:55
+#: scarecrow-initial-setup/pages/software/scis-software-page.ui:55
 msgid "<a href=\"more\">Find out more…</a>"
 msgstr "<a href=\"more\">Узнать больше…</a>"
 
-#: scarecrow-initial-setup/pages/software/gis-software-page.ui:69
+#: scarecrow-initial-setup/pages/software/scis-software-page.ui:69
 msgid "Third Party Repositories"
 msgstr "Сторонние репозитории"
 
-#: scarecrow-initial-setup/pages/software/gis-software-page.ui:165
+#: scarecrow-initial-setup/pages/software/scis-software-page.ui:165
 msgid ""
 "Proprietary software typically has restrictions on how it can be used and on "
 "access to source code. This prevents anyone but the software owner from "
@@ -614,7 +614,7 @@ msgstr ""
 "программного обеспечения, проверять, улучшать или обучаться используя код "
 "этого программного обеспечения."
 
-#: scarecrow-initial-setup/pages/software/gis-software-page.ui:177
+#: scarecrow-initial-setup/pages/software/scis-software-page.ui:177
 msgid ""
 "In contrast, Free Software can be freely run, copied, distributed, studied "
 "and modified."
@@ -625,21 +625,21 @@ msgstr ""
 #. Translators: the parameter here is the name of a distribution,
 #. * like "Fedora" or "Ubuntu". It falls back to "GNOME 3" if we can't
 #. * detect any distribution.
-#: scarecrow-initial-setup/pages/summary/gis-summary-page.c:304
+#: scarecrow-initial-setup/pages/summary/scis-summary-page.c:304
 #, c-format
 msgid "_Start Using %s"
 msgstr "_Начать работу с %s"
 
-#: scarecrow-initial-setup/pages/summary/gis-summary-page.c:334
+#: scarecrow-initial-setup/pages/summary/scis-summary-page.c:334
 msgid "Ready to Go"
 msgstr "Готово к работе"
 
-#: scarecrow-initial-setup/pages/summary/gis-summary-page.ui:64
+#: scarecrow-initial-setup/pages/summary/scis-summary-page.ui:64
 msgid "You’re ready to go!"
 msgstr "Теперь всё готово!"
 
 #. Translators: "city, country"
-#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:236
+#: scarecrow-initial-setup/pages/timezone/scis-timezone-page.c:236
 #, c-format
 msgctxt "timezone loc"
 msgid "%s, %s"
@@ -648,33 +648,33 @@ msgstr "%s, %s"
 #. Translators: UTC here means the Coordinated Universal Time.
 #. * %:::z will be replaced by the offset from UTC e.g. UTC+02
 #.
-#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:273
+#: scarecrow-initial-setup/pages/timezone/scis-timezone-page.c:273
 msgid "UTC%:::z"
 msgstr "UTC%:::z"
 
 #. Translators: This is the time format used in 12-hour mode.
-#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:277
+#: scarecrow-initial-setup/pages/timezone/scis-timezone-page.c:277
 msgid "%l:%M %p"
 msgstr "%l:%M %p"
 
 #. Translators: This is the time format used in 24-hour mode.
-#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:280
+#: scarecrow-initial-setup/pages/timezone/scis-timezone-page.c:280
 msgid "%R"
 msgstr "%R"
 
 #. Translators: "timezone (utc shift)"
-#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:283
+#: scarecrow-initial-setup/pages/timezone/scis-timezone-page.c:283
 #, c-format
 msgctxt "timezone map"
 msgid "%s (%s)"
 msgstr "%s (%s)"
 
-#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:426
-#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.ui:33
+#: scarecrow-initial-setup/pages/timezone/scis-timezone-page.c:426
+#: scarecrow-initial-setup/pages/timezone/scis-timezone-page.ui:33
 msgid "Time Zone"
 msgstr "Часовой пояс"
 
-#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.ui:53
+#: scarecrow-initial-setup/pages/timezone/scis-timezone-page.ui:53
 msgid ""
 "The time zone will be set automatically if your location can be found. You "
 "can also search for a city to set it yourself."
@@ -683,7 +683,7 @@ msgstr ""
 "автоматически. Также можно установить часовой пояс самостоятельно, указав "
 "город."
 
-#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.ui:82
+#: scarecrow-initial-setup/pages/timezone/scis-timezone-page.ui:82
 msgid "Please search for a nearby city"
 msgstr "Найдите ближайший город"
 

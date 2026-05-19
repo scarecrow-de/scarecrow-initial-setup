@@ -29,23 +29,23 @@ msgstr "Upphafsstillingar"
 msgid "preferences-system"
 msgstr "preferences-system"
 
-#: scarecrow-initial-setup/gis-assistant.c:423
+#: scarecrow-initial-setup/scis-assistant.c:423
 msgid "_Next"
 msgstr "_Næsta"
 
-#: scarecrow-initial-setup/gis-assistant.c:424
+#: scarecrow-initial-setup/scis-assistant.c:424
 msgid "_Accept"
 msgstr "S_amþykkja"
 
-#: scarecrow-initial-setup/gis-assistant.c:425
+#: scarecrow-initial-setup/scis-assistant.c:425
 msgid "_Skip"
 msgstr "_Sleppa"
 
-#: scarecrow-initial-setup/gis-assistant.c:426
+#: scarecrow-initial-setup/scis-assistant.c:426
 msgid "_Previous"
 msgstr "_Fyrra"
 
-#: scarecrow-initial-setup/gis-assistant.c:427
+#: scarecrow-initial-setup/scis-assistant.c:427
 msgid "_Cancel"
 msgstr "_Hætta við"
 
@@ -57,37 +57,37 @@ msgstr "Þvinga núverandi notandaham"
 msgid "— GNOME initial setup"
 msgstr "— GNOME upphafsstillingar"
 
-#: scarecrow-initial-setup/pages/account/gis-account-avatar-chooser.ui:27
+#: scarecrow-initial-setup/pages/account/scis-account-avatar-chooser.ui:27
 #| msgid "Take a photo…"
 msgid "Take a Picture…"
 msgstr "Taka mynd…"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page.c:242
-#: scarecrow-initial-setup/pages/account/gis-account-page-local.ui:41
+#: scarecrow-initial-setup/pages/account/scis-account-page.c:242
+#: scarecrow-initial-setup/pages/account/scis-account-page-local.ui:41
 msgid "About You"
 msgstr "Um þig"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.c:182
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.c:182
 msgid "Failed to register account"
 msgstr "Mistókst að skrá aðgang"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.c:376
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.c:376
 msgid "No supported way to authenticate with this domain"
 msgstr "Engin aðferð er studd til auðkenningar á þessu léni"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.c:416
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.c:416
 msgid "Failed to join domain"
 msgstr "Mistókst að fá aðgang að léni"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.c:484
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.c:484
 msgid "Failed to log into domain"
 msgstr "Mistókst að skrá inn á lén"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:31
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:31
 msgid "Enterprise Login"
 msgstr "Innskráning í fyrirtæki"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:45
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:45
 msgid ""
 "Enterprise login allows an existing centrally managed user account to be "
 "used on this device. You can also use this account to access company "
@@ -97,34 +97,34 @@ msgstr ""
 "notandaaðgang á þessu tæki. Þú getur líka notað þennan notandaaðgang til að "
 "tengjast netlægum tilföngum viðkomandi fyrirtækis."
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:65
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:316
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:65
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:316
 msgid "_Domain"
 msgstr "_Lén"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:82
-#: scarecrow-initial-setup/pages/account/gis-account-page-local.ui:101
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:82
+#: scarecrow-initial-setup/pages/account/scis-account-page-local.ui:101
 msgid "_Username"
 msgstr "Notan_danafn"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:99
-#: scarecrow-initial-setup/pages/password/gis-password-page.ui:66
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:99
+#: scarecrow-initial-setup/pages/password/scis-password-page.ui:66
 msgid "_Password"
 msgstr "_Lykilorð"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:175
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:175
 msgid "Enterprise domain or realm name"
 msgstr "Fyrirtækislén eða heiti svæðis"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:240
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:240
 msgid "C_ontinue"
 msgstr "_Halda áfram"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:275
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:275
 msgid "Domain Administrator Login"
 msgstr "Innskráning lénstjóra"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:295
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:295
 msgid ""
 "In order to use enterprise logins, this computer needs to be enrolled in a "
 "domain. Please have your network administrator type the domain password "
@@ -134,39 +134,39 @@ msgstr ""
 "tölva að vera skráð á lénið. Láttu stjórnanda netkerfisins\n"
 "setja inn viðeigandi lykilorð hérna og velja einstakt heiti fyrir t-lvuna."
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:350
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:350
 msgid "_Computer"
 msgstr "_Tölva"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:382
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:382
 msgid "Administrator _Name"
 msgstr "_Nafn kerfisstjóra"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:416
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:416
 msgid "Administrator Password"
 msgstr "Lykilorð kerfisstjóra"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-local.c:203
+#: scarecrow-initial-setup/pages/account/scis-account-page-local.c:203
 msgid "Please check the name and username. You can choose a picture too."
 msgstr "Athugaðu notandanafnið og lykilorðið. Þú getur einnig valið mynd."
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-local.c:413
+#: scarecrow-initial-setup/pages/account/scis-account-page-local.c:413
 msgid "We need a few details to complete setup."
 msgstr "Okkur vantar nokkur atriði áður en hægt er að ljúka uppsetningu."
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-local.ui:18
+#: scarecrow-initial-setup/pages/account/scis-account-page-local.ui:18
 msgid "Avatar image"
 msgstr "Auðkennismynd"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-local.ui:53
+#: scarecrow-initial-setup/pages/account/scis-account-page-local.ui:53
 msgid "Please provide a name and username. You can choose a picture too."
 msgstr "Settu inn notandanafn og lykilorð. Þú getur einnig valið mynd."
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-local.ui:70
+#: scarecrow-initial-setup/pages/account/scis-account-page-local.ui:70
 msgid "_Full Name"
 msgstr "_Fullt nafn"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page.ui:37
+#: scarecrow-initial-setup/pages/account/scis-account-page.ui:37
 msgid "Set Up _Enterprise Login"
 msgstr "Setja upp _innskráningu í fyrirtæki"
 
@@ -220,30 +220,30 @@ msgstr ""
 "Þetta verður notað til að nefna heimamöppuna þína og er ekki hægt að breyta "
 "síðar."
 
-#: scarecrow-initial-setup/pages/eulas/gis-eula-page.c:301
-#: scarecrow-initial-setup/pages/eulas/gis-eula-page.ui:21
+#: scarecrow-initial-setup/pages/eulas/scis-eula-page.c:301
+#: scarecrow-initial-setup/pages/eulas/scis-eula-page.ui:21
 msgid "License Agreements"
 msgstr "Notkunarskilmálar"
 
-#: scarecrow-initial-setup/pages/eulas/gis-eula-page.ui:50
+#: scarecrow-initial-setup/pages/eulas/scis-eula-page.ui:50
 msgid ""
 "I have _agreed to the terms and conditions in this end user license "
 "agreement."
 msgstr "Ég hef s_amþykkt skilmálana í þessum samningi um notkunarleyfi."
 
-#: scarecrow-initial-setup/pages/goa/gis-goa-page.c:87
+#: scarecrow-initial-setup/pages/goa/scis-goa-page.c:87
 msgid "Add Account"
 msgstr "Bæta við notandaaðgangi"
 
-#: scarecrow-initial-setup/pages/goa/gis-goa-page.c:339
+#: scarecrow-initial-setup/pages/goa/scis-goa-page.c:339
 msgid "Online Accounts"
 msgstr "Aðgangar á neti"
 
-#: scarecrow-initial-setup/pages/goa/gis-goa-page.ui:39
+#: scarecrow-initial-setup/pages/goa/scis-goa-page.ui:39
 msgid "Connect Your Online Accounts"
 msgstr "Tengstu notandaaðgöngum þínum á netinu"
 
-#: scarecrow-initial-setup/pages/goa/gis-goa-page.ui:58
+#: scarecrow-initial-setup/pages/goa/scis-goa-page.ui:58
 msgid ""
 "Connect your accounts to easily access your email, online calendar, "
 "contacts, documents and photos."
@@ -251,7 +251,7 @@ msgstr ""
 "Tengdu aðgangana þína svo þú getir komist í tölvupóstinn þinn, nettengt "
 "dagatal, tengiliðalista, skjöl og myndir."
 
-#: scarecrow-initial-setup/pages/goa/gis-goa-page.ui:95
+#: scarecrow-initial-setup/pages/goa/scis-goa-page.ui:95
 msgid ""
 "Accounts can be added and removed at any time from the Settings application."
 msgstr ""
@@ -275,12 +275,12 @@ msgstr "Meira…"
 msgid "No inputs found"
 msgstr "Engin inntök fundust"
 
-#: scarecrow-initial-setup/pages/keyboard/gis-keyboard-page.c:480
-#: scarecrow-initial-setup/pages/keyboard/gis-keyboard-page.ui:30
+#: scarecrow-initial-setup/pages/keyboard/scis-keyboard-page.c:480
+#: scarecrow-initial-setup/pages/keyboard/scis-keyboard-page.ui:30
 msgid "Typing"
 msgstr "Innsláttur"
 
-#: scarecrow-initial-setup/pages/keyboard/gis-keyboard-page.ui:42
+#: scarecrow-initial-setup/pages/keyboard/scis-keyboard-page.ui:42
 msgid "Select your keyboard layout or an input method."
 msgstr "Veldu lyklaborðsuppsetningu eða inntaksaðferð."
 
@@ -288,7 +288,7 @@ msgstr "Veldu lyklaborðsuppsetningu eða inntaksaðferð."
 msgid "No languages found"
 msgstr "Engin tungumál fundust"
 
-#: scarecrow-initial-setup/pages/language/gis-language-page.c:300
+#: scarecrow-initial-setup/pages/language/scis-language-page.c:300
 msgid "Welcome"
 msgstr "Velkomin"
 
@@ -296,32 +296,32 @@ msgstr "Velkomin"
 #. * like greeting somebody at the door. If the exclamation mark is not
 #. * suitable for this in your language you may replace it.
 #.
-#: scarecrow-initial-setup/pages/language/gis-welcome-widget.c:123
+#: scarecrow-initial-setup/pages/language/scis-welcome-widget.c:123
 msgid "Welcome!"
 msgstr "Velkomin!"
 
-#: scarecrow-initial-setup/pages/network/gis-network-page.c:313
+#: scarecrow-initial-setup/pages/network/scis-network-page.c:313
 msgctxt "Wireless access point"
 msgid "Other…"
 msgstr "Annað…"
 
-#: scarecrow-initial-setup/pages/network/gis-network-page.c:398
+#: scarecrow-initial-setup/pages/network/scis-network-page.c:398
 msgid "Wireless networking is disabled"
 msgstr "Þráðlausar nettengingar eru óvirkar"
 
-#: scarecrow-initial-setup/pages/network/gis-network-page.c:405
+#: scarecrow-initial-setup/pages/network/scis-network-page.c:405
 msgid "Checking for available wireless networks"
 msgstr "Athuga með þráðlaus net"
 
-#: scarecrow-initial-setup/pages/network/gis-network-page.c:713
+#: scarecrow-initial-setup/pages/network/scis-network-page.c:713
 msgid "Network"
 msgstr "Netkerfi"
 
-#: scarecrow-initial-setup/pages/network/gis-network-page.ui:33
+#: scarecrow-initial-setup/pages/network/scis-network-page.ui:33
 msgid "Wi-Fi"
 msgstr "Þráðlaust net"
 
-#: scarecrow-initial-setup/pages/network/gis-network-page.ui:45
+#: scarecrow-initial-setup/pages/network/scis-network-page.ui:45
 msgid ""
 "Connecting to the Internet will enable you to set the time, add your "
 "details, and enable you to access your email, calendar, and contacts. It is "
@@ -331,35 +331,35 @@ msgstr ""
 "persónuupplýsingum og tengst tölvupósti, dagatali og tengiliðalistum. "
 "Nettenging er einnig nauðsynleg fyrir fyrirtækjainnskráningu."
 
-#: scarecrow-initial-setup/pages/network/gis-network-page.ui:103
+#: scarecrow-initial-setup/pages/network/scis-network-page.ui:103
 msgid "No wireless available"
 msgstr "Engin þráðlaus net tiltæk"
 
-#: scarecrow-initial-setup/pages/network/gis-network-page.ui:118
+#: scarecrow-initial-setup/pages/network/scis-network-page.ui:118
 msgid "Turn On"
 msgstr "Kveikja á"
 
-#: scarecrow-initial-setup/pages/password/gis-password-page.c:142
+#: scarecrow-initial-setup/pages/password/scis-password-page.c:142
 msgid "This is a weak password."
 msgstr "Þetta er veikt lykilorð."
 
-#: scarecrow-initial-setup/pages/password/gis-password-page.c:148
+#: scarecrow-initial-setup/pages/password/scis-password-page.c:148
 msgid "The passwords do not match."
 msgstr "Lykilorðin stemma ekki."
 
-#: scarecrow-initial-setup/pages/password/gis-password-page.c:270
+#: scarecrow-initial-setup/pages/password/scis-password-page.c:270
 msgid "Password"
 msgstr "Lykilorð"
 
-#: scarecrow-initial-setup/pages/password/gis-password-page.ui:34
+#: scarecrow-initial-setup/pages/password/scis-password-page.ui:34
 msgid "Set a Password"
 msgstr "Settu lykilorð"
 
-#: scarecrow-initial-setup/pages/password/gis-password-page.ui:47
+#: scarecrow-initial-setup/pages/password/scis-password-page.ui:47
 msgid "Be careful not to lose your password."
 msgstr "Passaðu upp á að týna ekki lykilorðinu þínu."
 
-#: scarecrow-initial-setup/pages/password/gis-password-page.ui:98
+#: scarecrow-initial-setup/pages/password/scis-password-page.ui:98
 msgid "_Confirm"
 msgstr "Stað_festa"
 
@@ -533,7 +533,7 @@ msgstr ""
 #. * like "Fedora" or "Ubuntu". It falls back to "GNOME" if we can't
 #. * detect any distribution.
 #.
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:110
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:110
 #, c-format
 msgid ""
 "Sending reports of technical problems helps us to improve %s. Reports are "
@@ -547,31 +547,31 @@ msgstr ""
 #. * like "Fedora" or "Ubuntu". It falls back to "GNOME" if we can't
 #. * detect any distribution.
 #.
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:120
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:120
 #, c-format
 msgid "Problem data will be collected by %s:"
 msgstr "%s mun safna gögnum varðandi vandamál:"
 
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:121
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:181
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:256
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:121
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:181
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:256
 msgid "Privacy Policy"
 msgstr "Stefna vegna gagnaleyndar og friðhelgi"
 
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:181
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:181
 msgid "Uses Mozilla Location Service:"
 msgstr "Nota Mozilla staðsetningarþjónustu:"
 
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:292
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.ui:32
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:292
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.ui:32
 msgid "Privacy"
 msgstr "Gagnaleynd"
 
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.ui:49
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.ui:49
 msgid "Location Services"
 msgstr "Staðsetningarþjónustur"
 
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.ui:70
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.ui:70
 msgid ""
 "Allows applications to determine your geographical location. An indication "
 "is shown when location services are in use."
@@ -579,11 +579,11 @@ msgstr ""
 "Leyfir forritum að finna út landfræðilega staðsetningu þína. Sjónrænt merki "
 "birtist þegar staðsetningarþjónustur eru í notkun."
 
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.ui:92
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.ui:92
 msgid "Automatic Problem Reporting"
 msgstr "Tilkynna sjálfkrafa um vandamál"
 
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.ui:128
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.ui:128
 msgid ""
 "Privacy controls can be changed at any time from the Settings application."
 msgstr ""
@@ -594,26 +594,26 @@ msgstr ""
 msgid "No regions found"
 msgstr "Engin svæði fundust"
 
-#: scarecrow-initial-setup/pages/region/gis-region-page.c:226
-#: scarecrow-initial-setup/pages/region/gis-region-page.ui:31
+#: scarecrow-initial-setup/pages/region/scis-region-page.c:226
+#: scarecrow-initial-setup/pages/region/scis-region-page.ui:31
 msgid "Region"
 msgstr "Hérað"
 
-#: scarecrow-initial-setup/pages/region/gis-region-page.ui:44
+#: scarecrow-initial-setup/pages/region/scis-region-page.ui:44
 msgid "Choose your country or region."
 msgstr "Veldu þér land eða hérað."
 
-#: scarecrow-initial-setup/pages/software/gis-software-page.c:184
+#: scarecrow-initial-setup/pages/software/scis-software-page.c:184
 msgid "Software Repositories"
 msgstr "Hugbúnaðarsöfn"
 
 #. TRANSLATORS: this is the third party repositories info bar.
-#: scarecrow-initial-setup/pages/software/gis-software-page.c:188
+#: scarecrow-initial-setup/pages/software/scis-software-page.c:188
 msgid "Access additional software from selected third party sources."
 msgstr "Settu upp hugbúnað frá utanaðkomandi aðilum/upptökum."
 
 #. TRANSLATORS: this is the third party repositories info bar.
-#: scarecrow-initial-setup/pages/software/gis-software-page.c:192
+#: scarecrow-initial-setup/pages/software/scis-software-page.c:192
 msgid ""
 "Some of this software is proprietary and therefore has restrictions on use, "
 "sharing, and access to source code."
@@ -621,19 +621,19 @@ msgstr ""
 "Sumt af þessu hugbúnaði er séreignarhugbúnaður og er þar af leiðandi með "
 "hömlur á notkun, deilingu og aðgangi að grunnkóða."
 
-#: scarecrow-initial-setup/pages/software/gis-software-page.ui:31
+#: scarecrow-initial-setup/pages/software/scis-software-page.ui:31
 msgid "Additional Software Repositories"
 msgstr "Aukahugbúnaðarsöfn"
 
-#: scarecrow-initial-setup/pages/software/gis-software-page.ui:55
+#: scarecrow-initial-setup/pages/software/scis-software-page.ui:55
 msgid "<a href=\"more\">Find out more…</a>"
 msgstr "<a href=\"more\">Frekari upplýsingar…</a>"
 
-#: scarecrow-initial-setup/pages/software/gis-software-page.ui:69
+#: scarecrow-initial-setup/pages/software/scis-software-page.ui:69
 msgid "Third Party Repositories"
 msgstr "Hugbúnaðarsöfn annarra aðila"
 
-#: scarecrow-initial-setup/pages/software/gis-software-page.ui:165
+#: scarecrow-initial-setup/pages/software/scis-software-page.ui:165
 msgid ""
 "Proprietary software typically has restrictions on how it can be used and on "
 "access to source code. This prevents anyone but the software owner from "
@@ -643,7 +643,7 @@ msgstr ""
 "að grunnkóða. Þetta kemur í veg fyrir að nokkur annar en eigandi "
 "hugbúnaðarins geti rannsakað hann, bætt hann eða lært af kóðanum."
 
-#: scarecrow-initial-setup/pages/software/gis-software-page.ui:177
+#: scarecrow-initial-setup/pages/software/scis-software-page.ui:177
 msgid ""
 "In contrast, Free Software can be freely run, copied, distributed, studied "
 "and modified."
@@ -654,21 +654,21 @@ msgstr ""
 #. Translators: the parameter here is the name of a distribution,
 #. * like "Fedora" or "Ubuntu". It falls back to "GNOME 3" if we can't
 #. * detect any distribution.
-#: scarecrow-initial-setup/pages/summary/gis-summary-page.c:304
+#: scarecrow-initial-setup/pages/summary/scis-summary-page.c:304
 #, c-format
 msgid "_Start Using %s"
 msgstr "_Byrjaðu að nota %s"
 
-#: scarecrow-initial-setup/pages/summary/gis-summary-page.c:334
+#: scarecrow-initial-setup/pages/summary/scis-summary-page.c:334
 msgid "Ready to Go"
 msgstr "Klár í slaginn"
 
-#: scarecrow-initial-setup/pages/summary/gis-summary-page.ui:64
+#: scarecrow-initial-setup/pages/summary/scis-summary-page.ui:64
 msgid "You’re ready to go!"
 msgstr "Þú ert klár í slaginn!"
 
 #. Translators: "city, country"
-#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:236
+#: scarecrow-initial-setup/pages/timezone/scis-timezone-page.c:236
 #, c-format
 msgctxt "timezone loc"
 msgid "%s, %s"
@@ -677,33 +677,33 @@ msgstr "%s, %s"
 #. Translators: UTC here means the Coordinated Universal Time.
 #. * %:::z will be replaced by the offset from UTC e.g. UTC+02
 #.
-#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:273
+#: scarecrow-initial-setup/pages/timezone/scis-timezone-page.c:273
 msgid "UTC%:::z"
 msgstr "UTC%:::z"
 
 #. Translators: This is the time format used in 12-hour mode.
-#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:277
+#: scarecrow-initial-setup/pages/timezone/scis-timezone-page.c:277
 msgid "%l:%M %p"
 msgstr "%l:%M %p"
 
 #. Translators: This is the time format used in 24-hour mode.
-#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:280
+#: scarecrow-initial-setup/pages/timezone/scis-timezone-page.c:280
 msgid "%R"
 msgstr "%R"
 
 #. Translators: "timezone (utc shift)"
-#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:283
+#: scarecrow-initial-setup/pages/timezone/scis-timezone-page.c:283
 #, c-format
 msgctxt "timezone map"
 msgid "%s (%s)"
 msgstr "%s (%s)"
 
-#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:426
-#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.ui:33
+#: scarecrow-initial-setup/pages/timezone/scis-timezone-page.c:426
+#: scarecrow-initial-setup/pages/timezone/scis-timezone-page.ui:33
 msgid "Time Zone"
 msgstr "Tímabelti"
 
-#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.ui:53
+#: scarecrow-initial-setup/pages/timezone/scis-timezone-page.ui:53
 msgid ""
 "The time zone will be set automatically if your location can be found. You "
 "can also search for a city to set it yourself."
@@ -711,7 +711,7 @@ msgstr ""
 "Tímabeltið verður stillt sjálfvirkt ef staðsetningin þín finnst. Þú getur "
 "líka leitað að borg til að stilla það sjálf(ur)."
 
-#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.ui:82
+#: scarecrow-initial-setup/pages/timezone/scis-timezone-page.ui:82
 msgid "Please search for a nearby city"
 msgstr "Leitaðu að næstu borg"
 

@@ -24,23 +24,23 @@ msgstr ""
 msgid "Initial Setup"
 msgstr "Socrú Tosaigh"
 
-#: ../scarecrow-initial-setup/gis-assistant.c:384
+#: ../scarecrow-initial-setup/scis-assistant.c:384
 msgid "_Next"
 msgstr "Ar _Aghaidh"
 
-#: ../scarecrow-initial-setup/gis-assistant.c:385
+#: ../scarecrow-initial-setup/scis-assistant.c:385
 msgid "_Accept"
 msgstr "_Glac Leis"
 
-#: ../scarecrow-initial-setup/gis-assistant.c:386
+#: ../scarecrow-initial-setup/scis-assistant.c:386
 msgid "_Skip"
 msgstr "_Scipeáil"
 
-#: ../scarecrow-initial-setup/gis-assistant.c:387
+#: ../scarecrow-initial-setup/scis-assistant.c:387
 msgid "_Previous"
 msgstr "_Siar"
 
-#: ../scarecrow-initial-setup/gis-assistant.c:388
+#: ../scarecrow-initial-setup/scis-assistant.c:388
 msgid "_Cancel"
 msgstr "_Cealaigh"
 
@@ -52,100 +52,100 @@ msgstr ""
 msgid "- GNOME initial setup"
 msgstr "- socrú tosaigh GNOME"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page.c:243
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-local.ui.h:2
+#: ../scarecrow-initial-setup/pages/account/scis-account-page.c:243
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-local.ui.h:2
 msgid "About You"
 msgstr "Maidir Leat"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.c:182
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-enterprise.c:182
 msgid "Failed to register account"
 msgstr ""
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.c:376
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-enterprise.c:376
 msgid "No supported way to authenticate with this domain"
 msgstr ""
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.c:416
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-enterprise.c:416
 msgid "Failed to join domain"
 msgstr ""
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.c:484
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-enterprise.c:484
 msgid "Failed to log into domain"
 msgstr "Theip ar logáil isteach i bhfearann"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui.h:1
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui.h:1
 msgid "Enterprise Login"
 msgstr "Logáil Isteach Fiontair"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui.h:2
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui.h:2
 msgid ""
 "Enterprise login allows an existing centrally managed user account to be "
 "used on this device."
 msgstr ""
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui.h:3
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui.h:3
 msgid "_Domain"
 msgstr "_Fearann"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui.h:4
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-local.ui.h:5
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui.h:4
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-local.ui.h:5
 msgid "_Username"
 msgstr "_Ainm Úsáideora"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui.h:5
-#: ../scarecrow-initial-setup/pages/password/gis-password-page.ui.h:3
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui.h:5
+#: ../scarecrow-initial-setup/pages/password/scis-password-page.ui.h:3
 msgid "_Password"
 msgstr "_Focal Faire"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui.h:6
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui.h:6
 msgid "Enterprise domain or realm name"
 msgstr "Fearann fiontair nó ainm flaithis"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui.h:7
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui.h:7
 msgid "C_ontinue"
 msgstr "Ar _Aghaidh"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui.h:8
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui.h:8
 msgid "Domain Administrator Login"
 msgstr ""
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui.h:9
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui.h:9
 msgid ""
 "In order to use enterprise logins, this computer needs to be enrolled in a "
 "domain. Please have your network administrator type the domain password "
 "here, and choose a unique computer name for your computer."
 msgstr ""
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui.h:10
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui.h:10
 msgid "_Computer"
 msgstr "_Ríomhaire"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui.h:11
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui.h:11
 msgid "Administrator _Name"
 msgstr "_Ainm Riarthóra"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui.h:12
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui.h:12
 msgid "Administrator Password"
 msgstr "Focal Faire Riarthóra"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-local.c:202
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-local.c:202
 msgid "Are these the right details? You can change them if you want."
 msgstr ""
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-local.c:403
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-local.ui.h:3
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-local.c:403
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-local.ui.h:3
 msgid "We need a few details to complete setup."
 msgstr ""
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-local.ui.h:1
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-local.ui.h:1
 msgid "Avatar image"
 msgstr ""
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-local.ui.h:4
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-local.ui.h:4
 msgid "_Full Name"
 msgstr "Ainm _Iomlán"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page.ui.h:1
+#: ../scarecrow-initial-setup/pages/account/scis-account-page.ui.h:1
 msgid "Set Up _Enterprise Login"
 msgstr "Socraigh Logáil Isteach Fiontair"
 
@@ -205,36 +205,36 @@ msgstr ""
 msgid "This will be used to name your home folder and can't be changed."
 msgstr ""
 
-#: ../scarecrow-initial-setup/pages/eulas/gis-eula-page.c:301
-#: ../scarecrow-initial-setup/pages/eulas/gis-eula-page.ui.h:1
+#: ../scarecrow-initial-setup/pages/eulas/scis-eula-page.c:301
+#: ../scarecrow-initial-setup/pages/eulas/scis-eula-page.ui.h:1
 msgid "License Agreements"
 msgstr "Comhaontuithe um Cheadúnais"
 
-#: ../scarecrow-initial-setup/pages/eulas/gis-eula-page.ui.h:2
+#: ../scarecrow-initial-setup/pages/eulas/scis-eula-page.ui.h:2
 msgid ""
 "I have _agreed to the terms and conditions in this end user license "
 "agreement."
 msgstr ""
 
-#: ../scarecrow-initial-setup/pages/goa/gis-goa-page.c:87
+#: ../scarecrow-initial-setup/pages/goa/scis-goa-page.c:87
 msgid "Add Account"
 msgstr "Cuir Cuntas Leis"
 
-#: ../scarecrow-initial-setup/pages/goa/gis-goa-page.c:335
+#: ../scarecrow-initial-setup/pages/goa/scis-goa-page.c:335
 msgid "Online Accounts"
 msgstr "Cuntais ar Líne"
 
-#: ../scarecrow-initial-setup/pages/goa/gis-goa-page.ui.h:1
+#: ../scarecrow-initial-setup/pages/goa/scis-goa-page.ui.h:1
 msgid "Connect Your Online Accounts"
 msgstr "Ceangal le Do Chuntais ar Líne"
 
-#: ../scarecrow-initial-setup/pages/goa/gis-goa-page.ui.h:2
+#: ../scarecrow-initial-setup/pages/goa/scis-goa-page.ui.h:2
 msgid ""
 "Connecting your accounts will allow you to easily access your email, online "
 "calendar, contacts, documents and photos."
 msgstr ""
 
-#: ../scarecrow-initial-setup/pages/goa/gis-goa-page.ui.h:3
+#: ../scarecrow-initial-setup/pages/goa/scis-goa-page.ui.h:3
 msgid "You can review your online accounts (and add others) after setup."
 msgstr ""
 
@@ -255,12 +255,12 @@ msgstr "Tuilleadh…"
 msgid "No inputs found"
 msgstr "Foinse ionchuir gan aimsiú"
 
-#: ../scarecrow-initial-setup/pages/keyboard/gis-keyboard-page.c:363
-#: ../scarecrow-initial-setup/pages/keyboard/gis-keyboard-page.ui.h:1
+#: ../scarecrow-initial-setup/pages/keyboard/scis-keyboard-page.c:363
+#: ../scarecrow-initial-setup/pages/keyboard/scis-keyboard-page.ui.h:1
 msgid "Typing"
 msgstr "Clóscríobh"
 
-#: ../scarecrow-initial-setup/pages/keyboard/gis-keyboard-page.ui.h:2
+#: ../scarecrow-initial-setup/pages/keyboard/scis-keyboard-page.ui.h:2
 msgid "Select your keyboard layout or an input method."
 msgstr "Roghnaigh leagan amach do mhéarchláir nó modh ionchurtha."
 
@@ -268,72 +268,72 @@ msgstr "Roghnaigh leagan amach do mhéarchláir nó modh ionchurtha."
 msgid "No languages found"
 msgstr "Teanga gan aimsiú"
 
-#: ../scarecrow-initial-setup/pages/language/gis-language-page.c:292
+#: ../scarecrow-initial-setup/pages/language/scis-language-page.c:292
 msgid "Welcome"
 msgstr "Fáilte"
 
-#: ../scarecrow-initial-setup/pages/language/gis-welcome-widget.c:119
+#: ../scarecrow-initial-setup/pages/language/scis-welcome-widget.c:119
 msgid "Welcome!"
 msgstr "Fáilte!"
 
-#: ../scarecrow-initial-setup/pages/network/gis-network-page.c:309
+#: ../scarecrow-initial-setup/pages/network/scis-network-page.c:309
 msgctxt "Wireless access point"
 msgid "Other…"
 msgstr "Eile…"
 
-#: ../scarecrow-initial-setup/pages/network/gis-network-page.c:368
+#: ../scarecrow-initial-setup/pages/network/scis-network-page.c:368
 msgid "Wireless networking is disabled"
 msgstr "Tá líonrú gan sreang díchumasaithe"
 
-#: ../scarecrow-initial-setup/pages/network/gis-network-page.c:375
+#: ../scarecrow-initial-setup/pages/network/scis-network-page.c:375
 msgid "Checking for available wireless networks"
 msgstr "Líonraí gan sreang atá ar fáil á lorg"
 
-#: ../scarecrow-initial-setup/pages/network/gis-network-page.c:641
+#: ../scarecrow-initial-setup/pages/network/scis-network-page.c:641
 msgid "Network"
 msgstr "Líonra"
 
-#: ../scarecrow-initial-setup/pages/network/gis-network-page.ui.h:1
+#: ../scarecrow-initial-setup/pages/network/scis-network-page.ui.h:1
 msgid "Wi-Fi"
 msgstr "Wi-Fi"
 
-#: ../scarecrow-initial-setup/pages/network/gis-network-page.ui.h:2
+#: ../scarecrow-initial-setup/pages/network/scis-network-page.ui.h:2
 msgid ""
 "Connecting to the Internet will enable you to set the time, add your "
 "details, and enable you to access your email, calendar, and contacts. It is "
 "also necessary for enterprise login accounts."
 msgstr ""
 
-#: ../scarecrow-initial-setup/pages/network/gis-network-page.ui.h:3
+#: ../scarecrow-initial-setup/pages/network/scis-network-page.ui.h:3
 msgid "No wireless available"
 msgstr "Níl aon líonra gan sreang ar fáil"
 
-#: ../scarecrow-initial-setup/pages/network/gis-network-page.ui.h:4
+#: ../scarecrow-initial-setup/pages/network/scis-network-page.ui.h:4
 msgid "Turn On"
 msgstr "Cuir ar Siúl"
 
-#: ../scarecrow-initial-setup/pages/password/gis-password-page.c:132
+#: ../scarecrow-initial-setup/pages/password/scis-password-page.c:132
 msgid "This is a weak password."
 msgstr "Is focal faire lag é seo."
 
-#: ../scarecrow-initial-setup/pages/password/gis-password-page.c:146
+#: ../scarecrow-initial-setup/pages/password/scis-password-page.c:146
 #, fuzzy
 msgid "The passwords do not match."
 msgstr "Ní ionann na focail fhaire"
 
-#: ../scarecrow-initial-setup/pages/password/gis-password-page.c:268
+#: ../scarecrow-initial-setup/pages/password/scis-password-page.c:268
 msgid "Password"
 msgstr "Focal Faire"
 
-#: ../scarecrow-initial-setup/pages/password/gis-password-page.ui.h:1
+#: ../scarecrow-initial-setup/pages/password/scis-password-page.ui.h:1
 msgid "Set a Password"
 msgstr "Socraigh Focal Faire"
 
-#: ../scarecrow-initial-setup/pages/password/gis-password-page.ui.h:2
+#: ../scarecrow-initial-setup/pages/password/scis-password-page.ui.h:2
 msgid "Be careful not to lose your password."
 msgstr "Bí cúramach gan d'fhocal faire a chailleadh."
 
-#: ../scarecrow-initial-setup/pages/password/gis-password-page.ui.h:4
+#: ../scarecrow-initial-setup/pages/password/scis-password-page.ui.h:4
 msgid "_Verify"
 msgstr "_Deimhnigh"
 
@@ -477,7 +477,7 @@ msgstr "Neart: Láidir"
 #. * like "Fedora" or "Ubuntu". It falls back to "GNOME" if we can't
 #. * detect any distribution.
 #.
-#: ../scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:109
+#: ../scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:109
 #, c-format
 msgid ""
 "Sending reports of technical problems helps us to improve %s. Reports are "
@@ -486,24 +486,24 @@ msgstr ""
 "Cabhraíonn seoladh tuairiscí ar fhadhbanna teicniúla le feabhsú %s. Seoltar "
 "tuairiscí gan ainm agus baintear sonraí pearsanta astu."
 
-#: ../scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:116
-#: ../scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:238
+#: ../scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:116
+#: ../scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:238
 msgid "Privacy Policy"
 msgstr "Ráiteas Príobháideachais"
 
-#: ../scarecrow-initial-setup/pages/privacy/gis-privacy-page.ui.h:1
+#: ../scarecrow-initial-setup/pages/privacy/scis-privacy-page.ui.h:1
 msgid "Privacy"
 msgstr "Príobháideachas"
 
-#: ../scarecrow-initial-setup/pages/privacy/gis-privacy-page.ui.h:2
+#: ../scarecrow-initial-setup/pages/privacy/scis-privacy-page.ui.h:2
 msgid "Privacy controls can be changed at any time from Settings."
 msgstr "Is féidir athrú rialtáin príobháideachais ag aon am i Socruithe."
 
-#: ../scarecrow-initial-setup/pages/privacy/gis-privacy-page.ui.h:3
+#: ../scarecrow-initial-setup/pages/privacy/scis-privacy-page.ui.h:3
 msgid "Location Services"
 msgstr "Seirbhísí Suímh"
 
-#: ../scarecrow-initial-setup/pages/privacy/gis-privacy-page.ui.h:4
+#: ../scarecrow-initial-setup/pages/privacy/scis-privacy-page.ui.h:4
 msgid ""
 "Allows applications to determine your geographical location. An indication "
 "is shown when location services are in use."
@@ -511,7 +511,7 @@ msgstr ""
 "Ligeann do fheidhmchláir do shuíomh geografach a aimsiú. Taispeántar tásc "
 "agus seirbhísí suímh in úsáid."
 
-#: ../scarecrow-initial-setup/pages/privacy/gis-privacy-page.ui.h:5
+#: ../scarecrow-initial-setup/pages/privacy/scis-privacy-page.ui.h:5
 msgid "Automatic Problem Reporting"
 msgstr "Tuairisciú Uathoibríoch ar Fhadhbanna"
 
@@ -519,19 +519,19 @@ msgstr "Tuairisciú Uathoibríoch ar Fhadhbanna"
 msgid "No regions found"
 msgstr "Réigiún gan aimsiú"
 
-#: ../scarecrow-initial-setup/pages/region/gis-region-page.c:226
-#: ../scarecrow-initial-setup/pages/region/gis-region-page.ui.h:1
+#: ../scarecrow-initial-setup/pages/region/scis-region-page.c:226
+#: ../scarecrow-initial-setup/pages/region/scis-region-page.ui.h:1
 msgid "Region"
 msgstr "Réigiún"
 
-#: ../scarecrow-initial-setup/pages/region/gis-region-page.ui.h:2
+#: ../scarecrow-initial-setup/pages/region/scis-region-page.ui.h:2
 msgid "Choose your country or region."
 msgstr "Roghnaigh do thír nó do réigiún."
 
 #. Translators: the parameter here is the name of a distribution,
 #. * like "Fedora" or "Ubuntu". It falls back to "GNOME 3" if we can't
 #. * detect any distribution.
-#: ../scarecrow-initial-setup/pages/summary/gis-summary-page.c:328
+#: ../scarecrow-initial-setup/pages/summary/scis-summary-page.c:328
 #, c-format
 msgid "_Start using %s"
 msgstr "_Tosaigh ag úsáid %s"
@@ -539,22 +539,22 @@ msgstr "_Tosaigh ag úsáid %s"
 #. Translators: the parameter here is the name of a distribution,
 #. * like "Fedora" or "Ubuntu". It falls back to "GNOME 3" if we can't
 #. * detect any distribution.
-#: ../scarecrow-initial-setup/pages/summary/gis-summary-page.c:335
+#: ../scarecrow-initial-setup/pages/summary/scis-summary-page.c:335
 #, c-format
 msgid ""
 "Thank you for choosing %s.\n"
 "We hope that you love it."
 msgstr ""
 
-#: ../scarecrow-initial-setup/pages/summary/gis-summary-page.c:361
+#: ../scarecrow-initial-setup/pages/summary/scis-summary-page.c:361
 msgid "Ready to Go"
 msgstr "Réidh"
 
-#: ../scarecrow-initial-setup/pages/summary/gis-summary-page.ui.h:1
+#: ../scarecrow-initial-setup/pages/summary/scis-summary-page.ui.h:1
 msgid "You're all set!"
 msgstr "Tá tú réidh!"
 
-#: ../scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:183
+#: ../scarecrow-initial-setup/pages/timezone/scis-timezone-page.c:183
 #, c-format
 msgid ""
 "We think that your time zone is %s. Press Next to continue or search for a "
@@ -563,11 +563,11 @@ msgstr ""
 "Ceapaimid gur é %s do chrios ama. Brúigh Ar Aghaidh chun lean ar aghaidh nó "
 "cuardaigh ar chathair chun an crios ama a shocrú de láimh."
 
-#: ../scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:493
-#: ../scarecrow-initial-setup/pages/timezone/gis-timezone-page.ui.h:1
+#: ../scarecrow-initial-setup/pages/timezone/scis-timezone-page.c:493
+#: ../scarecrow-initial-setup/pages/timezone/scis-timezone-page.ui.h:1
 msgid "Time Zone"
 msgstr "Crios Ama"
 
-#: ../scarecrow-initial-setup/pages/timezone/gis-timezone-page.ui.h:2
+#: ../scarecrow-initial-setup/pages/timezone/scis-timezone-page.ui.h:2
 msgid "Please search for a nearby city"
 msgstr "Cuardaigh ar chathair in aice leat, le do thoil"

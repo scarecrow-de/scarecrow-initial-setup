@@ -23,23 +23,23 @@ msgstr ""
 msgid "Initial Setup"
 msgstr "தொடக்க அமைவு"
 
-#: ../scarecrow-initial-setup/gis-assistant.c:379
+#: ../scarecrow-initial-setup/scis-assistant.c:379
 msgid "_Next"
 msgstr "அடுத்து (_N)"
 
-#: ../scarecrow-initial-setup/gis-assistant.c:380
+#: ../scarecrow-initial-setup/scis-assistant.c:380
 msgid "_Accept"
 msgstr "ஏற்கிறேன் (_A)"
 
-#: ../scarecrow-initial-setup/gis-assistant.c:381
+#: ../scarecrow-initial-setup/scis-assistant.c:381
 msgid "_Skip"
 msgstr "தவிர் (_S)"
 
-#: ../scarecrow-initial-setup/gis-assistant.c:382
+#: ../scarecrow-initial-setup/scis-assistant.c:382
 msgid "_Previous"
 msgstr "முந்தைய (_P)"
 
-#: ../scarecrow-initial-setup/gis-assistant.c:383
+#: ../scarecrow-initial-setup/scis-assistant.c:383
 msgid "_Cancel"
 msgstr "ரத்து (_C)"
 
@@ -51,32 +51,32 @@ msgstr "முன்பே உள்ள பயனர் பயன்முறை
 msgid "- GNOME initial setup"
 msgstr "- GNOME தொடக்க அமைவு"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page.c:231
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-local.ui.h:2
+#: ../scarecrow-initial-setup/pages/account/scis-account-page.c:231
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-local.ui.h:2
 msgid "About You"
 msgstr "உங்களைப் பற்றி"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.c:179
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-enterprise.c:179
 msgid "Failed to register account"
 msgstr "கணக்கைப் பதிவு செய்வதில் தோல்வியடைந்தது"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.c:373
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-enterprise.c:373
 msgid "No supported way to authenticate with this domain"
 msgstr "இந்த டொமைனுடன் அங்கீகரிப்பதற்கான ஆதரிக்கப்படும் வழி இல்லை"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.c:413
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-enterprise.c:413
 msgid "Failed to join domain"
 msgstr "டொமைனில் இணைவதில் தோல்வியடைந்தது"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.c:481
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-enterprise.c:481
 msgid "Failed to log into domain"
 msgstr "டொமைனில் புகுபதிவு செய்வதில் தோல்வியடைந்தது"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui.h:1
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui.h:1
 msgid "Enterprise Login"
 msgstr "என்டர்ப்ரைஸ் புகுபதிகை"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui.h:2
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui.h:2
 msgid ""
 "Enterprise login allows an existing centrally managed user account to be "
 "used on this device."
@@ -85,33 +85,33 @@ msgstr ""
 "நிர்வகிக்கப்படும் முன்பே உள்ள "
 "பயனர் கணக்கைப் பயன்படுத்த முடிகிறது."
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui.h:3
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui.h:3
 msgid "_Domain"
 msgstr "டொமைன் (_D)"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui.h:4
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-local.ui.h:5
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui.h:4
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-local.ui.h:5
 msgid "_Username"
 msgstr "பயனர் பெயர் (_U)"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui.h:5
-#: ../scarecrow-initial-setup/pages/password/gis-password-page.ui.h:3
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui.h:5
+#: ../scarecrow-initial-setup/pages/password/scis-password-page.ui.h:3
 msgid "_Password"
 msgstr "கடவுச்சொல் (_P)"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui.h:6
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui.h:6
 msgid "Enterprise domain or realm name"
 msgstr "என்டர்ப்ரைஸ் டொமைன் அல்லது பகுதி பெயர்"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui.h:7
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui.h:7
 msgid "C_ontinue"
 msgstr "தொடரு (_o)"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui.h:8
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui.h:8
 msgid "Domain Administrator Login"
 msgstr "டொமைன் நிர்வாகி புகுபதிவு"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui.h:9
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui.h:9
 #| msgid ""
 #| "In order to use enterprise logins, this computer needs to be\n"
 #| "                enrolled in the domain. Please have your network "
@@ -129,36 +129,36 @@ msgstr ""
 "கடவுச்சொல்லைத் தட்டச்சு செய்து, உங்கள் கணினிக்கு ஒரு தனித்துவமான பெயரைத் "
 "தேர்வு செய்யுமாறு கேட்கவும்."
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui.h:10
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui.h:10
 msgid "_Computer"
 msgstr "கணினி (_C)"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui.h:11
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui.h:11
 msgid "Administrator _Name"
 msgstr "நிர்வாகி பெயர் (_N)"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui.h:12
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui.h:12
 msgid "Administrator Password"
 msgstr "நிர்வாகி கடவுச்சொல்"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-local.c:203
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-local.c:203
 msgid "Are these the right details? You can change them if you want."
 msgstr "இந்த விவரங்கள் சரியானவையா? நீங்கள் விரும்பினால் இவற்றை மாற்றலாம்."
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-local.c:404
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-local.ui.h:3
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-local.c:404
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-local.ui.h:3
 msgid "We need a few details to complete setup."
 msgstr "அமைவை முடிக்க எங்களுக்கு இன்னும் சில விவரங்கள் வேண்டும்."
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-local.ui.h:1
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-local.ui.h:1
 msgid "Avatar image"
 msgstr "அவதார படம்"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page-local.ui.h:4
+#: ../scarecrow-initial-setup/pages/account/scis-account-page-local.ui.h:4
 msgid "_Full Name"
 msgstr "முழுப் பெயர் (_F)"
 
-#: ../scarecrow-initial-setup/pages/account/gis-account-page.ui.h:1
+#: ../scarecrow-initial-setup/pages/account/scis-account-page.ui.h:1
 #| msgid "Enterprise Login"
 msgid "Set Up _Enterprise Login"
 msgstr "தொழில் ரீதியான புகுபதிவை அமைத்தல்"
@@ -231,12 +231,12 @@ msgstr ""
 "உங்கள் இல்லக் கோப்புறைக்குப் பெயரிட இதுவே பயன்படுத்தப்படும், இதை மாற்ற "
 "முடியாது."
 
-#: ../scarecrow-initial-setup/pages/eulas/gis-eula-page.c:301
-#: ../scarecrow-initial-setup/pages/eulas/gis-eula-page.ui.h:1
+#: ../scarecrow-initial-setup/pages/eulas/scis-eula-page.c:301
+#: ../scarecrow-initial-setup/pages/eulas/scis-eula-page.ui.h:1
 msgid "License Agreements"
 msgstr "உரிம ஒப்பந்தங்கள்"
 
-#: ../scarecrow-initial-setup/pages/eulas/gis-eula-page.ui.h:2
+#: ../scarecrow-initial-setup/pages/eulas/scis-eula-page.ui.h:2
 msgid ""
 "I have _agreed to the terms and conditions in this end user license "
 "agreement."
@@ -245,23 +245,23 @@ msgstr ""
 "ஏற்றுக்கொண்டேன். "
 "(_a)"
 
-#: ../scarecrow-initial-setup/pages/goa/gis-goa-page.c:87
+#: ../scarecrow-initial-setup/pages/goa/scis-goa-page.c:87
 msgid "Add Account"
 msgstr "கணக்கை சேர்"
 
-#: ../scarecrow-initial-setup/pages/goa/gis-goa-page.c:90
+#: ../scarecrow-initial-setup/pages/goa/scis-goa-page.c:90
 msgid "Cancel"
 msgstr "ரத்துசெய்"
 
-#: ../scarecrow-initial-setup/pages/goa/gis-goa-page.c:335
+#: ../scarecrow-initial-setup/pages/goa/scis-goa-page.c:335
 msgid "Online Accounts"
 msgstr "இணைய கணக்கு"
 
-#: ../scarecrow-initial-setup/pages/goa/gis-goa-page.ui.h:1
+#: ../scarecrow-initial-setup/pages/goa/scis-goa-page.ui.h:1
 msgid "Connect Your Online Accounts"
 msgstr "உங்கள் ஆன்லைன் கணக்குகளுக்கு இணைக்கவும்"
 
-#: ../scarecrow-initial-setup/pages/goa/gis-goa-page.ui.h:2
+#: ../scarecrow-initial-setup/pages/goa/scis-goa-page.ui.h:2
 msgid ""
 "Connecting your accounts will allow you to easily access your email, online "
 "calendar, contacts, documents and photos."
@@ -270,7 +270,7 @@ msgstr ""
 "தொடர்புகள், ஆவணங்கள் "
 "மற்றும் புகைப்படங்களை எளிதாக அணுகலாம்."
 
-#: ../scarecrow-initial-setup/pages/goa/gis-goa-page.ui.h:3
+#: ../scarecrow-initial-setup/pages/goa/scis-goa-page.ui.h:3
 msgid "You can review your online accounts (and add others) after setup."
 msgstr ""
 "அமைவுக்குப் பிறகு நீங்கள் உங்கள் ஆன்லைன் கணக்குகளை (மற்றும் பிறவற்றை) "
@@ -293,12 +293,12 @@ msgstr "மேலும்…"
 msgid "No inputs found"
 msgstr "உள்ளீடுகள் இல்லை"
 
-#: ../scarecrow-initial-setup/pages/keyboard/gis-keyboard-page.c:219
-#: ../scarecrow-initial-setup/pages/keyboard/gis-keyboard-page.ui.h:1
+#: ../scarecrow-initial-setup/pages/keyboard/scis-keyboard-page.c:219
+#: ../scarecrow-initial-setup/pages/keyboard/scis-keyboard-page.ui.h:1
 msgid "Typing"
 msgstr "தட்டச்சு செய்தல்"
 
-#: ../scarecrow-initial-setup/pages/keyboard/gis-keyboard-page.ui.h:2
+#: ../scarecrow-initial-setup/pages/keyboard/scis-keyboard-page.ui.h:2
 msgid "Select your keyboard layout or an input method."
 msgstr "உங்கள் விசைப்பலகை லேயவுட் அல்லது உள்ளீட்டு முறையைத் தேர்ந்தெடுக்கவும்."
 
@@ -306,32 +306,32 @@ msgstr "உங்கள் விசைப்பலகை லேயவுட் 
 msgid "No languages found"
 msgstr "மொழிகள் இல்லை"
 
-#: ../scarecrow-initial-setup/pages/language/gis-language-page.c:281
+#: ../scarecrow-initial-setup/pages/language/scis-language-page.c:281
 msgid "Welcome"
 msgstr "வருக"
 
-#: ../scarecrow-initial-setup/pages/language/gis-welcome-widget.c:119
+#: ../scarecrow-initial-setup/pages/language/scis-welcome-widget.c:119
 msgid "Welcome!"
 msgstr "வரவேற்கிறோம்!"
 
-#: ../scarecrow-initial-setup/pages/network/gis-network-page.c:305
+#: ../scarecrow-initial-setup/pages/network/scis-network-page.c:305
 msgctxt "Wireless access point"
 msgid "Other…"
 msgstr "மற்றவை…"
 
-#: ../scarecrow-initial-setup/pages/network/gis-network-page.c:352
+#: ../scarecrow-initial-setup/pages/network/scis-network-page.c:352
 msgid "Checking for available wireless networks"
 msgstr "கிடைக்கக்கூடிய வயர்லெஸ் பிணையங்களுக்காக தேடுகிறது"
 
-#: ../scarecrow-initial-setup/pages/network/gis-network-page.c:602
+#: ../scarecrow-initial-setup/pages/network/scis-network-page.c:602
 msgid "Network"
 msgstr "வலையமைப்பு"
 
-#: ../scarecrow-initial-setup/pages/network/gis-network-page.ui.h:1
+#: ../scarecrow-initial-setup/pages/network/scis-network-page.ui.h:1
 msgid "Wi-Fi"
 msgstr "Wi-Fi"
 
-#: ../scarecrow-initial-setup/pages/network/gis-network-page.ui.h:2
+#: ../scarecrow-initial-setup/pages/network/scis-network-page.ui.h:2
 msgid ""
 "Connecting to the Internet will enable you to set the time, add your "
 "details, and enable you to access your email, calendar, and contacts. It is "
@@ -343,29 +343,29 @@ msgstr ""
 "ரீதியான புகுபதிவு "
 "கணக்குகளுக்கும் இது அவசியம்."
 
-#: ../scarecrow-initial-setup/pages/network/gis-network-page.ui.h:3
+#: ../scarecrow-initial-setup/pages/network/scis-network-page.ui.h:3
 #| msgid "Network is not available."
 msgid "No wireless available"
 msgstr "வயர்லெஸ் கிடைக்கவில்லை."
 
-#: ../scarecrow-initial-setup/pages/password/gis-password-page.c:144
+#: ../scarecrow-initial-setup/pages/password/scis-password-page.c:144
 #| msgid "Passwords do not match"
 msgid "The passwords do not match."
 msgstr "கடவுச்சொற்கள் பொருந்தவில்லை."
 
-#: ../scarecrow-initial-setup/pages/password/gis-password-page.c:266
+#: ../scarecrow-initial-setup/pages/password/scis-password-page.c:266
 msgid "Password"
 msgstr "கடவுச்சொல்"
 
-#: ../scarecrow-initial-setup/pages/password/gis-password-page.ui.h:1
+#: ../scarecrow-initial-setup/pages/password/scis-password-page.ui.h:1
 msgid "Set a Password"
 msgstr "கடவுச்சொல்லை அமைக்கவும்"
 
-#: ../scarecrow-initial-setup/pages/password/gis-password-page.ui.h:2
+#: ../scarecrow-initial-setup/pages/password/scis-password-page.ui.h:2
 msgid "Be careful not to lose your password."
 msgstr "கடவுச்சொல்லை மறந்துவிடாதீர்கள்."
 
-#: ../scarecrow-initial-setup/pages/password/gis-password-page.ui.h:4
+#: ../scarecrow-initial-setup/pages/password/scis-password-page.ui.h:4
 msgid "_Verify"
 msgstr "சரிபார் (_V)"
 
@@ -521,19 +521,19 @@ msgstr "வலிமை: அதிகம்"
 msgid "No regions found"
 msgstr "பகுதிகள் இல்லை"
 
-#: ../scarecrow-initial-setup/pages/region/gis-region-page.c:226
-#: ../scarecrow-initial-setup/pages/region/gis-region-page.ui.h:1
+#: ../scarecrow-initial-setup/pages/region/scis-region-page.c:226
+#: ../scarecrow-initial-setup/pages/region/scis-region-page.ui.h:1
 msgid "Region"
 msgstr "பகுதி"
 
-#: ../scarecrow-initial-setup/pages/region/gis-region-page.ui.h:2
+#: ../scarecrow-initial-setup/pages/region/scis-region-page.ui.h:2
 msgid "Choose your country or region."
 msgstr "உங்கள் நாடு அல்லது இருப்பிடத்தை தேர்ந்தெடுக்கவும்."
 
 #. Translators: the parameter here is the name of a distribution,
 #. * like "Fedora" or "Ubuntu". It falls back to "GNOME 3" if we can't
 #. * detect any distribution.
-#: ../scarecrow-initial-setup/pages/summary/gis-summary-page.c:332
+#: ../scarecrow-initial-setup/pages/summary/scis-summary-page.c:332
 #, c-format
 msgid "_Start using %s"
 msgstr "%s ஐப் பயன்படுத்தத் தொடங்கவும் (_S)"
@@ -541,7 +541,7 @@ msgstr "%s ஐப் பயன்படுத்தத் தொடங்கவ�
 #. Translators: the parameter here is the name of a distribution,
 #. * like "Fedora" or "Ubuntu". It falls back to "GNOME 3" if we can't
 #. * detect any distribution.
-#: ../scarecrow-initial-setup/pages/summary/gis-summary-page.c:339
+#: ../scarecrow-initial-setup/pages/summary/scis-summary-page.c:339
 #, c-format
 msgid ""
 "Thank you for choosing %s.\n"
@@ -550,15 +550,15 @@ msgstr ""
 "%s ஐத் தேர்வு செய்ததற்கு நன்றி.\n"
 "உங்களுக்கு பிடிக்கும் என நம்புகிறோம்."
 
-#: ../scarecrow-initial-setup/pages/summary/gis-summary-page.c:365
+#: ../scarecrow-initial-setup/pages/summary/scis-summary-page.c:365
 msgid "Ready to Go"
 msgstr "தொடங்கத் தயார்"
 
-#: ../scarecrow-initial-setup/pages/summary/gis-summary-page.ui.h:1
+#: ../scarecrow-initial-setup/pages/summary/scis-summary-page.ui.h:1
 msgid "You're all set!"
 msgstr "தயார்!"
 
-#: ../scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:183
+#: ../scarecrow-initial-setup/pages/timezone/scis-timezone-page.c:183
 #, c-format
 msgid ""
 "We think that your time zone is %s. Press Next to continue or search for a "
@@ -567,12 +567,12 @@ msgstr ""
 "உங்கள் நேர மண்டலம் %s என்று நினைக்கிறோம். தொடர அடுத்து என்பதை அழுத்தவும் அலது "
 "நேர மண்டலத்தை நீங்களே அமைக்க நகரத்தைத் தேடவும்."
 
-#: ../scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:489
-#: ../scarecrow-initial-setup/pages/timezone/gis-timezone-page.ui.h:1
+#: ../scarecrow-initial-setup/pages/timezone/scis-timezone-page.c:489
+#: ../scarecrow-initial-setup/pages/timezone/scis-timezone-page.ui.h:1
 msgid "Time Zone"
 msgstr "நேர மண்டலம்"
 
-#: ../scarecrow-initial-setup/pages/timezone/gis-timezone-page.ui.h:2
+#: ../scarecrow-initial-setup/pages/timezone/scis-timezone-page.ui.h:2
 msgid "Please search for a nearby city"
 msgstr "அருகிலுள்ள ஒரு நகரத்தைத் தேடவும்"
 

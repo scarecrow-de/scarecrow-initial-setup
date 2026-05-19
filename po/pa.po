@@ -23,23 +23,23 @@ msgstr ""
 msgid "Initial Setup"
 msgstr "ਮੁੱਢਲਾ ਸੈਟਅੱਪ"
 
-#: scarecrow-initial-setup/gis-assistant.c:419
+#: scarecrow-initial-setup/scis-assistant.c:419
 msgid "_Next"
 msgstr "ਅੱਗੇ(_N)"
 
-#: scarecrow-initial-setup/gis-assistant.c:420
+#: scarecrow-initial-setup/scis-assistant.c:420
 msgid "_Accept"
 msgstr "ਮਨਜ਼ੂਰ(_A)"
 
-#: scarecrow-initial-setup/gis-assistant.c:421
+#: scarecrow-initial-setup/scis-assistant.c:421
 msgid "_Skip"
 msgstr "ਛੱਡੋ(_S)"
 
-#: scarecrow-initial-setup/gis-assistant.c:422
+#: scarecrow-initial-setup/scis-assistant.c:422
 msgid "_Previous"
 msgstr "ਪਿੱਛੇ(_P)"
 
-#: scarecrow-initial-setup/gis-assistant.c:423
+#: scarecrow-initial-setup/scis-assistant.c:423
 msgid "_Cancel"
 msgstr "ਰੱਦ ਕਰੋ(_C)"
 
@@ -51,31 +51,31 @@ msgstr "ਮੌਜ਼ੂਦਾ ਵਰਤੋਂਕਾਰ ਮੋਡ ਲਈ ਮਜ਼ਬ�
 msgid "— GNOME initial setup"
 msgstr "— ਗਨੋਮ ਮੁੱਢਲਾ ਸੈਟਅੱਪ"
 
-#: scarecrow-initial-setup/pages/account/gis-account-avatar-chooser.ui:36
+#: scarecrow-initial-setup/pages/account/scis-account-avatar-chooser.ui:36
 msgid "Take a Picture…"
 msgstr "…ਤਸਵੀਰ ਲਵੋ"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.c:184
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.c:184
 msgid "Failed to register account"
 msgstr "ਖਾਤਾ ਰਜਿਸਟਰ ਕਰਨ ਲਈ ਫੇਲ੍ਹ ਹੈ"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.c:378
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.c:378
 msgid "No supported way to authenticate with this domain"
 msgstr "ਇਹ ਡੋਮੇਨ ਨਾਲ ਪਰਮਾਣਕਿਤਾ ਦਾ ਕੋਈ ਸਹਾਇਕ ਢੰਗ ਨਹੀਂ ਹੈ"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.c:418
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.c:418
 msgid "Failed to join domain"
 msgstr "ਡੋਮੇਨ ਜੁਆਇੰਨ ਕਰਨ ਲਈ ਫੇਲ੍ਹ ਹੈ"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.c:486
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.c:486
 msgid "Failed to log into domain"
 msgstr "ਡੋਮੇਨ ਵਿੱਚ ਲਾਗਇਨ ਕਰਨ ਲਈ ਫੇਲ੍ਹ"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:17
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:17
 msgid "Enterprise Login"
 msgstr "ਇੰਟਰਪ੍ਰਾਈਜ਼ ਲਾਗਇਨ"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:18
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:18
 msgid ""
 "Enterprise login allows an existing centrally managed user account to be "
 "used on this device. You can also use this account to access company "
@@ -85,34 +85,34 @@ msgstr ""
 " ਸਹਾਇਕ ਹੈ। ਤੁਸੀਂ "
 "ਇਸ ਖਾਤਾ ਨੂੰ ਇੰਟਰਨੈੱਟ ਉੱਤੇ ਕੰਪਨੀ ਦੇ ਸਰੋਤਾਂ ਤੱਕ ਪਹੁੰਚ ਲਈ ਵੀ ਵਰਤ ਸਕਦੇ ਹੋ।"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:36
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:287
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:36
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:287
 msgid "_Domain"
 msgstr "ਡੋਮੇਨ(_D)"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:53
-#: scarecrow-initial-setup/pages/account/gis-account-page-local.ui:84
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:53
+#: scarecrow-initial-setup/pages/account/scis-account-page-local.ui:84
 msgid "_Username"
 msgstr "ਵਰਤੋਂਕਾਰ ਨਾਂ(_U)"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:70
-#: scarecrow-initial-setup/pages/password/gis-password-page.ui:34
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:70
+#: scarecrow-initial-setup/pages/password/scis-password-page.ui:34
 msgid "_Password"
 msgstr "ਪਾਸਵਰਡ(_P)"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:146
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:146
 msgid "Enterprise domain or realm name"
 msgstr "ਇੰਟਰਪਰਾਈਜ਼ ਡੋਮੇਨ ਜਾਂ ਸਨਦ ਨਾਂ"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:211
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:211
 msgid "C_ontinue"
 msgstr "ਜਾਰੀ ਰੱਖੋ(_o)"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:246
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:246
 msgid "Domain Administrator Login"
 msgstr "ਡੋਮੇਨ ਪਰਸ਼ਾਸ਼ਕੀ ਲਾਗਇਨ"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:266
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:266
 msgid ""
 "In order to use enterprise logins, this computer needs to be enrolled in a "
 "domain. Please have your network administrator type the domain password "
@@ -122,63 +122,63 @@ msgstr ""
 " ਪਰਸ਼ਾਸ਼ਕ ਕਿਸਮ "
 "ਲਈ ਉਹਨਾਂ ਦਾ ਡੋਮੇਨ ਪਾਸਵਰਡ ਇੱਥੇ ਦਿਉ ਅਤੇ ਆਪਣੇ ਕੰਪਿਊਟਰ ਲਈ ਵਿਲੱਖਣ ਕੰਪਿਊਟਰ ਨਾਂ ਚੁਣੋ।"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:321
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:321
 msgid "_Computer"
 msgstr "ਕੰਪਿਊਟਰ(_C)"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:353
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:353
 msgid "Administrator _Name"
 msgstr "ਪਰਸ਼ਾਸ਼ਕੀ ਨਾਂ(_N)"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:387
+#: scarecrow-initial-setup/pages/account/scis-account-page-enterprise.ui:387
 msgid "Administrator Password"
 msgstr "ਪਰਸ਼ਾਸ਼ਕੀ ਪਾਸਵਰਡ"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-local.c:206
+#: scarecrow-initial-setup/pages/account/scis-account-page-local.c:206
 msgid "Please check the name and username. You can choose a picture too."
 msgstr "ਨਾਂ ਅਤੇ ਵਰਤੋਂਕਾਰ ਨਾਂ ਦੀ ਜਾਂਚ ਕਰੋ ਜੀ। ਤੁਸੀਂ ਤਸਵੀਰ ਵੀ ਚੁਣ ਸਕਦੇ ਹੋ।"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-local.c:455
+#: scarecrow-initial-setup/pages/account/scis-account-page-local.c:455
 msgid "We need a few details to complete setup."
 msgstr "ਸਾਨੂੰ ਸੈਟਅੱਪ ਪੂਰਾ ਕਰਨ ਲਈ ਕੁਝ ਵੇਰਵੇ ਦੀ ਲੋੜ ਹੈ।"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-local.c:562
+#: scarecrow-initial-setup/pages/account/scis-account-page-local.c:562
 #| msgid "Administrator _Name"
 msgid "Administrator"
 msgstr "ਪਰਸ਼ਾਸ਼ਕ"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-local.ui:21
+#: scarecrow-initial-setup/pages/account/scis-account-page-local.ui:21
 msgid "Avatar image"
 msgstr "ਅਵਤਾਰ ਚਿੱਤਰ"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-local.ui:38
-#: scarecrow-initial-setup/pages/account/gis-account-page.c:281
+#: scarecrow-initial-setup/pages/account/scis-account-page-local.ui:38
+#: scarecrow-initial-setup/pages/account/scis-account-page.c:281
 msgid "About You"
 msgstr "ਤੁਹਾਡੇ ਬਾਰੇ"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-local.ui:39
+#: scarecrow-initial-setup/pages/account/scis-account-page-local.ui:39
 msgid "Please provide a name and username. You can choose a picture too."
 msgstr "ਨਾਂ ਅਤੇ ਵਰਤੋਂਕਾਰ ਨਾਂ ਦਿਉ ਜੀ। ਤੁਸੀਂ ਤਸਵੀਰ ਵੀ ਚੁਣ ਸਕਦੇ ਹੋ।"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-local.ui:53
+#: scarecrow-initial-setup/pages/account/scis-account-page-local.ui:53
 msgid "_Full Name"
 msgstr "ਪੂਰਾ ਨਾਂ(_F)"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-local.ui:149
+#: scarecrow-initial-setup/pages/account/scis-account-page-local.ui:149
 msgid "Set up _parental controls for this user"
 msgstr "ਇਹ ਵਰਤੋਂਕਾਰ ਲਈ ਮਾਪਿਆਂ ਦੇ ਕੰਟਰੋਲ ਸੈਟਅੱਪ ਕਰੋ(_p)"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page-local.ui:156
+#: scarecrow-initial-setup/pages/account/scis-account-page-local.ui:156
 msgid "For use by a parent or supervisor, who must set up their own password."
 msgstr ""
 "ਮਾਪਿਆਂ ਜਾਂ ਸੁਪਰਵਾਈਜ਼ਰ ਵਲੋਂ ਵਰਤਣ ਲਈ, ਜਿਹਨਾਂ ਨੂੰ ਆਪਣੇ ਖੁਦ ਦਾ ਪਾਸਵਰਡ ਸੈਟਅੱਪ ਕਰਨਾ"
 " ਜ਼ਰੂਰੀ ਹੈ।"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page.ui:43
+#: scarecrow-initial-setup/pages/account/scis-account-page.ui:43
 msgid "_Enterprise Login"
 msgstr "ਇੰਟਰਪ੍ਰਾਈਜ਼ ਲਾਗਇਨ(_E)"
 
-#: scarecrow-initial-setup/pages/account/gis-account-page.ui:53
+#: scarecrow-initial-setup/pages/account/scis-account-page.ui:53
 msgid "Go online to set up Enterprise Login."
 msgstr "ਇੰਟਰਪ੍ਰਾਈਜ਼ ਲਾਗਇਨ ਸੈਟਅੱਪ ਲਈ ਆਨਲਾਈਨ ਜਾਓ।"
 
@@ -237,19 +237,19 @@ msgstr ""
 msgid "This will be used to name your home folder and can’t be changed."
 msgstr "ਇਹ ਤੁਹਾਡੇ ਘਰ ਫੋਲਡਰ ਨਾਂ ਲਈ ਵਰਤਿਆ ਜਾਵੇਗਾ ਅਤੇ ਬਦਲਿਆ ਨਹੀਂ ਜਾ ਸਕਦਾ ਹੈ।"
 
-#: scarecrow-initial-setup/pages/goa/gis-goa-page.c:92
+#: scarecrow-initial-setup/pages/goa/scis-goa-page.c:92
 msgid "Add Account"
 msgstr "ਖਾਤਾ ਜੋੜੋ"
 
-#: scarecrow-initial-setup/pages/goa/gis-goa-page.c:357
+#: scarecrow-initial-setup/pages/goa/scis-goa-page.c:357
 msgid "Online Accounts"
 msgstr "ਆਨਲਾਈਨ ਖਾਤੇ"
 
-#: scarecrow-initial-setup/pages/goa/gis-goa-page.ui:17
+#: scarecrow-initial-setup/pages/goa/scis-goa-page.ui:17
 msgid "Connect Your Online Accounts"
 msgstr "ਆਪਣੇ ਆਨਲਾਈਨ ਖਾਤੇ ਨਾਲ ਕਨੈਕਟ ਕਰੋ"
 
-#: scarecrow-initial-setup/pages/goa/gis-goa-page.ui:18
+#: scarecrow-initial-setup/pages/goa/scis-goa-page.ui:18
 msgid ""
 "Connect your accounts to easily access your email, online calendar, "
 "contacts, documents and photos."
@@ -257,7 +257,7 @@ msgstr ""
 "ਆਪਣੇ ਖਾਤੇ ਜੋੜਨ ਨਾਲ ਤੁਸੀਂ ਆਪਣੇ ਆਨਲਾਈਨ ਫੋਟੋ, ਸੰਪਰਕ, ਮੇਲ ਅਤੇ ਹੋਰ ਚੀਜ਼ਾਂ ਨਾਲ ਸੌਖੀ"
 " ਤਰ੍ਹਾਂ ਕਨੈਕਟ ਕਰੋ।"
 
-#: scarecrow-initial-setup/pages/goa/gis-goa-page.ui:48
+#: scarecrow-initial-setup/pages/goa/scis-goa-page.ui:48
 msgid ""
 "Accounts can be added and removed at any time from the Settings application."
 msgstr ""
@@ -280,12 +280,12 @@ msgstr "…ਹੋਰ"
 msgid "No inputs found"
 msgstr "ਕੋਈ ਇੰਪੁੱਟ ਨਹੀਂ ਲੱਭੀ"
 
-#: scarecrow-initial-setup/pages/keyboard/gis-keyboard-page.c:482
-#: scarecrow-initial-setup/pages/keyboard/gis-keyboard-page.ui:15
+#: scarecrow-initial-setup/pages/keyboard/scis-keyboard-page.c:482
+#: scarecrow-initial-setup/pages/keyboard/scis-keyboard-page.ui:15
 msgid "Typing"
 msgstr "ਲਿਖਣਾ"
 
-#: scarecrow-initial-setup/pages/keyboard/gis-keyboard-page.ui:16
+#: scarecrow-initial-setup/pages/keyboard/scis-keyboard-page.ui:16
 msgid "Select your keyboard layout or an input method."
 msgstr "ਕੀਬੋਰਡ ਲੇਆਉਟ ਜਾਂ ਇੰਪੁੱਟ ਢੰਗ ਚੁਣੋ।"
 
@@ -293,7 +293,7 @@ msgstr "ਕੀਬੋਰਡ ਲੇਆਉਟ ਜਾਂ ਇੰਪੁੱਟ ਢੰ�
 msgid "No languages found"
 msgstr "ਕੋਈ ਭਾਸ਼ਾ ਨਹੀਂ ਲੱਭੀ।"
 
-#: scarecrow-initial-setup/pages/language/gis-language-page.c:262
+#: scarecrow-initial-setup/pages/language/scis-language-page.c:262
 msgid "Welcome"
 msgstr "ਜੀ ਆਇਆਂ ਨੂੰ"
 
@@ -301,32 +301,32 @@ msgstr "ਜੀ ਆਇਆਂ ਨੂੰ"
 #. * like greeting somebody at the door. If the exclamation mark is not
 #. * suitable for this in your language you may replace it.
 #.
-#: scarecrow-initial-setup/pages/language/gis-welcome-widget.c:136
+#: scarecrow-initial-setup/pages/language/scis-welcome-widget.c:136
 msgid "Welcome!"
 msgstr "ਜੀ ਆਇਆਂ ਨੂੰ!"
 
-#: scarecrow-initial-setup/pages/network/gis-network-page.c:318
+#: scarecrow-initial-setup/pages/network/scis-network-page.c:318
 msgctxt "Wireless access point"
 msgid "Other…"
 msgstr "…ਹੋਰ"
 
-#: scarecrow-initial-setup/pages/network/gis-network-page.c:403
+#: scarecrow-initial-setup/pages/network/scis-network-page.c:403
 msgid "Wireless networking is disabled"
 msgstr "ਬੇਤਾਰ ਨੈੱਟਵਰਕ ਅਸਮਰੱਥ ਕੀਤਾ ਹੈ"
 
-#: scarecrow-initial-setup/pages/network/gis-network-page.c:410
+#: scarecrow-initial-setup/pages/network/scis-network-page.c:410
 msgid "Checking for available wireless networks"
 msgstr "ਉਪਲੱਬਧ ਬੇਤਾਰ ਨੈੱਟਵਰਕ ਲਈ ਚੈੱਕ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ"
 
-#: scarecrow-initial-setup/pages/network/gis-network-page.c:805
+#: scarecrow-initial-setup/pages/network/scis-network-page.c:805
 msgid "Network"
 msgstr "ਨੈੱਟਵਰਕ"
 
-#: scarecrow-initial-setup/pages/network/gis-network-page.ui:18
+#: scarecrow-initial-setup/pages/network/scis-network-page.ui:18
 msgid "Wi-Fi"
 msgstr "ਵਾਈ-ਫਾਈ"
 
-#: scarecrow-initial-setup/pages/network/gis-network-page.ui:19
+#: scarecrow-initial-setup/pages/network/scis-network-page.ui:19
 msgid ""
 "Connecting to the Internet will enable you to set the time, add your "
 "details, and enable you to access your email, calendar, and contacts. It is "
@@ -337,70 +337,70 @@ msgstr ""
 "ਈਮੇਲ, ਕੈਲੰਡਰ ਅਤੇ ਸੰਪਰਕਾਂ ਲਈ ਪਹੁੰਚ ਮਿਲ ਸਕਦੀ ਹੈ। ਇਹ ਇੰਟਰਪ੍ਰਾਈਜ਼ ਲਾਗਇਨ ਅਕਾਊਂਟ ਲਈ"
 " ਵੀ ਜ਼ਰੂਰੀ ਹੈ।"
 
-#: scarecrow-initial-setup/pages/network/gis-network-page.ui:76
+#: scarecrow-initial-setup/pages/network/scis-network-page.ui:76
 msgid "No wireless available"
 msgstr "ਬੇਤਾਰ ਨੈੱਟਵਰਕ ਉਪਲੱਬਧ ਨਹੀਂ"
 
-#: scarecrow-initial-setup/pages/network/gis-network-page.ui:91
+#: scarecrow-initial-setup/pages/network/scis-network-page.ui:91
 msgid "Turn On"
 msgstr "ਚਾਲੂ ਕਰੋ"
 
 #. Translators: The placeholder is the user’s full name.
-#: scarecrow-initial-setup/pages/parental-controls/gis-parental-controls-page.c:110
+#: scarecrow-initial-setup/pages/parental-controls/scis-parental-controls-page.c:110
 #, c-format
 msgid "Parental Controls for %s"
 msgstr "%s ਲਈ ਮਾਪਿਆਂ ਦੇ ਕੰਟਰੋਲ"
 
-#: scarecrow-initial-setup/pages/parental-controls/gis-parental-controls-page.c:112
+#: scarecrow-initial-setup/pages/parental-controls/scis-parental-controls-page.c:112
 msgid "Set restrictions on what this user can run or install."
 msgstr "ਪਾਬੰਦੀਆਂ ਤੈਅ ਕਰੋ ਕਿ ਇਹ ਵਰਤੋਂਕਾਰ ਕੀ ਚਲਾ ਜਾਂ ਇੰਸਟਾਲ ਕਰ ਸਕਦਾ ਹੈ।"
 
-#: scarecrow-initial-setup/pages/parental-controls/gis-parental-controls-page.c:207
+#: scarecrow-initial-setup/pages/parental-controls/scis-parental-controls-page.c:207
 msgid "Parental Controls"
 msgstr "ਮਾਪਿਆਂ ਦੇ ਕੰਟਰੋਲ"
 
 #. Don’t break UI compatibility if parental controls are disabled.
-#: scarecrow-initial-setup/pages/password/gis-password-page.c:79
+#: scarecrow-initial-setup/pages/password/scis-password-page.c:79
 msgid "Set a Password"
 msgstr "ਪਾਸਵਰਡ ਦਿਓ"
 
-#: scarecrow-initial-setup/pages/password/gis-password-page.c:80
-#: scarecrow-initial-setup/pages/password/gis-password-page.c:89
+#: scarecrow-initial-setup/pages/password/scis-password-page.c:80
+#: scarecrow-initial-setup/pages/password/scis-password-page.c:89
 msgid "Be careful not to lose your password."
 msgstr "ਧਿਆਨ ਰੱਖੋ ਕਿ ਤੁਸੀਂ ਆਪਣਾ ਪਾਸਵਰਡ ਭੁੱਲ ਨਾ ਜਾਉ"
 
 #. Translators: The placeholder is for the user’s full name.
-#: scarecrow-initial-setup/pages/password/gis-password-page.c:87
+#: scarecrow-initial-setup/pages/password/scis-password-page.c:87
 #, c-format
 #| msgid "Set a Password"
 msgid "Set a Password for %s"
 msgstr "%s ਲਈ ਪਾਸਵਰਡ ਸੈੱਟ ਕਰੋ"
 
-#: scarecrow-initial-setup/pages/password/gis-password-page.c:95
+#: scarecrow-initial-setup/pages/password/scis-password-page.c:95
 #| msgid "Set a Password"
 msgid "Set a Parent Password"
 msgstr "ਮਾਪਿਆਂ ਦਾ ਪਾਸਵਰਡ ਸੈੱਟ ਕਰੋ"
 
 #. Translators: The placeholder is the full name of the child user on the system.
-#: scarecrow-initial-setup/pages/password/gis-password-page.c:97
+#: scarecrow-initial-setup/pages/password/scis-password-page.c:97
 #, c-format
 msgid "This password will control access to the parental controls for %s."
 msgstr ""
 "ਇਹ ਪਾਸਵਰਡ ਨੂੰ %s ਲਈ ਮਾਪਿਆਂ ਦੇ ਕੰਟੋਰਲ ਦੀ ਪਹੁੰਚ ਕੰਟਰੋਲ ਕਰਨ ਲਈ ਵਰਤਿਆ ਜਾਵੇਗਾ।"
 
-#: scarecrow-initial-setup/pages/password/gis-password-page.c:233
+#: scarecrow-initial-setup/pages/password/scis-password-page.c:233
 msgid "This is a weak password."
 msgstr "ਇਹ ਕਮਜ਼ੋਰ ਪਾਸਵਰਡ ਹੈ।"
 
-#: scarecrow-initial-setup/pages/password/gis-password-page.c:239
+#: scarecrow-initial-setup/pages/password/scis-password-page.c:239
 msgid "The passwords do not match."
 msgstr "ਪਾਸਵਰਡ ਮਿਲਦੇ ਨਹੀਂ ਹਨ।"
 
-#: scarecrow-initial-setup/pages/password/gis-password-page.c:425
+#: scarecrow-initial-setup/pages/password/scis-password-page.c:425
 msgid "Password"
 msgstr "ਪਾਸਵਰਡ"
 
-#: scarecrow-initial-setup/pages/password/gis-password-page.ui:66
+#: scarecrow-initial-setup/pages/password/scis-password-page.ui:66
 msgid "_Confirm"
 msgstr "ਤਸਦੀਕ ਕਰੋ(_C)"
 
@@ -530,7 +530,7 @@ msgstr "ਹੋਰ ਅੱਖਰ, ਨੰਬਰ ਤੇ ਵਿਰਾਮ ਚਿੰਨ
 #. * like "Fedora" or "Ubuntu". It falls back to "GNOME" if we can't
 #. * detect any distribution.
 #.
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:68
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:68
 #, c-format
 msgid ""
 "Sending reports of technical problems helps us to improve %s. Reports are "
@@ -544,31 +544,31 @@ msgstr ""
 #. * like "Fedora" or "Ubuntu". It falls back to "GNOME" if we can't
 #. * detect any distribution.
 #.
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:78
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:78
 #, c-format
 msgid "Problem data will be collected by %s:"
 msgstr "%s ਰਾਹੀਂ ਡਾਟਾ ਇਕੱਤਰ ਕਰਨ ਸਮੱਸਿਆ ਆਵੇਗੀ:"
 
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:79
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:135
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:210
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:79
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:135
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:210
 msgid "Privacy Policy"
 msgstr "ਪਰਦੇਦਾਰੀ ਨੀਤੀ"
 
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:135
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:135
 msgid "Uses Mozilla Location Service:"
 msgstr "ਮੋਜ਼ੀਲਾ ਟਿਕਾਣਾ ਸੇਵਾਵਾਂ ਨੂੰ ਵਰਤੋਂ:"
 
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:246
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.ui:16
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:246
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.ui:16
 msgid "Privacy"
 msgstr "ਪਰਦੇਦਾਰੀ"
 
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.ui:31
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.ui:31
 msgid "Location Services"
 msgstr "ਟਿਕਾਣਾ ਸੇਵਾਵਾਂ"
 
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.ui:52
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.ui:52
 msgid ""
 "Allows applications to determine your geographical location. An indication "
 "is shown when location services are in use."
@@ -577,11 +577,11 @@ msgstr ""
 " ਜਾਂਦਾ ਹੈ, ਜਦੋਂ "
 "ਵੀ ਟਿਕਾਣਾ ਸਰਵਿਸ ਵਰਤੀ ਜਾਂਦੀ ਹੈ।"
 
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.ui:74
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.ui:74
 msgid "Automatic Problem Reporting"
 msgstr "ਆਪਣੇ-ਆਪ ਸਮੱਸਿਆ ਦੀ ਰਿਪੋਰਟ ਭੇਜਣੀ"
 
-#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.ui:110
+#: scarecrow-initial-setup/pages/privacy/scis-privacy-page.ui:110
 msgid ""
 "Privacy controls can be changed at any time from the Settings application."
 msgstr ""
@@ -590,7 +590,7 @@ msgstr ""
 #. Translators: the parameter here is the name of a distribution,
 #. * like "Fedora" or "Ubuntu". It falls back to "GNOME 3" if we can't
 #. * detect any distribution.
-#: scarecrow-initial-setup/pages/summary/gis-summary-page.c:227
+#: scarecrow-initial-setup/pages/summary/scis-summary-page.c:227
 #, c-format
 msgid "_Start Using %s"
 msgstr "%s ਨੂੰ ਵਰਤਣਾ ਸ਼ੁਰੂ ਕਰੋ(_S)"
@@ -598,7 +598,7 @@ msgstr "%s ਨੂੰ ਵਰਤਣਾ ਸ਼ੁਰੂ ਕਰੋ(_S)"
 #. Translators: the parameter here is the name of a distribution,
 #. * like "Fedora" or "Ubuntu". It falls back to "GNOME 3" if we can't
 #. * detect any distribution.
-#: scarecrow-initial-setup/pages/summary/gis-summary-page.c:234
+#: scarecrow-initial-setup/pages/summary/scis-summary-page.c:234
 #, c-format
 #| msgid ""
 #| "Thank you for choosing %s.\n"
@@ -606,16 +606,16 @@ msgstr "%s ਨੂੰ ਵਰਤਣਾ ਸ਼ੁਰੂ ਕਰੋ(_S)"
 msgid "%s is ready to be used. We hope that you love it!"
 msgstr "%s ਵਰਤਣ ਲਿਆ ਤਿਆਰ ਹੈ। ਸਾਨੂੰ ਆਸ ਹੈ ਕਿ ਤੁਸੀਂ ਇਸ ਨੂੰ ਪਿਆਰ ਕਰੋਗੇ!"
 
-#: scarecrow-initial-setup/pages/summary/gis-summary-page.c:258
+#: scarecrow-initial-setup/pages/summary/scis-summary-page.c:258
 msgid "Setup Complete"
 msgstr "ਸੈਟਅੱਪ ਪੂਰਾ ਕਰੋ"
 
-#: scarecrow-initial-setup/pages/summary/gis-summary-page.ui:70
+#: scarecrow-initial-setup/pages/summary/scis-summary-page.ui:70
 msgid "All done!"
 msgstr "ਪੂਰਾ ਹੋ ਗਿਆ!"
 
 #. Translators: "city, country"
-#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:261
+#: scarecrow-initial-setup/pages/timezone/scis-timezone-page.c:261
 #, c-format
 msgctxt "timezone loc"
 msgid "%s, %s"
@@ -624,33 +624,33 @@ msgstr "%s, %s"
 #. Translators: UTC here means the Coordinated Universal Time.
 #. * %:::z will be replaced by the offset from UTC e.g. UTC+02
 #.
-#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:298
+#: scarecrow-initial-setup/pages/timezone/scis-timezone-page.c:298
 msgid "UTC%:::z"
 msgstr "UTC%:::z"
 
 #. Translators: This is the time format used in 12-hour mode.
-#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:302
+#: scarecrow-initial-setup/pages/timezone/scis-timezone-page.c:302
 msgid "%l:%M %p"
 msgstr "%l:%M %p"
 
 #. Translators: This is the time format used in 24-hour mode.
-#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:305
+#: scarecrow-initial-setup/pages/timezone/scis-timezone-page.c:305
 msgid "%R"
 msgstr "%R"
 
 #. Translators: "timezone (utc shift)"
-#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:308
+#: scarecrow-initial-setup/pages/timezone/scis-timezone-page.c:308
 #, c-format
 msgctxt "timezone map"
 msgid "%s (%s)"
 msgstr "%s (%s)"
 
-#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:462
-#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.ui:17
+#: scarecrow-initial-setup/pages/timezone/scis-timezone-page.c:462
+#: scarecrow-initial-setup/pages/timezone/scis-timezone-page.ui:17
 msgid "Time Zone"
 msgstr "ਸਮਾਂ ਖੇਤਰ"
 
-#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.ui:18
+#: scarecrow-initial-setup/pages/timezone/scis-timezone-page.ui:18
 msgid ""
 "The time zone will be set automatically if your location can be found. You "
 "can also search for a city to set it yourself."
@@ -659,7 +659,7 @@ msgstr ""
 " ਸੈੱਟ ਕਰਨ ਵਾਸਤੇ "
 "ਸ਼ਹਿਰ ਲੱਭ ਸਕਦੇ ਹੋ।"
 
-#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.ui:56
+#: scarecrow-initial-setup/pages/timezone/scis-timezone-page.ui:56
 msgid "Please search for a nearby city"
 msgstr "ਆਪਣੇ ਨੇੜਲਾ ਸ਼ਹਿਰ ਦੀ ਖੋਜ ਕਰੋ ਜੀ"
 
