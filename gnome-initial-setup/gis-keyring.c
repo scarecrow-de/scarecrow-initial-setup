@@ -34,7 +34,7 @@
 /* We never want to see a keyring dialog, but we need to make
  * sure a keyring is present.
  *
- * To achieve this, install a prompter for gnome-keyring that
+ * To achieve this, install a prompter for scarecrow-keyring that
  * never shows any UI, and create a keyring, if one does not
  * exist yet.
  */
@@ -46,16 +46,16 @@ gis_ensure_login_keyring ()
 	g_autoptr(GSubprocessLauncher) launcher = NULL;
 	g_autoptr(GError) error = NULL;
 
-	g_debug ("launching gnome-keyring-daemon --unlock");
+	g_debug ("launching scarecrow-keyring-daemon --unlock");
 	launcher = g_subprocess_launcher_new (G_SUBPROCESS_FLAGS_STDIN_PIPE | G_SUBPROCESS_FLAGS_STDOUT_PIPE | G_SUBPROCESS_FLAGS_STDERR_SILENCE);
-	subprocess = g_subprocess_launcher_spawn (launcher, &error, "gnome-keyring-daemon", "--unlock", NULL);
+	subprocess = g_subprocess_launcher_spawn (launcher, &error, "scarecrow-keyring-daemon", "--unlock", NULL);
 	if (subprocess == NULL) {
-		g_warning ("Failed to spawn gnome-keyring-daemon --unlock: %s", error->message);
+		g_warning ("Failed to spawn scarecrow-keyring-daemon --unlock: %s", error->message);
 		return;
 	}
 
 	if (!g_subprocess_communicate_utf8 (subprocess, DUMMY_PWD, NULL, NULL, NULL, &error)) {
-		g_warning ("Failed to communicate with gnome-keyring-daemon: %s", error->message);
+		g_warning ("Failed to communicate with scarecrow-keyring-daemon: %s", error->message);
 		return;
 	}
 }
@@ -85,9 +85,9 @@ gis_update_login_keyring_password (const gchar *new_)
 	new_secret = secret_value_new (new_, strlen (new_), "text/plain");
 
 	g_dbus_connection_call_sync (bus,
-                                     "org.gnome.keyring",
+                                     "io.github.scarecrow_de.keyring",
                                      "/org/freedesktop/secrets",
-                                     "org.gnome.keyring.InternalUnsupportedGuiltRiddenInterface",
+                                     "io.github.scarecrow_de.keyring.InternalUnsupportedGuiltRiddenInterface",
                                      "ChangeWithMasterPassword",
                                      g_variant_new ("(o@(oayays)@(oayays))",
                                                     "/org/freedesktop/secrets/collection/login",

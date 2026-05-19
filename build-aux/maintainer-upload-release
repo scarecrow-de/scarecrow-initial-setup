@@ -9,7 +9,7 @@ tarball_path="${MESON_BUILD_ROOT}/meson-dist/${tarball_basename}"
 [[ -e "$tarball_path" ]]  # ninja dist must have been successful
 
 gnome_series=${project_version%.*}
-expected_branch=gnome-${gnome_series/./-}
+expected_branch=scarecrow-${gnome_series/./-}
 
 pushd "$MESON_SOURCE_ROOT"
     branch=$(git rev-parse --abbrev-ref HEAD)

@@ -35,7 +35,7 @@
 
 #include <act/act-user-manager.h>
 
-#define SERVICE_NAME "gdm-password"
+#define SERVICE_NAME "scdm-password"
 
 struct _GisSummaryPagePrivate {
   GtkWidget *start_button;
@@ -51,7 +51,7 @@ G_DEFINE_TYPE_WITH_PRIVATE (GisSummaryPage, gis_summary_page, GIS_TYPE_PAGE);
 
 static void
 request_info_query (GisSummaryPage  *page,
-                    GdmUserVerifier *user_verifier,
+                    ScdmUserVerifier *user_verifier,
                     const char      *question,
                     gboolean         is_secret)
 {
@@ -62,7 +62,7 @@ request_info_query (GisSummaryPage  *page,
 }
 
 static void
-on_info (GdmUserVerifier *user_verifier,
+on_info (ScdmUserVerifier *user_verifier,
          const char      *service_name,
          const char      *info,
          GisSummaryPage  *page)
@@ -71,7 +71,7 @@ on_info (GdmUserVerifier *user_verifier,
 }
 
 static void
-on_problem (GdmUserVerifier *user_verifier,
+on_problem (ScdmUserVerifier *user_verifier,
             const char      *service_name,
             const char      *problem,
             GisSummaryPage  *page)
@@ -80,7 +80,7 @@ on_problem (GdmUserVerifier *user_verifier,
 }
 
 static void
-on_info_query (GdmUserVerifier *user_verifier,
+on_info_query (ScdmUserVerifier *user_verifier,
                const char      *service_name,
                const char      *question,
                GisSummaryPage  *page)
@@ -89,7 +89,7 @@ on_info_query (GdmUserVerifier *user_verifier,
 }
 
 static void
-on_secret_info_query (GdmUserVerifier *user_verifier,
+on_secret_info_query (ScdmUserVerifier *user_verifier,
                       const char      *service_name,
                       const char      *question,
                       GisSummaryPage  *page)
@@ -100,7 +100,7 @@ on_secret_info_query (GdmUserVerifier *user_verifier,
   g_debug ("PAM module secret info query: %s", question);
   if (should_send_password) {
     g_debug ("sending password\n");
-    gdm_user_verifier_call_answer_query (user_verifier,
+    scdm_user_verifier_call_answer_query (user_verifier,
                                          service_name,
                                          priv->user_password,
                                          NULL, NULL, NULL);
@@ -111,11 +111,11 @@ on_secret_info_query (GdmUserVerifier *user_verifier,
 }
 
 static void
-on_session_opened (GdmGreeter     *greeter,
+on_session_opened (ScdmGreeter     *greeter,
                    const char     *service_name,
                    GisSummaryPage *page)
 {
-  gdm_greeter_call_start_session_when_ready_sync (greeter, service_name,
+  scdm_greeter_call_start_session_when_ready_sync (greeter, service_name,
                                                   TRUE, NULL, NULL);
 }
 
@@ -127,7 +127,7 @@ add_uid_file (uid_t uid)
   g_autoptr(GError) error = NULL;
 
   gis_uid_path = g_build_filename (g_get_home_dir (),
-                                   "gnome-initial-setup-uid",
+                                   "scarecrow-initial-setup-uid",
                                    NULL);
   uid_str = g_strdup_printf ("%u", uid);
 
@@ -143,10 +143,10 @@ log_user_in (GisSummaryPage *page)
 {
   GisSummaryPagePrivate *priv = gis_summary_page_get_instance_private (page);
   g_autoptr(GError) error = NULL;
-  GdmGreeter *greeter = NULL;
-  GdmUserVerifier *user_verifier = NULL;
+  ScdmGreeter *greeter = NULL;
+  ScdmUserVerifier *user_verifier = NULL;
 
-  if (!gis_driver_get_gdm_objects (GIS_PAGE (page)->driver,
+  if (!gis_driver_get_scdm_objects (GIS_PAGE (page)->driver,
                                    &greeter, &user_verifier)) {
     g_warning ("No GDM connection; not initiating login");
     return;
@@ -169,7 +169,7 @@ log_user_in (GisSummaryPage *page)
    */
   add_uid_file (act_user_get_uid (priv->user_account));
 
-  gdm_user_verifier_call_begin_verification_for_user_sync (user_verifier,
+  scdm_user_verifier_call_begin_verification_for_user_sync (user_verifier,
                                                            SERVICE_NAME,
                                                            act_user_get_user_name (priv->user_account),
                                                            NULL, &error);

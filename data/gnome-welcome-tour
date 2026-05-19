@@ -2,12 +2,12 @@
 
 cfgdir=${XDG_CONFIG_DIR:-$HOME/.config}
 
-# Don't do anything if gnome-tour isn't installed
-gnome_tour_path=$(which gnome-tour 2>/dev/null)
+# Don't do anything if scarecrow-tour isn't installed
+gnome_tour_path=$(which scarecrow-tour 2>/dev/null)
 if test -z "${gnome_tour_path}"; then
     rm -f $cfgdir/run-welcome-tour
     exit
 fi
 
-gnome-tour
+scarecrow-tour
 rm -f $cfgdir/run-welcome-tour

@@ -22,7 +22,7 @@
 #include "config.h"
 
 #include "gis-account-page-enterprise.h"
-#include "gnome-initial-setup.h"
+#include "scarecrow-initial-setup.h"
 
 #include <glib/gi18n.h>
 #include <gio/gio.h>

@@ -1,14 +1,14 @@
-# Greek translation for gnome-initial-setup.
-# Copyright (C) 2012 gnome-initial-setup's COPYRIGHT HOLDER
-# This file is distributed under the same license as the gnome-initial-setup package.
+# Greek translation for scarecrow-initial-setup.
+# Copyright (C) 2012 scarecrow-initial-setup's COPYRIGHT HOLDER
+# This file is distributed under the same license as the scarecrow-initial-setup package.
 # Tom Tryfonidis <tomtryf@gmail.com>, 2012.
 # Dimitris Spingos (Δημήτρης Σπίγγος) <dmtrs32@gmail.com>, 2013, 2015.
 # Efstathios Iosifidis <iosifidis@opensuse.org>, 2013, 2018.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: gnome-initial-setup master\n"
-"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-initial-setup/"
+"Project-Id-Version: scarecrow-initial-setup master\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/scarecrow-initial-setup/"
 "issues\n"
 "POT-Creation-Date: 2020-08-17 19:50+0000\n"
 "PO-Revision-Date: 2020-09-09 01:26+0300\n"
@@ -22,64 +22,64 @@ msgstr ""
 "X-Generator: Poedit 2.3\n"
 "X-Project-Style: gnome\n"
 
-#: data/gnome-initial-setup-first-login.desktop.in.in:3
-#: data/gnome-initial-setup.desktop.in.in:3
+#: data/scarecrow-initial-setup-first-login.desktop.in.in:3
+#: data/scarecrow-initial-setup.desktop.in.in:3
 msgid "Initial Setup"
 msgstr "Αρχική ρύθμιση"
 
-#: gnome-initial-setup/gis-assistant.c:423
+#: scarecrow-initial-setup/gis-assistant.c:423
 msgid "_Next"
 msgstr "Επόμε_νο"
 
-#: gnome-initial-setup/gis-assistant.c:424
+#: scarecrow-initial-setup/gis-assistant.c:424
 msgid "_Accept"
 msgstr "_Αποδοχή"
 
-#: gnome-initial-setup/gis-assistant.c:425
+#: scarecrow-initial-setup/gis-assistant.c:425
 msgid "_Skip"
 msgstr "Παράλει_ψη"
 
-#: gnome-initial-setup/gis-assistant.c:426
+#: scarecrow-initial-setup/gis-assistant.c:426
 msgid "_Previous"
 msgstr "_Προηγούμενο"
 
-#: gnome-initial-setup/gis-assistant.c:427
+#: scarecrow-initial-setup/gis-assistant.c:427
 msgid "_Cancel"
 msgstr "Ακύ_ρωση"
 
-#: gnome-initial-setup/gnome-initial-setup.c:252
+#: scarecrow-initial-setup/scarecrow-initial-setup.c:252
 msgid "Force existing user mode"
 msgstr "Εξαναγκασμός υπάρχουσας λειτουργίας χρήστη"
 
-#: gnome-initial-setup/gnome-initial-setup.c:258
+#: scarecrow-initial-setup/scarecrow-initial-setup.c:258
 msgid "— GNOME initial setup"
 msgstr "— Αρχική ρύθμιση GNOME"
 
-#: gnome-initial-setup/pages/account/gis-account-avatar-chooser.ui:36
+#: scarecrow-initial-setup/pages/account/gis-account-avatar-chooser.ui:36
 msgid "Take a Picture…"
 msgstr "Λήψη μιας φωτογραφίας…"
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.c:184
+#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.c:184
 msgid "Failed to register account"
 msgstr "Αποτυχία εγγραφής του λογαριασμού"
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.c:378
+#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.c:378
 msgid "No supported way to authenticate with this domain"
 msgstr "Κανένας υποστηριζόμενος τρόπος πιστοποίησης με αυτόν τον τομέα"
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.c:418
+#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.c:418
 msgid "Failed to join domain"
 msgstr "Αποτυχία ένταξης στον τομέα"
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.c:486
+#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.c:486
 msgid "Failed to log into domain"
 msgstr "Αποτυχία σύνδεσης στον τομέα"
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.ui:17
+#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:17
 msgid "Enterprise Login"
 msgstr "Εταιρική σύνδεση"
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.ui:18
+#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:18
 msgid ""
 "Enterprise login allows an existing centrally managed user account to be "
 "used on this device. You can also use this account to access company "
@@ -90,34 +90,34 @@ msgstr ""
 "χρησιμοποιήσετε αυτόν τον λογαριασμό για να αποκτήσετε πρόσβαση σε "
 "εταιρικούς πόρους στο διαδίκτυο."
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.ui:36
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.ui:287
+#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:36
+#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:287
 msgid "_Domain"
 msgstr "_Τομέας"
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.ui:53
-#: gnome-initial-setup/pages/account/gis-account-page-local.ui:84
+#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:53
+#: scarecrow-initial-setup/pages/account/gis-account-page-local.ui:84
 msgid "_Username"
 msgstr "Όν_ομα χρήστη"
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.ui:70
-#: gnome-initial-setup/pages/password/gis-password-page.ui:34
+#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:70
+#: scarecrow-initial-setup/pages/password/gis-password-page.ui:34
 msgid "_Password"
 msgstr "_Συνθηματικό"
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.ui:146
+#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:146
 msgid "Enterprise domain or realm name"
 msgstr "Εταιρικός τομέας ή όνομα realm"
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.ui:211
+#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:211
 msgid "C_ontinue"
 msgstr "_Συνέχεια"
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.ui:246
+#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:246
 msgid "Domain Administrator Login"
 msgstr "Σύνδεση διαχειριστή τομέα"
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.ui:266
+#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:266
 msgid ""
 "In order to use enterprise logins, this computer needs to be enrolled in a "
 "domain. Please have your network administrator type the domain password "
@@ -128,118 +128,118 @@ msgstr ""
 "να πληκτρολογήσει τον κωδικό πρόσβασης του τομέα και επιλέξτε ένα μοναδικό "
 "όνομα για τον υπολογιστή σας."
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.ui:321
+#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:321
 msgid "_Computer"
 msgstr "_Υπολογιστής"
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.ui:353
+#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:353
 msgid "Administrator _Name"
 msgstr "Ό_νομα διαχειριστή"
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.ui:387
+#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:387
 msgid "Administrator Password"
 msgstr "Κωδικός πρόσβασης διαχειριστή"
 
-#: gnome-initial-setup/pages/account/gis-account-page-local.c:207
+#: scarecrow-initial-setup/pages/account/gis-account-page-local.c:207
 msgid "Please check the name and username. You can choose a picture too."
 msgstr ""
 "Παρακαλούμε, ελέγξτε το όνομα σας και το όνομα χρήστη. Μπορείτε επίσης να "
 "επιλέξετε μια εικόνα."
 
-#: gnome-initial-setup/pages/account/gis-account-page-local.c:453
+#: scarecrow-initial-setup/pages/account/gis-account-page-local.c:453
 msgid "We need a few details to complete setup."
 msgstr ""
 "Χρειαζόμαστε περισσότερες λεπτομέρειες για να ολοκληρώσουμε τη ρύθμιση."
 
-#: gnome-initial-setup/pages/account/gis-account-page-local.c:559
+#: scarecrow-initial-setup/pages/account/gis-account-page-local.c:559
 msgid "Administrator"
 msgstr "Διαχειριστής"
 
-#: gnome-initial-setup/pages/account/gis-account-page-local.c:565
-#: gnome-initial-setup/pages/account/gis-account-page-local.c:608
+#: scarecrow-initial-setup/pages/account/gis-account-page-local.c:565
+#: scarecrow-initial-setup/pages/account/gis-account-page-local.c:608
 #, c-format
 msgid "Failed to create user '%s': "
 msgstr "Αποτυχία δημιουργίας χρήστη «%s»: "
 
-#: gnome-initial-setup/pages/account/gis-account-page-local.ui:21
+#: scarecrow-initial-setup/pages/account/gis-account-page-local.ui:21
 msgid "Avatar image"
 msgstr "Προσωπική εικόνα"
 
-#: gnome-initial-setup/pages/account/gis-account-page-local.ui:38
-#: gnome-initial-setup/pages/account/gis-account-page.c:283
+#: scarecrow-initial-setup/pages/account/gis-account-page-local.ui:38
+#: scarecrow-initial-setup/pages/account/gis-account-page.c:283
 msgid "About You"
 msgstr "Σχετικά με εσάς"
 
-#: gnome-initial-setup/pages/account/gis-account-page-local.ui:39
+#: scarecrow-initial-setup/pages/account/gis-account-page-local.ui:39
 msgid "Please provide a name and username. You can choose a picture too."
 msgstr ""
 "Παρακαλούμε, δώστε ένα όνομα και ένα όνομα χρήστη. Μπορείτε επίσης να "
 "επιλέξετε μια εικόνα."
 
-#: gnome-initial-setup/pages/account/gis-account-page-local.ui:53
+#: scarecrow-initial-setup/pages/account/gis-account-page-local.ui:53
 msgid "_Full Name"
 msgstr "Ονομα_τεπώνυμο"
 
-#: gnome-initial-setup/pages/account/gis-account-page-local.ui:149
+#: scarecrow-initial-setup/pages/account/gis-account-page-local.ui:149
 msgid "Set up _parental controls for this user"
 msgstr "Ρύθμιση _γονικού ελέγχου για αυτόν τον χρήστη"
 
-#: gnome-initial-setup/pages/account/gis-account-page-local.ui:156
+#: scarecrow-initial-setup/pages/account/gis-account-page-local.ui:156
 msgid "For use by a parent or supervisor, who must set up their own password."
 msgstr ""
 "Για χρήση από γονέα ή επιβλέποντα, ο οποίος πρέπει να δημιουργήσει το δικό "
 "του συνθηματικό."
 
-#: gnome-initial-setup/pages/account/gis-account-page.ui:43
+#: scarecrow-initial-setup/pages/account/gis-account-page.ui:43
 msgid "_Enterprise Login"
 msgstr "_Εταιρική σύνδεση"
 
-#: gnome-initial-setup/pages/account/gis-account-page.ui:53
+#: scarecrow-initial-setup/pages/account/gis-account-page.ui:53
 msgid "Go online to set up Enterprise Login."
 msgstr "Συνδεθείτε για την ρύθμιση τον εταιρικό λογαριασμό."
 
-#: gnome-initial-setup/pages/account/um-realm-manager.c:310
+#: scarecrow-initial-setup/pages/account/um-realm-manager.c:310
 msgid "Cannot automatically join this type of domain"
 msgstr "Αδυναμία αυτόματης σύνδεσης αυτού του τύπου τομέα"
 
-#: gnome-initial-setup/pages/account/um-realm-manager.c:373
+#: scarecrow-initial-setup/pages/account/um-realm-manager.c:373
 #, c-format
 msgid "No such domain or realm found"
 msgstr "Δε βρέθηκε τέτοιος τομέας ή realm"
 
-#: gnome-initial-setup/pages/account/um-realm-manager.c:782
-#: gnome-initial-setup/pages/account/um-realm-manager.c:796
+#: scarecrow-initial-setup/pages/account/um-realm-manager.c:782
+#: scarecrow-initial-setup/pages/account/um-realm-manager.c:796
 #, c-format
 msgid "Cannot log in as %s at the %s domain"
 msgstr "Αδυναμία σύνδεσης ως %s στον τομέα %s"
 
-#: gnome-initial-setup/pages/account/um-realm-manager.c:788
+#: scarecrow-initial-setup/pages/account/um-realm-manager.c:788
 msgid "Invalid password, please try again"
 msgstr "Εσφαλμένο συνθηματικό, παρακαλούμε προσπαθήστε ξανά"
 
-#: gnome-initial-setup/pages/account/um-realm-manager.c:801
+#: scarecrow-initial-setup/pages/account/um-realm-manager.c:801
 #, c-format
 msgid "Couldn’t connect to the %s domain: %s"
 msgstr "Αδυναμία σύνδεσης στον τομέα %s: %s"
 
-#: gnome-initial-setup/pages/account/um-utils.c:248
+#: scarecrow-initial-setup/pages/account/um-utils.c:248
 msgid "Sorry, that user name isn’t available. Please try another."
 msgstr "Λυπούμαστε, το όνομα χρήστη δεν είναι διαθέσιμο. Δοκιμάστε άλλο."
 
-#: gnome-initial-setup/pages/account/um-utils.c:251
+#: scarecrow-initial-setup/pages/account/um-utils.c:251
 #, c-format
 msgid "The username is too long."
 msgstr "Το όνομα χρήστη είναι πολύ μεγάλο."
 
-#: gnome-initial-setup/pages/account/um-utils.c:254
+#: scarecrow-initial-setup/pages/account/um-utils.c:254
 msgid "The username cannot start with a “-”."
 msgstr "Το όνομα χρήστη δεν μπορεί να αρχίζει με «-»."
 
-#: gnome-initial-setup/pages/account/um-utils.c:257
+#: scarecrow-initial-setup/pages/account/um-utils.c:257
 msgid "That username isn’t available. Please try another."
 msgstr "Το όνομα χρήστη δεν είναι διαθέσιμο. Δοκιμάστε άλλο."
 
-#: gnome-initial-setup/pages/account/um-utils.c:260
+#: scarecrow-initial-setup/pages/account/um-utils.c:260
 msgid ""
 "The username should only consist of upper and lower case letters from a-z, "
 "digits and the following characters: . - _"
@@ -247,25 +247,25 @@ msgstr ""
 "Το όνομα χρήστη πρέπει να αποτελείται μόνο από πεζά και κεφαλαία γράμματα "
 "από a-z, αριθμούς και οποιονδήποτε από τους χαρακτήρες: . - _"
 
-#: gnome-initial-setup/pages/account/um-utils.c:264
+#: scarecrow-initial-setup/pages/account/um-utils.c:264
 msgid "This will be used to name your home folder and can’t be changed."
 msgstr ""
 "Αυτό θα χρησιμοποιηθεί σαν όνομα για τον προσωπικό σας φάκελο και δεν μπορεί "
 "να αλλαχθεί."
 
-#: gnome-initial-setup/pages/goa/gis-goa-page.c:92
+#: scarecrow-initial-setup/pages/goa/gis-goa-page.c:92
 msgid "Add Account"
 msgstr "Προσθήκη λογαριασμού"
 
-#: gnome-initial-setup/pages/goa/gis-goa-page.c:357
+#: scarecrow-initial-setup/pages/goa/gis-goa-page.c:357
 msgid "Online Accounts"
 msgstr "Διαδικτυακοί λογαριασμοί"
 
-#: gnome-initial-setup/pages/goa/gis-goa-page.ui:17
+#: scarecrow-initial-setup/pages/goa/gis-goa-page.ui:17
 msgid "Connect Your Online Accounts"
 msgstr "Σύνδεση σε δικτυακούς λογαριασμούς"
 
-#: gnome-initial-setup/pages/goa/gis-goa-page.ui:18
+#: scarecrow-initial-setup/pages/goa/gis-goa-page.ui:18
 msgid ""
 "Connect your accounts to easily access your email, online calendar, "
 "contacts, documents and photos."
@@ -274,43 +274,43 @@ msgstr ""
 "αλληλογραφία σας, στο διαδικτυακό ημερολόγιο, στις επαφές, στα έγγραφα και "
 "τις φωτογραφίες σας."
 
-#: gnome-initial-setup/pages/goa/gis-goa-page.ui:48
+#: scarecrow-initial-setup/pages/goa/gis-goa-page.ui:48
 msgid ""
 "Accounts can be added and removed at any time from the Settings application."
 msgstr ""
 "Λογαριασμοί μπορούν να προστεθούν και να διαγραφούν οποιαδήποτε στιγμή από "
 "τις Ρυθμίσεις."
 
-#: gnome-initial-setup/pages/keyboard/cc-input-chooser.c:240
+#: scarecrow-initial-setup/pages/keyboard/cc-input-chooser.c:240
 msgid "Preview"
 msgstr "Προεπισκόπηση"
 
-#: gnome-initial-setup/pages/keyboard/cc-input-chooser.c:299
-#: gnome-initial-setup/pages/language/cc-language-chooser.c:227
+#: scarecrow-initial-setup/pages/keyboard/cc-input-chooser.c:299
+#: scarecrow-initial-setup/pages/language/cc-language-chooser.c:227
 msgid "More…"
 msgstr "Περισσότερα…"
 
 #. Translators: a search for input methods or keyboard layouts
 #. * did not yield any results
 #.
-#: gnome-initial-setup/pages/keyboard/cc-input-chooser.c:321
+#: scarecrow-initial-setup/pages/keyboard/cc-input-chooser.c:321
 msgid "No inputs found"
 msgstr "Δε βρέθηκαν είσοδοι"
 
-#: gnome-initial-setup/pages/keyboard/gis-keyboard-page.c:504
-#: gnome-initial-setup/pages/keyboard/gis-keyboard-page.ui:15
+#: scarecrow-initial-setup/pages/keyboard/gis-keyboard-page.c:504
+#: scarecrow-initial-setup/pages/keyboard/gis-keyboard-page.ui:15
 msgid "Typing"
 msgstr "Πληκτρολόγηση"
 
-#: gnome-initial-setup/pages/keyboard/gis-keyboard-page.ui:16
+#: scarecrow-initial-setup/pages/keyboard/gis-keyboard-page.ui:16
 msgid "Select your keyboard layout or an input method."
 msgstr "Επιλέξτε τη διάταξη του πληκτρολογίου σας ή μια άλλη μέθοδο εισόδου."
 
-#: gnome-initial-setup/pages/language/cc-language-chooser.c:243
+#: scarecrow-initial-setup/pages/language/cc-language-chooser.c:243
 msgid "No languages found"
 msgstr "Δε βρέθηκαν γλώσσες"
 
-#: gnome-initial-setup/pages/language/gis-language-page.c:262
+#: scarecrow-initial-setup/pages/language/gis-language-page.c:262
 msgid "Welcome"
 msgstr "Καλώς ήλθατε"
 
@@ -318,32 +318,32 @@ msgstr "Καλώς ήλθατε"
 #. * like greeting somebody at the door. If the exclamation mark is not
 #. * suitable for this in your language you may replace it.
 #.
-#: gnome-initial-setup/pages/language/gis-welcome-widget.c:136
+#: scarecrow-initial-setup/pages/language/gis-welcome-widget.c:136
 msgid "Welcome!"
 msgstr "Καλώς ήλθατε!"
 
-#: gnome-initial-setup/pages/network/gis-network-page.c:318
+#: scarecrow-initial-setup/pages/network/gis-network-page.c:318
 msgctxt "Wireless access point"
 msgid "Other…"
 msgstr "Άλλο…"
 
-#: gnome-initial-setup/pages/network/gis-network-page.c:403
+#: scarecrow-initial-setup/pages/network/gis-network-page.c:403
 msgid "Wireless networking is disabled"
 msgstr "Το ασύρματο δίκτυο είναι ανενεργό"
 
-#: gnome-initial-setup/pages/network/gis-network-page.c:410
+#: scarecrow-initial-setup/pages/network/gis-network-page.c:410
 msgid "Checking for available wireless networks"
 msgstr "Γίνετε έλεγχος για διαθέσιμα ασύρματα δίκτυα"
 
-#: gnome-initial-setup/pages/network/gis-network-page.c:805
+#: scarecrow-initial-setup/pages/network/gis-network-page.c:805
 msgid "Network"
 msgstr "Δίκτυο"
 
-#: gnome-initial-setup/pages/network/gis-network-page.ui:18
+#: scarecrow-initial-setup/pages/network/gis-network-page.ui:18
 msgid "Wi-Fi"
 msgstr "Wi-Fi"
 
-#: gnome-initial-setup/pages/network/gis-network-page.ui:19
+#: scarecrow-initial-setup/pages/network/gis-network-page.ui:19
 msgid ""
 "Connecting to the internet helps you get new apps, information, and other "
 "upgrades. It also helps set the time and your location automatically."
@@ -352,80 +352,80 @@ msgstr ""
 "άλλες αναβαθμίσεις. Βοηθά επίσης να ρυθμίσετε αυτόματα την ώρα και την "
 "τοποθεσία σας."
 
-#: gnome-initial-setup/pages/network/gis-network-page.ui:76
+#: scarecrow-initial-setup/pages/network/gis-network-page.ui:76
 msgid "No wireless available"
 msgstr "Δεν υπάρχει διαθέσιμο ασύρματο δίκτυο"
 
-#: gnome-initial-setup/pages/network/gis-network-page.ui:91
+#: scarecrow-initial-setup/pages/network/gis-network-page.ui:91
 msgid "Turn On"
 msgstr "Ενεργοποίηση"
 
 #. Translators: The placeholder is the user’s full name.
-#: gnome-initial-setup/pages/parental-controls/gis-parental-controls-page.c:102
+#: scarecrow-initial-setup/pages/parental-controls/gis-parental-controls-page.c:102
 #, c-format
 msgid "Parental Controls for %s"
 msgstr "Γονικός έλεγχος για %s"
 
-#: gnome-initial-setup/pages/parental-controls/gis-parental-controls-page.c:104
+#: scarecrow-initial-setup/pages/parental-controls/gis-parental-controls-page.c:104
 msgid "Set restrictions on what this user can run or install."
 msgstr ""
 "Ορίστε περιορισμούς για το τι μπορεί να εκτελέσει ή να εγκαταστήσει αυτός ο "
 "χρήστης."
 
-#: gnome-initial-setup/pages/parental-controls/gis-parental-controls-page.c:199
+#: scarecrow-initial-setup/pages/parental-controls/gis-parental-controls-page.c:199
 msgid "Parental Controls"
 msgstr "Γονικός έλεγχος"
 
 #. Don’t break UI compatibility if parental controls are disabled.
-#: gnome-initial-setup/pages/password/gis-password-page.c:79
+#: scarecrow-initial-setup/pages/password/gis-password-page.c:79
 msgid "Set a Password"
 msgstr "Ορισμός κωδικού πρόσβασης"
 
-#: gnome-initial-setup/pages/password/gis-password-page.c:80
-#: gnome-initial-setup/pages/password/gis-password-page.c:89
+#: scarecrow-initial-setup/pages/password/gis-password-page.c:80
+#: scarecrow-initial-setup/pages/password/gis-password-page.c:89
 msgid "Be careful not to lose your password."
 msgstr "Προσέξτε να μην χάσετε το κωδικό πρόσβασής σας."
 
 #. Translators: The placeholder is for the user’s full name.
-#: gnome-initial-setup/pages/password/gis-password-page.c:87
+#: scarecrow-initial-setup/pages/password/gis-password-page.c:87
 #, c-format
 msgid "Set a Password for %s"
 msgstr "Ορισμός συνθηματικού για %s"
 
-#: gnome-initial-setup/pages/password/gis-password-page.c:95
+#: scarecrow-initial-setup/pages/password/gis-password-page.c:95
 msgid "Set a Parent Password"
 msgstr "Ορισμός συνθηματικού γονέα"
 
 #. Translators: The placeholder is the full name of the child user on the system.
-#: gnome-initial-setup/pages/password/gis-password-page.c:97
+#: scarecrow-initial-setup/pages/password/gis-password-page.c:97
 #, c-format
 msgid "This password will control access to the parental controls for %s."
 msgstr ""
 "Αυτό το συνθηματικό θα ελέγχει την πρόσβαση στους γονικούς ελέγχους για το "
 "%s."
 
-#: gnome-initial-setup/pages/password/gis-password-page.c:228
+#: scarecrow-initial-setup/pages/password/gis-password-page.c:228
 msgid "This is a weak password."
 msgstr "Αυτός είναι ένα ασθενές συνθηματικό."
 
-#: gnome-initial-setup/pages/password/gis-password-page.c:234
+#: scarecrow-initial-setup/pages/password/gis-password-page.c:234
 msgid "The passwords do not match."
 msgstr "Δεν ταιριάζουν τα συνθηματικά."
 
-#: gnome-initial-setup/pages/password/gis-password-page.c:420
+#: scarecrow-initial-setup/pages/password/gis-password-page.c:420
 msgid "Password"
 msgstr "Συνθηματικό"
 
-#: gnome-initial-setup/pages/password/gis-password-page.ui:66
+#: scarecrow-initial-setup/pages/password/gis-password-page.ui:66
 msgid "_Confirm"
 msgstr "_Επιβεβαίωση"
 
-#: gnome-initial-setup/pages/password/pw-utils.c:81
+#: scarecrow-initial-setup/pages/password/pw-utils.c:81
 msgctxt "Password hint"
 msgid "The new password needs to be different from the old one."
 msgstr "Το νέο συνθηματικό πρέπει να είναι διαφορετικός από το παλιό."
 
-#: gnome-initial-setup/pages/password/pw-utils.c:83
+#: scarecrow-initial-setup/pages/password/pw-utils.c:83
 msgctxt "Password hint"
 msgid ""
 "This password is very similar to your last one. Try changing some letters "
@@ -434,8 +434,8 @@ msgstr ""
 "Αυτό το συνθηματικό είναι παρόμοιο με το προηγούμενό σας. Προσπαθήστε να "
 "αλλάξετε μερικά γράμματα και αριθμούς."
 
-#: gnome-initial-setup/pages/password/pw-utils.c:85
-#: gnome-initial-setup/pages/password/pw-utils.c:93
+#: scarecrow-initial-setup/pages/password/pw-utils.c:85
+#: scarecrow-initial-setup/pages/password/pw-utils.c:93
 msgctxt "Password hint"
 msgid ""
 "This password is very similar to your last one. Try changing the password a "
@@ -444,7 +444,7 @@ msgstr ""
 "Αυτό το συνθηματικό είναι παρόμοιο με το προηγούμενό σας. Προσπαθήστε να "
 "αλλάξετε το συνθηματικό λίγο περισσότερο."
 
-#: gnome-initial-setup/pages/password/pw-utils.c:87
+#: scarecrow-initial-setup/pages/password/pw-utils.c:87
 msgctxt "Password hint"
 msgid ""
 "This is a weak password. A password without your user name would be stronger."
@@ -452,14 +452,14 @@ msgstr ""
 "Αυτό το συνθηματικό είναι ασθενές. Ένα συνθηματικό χωρίς το όνομα χρήστη σας "
 "θα ήταν ισχυρότερο."
 
-#: gnome-initial-setup/pages/password/pw-utils.c:89
+#: scarecrow-initial-setup/pages/password/pw-utils.c:89
 msgctxt "Password hint"
 msgid "This is a weak password. Try to avoid using your name in the password."
 msgstr ""
 "Αυτό το συνθηματικό είναι ασθενές. Προσπαθήστε να αποφύγετε τη χρήση του "
 "ονόματός σας στο συνθηματικό."
 
-#: gnome-initial-setup/pages/password/pw-utils.c:91
+#: scarecrow-initial-setup/pages/password/pw-utils.c:91
 msgctxt "Password hint"
 msgid ""
 "This is a weak password. Try to avoid some of the words included in the "
@@ -468,42 +468,42 @@ msgstr ""
 "Αυτό το συνθηματικό είναι ασθενές. Προσπαθήστε να αποφύγετε μερικές από τις "
 "λέξεις που συμπεριλαμβάνονται στο συνθηματικό."
 
-#: gnome-initial-setup/pages/password/pw-utils.c:95
+#: scarecrow-initial-setup/pages/password/pw-utils.c:95
 msgctxt "Password hint"
 msgid "This is a weak password. Try to avoid common words."
 msgstr ""
 "Αυτό το συνθηματικό είναι ασθενές. Προσπαθήστε να αποφύγετε κοινότυπες "
 "λέξεις."
 
-#: gnome-initial-setup/pages/password/pw-utils.c:97
+#: scarecrow-initial-setup/pages/password/pw-utils.c:97
 msgctxt "Password hint"
 msgid "This is a weak password. Try to avoid reordering existing words."
 msgstr ""
 "Αυτό το συνθηματικό είναι ασθενές. Προσπαθήστε να αποφύγετε αναδιάταξη "
 "υφιστάμενων λέξεων."
 
-#: gnome-initial-setup/pages/password/pw-utils.c:99
+#: scarecrow-initial-setup/pages/password/pw-utils.c:99
 msgctxt "Password hint"
 msgid "This is a weak password. Try to use more numbers."
 msgstr ""
 "Αυτό το συνθηματικό είναι ασθενές. Προσπαθήστε να προσθέσετε περισσότερους "
 "αριθμούς."
 
-#: gnome-initial-setup/pages/password/pw-utils.c:101
+#: scarecrow-initial-setup/pages/password/pw-utils.c:101
 msgctxt "Password hint"
 msgid "This is a weak password. Try to use more uppercase letters."
 msgstr ""
 "Αυτό το συνθηματικό είναι ασθενές. Προσπαθήστε να χρησιμοποιήσετε "
 "περισσότερα κεφαλαία γράμματα."
 
-#: gnome-initial-setup/pages/password/pw-utils.c:103
+#: scarecrow-initial-setup/pages/password/pw-utils.c:103
 msgctxt "Password hint"
 msgid "This is a weak password. Try to use more lowercase letters."
 msgstr ""
 "Αυτό το συνθηματικό είναι ασθενές. Προσπαθήστε να χρησιμοποιήσετε "
 "περισσότερα πεζά γράμματα."
 
-#: gnome-initial-setup/pages/password/pw-utils.c:105
+#: scarecrow-initial-setup/pages/password/pw-utils.c:105
 msgctxt "Password hint"
 msgid ""
 "This is a weak password. Try to use more special characters, like "
@@ -512,7 +512,7 @@ msgstr ""
 "Αυτό το συνθηματικό είναι ασθενές. Προσπαθήστε να χρησιμοποιήσετε "
 "περισσότερους ειδικούς χαρακτήρες, όπως σημεία στίξης."
 
-#: gnome-initial-setup/pages/password/pw-utils.c:107
+#: scarecrow-initial-setup/pages/password/pw-utils.c:107
 msgctxt "Password hint"
 msgid ""
 "This is a weak password. Try to use a mixture of letters, numbers and "
@@ -521,14 +521,14 @@ msgstr ""
 "Αυτό το συνθηματικό είναι ασθενές. Προσπαθήστε να χρησιμοποιήσετε έναν "
 "συνδυασμό γραμμάτων, αριθμών και σημείων στίξης."
 
-#: gnome-initial-setup/pages/password/pw-utils.c:109
+#: scarecrow-initial-setup/pages/password/pw-utils.c:109
 msgctxt "Password hint"
 msgid "This is a weak password. Try to avoid repeating the same character."
 msgstr ""
 "Αυτό το συνθηματικό είναι ασθενές. Προσπαθήστε να αποφύγετε την επανάληψη "
 "του ίδιου χαρακτήρα."
 
-#: gnome-initial-setup/pages/password/pw-utils.c:111
+#: scarecrow-initial-setup/pages/password/pw-utils.c:111
 msgctxt "Password hint"
 msgid ""
 "This is a weak password. Try to avoid repeating the same type of character: "
@@ -538,14 +538,14 @@ msgstr ""
 "του ίδιου τύπου χαρακτήρα: χρειάζεστε ανάμειξη γραμμάτων, αριθμών και "
 "σημείων στίξης."
 
-#: gnome-initial-setup/pages/password/pw-utils.c:113
+#: scarecrow-initial-setup/pages/password/pw-utils.c:113
 msgctxt "Password hint"
 msgid "This is a weak password. Try to avoid sequences like 1234 or abcd."
 msgstr ""
 "Αυτό το συνθηματικό είναι ασθενές. Προσπαθήστε να αποφύγετε ακολουθίες όπως "
 "1234 ή abcd."
 
-#: gnome-initial-setup/pages/password/pw-utils.c:115
+#: scarecrow-initial-setup/pages/password/pw-utils.c:115
 msgctxt "Password hint"
 msgid ""
 "This is a weak password. Try to add more letters, numbers and punctuation."
@@ -553,13 +553,13 @@ msgstr ""
 "Αυτό το συνθηματικό είναι ασθενές. Προσπαθήστε να προσθέσετε περισσότερα "
 "γράμματα, αριθμούς και σύμβολα."
 
-#: gnome-initial-setup/pages/password/pw-utils.c:117
+#: scarecrow-initial-setup/pages/password/pw-utils.c:117
 msgctxt "Password hint"
 msgid "Mix uppercase and lowercase and try to use a number or two."
 msgstr ""
 "Αναμείξτε κεφαλαία και πεζά γράμματα και χρησιμοποιήστε έναν ή δύο αριθμούς."
 
-#: gnome-initial-setup/pages/password/pw-utils.c:119
+#: scarecrow-initial-setup/pages/password/pw-utils.c:119
 msgctxt "Password hint"
 msgid ""
 "Adding more letters, numbers and punctuation will make the password stronger."
@@ -571,7 +571,7 @@ msgstr ""
 #. * like "Fedora" or "Ubuntu". It falls back to "GNOME" if we can't
 #. * detect any distribution.
 #.
-#: gnome-initial-setup/pages/privacy/gis-privacy-page.c:68
+#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:68
 #, c-format
 msgid ""
 "Sending reports of technical problems helps us to improve %s. Reports are "
@@ -584,31 +584,31 @@ msgstr ""
 #. * like "Fedora" or "Ubuntu". It falls back to "GNOME" if we can't
 #. * detect any distribution.
 #.
-#: gnome-initial-setup/pages/privacy/gis-privacy-page.c:78
+#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:78
 #, c-format
 msgid "Problem data will be collected by %s:"
 msgstr "Τα δεδομένα του προβλήματος θα συλλεχθούν από το %s:"
 
-#: gnome-initial-setup/pages/privacy/gis-privacy-page.c:79
-#: gnome-initial-setup/pages/privacy/gis-privacy-page.c:135
-#: gnome-initial-setup/pages/privacy/gis-privacy-page.c:210
+#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:79
+#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:135
+#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:210
 msgid "Privacy Policy"
 msgstr "Πολιτική ιδιωτικότητας"
 
-#: gnome-initial-setup/pages/privacy/gis-privacy-page.c:135
+#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:135
 msgid "Uses Mozilla Location Service:"
 msgstr "Χρήση υπηρεσίας τοποθεσίας του Mozilla:"
 
-#: gnome-initial-setup/pages/privacy/gis-privacy-page.c:246
-#: gnome-initial-setup/pages/privacy/gis-privacy-page.ui:16
+#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:246
+#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.ui:16
 msgid "Privacy"
 msgstr "Ιδιωτικότητα"
 
-#: gnome-initial-setup/pages/privacy/gis-privacy-page.ui:31
+#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.ui:31
 msgid "Location Services"
 msgstr "Υπηρεσίες τοποθεσίας"
 
-#: gnome-initial-setup/pages/privacy/gis-privacy-page.ui:52
+#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.ui:52
 msgid ""
 "Allows applications to determine your geographical location. An indication "
 "is shown when location services are in use."
@@ -616,11 +616,11 @@ msgstr ""
 "Επιτρέπει τις εφαρμογές να καθορίσουν την τοποθεσία σας. Εμφανίζεται μια "
 "ένδειξη όταν χρησιμοποιούνται οι υπηρεσίες τοποθεσίας."
 
-#: gnome-initial-setup/pages/privacy/gis-privacy-page.ui:74
+#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.ui:74
 msgid "Automatic Problem Reporting"
 msgstr "Αυτόματη αναφορά προβλήματος"
 
-#: gnome-initial-setup/pages/privacy/gis-privacy-page.ui:110
+#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.ui:110
 msgid ""
 "Privacy controls can be changed at any time from the Settings application."
 msgstr ""
@@ -630,7 +630,7 @@ msgstr ""
 #. Translators: the parameter here is the name of a distribution,
 #. * like "Fedora" or "Ubuntu". It falls back to "GNOME 3" if we can't
 #. * detect any distribution.
-#: gnome-initial-setup/pages/summary/gis-summary-page.c:233
+#: scarecrow-initial-setup/pages/summary/gis-summary-page.c:233
 #, c-format
 msgid "_Start Using %s"
 msgstr "Ξε_κινήστε τη χρήση του %s"
@@ -638,21 +638,21 @@ msgstr "Ξε_κινήστε τη χρήση του %s"
 #. Translators: the parameter here is the name of a distribution,
 #. * like "Fedora" or "Ubuntu". It falls back to "GNOME 3" if we can't
 #. * detect any distribution.
-#: gnome-initial-setup/pages/summary/gis-summary-page.c:240
+#: scarecrow-initial-setup/pages/summary/gis-summary-page.c:240
 #, c-format
 msgid "%s is ready to be used. We hope that you love it!"
 msgstr "Το %s είναι έτοιμο προς χρήση. Ελπίζουμε ότι θα το αγαπήσετε!"
 
-#: gnome-initial-setup/pages/summary/gis-summary-page.c:264
+#: scarecrow-initial-setup/pages/summary/gis-summary-page.c:264
 msgid "Setup Complete"
 msgstr "Η ρύθμιση ολοκληρώθηκε"
 
-#: gnome-initial-setup/pages/summary/gis-summary-page.ui:70
+#: scarecrow-initial-setup/pages/summary/gis-summary-page.ui:70
 msgid "All done!"
 msgstr "Έτοιμο!"
 
 #. Translators: "city, country"
-#: gnome-initial-setup/pages/timezone/gis-timezone-page.c:261
+#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:261
 #, c-format
 msgctxt "timezone loc"
 msgid "%s, %s"
@@ -661,33 +661,33 @@ msgstr "%s, %s"
 #. Translators: UTC here means the Coordinated Universal Time.
 #. * %:::z will be replaced by the offset from UTC e.g. UTC+02
 #.
-#: gnome-initial-setup/pages/timezone/gis-timezone-page.c:298
+#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:298
 msgid "UTC%:::z"
 msgstr "UTC%:::z"
 
 #. Translators: This is the time format used in 12-hour mode.
-#: gnome-initial-setup/pages/timezone/gis-timezone-page.c:302
+#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:302
 msgid "%l:%M %p"
 msgstr "%l:%M %p"
 
 #. Translators: This is the time format used in 24-hour mode.
-#: gnome-initial-setup/pages/timezone/gis-timezone-page.c:305
+#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:305
 msgid "%R"
 msgstr "%R"
 
 #. Translators: "timezone (utc shift)"
-#: gnome-initial-setup/pages/timezone/gis-timezone-page.c:308
+#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:308
 #, c-format
 msgctxt "timezone map"
 msgid "%s (%s)"
 msgstr "%s (%s)"
 
-#: gnome-initial-setup/pages/timezone/gis-timezone-page.c:473
-#: gnome-initial-setup/pages/timezone/gis-timezone-page.ui:17
+#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:473
+#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.ui:17
 msgid "Time Zone"
 msgstr "Ζώνη ώρας"
 
-#: gnome-initial-setup/pages/timezone/gis-timezone-page.ui:18
+#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.ui:18
 msgid ""
 "The time zone will be set automatically if your location can be found. You "
 "can also search for a city to set it yourself."
@@ -695,7 +695,7 @@ msgstr ""
 "Η ζώνη ώρας θα οριστεί αυτόματα αν μπορεί να βρεθεί η τοποθεσία σας. "
 "Μπορείτε επίσης να αναζητήσετε για μια πόλη και να την ορίσετε εσείς."
 
-#: gnome-initial-setup/pages/timezone/gis-timezone-page.ui:56
+#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.ui:56
 msgid "Please search for a nearby city"
 msgstr "Παρακαλούμε, αναζητήστε μια κοντινή πόλη"
 
@@ -707,16 +707,16 @@ msgstr "Παρακαλούμε, αναζητήστε μια κοντινή πό�
 #. * keep or remove. The %s is getting replaced with the name and version
 #. * of the OS, e.g. "GNOME 3.38"
 #.
-#: gnome-initial-setup/pages/welcome/gis-welcome-page.c:209
+#: scarecrow-initial-setup/pages/welcome/gis-welcome-page.c:209
 #, c-format
 msgid "Welcome to %s !"
 msgstr "Καλώς ήλθατε στο %s !"
 
-#: gnome-initial-setup/pages/welcome/gis-welcome-page.ui:5
+#: scarecrow-initial-setup/pages/welcome/gis-welcome-page.ui:5
 msgid "Setup"
 msgstr "Ρύθμιση"
 
-#: gnome-initial-setup/pages/welcome/gis-welcome-page.ui:43
+#: scarecrow-initial-setup/pages/welcome/gis-welcome-page.ui:43
 msgid ""
 "Setup will guide you through making an account and enabling some features. "
 "We’ll have you up and running in no time."
@@ -724,7 +724,7 @@ msgstr ""
 "Η ρύθμιση θα σας καθοδηγήσει στη δημιουργία λογαριασμού και την ενεργοποίηση "
 "ορισμένων λειτουργιών. Θα χρησιμοποιείτε το σύστημα σε χρόνο μηδέν."
 
-#: gnome-initial-setup/pages/welcome/gis-welcome-page.ui:54
+#: scarecrow-initial-setup/pages/welcome/gis-welcome-page.ui:54
 msgid "_Start Setup"
 msgstr "Έ_ναρξη ρύθμισης"
 

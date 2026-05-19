@@ -23,7 +23,7 @@
 
 #include <glib-object.h>
 
-#include "gnome-initial-setup.h"
+#include "scarecrow-initial-setup.h"
 
 G_BEGIN_DECLS
 

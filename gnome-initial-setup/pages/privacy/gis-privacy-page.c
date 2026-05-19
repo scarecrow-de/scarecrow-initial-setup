@@ -124,8 +124,8 @@ gis_privacy_page_constructed (GObject *object)
 
   gis_page_set_complete (GIS_PAGE (page), TRUE);
 
-  priv->location_settings = g_settings_new ("org.gnome.system.location");
-  priv->privacy_settings = g_settings_new ("org.gnome.desktop.privacy");
+  priv->location_settings = g_settings_new ("io.github.scarecrow_de.system.location");
+  priv->privacy_settings = g_settings_new ("io.github.scarecrow_de.desktop.privacy");
 
   gtk_switch_set_active (GTK_SWITCH (priv->location_switch), TRUE);
   gtk_switch_set_active (GTK_SWITCH (priv->reporting_switch), TRUE);

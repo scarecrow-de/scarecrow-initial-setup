@@ -11,13 +11,13 @@ resources = gnome.compile_resources(
 sources += [
     resources,
     'cc-common-language.c',
-    'gnome-initial-setup.c',
+    'scarecrow-initial-setup.c',
     'gis-assistant.c',
     'gis-page.c',
     'gis-page-header.c',
     'gis-driver.c',
     'gis-keyring.c',
-    'gnome-initial-setup.h',
+    'scarecrow-initial-setup.h',
     'gis-assistant.h',
     'gis-page.h',
     'gis-page-header.h',
@@ -30,8 +30,8 @@ dependencies = [
     dependency ('libnma', version: '>= 1.0'),
     dependency ('polkit-gobject-1', version: '>= 0.103'),
     dependency ('accountsservice'),
-    dependency ('gnome-desktop-3.0', version: '>= 3.7.5'),
-    dependency ('gsettings-desktop-schemas', version: '>= 3.37.1'),
+    dependency ('scarecrow-desktop-3.0', version: '>= 3.7.5'),
+    dependency ('scarecrow-gsettings-desktop-schemas', version: '>= 3.37.1'),
     dependency ('fontconfig'),
     dependency ('gweather-3.0'),
     dependency ('goa-1.0'),
@@ -39,7 +39,7 @@ dependencies = [
     dependency ('gtk+-3.0', version: '>= 3.11.3'),
     dependency ('glib-2.0', version: '>= 2.63.1'),
     dependency ('gio-unix-2.0', version: '>= 2.53.0'),
-    dependency ('gdm', version: '>= 3.8.3'),
+    dependency ('scdm', version: '>= 3.8.3'),
     dependency ('geocode-glib-1.0'),
     dependency ('libgeoclue-2.0', version: '>= 2.3.1'),
     cc.find_library('m', required: false),
@@ -58,7 +58,7 @@ dependencies = [
 ]
 
 executable(
-    'gnome-initial-setup',
+    'scarecrow-initial-setup',
     sources,
     include_directories: config_h_dir,
     dependencies: dependencies,
@@ -67,8 +67,8 @@ executable(
 )
 
 executable(
-    'gnome-initial-setup-copy-worker',
-    ['gnome-initial-setup-copy-worker.c'],
+    'scarecrow-initial-setup-copy-worker',
+    ['scarecrow-initial-setup-copy-worker.c'],
     include_directories: config_h_dir,
     dependencies: dependencies,
     install: true,

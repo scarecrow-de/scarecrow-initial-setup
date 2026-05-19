@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Tajik Gnome\n"
-"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-initial-setup/issue"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/scarecrow-initial-setup/issue"
 "s\n"
 "POT-Creation-Date: 2020-06-26 13:14+0000\n"
 "PO-Revision-Date: 2020-07-29 13:36+0500\n"
@@ -18,66 +18,66 @@ msgstr ""
 "X-Generator: Lokalize 20.04.2\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: data/gnome-initial-setup-first-login.desktop.in.in:3
-#: data/gnome-initial-setup.desktop.in.in:3
+#: data/scarecrow-initial-setup-first-login.desktop.in.in:3
+#: data/scarecrow-initial-setup.desktop.in.in:3
 msgid "Initial Setup"
 msgstr "Танзимоти ибтидоӣ"
 
-#: gnome-initial-setup/gis-assistant.c:419
+#: scarecrow-initial-setup/gis-assistant.c:419
 msgid "_Next"
 msgstr "_Навбатӣ"
 
-#: gnome-initial-setup/gis-assistant.c:420
+#: scarecrow-initial-setup/gis-assistant.c:420
 msgid "_Accept"
 msgstr "_Қабул кардан"
 
-#: gnome-initial-setup/gis-assistant.c:421
+#: scarecrow-initial-setup/gis-assistant.c:421
 msgid "_Skip"
 msgstr "_Нодида гузарондан"
 
-#: gnome-initial-setup/gis-assistant.c:422
+#: scarecrow-initial-setup/gis-assistant.c:422
 msgid "_Previous"
 msgstr "_Қаблӣ"
 
-#: gnome-initial-setup/gis-assistant.c:423
+#: scarecrow-initial-setup/gis-assistant.c:423
 msgid "_Cancel"
 msgstr "_Бекор кардан"
 
-#: gnome-initial-setup/gnome-initial-setup.c:241
+#: scarecrow-initial-setup/scarecrow-initial-setup.c:241
 msgid "Force existing user mode"
 msgstr "Маҷбур кардани хуруҷ аз ҳолати корбар"
 
-#: gnome-initial-setup/gnome-initial-setup.c:247
+#: scarecrow-initial-setup/scarecrow-initial-setup.c:247
 #, fuzzy
 #| msgid "- GNOME initial setup"
 msgid "— GNOME initial setup"
 msgstr "- Танзимоти ибтидоии GNOME"
 
-#: gnome-initial-setup/pages/account/gis-account-avatar-chooser.ui:36
+#: scarecrow-initial-setup/pages/account/gis-account-avatar-chooser.ui:36
 msgid "Take a Picture…"
 msgstr "Гирифтани сурат…"
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.c:184
+#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.c:184
 msgid "Failed to register account"
 msgstr "Ҳангоми қайдкунии ҳисоб хатогӣ ба вуҷуд омад"
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.c:378
+#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.c:378
 msgid "No supported way to authenticate with this domain"
 msgstr "Ягон тарзи санҷиши ҳаққоният барои ин домен дастгирӣ намешавад"
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.c:418
+#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.c:418
 msgid "Failed to join domain"
 msgstr "Ҳангоми ҳамроҳ шудан ба домен хатогӣ ба вуҷуд омад"
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.c:486
+#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.c:486
 msgid "Failed to log into domain"
 msgstr "Ҳангоми ворид шудан ба домен хатогӣ ба вуҷуд омад"
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.ui:17
+#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:17
 msgid "Enterprise Login"
 msgstr "Вуруди тиҷорӣ"
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.ui:18
+#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:18
 #, fuzzy
 #| msgid ""
 #| "Enterprise login allows an existing centrally managed user account to be "
@@ -90,34 +90,34 @@ msgstr ""
 "Вуруди тиҷорӣ имкон медиҳад, ки ҳисоби корбари идорашудаи марказии "
 "мавҷудбуда тавонад дар ин ҳисоб истифода бурда шавад."
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.ui:36
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.ui:287
+#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:36
+#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:287
 msgid "_Domain"
 msgstr "_Домен"
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.ui:53
-#: gnome-initial-setup/pages/account/gis-account-page-local.ui:84
+#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:53
+#: scarecrow-initial-setup/pages/account/gis-account-page-local.ui:84
 msgid "_Username"
 msgstr "_Номи корбар"
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.ui:70
-#: gnome-initial-setup/pages/password/gis-password-page.ui:34
+#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:70
+#: scarecrow-initial-setup/pages/password/gis-password-page.ui:34
 msgid "_Password"
 msgstr "_Парол"
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.ui:146
+#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:146
 msgid "Enterprise domain or realm name"
 msgstr "Домени тиҷорӣ ё номи соҳиб"
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.ui:211
+#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:211
 msgid "C_ontinue"
 msgstr "_Идома додан"
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.ui:246
+#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:246
 msgid "Domain Administrator Login"
 msgstr "Воридшавии маъмури домен"
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.ui:266
+#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:266
 msgid ""
 "In order to use enterprise logins, this computer needs to be enrolled in a "
 "domain. Please have your network administrator type the domain password "
@@ -127,120 +127,120 @@ msgstr ""
 "шавад. Лутфан, маъмури шабакаи худро пурсед, ки пароли доменро ин ҷо ворид "
 "кунад ва номи ягонаи компютерро барои компютери шумо ворид кунад."
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.ui:321
+#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:321
 msgid "_Computer"
 msgstr "_Компютер"
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.ui:353
+#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:353
 msgid "Administrator _Name"
 msgstr "_Номи маъмур"
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.ui:387
+#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:387
 msgid "Administrator Password"
 msgstr "Пароли маъмур"
 
-#: gnome-initial-setup/pages/account/gis-account-page-local.c:207
+#: scarecrow-initial-setup/pages/account/gis-account-page-local.c:207
 msgid "Please check the name and username. You can choose a picture too."
 msgstr ""
 
-#: gnome-initial-setup/pages/account/gis-account-page-local.c:453
+#: scarecrow-initial-setup/pages/account/gis-account-page-local.c:453
 msgid "We need a few details to complete setup."
 msgstr "Барои ба анҷом расонидани танзим баъзе тафсилот лозиманд."
 
-#: gnome-initial-setup/pages/account/gis-account-page-local.c:559
+#: scarecrow-initial-setup/pages/account/gis-account-page-local.c:559
 #, fuzzy
 #| msgid "Administrator _Name"
 msgid "Administrator"
 msgstr "_Номи маъмур"
 
-#: gnome-initial-setup/pages/account/gis-account-page-local.c:565
-#: gnome-initial-setup/pages/account/gis-account-page-local.c:608
+#: scarecrow-initial-setup/pages/account/gis-account-page-local.c:565
+#: scarecrow-initial-setup/pages/account/gis-account-page-local.c:608
 #, c-format
 msgid "Failed to create user '%s': "
 msgstr "Корбари '%s' эҷод карда нашуд: "
 
-#: gnome-initial-setup/pages/account/gis-account-page-local.ui:21
+#: scarecrow-initial-setup/pages/account/gis-account-page-local.ui:21
 msgid "Avatar image"
 msgstr "Тасвири аватар"
 
-#: gnome-initial-setup/pages/account/gis-account-page-local.ui:38
-#: gnome-initial-setup/pages/account/gis-account-page.c:283
+#: scarecrow-initial-setup/pages/account/gis-account-page-local.ui:38
+#: scarecrow-initial-setup/pages/account/gis-account-page.c:283
 msgid "About You"
 msgstr "Дар бораи шумо"
 
-#: gnome-initial-setup/pages/account/gis-account-page-local.ui:39
+#: scarecrow-initial-setup/pages/account/gis-account-page-local.ui:39
 msgid "Please provide a name and username. You can choose a picture too."
 msgstr ""
 
-#: gnome-initial-setup/pages/account/gis-account-page-local.ui:53
+#: scarecrow-initial-setup/pages/account/gis-account-page-local.ui:53
 msgid "_Full Name"
 msgstr "_Номи пурра"
 
-#: gnome-initial-setup/pages/account/gis-account-page-local.ui:149
+#: scarecrow-initial-setup/pages/account/gis-account-page-local.ui:149
 msgid "Set up _parental controls for this user"
 msgstr ""
 
-#: gnome-initial-setup/pages/account/gis-account-page-local.ui:156
+#: scarecrow-initial-setup/pages/account/gis-account-page-local.ui:156
 msgid "For use by a parent or supervisor, who must set up their own password."
 msgstr ""
 
-#: gnome-initial-setup/pages/account/gis-account-page.ui:43
+#: scarecrow-initial-setup/pages/account/gis-account-page.ui:43
 #, fuzzy
 #| msgid "Enterprise Login"
 msgid "_Enterprise Login"
 msgstr "Вуруди тиҷорӣ"
 
-#: gnome-initial-setup/pages/account/gis-account-page.ui:53
+#: scarecrow-initial-setup/pages/account/gis-account-page.ui:53
 #, fuzzy
 #| msgid "Set Up _Enterprise Login"
 msgid "Go online to set up Enterprise Login."
 msgstr "Танзими _вуруди тиҷорӣ"
 
-#: gnome-initial-setup/pages/account/um-realm-manager.c:310
+#: scarecrow-initial-setup/pages/account/um-realm-manager.c:310
 msgid "Cannot automatically join this type of domain"
 msgstr "Ҳамроҳ шудан ба ин намуди домен ба таври худкор имконнопазир аст"
 
-#: gnome-initial-setup/pages/account/um-realm-manager.c:373
+#: scarecrow-initial-setup/pages/account/um-realm-manager.c:373
 #, c-format
 msgid "No such domain or realm found"
 msgstr "Чунин домен ё соҳиб ёфт нашуд"
 
-#: gnome-initial-setup/pages/account/um-realm-manager.c:782
-#: gnome-initial-setup/pages/account/um-realm-manager.c:796
+#: scarecrow-initial-setup/pages/account/um-realm-manager.c:782
+#: scarecrow-initial-setup/pages/account/um-realm-manager.c:796
 #, c-format
 msgid "Cannot log in as %s at the %s domain"
 msgstr "Ҳамчун %s ба домени %s ворид намешавад"
 
-#: gnome-initial-setup/pages/account/um-realm-manager.c:788
+#: scarecrow-initial-setup/pages/account/um-realm-manager.c:788
 msgid "Invalid password, please try again"
 msgstr "Пароли беэътибор, лутфан, амалро такрор кунед"
 
-#: gnome-initial-setup/pages/account/um-realm-manager.c:801
+#: scarecrow-initial-setup/pages/account/um-realm-manager.c:801
 #, fuzzy, c-format
 #| msgid "Couldn't connect to the %s domain: %s"
 msgid "Couldn’t connect to the %s domain: %s"
 msgstr "Ба домени %s пайваст нашуд: %s"
 
-#: gnome-initial-setup/pages/account/um-utils.c:248
+#: scarecrow-initial-setup/pages/account/um-utils.c:248
 msgid "Sorry, that user name isn’t available. Please try another."
 msgstr ""
 
-#: gnome-initial-setup/pages/account/um-utils.c:251
+#: scarecrow-initial-setup/pages/account/um-utils.c:251
 #, c-format
 msgid "The username is too long."
 msgstr "Номи корбар хеле дароз аст."
 
-#: gnome-initial-setup/pages/account/um-utils.c:254
+#: scarecrow-initial-setup/pages/account/um-utils.c:254
 #, fuzzy
 #| msgid "The username cannot start with a '-'."
 msgid "The username cannot start with a “-”."
 msgstr "Номи корбар бояд бо '-' сар нашавад."
 
-#: gnome-initial-setup/pages/account/um-utils.c:257
+#: scarecrow-initial-setup/pages/account/um-utils.c:257
 msgid "That username isn’t available. Please try another."
 msgstr ""
 
-#: gnome-initial-setup/pages/account/um-utils.c:260
+#: scarecrow-initial-setup/pages/account/um-utils.c:260
 #, fuzzy
 #| msgid ""
 #| "The username should only consist of lower and upper case letters from a-"
@@ -252,26 +252,26 @@ msgstr ""
 "Номи корбар бояд танҳо аз ҳарфҳои хурду калон аз a-z, рақамҳо ва аломатҳои "
 "'.', '-' ва '_' иборат шавад."
 
-#: gnome-initial-setup/pages/account/um-utils.c:264
+#: scarecrow-initial-setup/pages/account/um-utils.c:264
 #, fuzzy
 #| msgid "This will be used to name your home folder and can't be changed."
 msgid "This will be used to name your home folder and can’t be changed."
 msgstr ""
 "Ин барои номи ҷузвдони асосӣ истифода мешавад ва тағйир дода намешавад."
 
-#: gnome-initial-setup/pages/goa/gis-goa-page.c:92
+#: scarecrow-initial-setup/pages/goa/gis-goa-page.c:92
 msgid "Add Account"
 msgstr "Илова кардани ҳисоб"
 
-#: gnome-initial-setup/pages/goa/gis-goa-page.c:357
+#: scarecrow-initial-setup/pages/goa/gis-goa-page.c:357
 msgid "Online Accounts"
 msgstr "Ҳисобҳои онлайн"
 
-#: gnome-initial-setup/pages/goa/gis-goa-page.ui:17
+#: scarecrow-initial-setup/pages/goa/gis-goa-page.ui:17
 msgid "Connect Your Online Accounts"
 msgstr "Пайваст кардани ҳисобҳои онлайни худ"
 
-#: gnome-initial-setup/pages/goa/gis-goa-page.ui:18
+#: scarecrow-initial-setup/pages/goa/gis-goa-page.ui:18
 #, fuzzy
 #| msgid ""
 #| "Connecting your accounts will allow you to easily access your email, "
@@ -284,7 +284,7 @@ msgstr ""
 "электронӣ, тақвими онлайн, тамосҳо, ҳуҷҷатҳо ва суратҳо дастрасии осон пайдо "
 "кунед."
 
-#: gnome-initial-setup/pages/goa/gis-goa-page.ui:48
+#: scarecrow-initial-setup/pages/goa/gis-goa-page.ui:48
 #, fuzzy
 #| msgid "Privacy controls can be changed at any time from Settings."
 msgid ""
@@ -293,36 +293,36 @@ msgstr ""
 "Унсурҳои идоракунии махфият метавонанд дар Танзимот дар вақти дилхоҳ иваз "
 "карда шаванд."
 
-#: gnome-initial-setup/pages/keyboard/cc-input-chooser.c:240
+#: scarecrow-initial-setup/pages/keyboard/cc-input-chooser.c:240
 msgid "Preview"
 msgstr "Пешнамоиш"
 
-#: gnome-initial-setup/pages/keyboard/cc-input-chooser.c:299
-#: gnome-initial-setup/pages/language/cc-language-chooser.c:227
+#: scarecrow-initial-setup/pages/keyboard/cc-input-chooser.c:299
+#: scarecrow-initial-setup/pages/language/cc-language-chooser.c:227
 msgid "More…"
 msgstr "Бештар..."
 
 #. Translators: a search for input methods or keyboard layouts
 #. * did not yield any results
 #.
-#: gnome-initial-setup/pages/keyboard/cc-input-chooser.c:321
+#: scarecrow-initial-setup/pages/keyboard/cc-input-chooser.c:321
 msgid "No inputs found"
 msgstr "Ягон вуруд ёфт нашуд"
 
-#: gnome-initial-setup/pages/keyboard/gis-keyboard-page.c:505
-#: gnome-initial-setup/pages/keyboard/gis-keyboard-page.ui:15
+#: scarecrow-initial-setup/pages/keyboard/gis-keyboard-page.c:505
+#: scarecrow-initial-setup/pages/keyboard/gis-keyboard-page.ui:15
 msgid "Typing"
 msgstr "Ҳуруфчинӣ"
 
-#: gnome-initial-setup/pages/keyboard/gis-keyboard-page.ui:16
+#: scarecrow-initial-setup/pages/keyboard/gis-keyboard-page.ui:16
 msgid "Select your keyboard layout or an input method."
 msgstr "Интихоб кардани тарҳбандии клавиатура ё тарзи вуруд."
 
-#: gnome-initial-setup/pages/language/cc-language-chooser.c:243
+#: scarecrow-initial-setup/pages/language/cc-language-chooser.c:243
 msgid "No languages found"
 msgstr "Ягон забон ёфт нашуд"
 
-#: gnome-initial-setup/pages/language/gis-language-page.c:262
+#: scarecrow-initial-setup/pages/language/gis-language-page.c:262
 msgid "Welcome"
 msgstr "Хуш омадед"
 
@@ -330,32 +330,32 @@ msgstr "Хуш омадед"
 #. * like greeting somebody at the door. If the exclamation mark is not
 #. * suitable for this in your language you may replace it.
 #.
-#: gnome-initial-setup/pages/language/gis-welcome-widget.c:136
+#: scarecrow-initial-setup/pages/language/gis-welcome-widget.c:136
 msgid "Welcome!"
 msgstr "Хуш омадед!"
 
-#: gnome-initial-setup/pages/network/gis-network-page.c:318
+#: scarecrow-initial-setup/pages/network/gis-network-page.c:318
 msgctxt "Wireless access point"
 msgid "Other…"
 msgstr "Дигар..."
 
-#: gnome-initial-setup/pages/network/gis-network-page.c:403
+#: scarecrow-initial-setup/pages/network/gis-network-page.c:403
 msgid "Wireless networking is disabled"
 msgstr "Шабакаи бесим ғайрифаъол аст"
 
-#: gnome-initial-setup/pages/network/gis-network-page.c:410
+#: scarecrow-initial-setup/pages/network/gis-network-page.c:410
 msgid "Checking for available wireless networks"
 msgstr "Ҷустуҷӯи шабакаҳои бесими дастрас"
 
-#: gnome-initial-setup/pages/network/gis-network-page.c:805
+#: scarecrow-initial-setup/pages/network/gis-network-page.c:805
 msgid "Network"
 msgstr "Шабака"
 
-#: gnome-initial-setup/pages/network/gis-network-page.ui:18
+#: scarecrow-initial-setup/pages/network/gis-network-page.ui:18
 msgid "Wi-Fi"
 msgstr "Wi-Fi"
 
-#: gnome-initial-setup/pages/network/gis-network-page.ui:19
+#: scarecrow-initial-setup/pages/network/gis-network-page.ui:19
 msgid ""
 "Connecting to the Internet will enable you to set the time, add your "
 "details, and enable you to access your email, calendar, and contacts. It is "
@@ -366,81 +366,81 @@ msgstr ""
 "тамосҳо дастрасӣ пайдо кунед. Интернет инчунин барои вуруд ба ҳисобҳои корӣ "
 "лозим аст."
 
-#: gnome-initial-setup/pages/network/gis-network-page.ui:76
+#: scarecrow-initial-setup/pages/network/gis-network-page.ui:76
 msgid "No wireless available"
 msgstr "Шабакаи бесим дастнорас аст."
 
-#: gnome-initial-setup/pages/network/gis-network-page.ui:91
+#: scarecrow-initial-setup/pages/network/gis-network-page.ui:91
 msgid "Turn On"
 msgstr "Фаъол кардан"
 
 #. Translators: The placeholder is the user’s full name.
-#: gnome-initial-setup/pages/parental-controls/gis-parental-controls-page.c:102
+#: scarecrow-initial-setup/pages/parental-controls/gis-parental-controls-page.c:102
 #, c-format
 msgid "Parental Controls for %s"
 msgstr ""
 
-#: gnome-initial-setup/pages/parental-controls/gis-parental-controls-page.c:104
+#: scarecrow-initial-setup/pages/parental-controls/gis-parental-controls-page.c:104
 msgid "Set restrictions on what this user can run or install."
 msgstr ""
 
-#: gnome-initial-setup/pages/parental-controls/gis-parental-controls-page.c:199
+#: scarecrow-initial-setup/pages/parental-controls/gis-parental-controls-page.c:199
 msgid "Parental Controls"
 msgstr ""
 
 #. Don’t break UI compatibility if parental controls are disabled.
-#: gnome-initial-setup/pages/password/gis-password-page.c:79
+#: scarecrow-initial-setup/pages/password/gis-password-page.c:79
 msgid "Set a Password"
 msgstr "Паролеро танзим кунед"
 
-#: gnome-initial-setup/pages/password/gis-password-page.c:80
-#: gnome-initial-setup/pages/password/gis-password-page.c:89
+#: scarecrow-initial-setup/pages/password/gis-password-page.c:80
+#: scarecrow-initial-setup/pages/password/gis-password-page.c:89
 msgid "Be careful not to lose your password."
 msgstr "Боэҳтиёт бошед, ки пароли худро гум накунед."
 
 #. Translators: The placeholder is for the user’s full name.
-#: gnome-initial-setup/pages/password/gis-password-page.c:87
+#: scarecrow-initial-setup/pages/password/gis-password-page.c:87
 #, fuzzy, c-format
 #| msgid "Set a Password"
 msgid "Set a Password for %s"
 msgstr "Паролеро танзим кунед"
 
-#: gnome-initial-setup/pages/password/gis-password-page.c:95
+#: scarecrow-initial-setup/pages/password/gis-password-page.c:95
 #, fuzzy
 #| msgid "Set a Password"
 msgid "Set a Parent Password"
 msgstr "Паролеро танзим кунед"
 
 #. Translators: The placeholder is the full name of the child user on the system.
-#: gnome-initial-setup/pages/password/gis-password-page.c:97
+#: scarecrow-initial-setup/pages/password/gis-password-page.c:97
 #, c-format
 msgid "This password will control access to the parental controls for %s."
 msgstr ""
 
-#: gnome-initial-setup/pages/password/gis-password-page.c:228
+#: scarecrow-initial-setup/pages/password/gis-password-page.c:228
 msgid "This is a weak password."
 msgstr "Ин пароли беқувват аст."
 
-#: gnome-initial-setup/pages/password/gis-password-page.c:234
+#: scarecrow-initial-setup/pages/password/gis-password-page.c:234
 msgid "The passwords do not match."
 msgstr "Паролҳо мувофиқат намекунанд."
 
-#: gnome-initial-setup/pages/password/gis-password-page.c:420
+#: scarecrow-initial-setup/pages/password/gis-password-page.c:420
 msgid "Password"
 msgstr "Парол"
 
-#: gnome-initial-setup/pages/password/gis-password-page.ui:66
+#: scarecrow-initial-setup/pages/password/gis-password-page.ui:66
 #, fuzzy
 #| msgid "_Confirm password"
 msgid "_Confirm"
 msgstr "_Паролро тасдиқ намоед"
 
-#: gnome-initial-setup/pages/password/pw-utils.c:81
+#: scarecrow-initial-setup/pages/password/pw-utils.c:81
 msgctxt "Password hint"
 msgid "The new password needs to be different from the old one."
 msgstr "Пароли нав бояд аз пароли куҳна фарқ кунад."
 
-#: gnome-initial-setup/pages/password/pw-utils.c:83
+#: scarecrow-initial-setup/pages/password/pw-utils.c:83
 msgctxt "Password hint"
 msgid ""
 "This password is very similar to your last one. Try changing some letters "
@@ -449,8 +449,8 @@ msgstr ""
 "Ин парол ба пароли охирини шумо хеле монанд аст. Баъзеи ҳарфҳо ва рақамҳоро "
 "иваз кунед."
 
-#: gnome-initial-setup/pages/password/pw-utils.c:85
-#: gnome-initial-setup/pages/password/pw-utils.c:93
+#: scarecrow-initial-setup/pages/password/pw-utils.c:85
+#: scarecrow-initial-setup/pages/password/pw-utils.c:93
 msgctxt "Password hint"
 msgid ""
 "This password is very similar to your last one. Try changing the password a "
@@ -458,20 +458,20 @@ msgid ""
 msgstr ""
 "Ин парол ба пароли охирини шумо хеле монанд аст. Паролеро каме иваз кунед."
 
-#: gnome-initial-setup/pages/password/pw-utils.c:87
+#: scarecrow-initial-setup/pages/password/pw-utils.c:87
 msgctxt "Password hint"
 msgid ""
 "This is a weak password. A password without your user name would be stronger."
 msgstr "Ин пароли беқувват аст. Парол бе номи корбари шумо қавитар мешавад."
 
-#: gnome-initial-setup/pages/password/pw-utils.c:89
+#: scarecrow-initial-setup/pages/password/pw-utils.c:89
 msgctxt "Password hint"
 msgid "This is a weak password. Try to avoid using your name in the password."
 msgstr ""
 "Ин пароли беқувват аст. Кӯшиш кунед, ки номи корбари худро дар парол "
 "истифода набаред."
 
-#: gnome-initial-setup/pages/password/pw-utils.c:91
+#: scarecrow-initial-setup/pages/password/pw-utils.c:91
 msgctxt "Password hint"
 msgid ""
 "This is a weak password. Try to avoid some of the words included in the "
@@ -480,37 +480,37 @@ msgstr ""
 "Ин пароли беқувват аст. Кӯшиш кунед, ки баъзе калимаҳои иловашударо аз парол "
 "истисно кунед."
 
-#: gnome-initial-setup/pages/password/pw-utils.c:95
+#: scarecrow-initial-setup/pages/password/pw-utils.c:95
 msgctxt "Password hint"
 msgid "This is a weak password. Try to avoid common words."
 msgstr ""
 "Ин пароли беқувват аст. Кӯшиш кунед, ки баъзе калимаҳои иддиро истисно кунед."
 
-#: gnome-initial-setup/pages/password/pw-utils.c:97
+#: scarecrow-initial-setup/pages/password/pw-utils.c:97
 msgctxt "Password hint"
 msgid "This is a weak password. Try to avoid reordering existing words."
 msgstr ""
 "Ин пароли беқувват аст. Кӯшиш кунед, ки калимаҳои мавҷудбударо ба таври "
 "дигар мураттаб кунед."
 
-#: gnome-initial-setup/pages/password/pw-utils.c:99
+#: scarecrow-initial-setup/pages/password/pw-utils.c:99
 msgctxt "Password hint"
 msgid "This is a weak password. Try to use more numbers."
 msgstr ""
 "Ин пароли беқувват аст. Кӯшиш кунед, ки рақами иловагиро истифода баред."
 
-#: gnome-initial-setup/pages/password/pw-utils.c:101
+#: scarecrow-initial-setup/pages/password/pw-utils.c:101
 msgctxt "Password hint"
 msgid "This is a weak password. Try to use more uppercase letters."
 msgstr ""
 "Ин пароли беқувват аст. Кӯшиш кунед, ки ҳарфҳои калонро истифода баред."
 
-#: gnome-initial-setup/pages/password/pw-utils.c:103
+#: scarecrow-initial-setup/pages/password/pw-utils.c:103
 msgctxt "Password hint"
 msgid "This is a weak password. Try to use more lowercase letters."
 msgstr "Ин пароли беқувват аст. Кӯшиш кунед, ки ҳарфҳои хурдро истифода баред."
 
-#: gnome-initial-setup/pages/password/pw-utils.c:105
+#: scarecrow-initial-setup/pages/password/pw-utils.c:105
 msgctxt "Password hint"
 msgid ""
 "This is a weak password. Try to use more special characters, like "
@@ -519,7 +519,7 @@ msgstr ""
 "Ин пароли беқувват аст. Кӯшиш кунед, ки аломатҳои махсусро, монанди аломати "
 "китобат, истифода баред."
 
-#: gnome-initial-setup/pages/password/pw-utils.c:107
+#: scarecrow-initial-setup/pages/password/pw-utils.c:107
 msgctxt "Password hint"
 msgid ""
 "This is a weak password. Try to use a mixture of letters, numbers and "
@@ -528,14 +528,14 @@ msgstr ""
 "Ин пароли беқувват аст. Кӯшиш кунед, ки омезиши ҳарфҳо, рақамҳо ва аломатҳои "
 "китобатиро истифода баред."
 
-#: gnome-initial-setup/pages/password/pw-utils.c:109
+#: scarecrow-initial-setup/pages/password/pw-utils.c:109
 msgctxt "Password hint"
 msgid "This is a weak password. Try to avoid repeating the same character."
 msgstr ""
 "Ин пароли беқувват аст. Кӯшиш кунед, ки такрории баъзе аломатҳоро истисно "
 "кунед."
 
-#: gnome-initial-setup/pages/password/pw-utils.c:111
+#: scarecrow-initial-setup/pages/password/pw-utils.c:111
 msgctxt "Password hint"
 msgid ""
 "This is a weak password. Try to avoid repeating the same type of character: "
@@ -544,14 +544,14 @@ msgstr ""
 "Ин пароли беқувват аст. Кӯшиш кунед, ки такрории баъзе намудҳои аломатҳоро "
 "истисно кунед: шумо бояд ҳарфҳо, рақамҳо ва аломати китобатиро омезиш кунед."
 
-#: gnome-initial-setup/pages/password/pw-utils.c:113
+#: scarecrow-initial-setup/pages/password/pw-utils.c:113
 msgctxt "Password hint"
 msgid "This is a weak password. Try to avoid sequences like 1234 or abcd."
 msgstr ""
 "Ин пароли беқувват аст. Кӯшиш кунед, ки силсиларо монанди 1234 ё abcd "
 "истисно кунед."
 
-#: gnome-initial-setup/pages/password/pw-utils.c:115
+#: scarecrow-initial-setup/pages/password/pw-utils.c:115
 #, fuzzy
 #| msgctxt "Password hint"
 #| msgid ""
@@ -564,7 +564,7 @@ msgstr ""
 "Ин пароли беқувват аст. Кӯшиш кунед, ки омезиши ҳарфҳо, рақамҳо ва аломатҳои "
 "китобатиро истифода баред."
 
-#: gnome-initial-setup/pages/password/pw-utils.c:117
+#: scarecrow-initial-setup/pages/password/pw-utils.c:117
 #, fuzzy
 #| msgctxt "Password hint"
 #| msgid "Mix uppercase and lowercase and use a number or two."
@@ -572,7 +572,7 @@ msgctxt "Password hint"
 msgid "Mix uppercase and lowercase and try to use a number or two."
 msgstr "Ҳарфҳои хурду калон бо рақамҳо аралаш кунед."
 
-#: gnome-initial-setup/pages/password/pw-utils.c:119
+#: scarecrow-initial-setup/pages/password/pw-utils.c:119
 #, fuzzy
 #| msgctxt "Password hint"
 #| msgid ""
@@ -589,7 +589,7 @@ msgstr ""
 #. * like "Fedora" or "Ubuntu". It falls back to "GNOME" if we can't
 #. * detect any distribution.
 #.
-#: gnome-initial-setup/pages/privacy/gis-privacy-page.c:68
+#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:68
 #, c-format
 msgid ""
 "Sending reports of technical problems helps us to improve %s. Reports are "
@@ -603,33 +603,33 @@ msgstr ""
 #. * like "Fedora" or "Ubuntu". It falls back to "GNOME" if we can't
 #. * detect any distribution.
 #.
-#: gnome-initial-setup/pages/privacy/gis-privacy-page.c:78
+#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:78
 #, c-format
 msgid "Problem data will be collected by %s:"
 msgstr ""
 
-#: gnome-initial-setup/pages/privacy/gis-privacy-page.c:79
-#: gnome-initial-setup/pages/privacy/gis-privacy-page.c:135
-#: gnome-initial-setup/pages/privacy/gis-privacy-page.c:210
+#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:79
+#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:135
+#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:210
 msgid "Privacy Policy"
 msgstr "Сиёсати махфият"
 
-#: gnome-initial-setup/pages/privacy/gis-privacy-page.c:135
+#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:135
 #, fuzzy
 #| msgid "Location Services"
 msgid "Uses Mozilla Location Service:"
 msgstr "Хидматҳои ҷойгиршавӣ"
 
-#: gnome-initial-setup/pages/privacy/gis-privacy-page.c:246
-#: gnome-initial-setup/pages/privacy/gis-privacy-page.ui:16
+#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:246
+#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.ui:16
 msgid "Privacy"
 msgstr "Махфият"
 
-#: gnome-initial-setup/pages/privacy/gis-privacy-page.ui:31
+#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.ui:31
 msgid "Location Services"
 msgstr "Хидматҳои ҷойгиршавӣ"
 
-#: gnome-initial-setup/pages/privacy/gis-privacy-page.ui:52
+#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.ui:52
 msgid ""
 "Allows applications to determine your geographical location. An indication "
 "is shown when location services are in use."
@@ -637,11 +637,11 @@ msgstr ""
 "Ба барномаҳо иҷозат медиҳанд, то ки макони ҷуғрофиро муайян кунанд. Вақте ки "
 "хидматҳои ҷойгиршавӣ истифода мешаванд, индикатор намоиш дода мешавад."
 
-#: gnome-initial-setup/pages/privacy/gis-privacy-page.ui:74
+#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.ui:74
 msgid "Automatic Problem Reporting"
 msgstr "Гузоришдиҳии худкор оиди мушкилиҳо"
 
-#: gnome-initial-setup/pages/privacy/gis-privacy-page.ui:110
+#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.ui:110
 #, fuzzy
 #| msgid "Privacy controls can be changed at any time from Settings."
 msgid ""
@@ -653,7 +653,7 @@ msgstr ""
 #. Translators: the parameter here is the name of a distribution,
 #. * like "Fedora" or "Ubuntu". It falls back to "GNOME 3" if we can't
 #. * detect any distribution.
-#: gnome-initial-setup/pages/summary/gis-summary-page.c:233
+#: scarecrow-initial-setup/pages/summary/gis-summary-page.c:233
 #, fuzzy, c-format
 #| msgid "_Start using %s"
 msgid "_Start Using %s"
@@ -662,7 +662,7 @@ msgstr "_Оғози истифодаи %s"
 #. Translators: the parameter here is the name of a distribution,
 #. * like "Fedora" or "Ubuntu". It falls back to "GNOME 3" if we can't
 #. * detect any distribution.
-#: gnome-initial-setup/pages/summary/gis-summary-page.c:240
+#: scarecrow-initial-setup/pages/summary/gis-summary-page.c:240
 #, fuzzy, c-format
 #| msgid ""
 #| "Thank you for choosing %s.\n"
@@ -672,16 +672,16 @@ msgstr ""
 "Ташаккур барои интихоби %s.\n"
 "Умедворем, ки он ба шумо маъқул аст."
 
-#: gnome-initial-setup/pages/summary/gis-summary-page.c:264
+#: scarecrow-initial-setup/pages/summary/gis-summary-page.c:264
 msgid "Setup Complete"
 msgstr "Танзим ба анҷом расид"
 
-#: gnome-initial-setup/pages/summary/gis-summary-page.ui:70
+#: scarecrow-initial-setup/pages/summary/gis-summary-page.ui:70
 msgid "All done!"
 msgstr "Ҳамааш тайёр!"
 
 #. Translators: "city, country"
-#: gnome-initial-setup/pages/timezone/gis-timezone-page.c:261
+#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:261
 #, c-format
 msgctxt "timezone loc"
 msgid "%s, %s"
@@ -690,39 +690,39 @@ msgstr "%s, %s"
 #. Translators: UTC here means the Coordinated Universal Time.
 #. * %:::z will be replaced by the offset from UTC e.g. UTC+02
 #.
-#: gnome-initial-setup/pages/timezone/gis-timezone-page.c:298
+#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:298
 msgid "UTC%:::z"
 msgstr "UTC%:::z"
 
 #. Translators: This is the time format used in 12-hour mode.
-#: gnome-initial-setup/pages/timezone/gis-timezone-page.c:302
+#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:302
 msgid "%l:%M %p"
 msgstr "%l:%M %p"
 
 #. Translators: This is the time format used in 24-hour mode.
-#: gnome-initial-setup/pages/timezone/gis-timezone-page.c:305
+#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:305
 msgid "%R"
 msgstr "%R"
 
 #. Translators: "timezone (utc shift)"
-#: gnome-initial-setup/pages/timezone/gis-timezone-page.c:308
+#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:308
 #, c-format
 msgctxt "timezone map"
 msgid "%s (%s)"
 msgstr "%s (%s)"
 
-#: gnome-initial-setup/pages/timezone/gis-timezone-page.c:473
-#: gnome-initial-setup/pages/timezone/gis-timezone-page.ui:17
+#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:473
+#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.ui:17
 msgid "Time Zone"
 msgstr "Минтақаи вақт"
 
-#: gnome-initial-setup/pages/timezone/gis-timezone-page.ui:18
+#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.ui:18
 msgid ""
 "The time zone will be set automatically if your location can be found. You "
 "can also search for a city to set it yourself."
 msgstr ""
 
-#: gnome-initial-setup/pages/timezone/gis-timezone-page.ui:56
+#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.ui:56
 msgid "Please search for a nearby city"
 msgstr "Лутфан, шаҳри наздикеро интихоб кунед"
 

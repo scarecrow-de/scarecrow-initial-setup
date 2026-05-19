@@ -17,7 +17,7 @@
  * Author: Sergey Udaltsov <svu@gnome.org>
  *         Michael Wood <michael.g.wood@intel.com>
  *
- * Based on gnome-control-center cc-region-panel.c
+ * Based on scarecrow-control-center cc-region-panel.c
  */
 
 #define PAGE_ID "keyboard"
@@ -31,7 +31,7 @@
 #include <polkit/polkit.h>
 
 #define GNOME_DESKTOP_USE_UNSTABLE_API
-#include <libgnome-desktop/gnome-languages.h>
+#include <libscarecrow-desktop/scarecrow-languages.h>
 
 #include "gis-keyboard-page.h"
 #include "keyboard-resources.h"
@@ -41,7 +41,7 @@
 
 #include "gis-page-header.h"
 
-#define GNOME_DESKTOP_INPUT_SOURCES_DIR "org.gnome.desktop.input-sources"
+#define GNOME_DESKTOP_INPUT_SOURCES_DIR "io.github.scarecrow_de.desktop.input-sources"
 #define KEY_CURRENT_INPUT_SOURCE "current"
 #define KEY_INPUT_SOURCES        "sources"
 
@@ -367,30 +367,30 @@ preselect_input_source (GisKeyboardPage *self)
         /* We have two potential sources of information as to which
          * source to pre-select here: the keyboard layout that is
          * configured system-wide (read from priv->system_sources),
-         * and a gnome-desktop function that lets us look up a default
+         * and a scarecrow-desktop function that lets us look up a default
          * input source for a given language.
          *
          * An important limitation here is that there is no system-wide
          * configuration for input methods, so if the best choice for the
          * language is an input method, we will only find it from the
-         * gnome-desktop lookup. But if both sources give us keyboard layouts,
+         * scarecrow-desktop lookup. But if both sources give us keyboard layouts,
          * we want to prefer the one that's configured system-wide over the one
-         * from gnome-desktop.
+         * from scarecrow-desktop.
          *
-         * So we first do the gnome-desktop lookup, and keep track of what we
+         * So we first do the scarecrow-desktop lookup, and keep track of what we
          * got.
          *
          * - If we got an input method, we preselect that, and we're done.
          * - If we got a keyboard layout, and there's no system-wide keyboard
-         *   layout set, we preselect the layout we got from gnome-desktop.
-         * - If we didn't get an input method from gnome-desktop and there
+         *   layout set, we preselect the layout we got from scarecrow-desktop.
+         * - If we didn't get an input method from scarecrow-desktop and there
          *   is a system-wide keyboard layout set, we preselect that.
-         * - If we got nothing from gnome-desktop and there's no system-wide
+         * - If we got nothing from scarecrow-desktop and there's no system-wide
          *   keyboard layout set, we don't preselect anything.
          *
          * See:
          * - https://bugzilla.gnome.org/show_bug.cgi?id=776189
-         * - https://gitlab.gnome.org/GNOME/gnome-initial-setup/-/issues/104
+         * - https://gitlab.gnome.org/GNOME/scarecrow-initial-setup/-/issues/104
          */
         language = cc_common_language_get_current_language ();
 

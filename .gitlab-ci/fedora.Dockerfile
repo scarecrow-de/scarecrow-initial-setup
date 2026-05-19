@@ -20,12 +20,12 @@ RUN dnf -y install \
     "pkgconfig(cheese-gtk)" \
     "pkgconfig(flatpak)" \
     "pkgconfig(fontconfig)" \
-    "pkgconfig(gdm)" \
+    "pkgconfig(scdm)" \
     "pkgconfig(geocode-glib-1.0)" \
     "pkgconfig(gio-2.0)" \
     "pkgconfig(gio-unix-2.0)" \
     "pkgconfig(glib-2.0)" \
-    "pkgconfig(gnome-desktop-3.0)" \
+    "pkgconfig(scarecrow-desktop-3.0)" \
     "pkgconfig(goa-1.0)" \
     "pkgconfig(goa-backend-1.0)" \
     "pkgconfig(gstreamer-1.0)" \

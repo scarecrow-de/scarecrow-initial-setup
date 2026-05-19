@@ -19,14 +19,14 @@
  *     Jasper St. Pierre <jstpierre@mecheye.net>
  *     Michael Wood <michael.g.wood@intel.com>
  *
- * Based on gnome-control-center cc-region-panel.c
+ * Based on scarecrow-control-center cc-region-panel.c
  */
 
 /* Language page {{{1 */
 
 #define PAGE_ID "language"
 
-#define GNOME_SYSTEM_LOCALE_DIR "org.gnome.system.locale"
+#define GNOME_SYSTEM_LOCALE_DIR "io.github.scarecrow_de.system.locale"
 #define REGION_KEY "region"
 
 #include "config.h"

@@ -21,7 +21,7 @@
 
 #include "config.h"
 
-#include "gnome-initial-setup.h"
+#include "scarecrow-initial-setup.h"
 
 #include <errno.h>
 #include <locale.h>
@@ -73,9 +73,9 @@ struct _GisDriverPrivate {
   GtkWindow *main_window;
   GisAssistant *assistant;
 
-  GdmClient *client;
-  GdmGreeter *greeter;
-  GdmUserVerifier *user_verifier;
+  ScdmClient *client;
+  ScdmGreeter *greeter;
+  ScdmUserVerifier *user_verifier;
 
   ActUser *user_account;
   gchar *user_password;
@@ -473,9 +473,9 @@ gis_driver_get_parental_controls_enabled (GisDriver *driver)
 }
 
 gboolean
-gis_driver_get_gdm_objects (GisDriver        *driver,
-                            GdmGreeter      **greeter,
-                            GdmUserVerifier **user_verifier)
+gis_driver_get_scdm_objects (GisDriver        *driver,
+                            ScdmGreeter      **greeter,
+                            ScdmUserVerifier **user_verifier)
 {
   GisDriverPrivate *priv = gis_driver_get_instance_private (driver);
 
@@ -532,8 +532,8 @@ load_vendor_conf_file (GisDriver *driver)
 #else
   /* If no path was passed at build time, then we have search path:
    *
-   *  - First check $(sysconfdir)/gnome-initial-setup/vendor.conf
-   *  - Then check $(datadir)/gnome-initial-setup/vendor.conf
+   *  - First check $(sysconfdir)/scarecrow-initial-setup/vendor.conf
+   *  - Then check $(datadir)/scarecrow-initial-setup/vendor.conf
    *
    * This allows distributions to provide a default packaged config in a
    * location that might be managed by ostree, and allows OEMs to
@@ -840,16 +840,16 @@ window_realize_cb (GtkWidget *widget, gpointer user_data)
 }
 
 static void
-connect_to_gdm (GisDriver *driver)
+connect_to_scdm (GisDriver *driver)
 {
   GisDriverPrivate *priv = gis_driver_get_instance_private (driver);
   g_autoptr(GError) error = NULL;
 
-  priv->client = gdm_client_new ();
+  priv->client = scdm_client_new ();
 
-  priv->greeter = gdm_client_get_greeter_sync (priv->client, NULL, &error);
+  priv->greeter = scdm_client_get_greeter_sync (priv->client, NULL, &error);
   if (error == NULL)
-    priv->user_verifier = gdm_client_get_user_verifier_sync (priv->client, NULL, &error);
+    priv->user_verifier = scdm_client_get_user_verifier_sync (priv->client, NULL, &error);
 
   if (error != NULL) {
     g_warning ("Failed to open connection to GDM: %s", error->message);
@@ -871,7 +871,7 @@ gis_driver_startup (GApplication *app)
   webkit_web_context_set_sandbox_enabled (context, TRUE);
 
   if (priv->mode == GIS_DRIVER_MODE_NEW_USER)
-    connect_to_gdm (driver);
+    connect_to_scdm (driver);
 
   priv->main_window = g_object_new (GTK_TYPE_APPLICATION_WINDOW,
                                     "application", app,
@@ -1025,7 +1025,7 @@ GisDriver *
 gis_driver_new (GisDriverMode mode)
 {
   return g_object_new (GIS_TYPE_DRIVER,
-                       "application-id", "org.gnome.InitialSetup",
+                       "application-id", "io.github.scarecrow_de.InitialSetup",
                        "mode", mode,
                        NULL);
 }

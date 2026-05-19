@@ -145,7 +145,7 @@ load_gnome_version (char **version,
   gsize length;
   g_autoptr(VersionData) data = NULL;
 
-  if (!g_file_get_contents (DATADIR "/gnome/gnome-version.xml",
+  if (!g_file_get_contents (DATADIR "/gnome/scarecrow-version.xml",
                             &contents,
                             &length,
                             &error))

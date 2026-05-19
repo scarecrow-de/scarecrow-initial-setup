@@ -21,7 +21,7 @@ config.sub
 config
 configure
 depcomp
-gnome-doc-utils.make
+scarecrow-doc-utils.make
 install-sh
 libtool
 ltmain.sh
@@ -39,38 +39,38 @@ po/stamp-it
 stamp-h1
 *~
 
-gnome-initial-setup-*.tar.gz
-gnome-initial-setup-*.tar.bz2
-gnome-initial-setup-*.tar.xz
+scarecrow-initial-setup-*.tar.gz
+scarecrow-initial-setup-*.tar.bz2
+scarecrow-initial-setup-*.tar.xz
 
-gnome-initial-setup/gnome-initial-setup
-gnome-initial-setup/gnome-initial-setup-copy-worker
-gnome-initial-setup/gis-assistant-resources.[ch]
+scarecrow-initial-setup/scarecrow-initial-setup
+scarecrow-initial-setup/scarecrow-initial-setup-copy-worker
+scarecrow-initial-setup/gis-assistant-resources.[ch]
 
-gnome-initial-setup/pages/welcome/welcome-resources.[ch]
-gnome-initial-setup/pages/language/language-resources.[ch]
-gnome-initial-setup/pages/region/region-resources.[ch]
-gnome-initial-setup/pages/keyboard/keyboard-resources.[ch]
-gnome-initial-setup/pages/eulas/eulas-resources.[ch]
-gnome-initial-setup/pages/network/network-resources.[ch]
-gnome-initial-setup/pages/password/password-resources.[ch]
-gnome-initial-setup/pages/privacy/privacy-resources.[ch]
-gnome-initial-setup/pages/timezone/geoclue.[ch]
-gnome-initial-setup/pages/timezone/timedated.[ch]
-gnome-initial-setup/pages/timezone/cc-datetime-resources.[ch]
-gnome-initial-setup/pages/timezone/timezone-resources.[ch]
-gnome-initial-setup/pages/goa/goa-resources.[ch]
-gnome-initial-setup/pages/account/account-resources.[ch]
-gnome-initial-setup/pages/account/um-realm-generated.[ch]
-gnome-initial-setup/pages/software/software-resources.[ch]
-gnome-initial-setup/pages/summary/summary-resources.[ch]
+scarecrow-initial-setup/pages/welcome/welcome-resources.[ch]
+scarecrow-initial-setup/pages/language/language-resources.[ch]
+scarecrow-initial-setup/pages/region/region-resources.[ch]
+scarecrow-initial-setup/pages/keyboard/keyboard-resources.[ch]
+scarecrow-initial-setup/pages/eulas/eulas-resources.[ch]
+scarecrow-initial-setup/pages/network/network-resources.[ch]
+scarecrow-initial-setup/pages/password/password-resources.[ch]
+scarecrow-initial-setup/pages/privacy/privacy-resources.[ch]
+scarecrow-initial-setup/pages/timezone/geoclue.[ch]
+scarecrow-initial-setup/pages/timezone/timedated.[ch]
+scarecrow-initial-setup/pages/timezone/cc-datetime-resources.[ch]
+scarecrow-initial-setup/pages/timezone/timezone-resources.[ch]
+scarecrow-initial-setup/pages/goa/goa-resources.[ch]
+scarecrow-initial-setup/pages/account/account-resources.[ch]
+scarecrow-initial-setup/pages/account/um-realm-generated.[ch]
+scarecrow-initial-setup/pages/software/software-resources.[ch]
+scarecrow-initial-setup/pages/summary/summary-resources.[ch]
 
-gnome-initial-setup-first-login.desktop
-gnome-initial-setup.desktop
-gnome-initial-setup-copy-worker.desktop
-gnome-welcome-tour.desktop
+scarecrow-initial-setup-first-login.desktop
+scarecrow-initial-setup.desktop
+scarecrow-initial-setup-copy-worker.desktop
+scarecrow-welcome-tour.desktop
 
-gnome-initial-setup-0.*
-gnome-initial-setup-3.*
+scarecrow-initial-setup-0.*
+scarecrow-initial-setup-3.*
 
-player/gnome-initial-setup-player
+player/scarecrow-initial-setup-player

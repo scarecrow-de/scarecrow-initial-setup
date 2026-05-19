@@ -1,6 +1,6 @@
 /* -*- mode: C; c-file-style: "gnu"; indent-tabs-mode: nil; -*- */
 
-/* Copies settings installed from gnome-initial-setup and
+/* Copies settings installed from scarecrow-initial-setup and
  * sticks them in the user's profile */
 
 #include <pwd.h>
@@ -14,7 +14,7 @@ get_gnome_initial_setup_home_dir (void)
   struct passwd pw, *pwp;
   char buf[4096];
 
-  getpwnam_r ("gnome-initial-setup", &pw, buf, sizeof (buf), &pwp);
+  getpwnam_r ("scarecrow-initial-setup", &pw, buf, sizeof (buf), &pwp);
   if (pwp != NULL)
     return g_strdup (pwp->pw_dir);
   else
@@ -88,7 +88,7 @@ main (int    argc,
 #define FILE(path) \
   move_file_from_homedir (src, dest, path);
 
-  FILE (".config/gnome-initial-setup-done");
+  FILE (".config/scarecrow-initial-setup-done");
   FILE (".config/run-welcome-tour");
   FILE (".config/dconf/user");
   FILE (".config/goa-1.0/accounts.conf");

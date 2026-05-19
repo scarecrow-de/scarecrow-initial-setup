@@ -1,6 +1,6 @@
-# Catalan translation for gnome-initial-setup.
-# Copyright (C) 2012 gnome-initial-setup's COPYRIGHT HOLDER
-# This file is distributed under the same license as the gnome-initial-setup package.
+# Catalan translation for scarecrow-initial-setup.
+# Copyright (C) 2012 scarecrow-initial-setup's COPYRIGHT HOLDER
+# This file is distributed under the same license as the scarecrow-initial-setup package.
 # Gil Forcada <gilforcada@guifi.net>, 2012, 2013, 2014.
 # Josep Sànchez <papapep@gmx.com>, 2013.
 # Jordi Mas <jmas@softcatala.org>, 2015-2016, 2018
@@ -8,8 +8,8 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: gnome-initial-setup master\n"
-"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-initial-setup/issues\n"
+"Project-Id-Version: scarecrow-initial-setup master\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/scarecrow-initial-setup/issues\n"
 "POT-Creation-Date: 2020-08-17 19:50+0000\n"
 "PO-Revision-Date: 2020-02-29 20:39+0100\n"
 "Last-Translator: Jordi Mas <jmas@softcatala.org>\n"
@@ -21,64 +21,64 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Poedit 2.2.4\n"
 
-#: data/gnome-initial-setup-first-login.desktop.in.in:3
-#: data/gnome-initial-setup.desktop.in.in:3
+#: data/scarecrow-initial-setup-first-login.desktop.in.in:3
+#: data/scarecrow-initial-setup.desktop.in.in:3
 msgid "Initial Setup"
 msgstr "Configuració inicial"
 
-#: gnome-initial-setup/gis-assistant.c:423
+#: scarecrow-initial-setup/gis-assistant.c:423
 msgid "_Next"
 msgstr "_Següent"
 
-#: gnome-initial-setup/gis-assistant.c:424
+#: scarecrow-initial-setup/gis-assistant.c:424
 msgid "_Accept"
 msgstr "_Accepta"
 
-#: gnome-initial-setup/gis-assistant.c:425
+#: scarecrow-initial-setup/gis-assistant.c:425
 msgid "_Skip"
 msgstr "_Omet"
 
-#: gnome-initial-setup/gis-assistant.c:426
+#: scarecrow-initial-setup/gis-assistant.c:426
 msgid "_Previous"
 msgstr "A_nterior"
 
-#: gnome-initial-setup/gis-assistant.c:427
+#: scarecrow-initial-setup/gis-assistant.c:427
 msgid "_Cancel"
 msgstr "_Cancel·la"
 
-#: gnome-initial-setup/gnome-initial-setup.c:252
+#: scarecrow-initial-setup/scarecrow-initial-setup.c:252
 msgid "Force existing user mode"
 msgstr "Força el mode d'usuari existent"
 
-#: gnome-initial-setup/gnome-initial-setup.c:258
+#: scarecrow-initial-setup/scarecrow-initial-setup.c:258
 msgid "— GNOME initial setup"
 msgstr "— Configuració inicial del GNOME"
 
-#: gnome-initial-setup/pages/account/gis-account-avatar-chooser.ui:36
+#: scarecrow-initial-setup/pages/account/gis-account-avatar-chooser.ui:36
 msgid "Take a Picture…"
 msgstr "Fes una foto…"
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.c:184
+#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.c:184
 msgid "Failed to register account"
 msgstr "S'ha produït un error en registrar el compte"
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.c:378
+#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.c:378
 msgid "No supported way to authenticate with this domain"
 msgstr "No hi ha cap manera compatible per autenticar-se amb aquest domini"
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.c:418
+#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.c:418
 msgid "Failed to join domain"
 msgstr "S'ha produït un error en unir-se al domini"
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.c:486
+#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.c:486
 msgid "Failed to log into domain"
 msgstr "S'ha produït un error en iniciar la sessió al domini"
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.ui:17
+#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:17
 msgid "Enterprise Login"
 msgstr "Entrada corporativa"
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.ui:18
+#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:18
 msgid ""
 "Enterprise login allows an existing centrally managed user account to be "
 "used on this device. You can also use this account to access company "
@@ -88,34 +88,34 @@ msgstr ""
 "centralitzada en aquest dispositiu. També podeu utilitzar el compte per "
 "accedir a recursos de l'empresa a Internet."
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.ui:36
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.ui:287
+#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:36
+#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:287
 msgid "_Domain"
 msgstr "_Domini"
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.ui:53
-#: gnome-initial-setup/pages/account/gis-account-page-local.ui:84
+#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:53
+#: scarecrow-initial-setup/pages/account/gis-account-page-local.ui:84
 msgid "_Username"
 msgstr "Nom d'_usuari"
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.ui:70
-#: gnome-initial-setup/pages/password/gis-password-page.ui:34
+#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:70
+#: scarecrow-initial-setup/pages/password/gis-password-page.ui:34
 msgid "_Password"
 msgstr "Contrase_nya"
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.ui:146
+#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:146
 msgid "Enterprise domain or realm name"
 msgstr "Domini corporatiu o nom del regne"
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.ui:211
+#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:211
 msgid "C_ontinue"
 msgstr "C_ontinua"
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.ui:246
+#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:246
 msgid "Domain Administrator Login"
 msgstr "Entrada de l'administrador del domini"
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.ui:266
+#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:266
 msgid ""
 "In order to use enterprise logins, this computer needs to be enrolled in a "
 "domain. Please have your network administrator type the domain password "
@@ -125,112 +125,112 @@ msgstr ""
 "part del domini. Demaneu a l'administrador de xarxa que introdueixi aquí la "
 "contrasenya de domini i trieu un nom d'ordinador únic per l'ordinador."
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.ui:321
+#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:321
 msgid "_Computer"
 msgstr "_Ordinador"
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.ui:353
+#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:353
 msgid "Administrator _Name"
 msgstr "_Nom de l'administrador"
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.ui:387
+#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:387
 msgid "Administrator Password"
 msgstr "Contrasenya de l'administrador"
 
-#: gnome-initial-setup/pages/account/gis-account-page-local.c:207
+#: scarecrow-initial-setup/pages/account/gis-account-page-local.c:207
 msgid "Please check the name and username. You can choose a picture too."
 msgstr "Comproveu el nom i el nom d'usuari. Podeu triar també una fotografia."
 
-#: gnome-initial-setup/pages/account/gis-account-page-local.c:453
+#: scarecrow-initial-setup/pages/account/gis-account-page-local.c:453
 msgid "We need a few details to complete setup."
 msgstr "Necessitem algunes dades per completar la configuració."
 
-#: gnome-initial-setup/pages/account/gis-account-page-local.c:559
+#: scarecrow-initial-setup/pages/account/gis-account-page-local.c:559
 msgid "Administrator"
 msgstr "Administrador"
 
-#: gnome-initial-setup/pages/account/gis-account-page-local.c:565
-#: gnome-initial-setup/pages/account/gis-account-page-local.c:608
+#: scarecrow-initial-setup/pages/account/gis-account-page-local.c:565
+#: scarecrow-initial-setup/pages/account/gis-account-page-local.c:608
 #, c-format
 msgid "Failed to create user '%s': "
 msgstr "No s'ha pogut crear l'usuari «%s»"
 
-#: gnome-initial-setup/pages/account/gis-account-page-local.ui:21
+#: scarecrow-initial-setup/pages/account/gis-account-page-local.ui:21
 msgid "Avatar image"
 msgstr "Imatge d'avatar"
 
-#: gnome-initial-setup/pages/account/gis-account-page-local.ui:38
-#: gnome-initial-setup/pages/account/gis-account-page.c:283
+#: scarecrow-initial-setup/pages/account/gis-account-page-local.ui:38
+#: scarecrow-initial-setup/pages/account/gis-account-page.c:283
 msgid "About You"
 msgstr "Quant a vós"
 
-#: gnome-initial-setup/pages/account/gis-account-page-local.ui:39
+#: scarecrow-initial-setup/pages/account/gis-account-page-local.ui:39
 msgid "Please provide a name and username. You can choose a picture too."
 msgstr "Introduïu un nom i nom d'usuari. Podeu triar també una fotografia."
 
-#: gnome-initial-setup/pages/account/gis-account-page-local.ui:53
+#: scarecrow-initial-setup/pages/account/gis-account-page-local.ui:53
 msgid "_Full Name"
 msgstr "_Nom complet"
 
-#: gnome-initial-setup/pages/account/gis-account-page-local.ui:149
+#: scarecrow-initial-setup/pages/account/gis-account-page-local.ui:149
 msgid "Set up _parental controls for this user"
 msgstr "_Establiu els controls parentals per a aquest usuari"
 
-#: gnome-initial-setup/pages/account/gis-account-page-local.ui:156
+#: scarecrow-initial-setup/pages/account/gis-account-page-local.ui:156
 msgid "For use by a parent or supervisor, who must set up their own password."
 msgstr ""
 "Per a ser usat per un adult, qui ha d'establir la seva pròpia contrasenya."
 
-#: gnome-initial-setup/pages/account/gis-account-page.ui:43
+#: scarecrow-initial-setup/pages/account/gis-account-page.ui:43
 msgid "_Enterprise Login"
 msgstr "_Entrada corporativa"
 
-#: gnome-initial-setup/pages/account/gis-account-page.ui:53
+#: scarecrow-initial-setup/pages/account/gis-account-page.ui:53
 msgid "Go online to set up Enterprise Login."
 msgstr "Connecta't per a configurar l'entrada corporativa."
 
-#: gnome-initial-setup/pages/account/um-realm-manager.c:310
+#: scarecrow-initial-setup/pages/account/um-realm-manager.c:310
 msgid "Cannot automatically join this type of domain"
 msgstr "No es pot unir automàticament a aquest tipus de domini"
 
-#: gnome-initial-setup/pages/account/um-realm-manager.c:373
+#: scarecrow-initial-setup/pages/account/um-realm-manager.c:373
 #, c-format
 msgid "No such domain or realm found"
 msgstr "No s'ha trobat el domini o el regne"
 
-#: gnome-initial-setup/pages/account/um-realm-manager.c:782
-#: gnome-initial-setup/pages/account/um-realm-manager.c:796
+#: scarecrow-initial-setup/pages/account/um-realm-manager.c:782
+#: scarecrow-initial-setup/pages/account/um-realm-manager.c:796
 #, c-format
 msgid "Cannot log in as %s at the %s domain"
 msgstr "No s'ha pogut entrar com a %s al domini %s"
 
-#: gnome-initial-setup/pages/account/um-realm-manager.c:788
+#: scarecrow-initial-setup/pages/account/um-realm-manager.c:788
 msgid "Invalid password, please try again"
 msgstr "La contrasenya no és vàlida, torneu-ho a intentar"
 
-#: gnome-initial-setup/pages/account/um-realm-manager.c:801
+#: scarecrow-initial-setup/pages/account/um-realm-manager.c:801
 #, c-format
 msgid "Couldn’t connect to the %s domain: %s"
 msgstr "No s'ha pogut connectar al domini %s: %s"
 
-#: gnome-initial-setup/pages/account/um-utils.c:248
+#: scarecrow-initial-setup/pages/account/um-utils.c:248
 msgid "Sorry, that user name isn’t available. Please try another."
 msgstr "El nom d'usuari no està disponible. Proveu-ne un altre."
 
-#: gnome-initial-setup/pages/account/um-utils.c:251
+#: scarecrow-initial-setup/pages/account/um-utils.c:251
 #, c-format
 msgid "The username is too long."
 msgstr "El nom d'usuari és massa llarg."
 
-#: gnome-initial-setup/pages/account/um-utils.c:254
+#: scarecrow-initial-setup/pages/account/um-utils.c:254
 msgid "The username cannot start with a “-”."
 msgstr "El nom d'usuari no pot començar amb «-»."
 
-#: gnome-initial-setup/pages/account/um-utils.c:257
+#: scarecrow-initial-setup/pages/account/um-utils.c:257
 msgid "That username isn’t available. Please try another."
 msgstr "El nom d'usuari no està disponible. Proveu-ne un altre."
 
-#: gnome-initial-setup/pages/account/um-utils.c:260
+#: scarecrow-initial-setup/pages/account/um-utils.c:260
 msgid ""
 "The username should only consist of upper and lower case letters from a-z, "
 "digits and the following characters: . - _"
@@ -238,24 +238,24 @@ msgstr ""
 "El nom d'usuari només ha de consistir en lletres majúscules i minúscules de "
 "la «a» a la «z», dígits i qualsevol dels caràcters següents: . - _"
 
-#: gnome-initial-setup/pages/account/um-utils.c:264
+#: scarecrow-initial-setup/pages/account/um-utils.c:264
 msgid "This will be used to name your home folder and can’t be changed."
 msgstr ""
 "Es farà servir per anomenar la vostra carpeta personal i no es pot canviar."
 
-#: gnome-initial-setup/pages/goa/gis-goa-page.c:92
+#: scarecrow-initial-setup/pages/goa/gis-goa-page.c:92
 msgid "Add Account"
 msgstr "Afegeix un compte"
 
-#: gnome-initial-setup/pages/goa/gis-goa-page.c:357
+#: scarecrow-initial-setup/pages/goa/gis-goa-page.c:357
 msgid "Online Accounts"
 msgstr "Comptes en línia"
 
-#: gnome-initial-setup/pages/goa/gis-goa-page.ui:17
+#: scarecrow-initial-setup/pages/goa/gis-goa-page.ui:17
 msgid "Connect Your Online Accounts"
 msgstr "Connecteu els vostres comptes en línia"
 
-#: gnome-initial-setup/pages/goa/gis-goa-page.ui:18
+#: scarecrow-initial-setup/pages/goa/gis-goa-page.ui:18
 msgid ""
 "Connect your accounts to easily access your email, online calendar, "
 "contacts, documents and photos."
@@ -263,74 +263,74 @@ msgstr ""
 "Connecteu els vostres comptes per poder accedir fàcilment al correu, el "
 "calendari en línia, els contactes, els documents i les fotos."
 
-#: gnome-initial-setup/pages/goa/gis-goa-page.ui:48
+#: scarecrow-initial-setup/pages/goa/gis-goa-page.ui:48
 msgid ""
 "Accounts can be added and removed at any time from the Settings application."
 msgstr ""
 "Es poden afegir o suprimir comptes en qualsevol moment des de les "
 "preferències."
 
-#: gnome-initial-setup/pages/keyboard/cc-input-chooser.c:240
+#: scarecrow-initial-setup/pages/keyboard/cc-input-chooser.c:240
 msgid "Preview"
 msgstr "Previsualitza"
 
-#: gnome-initial-setup/pages/keyboard/cc-input-chooser.c:299
-#: gnome-initial-setup/pages/language/cc-language-chooser.c:227
+#: scarecrow-initial-setup/pages/keyboard/cc-input-chooser.c:299
+#: scarecrow-initial-setup/pages/language/cc-language-chooser.c:227
 msgid "More…"
 msgstr "Més…"
 
 #. Translators: a search for input methods or keyboard layouts
 #. * did not yield any results
-#: gnome-initial-setup/pages/keyboard/cc-input-chooser.c:321
+#: scarecrow-initial-setup/pages/keyboard/cc-input-chooser.c:321
 msgid "No inputs found"
 msgstr "No s'ha trobat cap font d'entrada"
 
-#: gnome-initial-setup/pages/keyboard/gis-keyboard-page.c:504
-#: gnome-initial-setup/pages/keyboard/gis-keyboard-page.ui:15
+#: scarecrow-initial-setup/pages/keyboard/gis-keyboard-page.c:504
+#: scarecrow-initial-setup/pages/keyboard/gis-keyboard-page.ui:15
 msgid "Typing"
 msgstr "Escriptura"
 
-#: gnome-initial-setup/pages/keyboard/gis-keyboard-page.ui:16
+#: scarecrow-initial-setup/pages/keyboard/gis-keyboard-page.ui:16
 msgid "Select your keyboard layout or an input method."
 msgstr "Seleccioneu la disposició de teclat o un mètode d'entrada."
 
-#: gnome-initial-setup/pages/language/cc-language-chooser.c:243
+#: scarecrow-initial-setup/pages/language/cc-language-chooser.c:243
 msgid "No languages found"
 msgstr "No s'ha trobat cap idioma"
 
-#: gnome-initial-setup/pages/language/gis-language-page.c:262
+#: scarecrow-initial-setup/pages/language/gis-language-page.c:262
 msgid "Welcome"
 msgstr "Us donem la benvinguda"
 
 #. Translators: This is meant to be a warm, engaging welcome message,
 #. * like greeting somebody at the door. If the exclamation mark is not
 #. * suitable for this in your language you may replace it.
-#: gnome-initial-setup/pages/language/gis-welcome-widget.c:136
+#: scarecrow-initial-setup/pages/language/gis-welcome-widget.c:136
 msgid "Welcome!"
 msgstr "Us donem la benvinguda!"
 
-#: gnome-initial-setup/pages/network/gis-network-page.c:318
+#: scarecrow-initial-setup/pages/network/gis-network-page.c:318
 msgctxt "Wireless access point"
 msgid "Other…"
 msgstr "Altres…"
 
-#: gnome-initial-setup/pages/network/gis-network-page.c:403
+#: scarecrow-initial-setup/pages/network/gis-network-page.c:403
 msgid "Wireless networking is disabled"
 msgstr "La xarxa sense fil està inhabilitada"
 
-#: gnome-initial-setup/pages/network/gis-network-page.c:410
+#: scarecrow-initial-setup/pages/network/gis-network-page.c:410
 msgid "Checking for available wireless networks"
 msgstr "S'està comprovant si hi ha xarxes sense fil disponibles"
 
-#: gnome-initial-setup/pages/network/gis-network-page.c:805
+#: scarecrow-initial-setup/pages/network/gis-network-page.c:805
 msgid "Network"
 msgstr "Xarxa"
 
-#: gnome-initial-setup/pages/network/gis-network-page.ui:18
+#: scarecrow-initial-setup/pages/network/gis-network-page.ui:18
 msgid "Wi-Fi"
 msgstr "Xarxa sense fil"
 
-#: gnome-initial-setup/pages/network/gis-network-page.ui:19
+#: scarecrow-initial-setup/pages/network/gis-network-page.ui:19
 msgid ""
 "Connecting to the internet helps you get new apps, information, and other "
 "upgrades. It also helps set the time and your location automatically."
@@ -339,78 +339,78 @@ msgstr ""
 "altres actualitzacions. També ajuda a establir l'hora i la ubicació "
 "automàticament."
 
-#: gnome-initial-setup/pages/network/gis-network-page.ui:76
+#: scarecrow-initial-setup/pages/network/gis-network-page.ui:76
 msgid "No wireless available"
 msgstr "No hi ha cap xarxa sense fil disponible"
 
-#: gnome-initial-setup/pages/network/gis-network-page.ui:91
+#: scarecrow-initial-setup/pages/network/gis-network-page.ui:91
 msgid "Turn On"
 msgstr "Activa"
 
 #. Translators: The placeholder is the user’s full name.
-#: gnome-initial-setup/pages/parental-controls/gis-parental-controls-page.c:102
+#: scarecrow-initial-setup/pages/parental-controls/gis-parental-controls-page.c:102
 #, c-format
 msgid "Parental Controls for %s"
 msgstr "Controls parentals per %s"
 
-#: gnome-initial-setup/pages/parental-controls/gis-parental-controls-page.c:104
+#: scarecrow-initial-setup/pages/parental-controls/gis-parental-controls-page.c:104
 msgid "Set restrictions on what this user can run or install."
 msgstr ""
 "Establiu les restriccions del que aquest usuari pot executar o instal·lar."
 
-#: gnome-initial-setup/pages/parental-controls/gis-parental-controls-page.c:199
+#: scarecrow-initial-setup/pages/parental-controls/gis-parental-controls-page.c:199
 msgid "Parental Controls"
 msgstr "Controls parentals"
 
 #. Don’t break UI compatibility if parental controls are disabled.
-#: gnome-initial-setup/pages/password/gis-password-page.c:79
+#: scarecrow-initial-setup/pages/password/gis-password-page.c:79
 msgid "Set a Password"
 msgstr "Establiu la contrasenya"
 
-#: gnome-initial-setup/pages/password/gis-password-page.c:80
-#: gnome-initial-setup/pages/password/gis-password-page.c:89
+#: scarecrow-initial-setup/pages/password/gis-password-page.c:80
+#: scarecrow-initial-setup/pages/password/gis-password-page.c:89
 msgid "Be careful not to lose your password."
 msgstr "Tingueu cura de no perdre la contrasenya."
 
 #. Translators: The placeholder is for the user’s full name.
-#: gnome-initial-setup/pages/password/gis-password-page.c:87
+#: scarecrow-initial-setup/pages/password/gis-password-page.c:87
 #, c-format
 msgid "Set a Password for %s"
 msgstr "Establiu la contrasenya per %s"
 
-#: gnome-initial-setup/pages/password/gis-password-page.c:95
+#: scarecrow-initial-setup/pages/password/gis-password-page.c:95
 msgid "Set a Parent Password"
 msgstr "Establiu la contrasenya parental"
 
 #. Translators: The placeholder is the full name of the child user on the
 #. system.
-#: gnome-initial-setup/pages/password/gis-password-page.c:97
+#: scarecrow-initial-setup/pages/password/gis-password-page.c:97
 #, c-format
 msgid "This password will control access to the parental controls for %s."
 msgstr "Aquesta contrasenya controlarà l'accés als controls parentals per %s."
 
-#: gnome-initial-setup/pages/password/gis-password-page.c:228
+#: scarecrow-initial-setup/pages/password/gis-password-page.c:228
 msgid "This is a weak password."
 msgstr "Aquesta contrasenya és feble."
 
-#: gnome-initial-setup/pages/password/gis-password-page.c:234
+#: scarecrow-initial-setup/pages/password/gis-password-page.c:234
 msgid "The passwords do not match."
 msgstr "Les contrasenyes no coincideixen."
 
-#: gnome-initial-setup/pages/password/gis-password-page.c:420
+#: scarecrow-initial-setup/pages/password/gis-password-page.c:420
 msgid "Password"
 msgstr "Contrasenya"
 
-#: gnome-initial-setup/pages/password/gis-password-page.ui:66
+#: scarecrow-initial-setup/pages/password/gis-password-page.ui:66
 msgid "_Confirm"
 msgstr "_Confirma"
 
-#: gnome-initial-setup/pages/password/pw-utils.c:81
+#: scarecrow-initial-setup/pages/password/pw-utils.c:81
 msgctxt "Password hint"
 msgid "The new password needs to be different from the old one."
 msgstr "La contrasenya nova ha de ser diferent de la vella."
 
-#: gnome-initial-setup/pages/password/pw-utils.c:83
+#: scarecrow-initial-setup/pages/password/pw-utils.c:83
 msgctxt "Password hint"
 msgid ""
 "This password is very similar to your last one. Try changing some letters "
@@ -419,8 +419,8 @@ msgstr ""
 "Aquesta contrasenya és molt semblant a l'última. Canvieu algunes lletres i "
 "números."
 
-#: gnome-initial-setup/pages/password/pw-utils.c:85
-#: gnome-initial-setup/pages/password/pw-utils.c:93
+#: scarecrow-initial-setup/pages/password/pw-utils.c:85
+#: scarecrow-initial-setup/pages/password/pw-utils.c:93
 msgctxt "Password hint"
 msgid ""
 "This password is very similar to your last one. Try changing the password a "
@@ -429,7 +429,7 @@ msgstr ""
 "Aquesta contrasenya és molt semblant a l'última. Canvieu la contrasenya una "
 "mica més."
 
-#: gnome-initial-setup/pages/password/pw-utils.c:87
+#: scarecrow-initial-setup/pages/password/pw-utils.c:87
 msgctxt "Password hint"
 msgid ""
 "This is a weak password. A password without your user name would be "
@@ -438,13 +438,13 @@ msgstr ""
 "Aquesta contrasenya és feble. Una contrasenya sense el vostre nom d'usuari "
 "seria més segura."
 
-#: gnome-initial-setup/pages/password/pw-utils.c:89
+#: scarecrow-initial-setup/pages/password/pw-utils.c:89
 msgctxt "Password hint"
 msgid "This is a weak password. Try to avoid using your name in the password."
 msgstr ""
 "Aquesta contrasenya és feble. Eviteu l'ús del vostre nom a la contrasenya."
 
-#: gnome-initial-setup/pages/password/pw-utils.c:91
+#: scarecrow-initial-setup/pages/password/pw-utils.c:91
 msgctxt "Password hint"
 msgid ""
 "This is a weak password. Try to avoid some of the words included in the "
@@ -453,32 +453,32 @@ msgstr ""
 "Aquesta contrasenya és feble. Eviteu algunes de les paraules incloses a la "
 "contrasenya."
 
-#: gnome-initial-setup/pages/password/pw-utils.c:95
+#: scarecrow-initial-setup/pages/password/pw-utils.c:95
 msgctxt "Password hint"
 msgid "This is a weak password. Try to avoid common words."
 msgstr "Aquesta contrasenya és feble. Eviteu utilitzar paraules comunes."
 
-#: gnome-initial-setup/pages/password/pw-utils.c:97
+#: scarecrow-initial-setup/pages/password/pw-utils.c:97
 msgctxt "Password hint"
 msgid "This is a weak password. Try to avoid reordering existing words."
 msgstr "Aquesta contrasenya és feble. Eviteu reordenar paraules existents."
 
-#: gnome-initial-setup/pages/password/pw-utils.c:99
+#: scarecrow-initial-setup/pages/password/pw-utils.c:99
 msgctxt "Password hint"
 msgid "This is a weak password. Try to use more numbers."
 msgstr "Aquesta contrasenya és feble. Utilitzeu més nombres."
 
-#: gnome-initial-setup/pages/password/pw-utils.c:101
+#: scarecrow-initial-setup/pages/password/pw-utils.c:101
 msgctxt "Password hint"
 msgid "This is a weak password. Try to use more uppercase letters."
 msgstr "Aquesta contrasenya és feble. Utilitzeu més lletres majúscules."
 
-#: gnome-initial-setup/pages/password/pw-utils.c:103
+#: scarecrow-initial-setup/pages/password/pw-utils.c:103
 msgctxt "Password hint"
 msgid "This is a weak password. Try to use more lowercase letters."
 msgstr "Aquesta contrasenya és feble. Utilitzeu més lletres minúscules."
 
-#: gnome-initial-setup/pages/password/pw-utils.c:105
+#: scarecrow-initial-setup/pages/password/pw-utils.c:105
 msgctxt "Password hint"
 msgid ""
 "This is a weak password. Try to use more special characters, like "
@@ -487,7 +487,7 @@ msgstr ""
 "Aquesta contrasenya és feble. Utilitzeu més caràcters especials, com ara "
 "signes de puntuació."
 
-#: gnome-initial-setup/pages/password/pw-utils.c:107
+#: scarecrow-initial-setup/pages/password/pw-utils.c:107
 msgctxt "Password hint"
 msgid ""
 "This is a weak password. Try to use a mixture of letters, numbers and "
@@ -496,12 +496,12 @@ msgstr ""
 "Aquesta contrasenya és feble. Intenteu utilitzar una combinació de lletres, "
 "nombres i signes de puntuació."
 
-#: gnome-initial-setup/pages/password/pw-utils.c:109
+#: scarecrow-initial-setup/pages/password/pw-utils.c:109
 msgctxt "Password hint"
 msgid "This is a weak password. Try to avoid repeating the same character."
 msgstr "Aquesta contrasenya és feble. Eviteu repetir el mateix caràcter."
 
-#: gnome-initial-setup/pages/password/pw-utils.c:111
+#: scarecrow-initial-setup/pages/password/pw-utils.c:111
 msgctxt "Password hint"
 msgid ""
 "This is a weak password. Try to avoid repeating the same type of character: "
@@ -510,13 +510,13 @@ msgstr ""
 "Aquesta contrasenya és feble. Eviteu repetir el mateix tipus de caràcter: "
 "combineu lletres, números i signes de puntuació."
 
-#: gnome-initial-setup/pages/password/pw-utils.c:113
+#: scarecrow-initial-setup/pages/password/pw-utils.c:113
 msgctxt "Password hint"
 msgid "This is a weak password. Try to avoid sequences like 1234 or abcd."
 msgstr ""
 "Aquesta contrasenya és feble. Eviteu emprar seqüències com ara 1234 o abcd."
 
-#: gnome-initial-setup/pages/password/pw-utils.c:115
+#: scarecrow-initial-setup/pages/password/pw-utils.c:115
 msgctxt "Password hint"
 msgid ""
 "This is a weak password. Try to add more letters, numbers and punctuation."
@@ -524,12 +524,12 @@ msgstr ""
 "Aquesta contrasenya és feble. Afegiu més lletres, nombres i signes de "
 "puntuació."
 
-#: gnome-initial-setup/pages/password/pw-utils.c:117
+#: scarecrow-initial-setup/pages/password/pw-utils.c:117
 msgctxt "Password hint"
 msgid "Mix uppercase and lowercase and try to use a number or two."
 msgstr "Combineu majúscules i minúscules i empreu un o dos nombres."
 
-#: gnome-initial-setup/pages/password/pw-utils.c:119
+#: scarecrow-initial-setup/pages/password/pw-utils.c:119
 msgctxt "Password hint"
 msgid ""
 "Adding more letters, numbers and punctuation will make the password "
@@ -541,7 +541,7 @@ msgstr ""
 #. Translators: the parameter here is the name of a distribution,
 #. * like "Fedora" or "Ubuntu". It falls back to "GNOME" if we can't
 #. * detect any distribution.
-#: gnome-initial-setup/pages/privacy/gis-privacy-page.c:68
+#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:68
 #, c-format
 msgid ""
 "Sending reports of technical problems helps us to improve %s. Reports are "
@@ -553,31 +553,31 @@ msgstr ""
 #. Translators: the parameter here is the name of a distribution,
 #. * like "Fedora" or "Ubuntu". It falls back to "GNOME" if we can't
 #. * detect any distribution.
-#: gnome-initial-setup/pages/privacy/gis-privacy-page.c:78
+#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:78
 #, c-format
 msgid "Problem data will be collected by %s:"
 msgstr "Les dades del problema seran recopilades per %s:"
 
-#: gnome-initial-setup/pages/privacy/gis-privacy-page.c:79
-#: gnome-initial-setup/pages/privacy/gis-privacy-page.c:135
-#: gnome-initial-setup/pages/privacy/gis-privacy-page.c:210
+#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:79
+#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:135
+#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:210
 msgid "Privacy Policy"
 msgstr "Política de privadesa"
 
-#: gnome-initial-setup/pages/privacy/gis-privacy-page.c:135
+#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:135
 msgid "Uses Mozilla Location Service:"
 msgstr "S'utilitza el servei d'ubicació de Mozilla:"
 
-#: gnome-initial-setup/pages/privacy/gis-privacy-page.c:246
-#: gnome-initial-setup/pages/privacy/gis-privacy-page.ui:16
+#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:246
+#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.ui:16
 msgid "Privacy"
 msgstr "Privadesa"
 
-#: gnome-initial-setup/pages/privacy/gis-privacy-page.ui:31
+#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.ui:31
 msgid "Location Services"
 msgstr "Serveis d'ubicació"
 
-#: gnome-initial-setup/pages/privacy/gis-privacy-page.ui:52
+#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.ui:52
 msgid ""
 "Allows applications to determine your geographical location. An indication "
 "is shown when location services are in use."
@@ -585,11 +585,11 @@ msgstr ""
 "Permet a les aplicacions determinar la posició geogràfica. Es mostra una "
 "indicació quan els serveis d'ubicació estan en ús."
 
-#: gnome-initial-setup/pages/privacy/gis-privacy-page.ui:74
+#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.ui:74
 msgid "Automatic Problem Reporting"
 msgstr "Informa de problemes automàticament"
 
-#: gnome-initial-setup/pages/privacy/gis-privacy-page.ui:110
+#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.ui:110
 msgid ""
 "Privacy controls can be changed at any time from the Settings application."
 msgstr ""
@@ -599,7 +599,7 @@ msgstr ""
 #. Translators: the parameter here is the name of a distribution,
 #. * like "Fedora" or "Ubuntu". It falls back to "GNOME 3" if we can't
 #. * detect any distribution.
-#: gnome-initial-setup/pages/summary/gis-summary-page.c:233
+#: scarecrow-initial-setup/pages/summary/gis-summary-page.c:233
 #, c-format
 msgid "_Start Using %s"
 msgstr "_Comenceu a utilitzar %s"
@@ -607,21 +607,21 @@ msgstr "_Comenceu a utilitzar %s"
 #. Translators: the parameter here is the name of a distribution,
 #. * like "Fedora" or "Ubuntu". It falls back to "GNOME 3" if we can't
 #. * detect any distribution.
-#: gnome-initial-setup/pages/summary/gis-summary-page.c:240
+#: scarecrow-initial-setup/pages/summary/gis-summary-page.c:240
 #, c-format
 msgid "%s is ready to be used. We hope that you love it!"
 msgstr "%s està a punt per a ser usat. Esperem que us agradi!"
 
-#: gnome-initial-setup/pages/summary/gis-summary-page.c:264
+#: scarecrow-initial-setup/pages/summary/gis-summary-page.c:264
 msgid "Setup Complete"
 msgstr "S'ha completat la configuració"
 
-#: gnome-initial-setup/pages/summary/gis-summary-page.ui:70
+#: scarecrow-initial-setup/pages/summary/gis-summary-page.ui:70
 msgid "All done!"
 msgstr "S'ha acabat"
 
 #. Translators: "city, country"
-#: gnome-initial-setup/pages/timezone/gis-timezone-page.c:261
+#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:261
 #, c-format
 msgctxt "timezone loc"
 msgid "%s, %s"
@@ -629,33 +629,33 @@ msgstr "%s, %s"
 
 #. Translators: UTC here means the Coordinated Universal Time.
 #. * %:::z will be replaced by the offset from UTC e.g. UTC+02
-#: gnome-initial-setup/pages/timezone/gis-timezone-page.c:298
+#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:298
 msgid "UTC%:::z"
 msgstr "UTC%:::z"
 
 #. Translators: This is the time format used in 12-hour mode.
-#: gnome-initial-setup/pages/timezone/gis-timezone-page.c:302
+#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:302
 msgid "%l:%M %p"
 msgstr "%l:%M %p"
 
 #. Translators: This is the time format used in 24-hour mode.
-#: gnome-initial-setup/pages/timezone/gis-timezone-page.c:305
+#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:305
 msgid "%R"
 msgstr "%-H:%M"
 
 #. Translators: "timezone (utc shift)"
-#: gnome-initial-setup/pages/timezone/gis-timezone-page.c:308
+#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:308
 #, c-format
 msgctxt "timezone map"
 msgid "%s (%s)"
 msgstr "%s (%s)"
 
-#: gnome-initial-setup/pages/timezone/gis-timezone-page.c:473
-#: gnome-initial-setup/pages/timezone/gis-timezone-page.ui:17
+#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:473
+#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.ui:17
 msgid "Time Zone"
 msgstr "Fus horari"
 
-#: gnome-initial-setup/pages/timezone/gis-timezone-page.ui:18
+#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.ui:18
 msgid ""
 "The time zone will be set automatically if your location can be found. You "
 "can also search for a city to set it yourself."
@@ -663,7 +663,7 @@ msgstr ""
 "El fus horari s'establirà automàticament si es pot determinar la vostra "
 "ubicació. Podeu també cercar una ciutat i configurar-lo vosaltres mateixos."
 
-#: gnome-initial-setup/pages/timezone/gis-timezone-page.ui:56
+#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.ui:56
 msgid "Please search for a nearby city"
 msgstr "Cerqueu una ciutat propera"
 
@@ -674,16 +674,16 @@ msgstr "Cerqueu una ciutat propera"
 #. * space (U200a) to improve the spacing in the title, which you can
 #. * keep or remove. The %s is getting replaced with the name and version
 #. * of the OS, e.g. "GNOME 3.38"
-#: gnome-initial-setup/pages/welcome/gis-welcome-page.c:209
+#: scarecrow-initial-setup/pages/welcome/gis-welcome-page.c:209
 #, c-format
 msgid "Welcome to %s !"
 msgstr "Us donem la benvinguda a %s!"
 
-#: gnome-initial-setup/pages/welcome/gis-welcome-page.ui:5
+#: scarecrow-initial-setup/pages/welcome/gis-welcome-page.ui:5
 msgid "Setup"
 msgstr "Configuració"
 
-#: gnome-initial-setup/pages/welcome/gis-welcome-page.ui:43
+#: scarecrow-initial-setup/pages/welcome/gis-welcome-page.ui:43
 msgid ""
 "Setup will guide you through making an account and enabling some features. "
 "We’ll have you up and running in no time."
@@ -691,7 +691,7 @@ msgstr ""
 "La configuració us guiarà en la creació d'un compte i activació d'algunes "
 "funcions. En poc temps tindreu tot configurat."
 
-#: gnome-initial-setup/pages/welcome/gis-welcome-page.ui:54
+#: scarecrow-initial-setup/pages/welcome/gis-welcome-page.ui:54
 msgid "_Start Setup"
 msgstr "_Inicia la configuració"
 

@@ -2,7 +2,7 @@ GNOME Initial Setup
 ===================
 
 After acquiring or installing a new system there are a few essential things
-to set up before use. gnome-initial-setup aims to provide a simple, easy,
+to set up before use. scarecrow-initial-setup aims to provide a simple, easy,
 and safe way to prepare a new system.
 
 This should only include a few essential steps for which we can't provide
@@ -19,8 +19,8 @@ The desired experience is that the system boots straight into the
 initial-setup tool, and when the setup tasks are completed, we smoothly
 transition into the user session for the newly created user account.
 
-To realize this experience, we rely on gdm to launch gnome-initial-setup
-in a 'first boot' situation. We are using gnome-shell in an 'initial-setup'
+To realize this experience, we rely on gdm to launch scarecrow-initial-setup
+in a 'first boot' situation. We are using scarecrow-shell in an 'initial-setup'
 mode that shows a somewhat reduced UI, similar to the way it is used on
 the login screen.
 
@@ -37,11 +37,11 @@ Some aspects of Initial Setup's behaviour can be overridden through a
 _vendor configuration file_.
 
 By default, Initial Setup will try to read configuration from
-`$(sysconfdir)/gnome-initial-setup/vendor.conf` (i.e.
-`/etc/gnome-initial-setup/vendor.conf` in a typical installation). If this file
+`$(sysconfdir)/scarecrow-initial-setup/vendor.conf` (i.e.
+`/etc/scarecrow-initial-setup/vendor.conf` in a typical installation). If this file
 does not exist or cannot be read, Initial Setup will read
-`$(datadir)/gnome-initial-setup/vendor.conf` (i.e.
-`/usr/share/gnome-initial-setup/vendor.conf`). The intention is that
+`$(datadir)/scarecrow-initial-setup/vendor.conf` (i.e.
+`/usr/share/scarecrow-initial-setup/vendor.conf`). The intention is that
 distributions will provide their configuration (if any) in the latter file,
 with the former used by administrators or hardware vendors to override the
 distribution's configuration.

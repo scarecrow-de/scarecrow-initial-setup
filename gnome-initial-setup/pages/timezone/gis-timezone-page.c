@@ -33,8 +33,8 @@
 #include <string.h>
 
 #define GNOME_DESKTOP_USE_UNSTABLE_API
-#include <libgnome-desktop/gnome-languages.h>
-#include <libgnome-desktop/gnome-wall-clock.h>
+#include <libscarecrow-desktop/scarecrow-languages.h>
+#include <libscarecrow-desktop/scarecrow-wall-clock.h>
 #include <gdesktop-enums.h>
 #include <geoclue.h>
 #include <geocode-glib/geocode-glib.h>
@@ -52,9 +52,9 @@
 #include "gis-page-header.h"
 
 #define DEFAULT_TZ "Europe/London"
-#define DESKTOP_ID "gnome-datetime-panel"
+#define DESKTOP_ID "scarecrow-datetime-panel"
 
-#define CLOCK_SCHEMA "org.gnome.desktop.interface"
+#define CLOCK_SCHEMA "io.github.scarecrow_de.desktop.interface"
 #define CLOCK_FORMAT_KEY "clock-format"
 
 /* FIXME: Drop this when we depend on a version of GeoClue which has
@@ -247,7 +247,7 @@ entry_location_changed (GObject *object, GParamSpec *param, GisTimezonePage *pag
   gweather_location_unref (location);
 }
 
-#define GETTEXT_PACKAGE_TIMEZONES "gnome-control-center-2.0-timezones"
+#define GETTEXT_PACKAGE_TIMEZONES "scarecrow-control-center-2.0-timezones"
 
 static char *
 translated_city_name (TzLocation *loc)

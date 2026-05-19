@@ -6,8 +6,8 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: gnome-initial-setup\n"
-"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-initial-setup/"
+"Project-Id-Version: scarecrow-initial-setup\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/scarecrow-initial-setup/"
 "issues\n"
 "POT-Creation-Date: 2020-08-17 19:50+0000\n"
 "PO-Revision-Date: 2020-09-29 00:52+0300\n"
@@ -21,64 +21,64 @@ msgstr ""
 "X-Poedit-SourceCharset: utf-8\n"
 "X-Generator: Gtranslator 3.36.0\n"
 
-#: data/gnome-initial-setup-first-login.desktop.in.in:3
-#: data/gnome-initial-setup.desktop.in.in:3
+#: data/scarecrow-initial-setup-first-login.desktop.in.in:3
+#: data/scarecrow-initial-setup.desktop.in.in:3
 msgid "Initial Setup"
 msgstr "התקנה ראשונית"
 
-#: gnome-initial-setup/gis-assistant.c:423
+#: scarecrow-initial-setup/gis-assistant.c:423
 msgid "_Next"
 msgstr "ה_בא"
 
-#: gnome-initial-setup/gis-assistant.c:424
+#: scarecrow-initial-setup/gis-assistant.c:424
 msgid "_Accept"
 msgstr "מו_סכם"
 
-#: gnome-initial-setup/gis-assistant.c:425
+#: scarecrow-initial-setup/gis-assistant.c:425
 msgid "_Skip"
 msgstr "ל_דלג"
 
-#: gnome-initial-setup/gis-assistant.c:426
+#: scarecrow-initial-setup/gis-assistant.c:426
 msgid "_Previous"
 msgstr "ה_קודם"
 
-#: gnome-initial-setup/gis-assistant.c:427
+#: scarecrow-initial-setup/gis-assistant.c:427
 msgid "_Cancel"
 msgstr "_ביטול"
 
-#: gnome-initial-setup/gnome-initial-setup.c:252
+#: scarecrow-initial-setup/scarecrow-initial-setup.c:252
 msgid "Force existing user mode"
 msgstr "אילוץ מצב משתמש קיים"
 
-#: gnome-initial-setup/gnome-initial-setup.c:258
+#: scarecrow-initial-setup/scarecrow-initial-setup.c:258
 msgid "— GNOME initial setup"
 msgstr "- הגדרות ראשוניות של GNOME"
 
-#: gnome-initial-setup/pages/account/gis-account-avatar-chooser.ui:36
+#: scarecrow-initial-setup/pages/account/gis-account-avatar-chooser.ui:36
 msgid "Take a Picture…"
 msgstr "צילום תמונה…"
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.c:184
+#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.c:184
 msgid "Failed to register account"
 msgstr "רישום החשבון נכשל"
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.c:378
+#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.c:378
 msgid "No supported way to authenticate with this domain"
 msgstr "אין דרך נתמכת לאימות מול מתחם זה"
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.c:418
+#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.c:418
 msgid "Failed to join domain"
 msgstr "ההצטרפות למתחם נכשלה"
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.c:486
+#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.c:486
 msgid "Failed to log into domain"
 msgstr "הכניסה למתחם נכשלה"
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.ui:17
+#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:17
 msgid "Enterprise Login"
 msgstr "בכניסה ארגונית"
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.ui:18
+#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:18
 msgid ""
 "Enterprise login allows an existing centrally managed user account to be "
 "used on this device. You can also use this account to access company "
@@ -87,34 +87,34 @@ msgstr ""
 "התחברות ארגונית מאפשרת ניהול חשבון משתמש מרוכז לשימוש בהתקן זה. נתן גם "
 "להשתמש בחשבון זה לגישה למשאבי חברות באינטרנט."
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.ui:36
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.ui:287
+#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:36
+#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:287
 msgid "_Domain"
 msgstr "מ_תחם"
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.ui:53
-#: gnome-initial-setup/pages/account/gis-account-page-local.ui:84
+#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:53
+#: scarecrow-initial-setup/pages/account/gis-account-page-local.ui:84
 msgid "_Username"
 msgstr "שם מ_שתמש"
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.ui:70
-#: gnome-initial-setup/pages/password/gis-password-page.ui:34
+#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:70
+#: scarecrow-initial-setup/pages/password/gis-password-page.ui:34
 msgid "_Password"
 msgstr "_ססמה"
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.ui:146
+#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:146
 msgid "Enterprise domain or realm name"
 msgstr "שם התחום או המתחם הארגוני"
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.ui:211
+#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:211
 msgid "C_ontinue"
 msgstr "להמ_שיך"
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.ui:246
+#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:246
 msgid "Domain Administrator Login"
 msgstr "כניסה לניהול המתחם"
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.ui:266
+#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:266
 msgid ""
 "In order to use enterprise logins, this computer needs to be enrolled in a "
 "domain. Please have your network administrator type the domain password "
@@ -123,111 +123,111 @@ msgstr ""
 "כדי להשתמש בכניסה ארגונית על מחשב זה להיות רשום במתחם. נא לבקש ממנהל הרשת "
 "שלך להזין את ססמת המתחם להלן ולבחור בשם ייחודי למחשב שלך."
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.ui:321
+#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:321
 msgid "_Computer"
 msgstr "מ_חשב"
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.ui:353
+#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:353
 msgid "Administrator _Name"
 msgstr "שם המ_נהל"
 
-#: gnome-initial-setup/pages/account/gis-account-page-enterprise.ui:387
+#: scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui:387
 msgid "Administrator Password"
 msgstr "ססמת המנהל"
 
-#: gnome-initial-setup/pages/account/gis-account-page-local.c:207
+#: scarecrow-initial-setup/pages/account/gis-account-page-local.c:207
 msgid "Please check the name and username. You can choose a picture too."
 msgstr "נא לבדוק את השם ואת שם המשתמש. ניתן גם לבחור תמונה."
 
-#: gnome-initial-setup/pages/account/gis-account-page-local.c:453
+#: scarecrow-initial-setup/pages/account/gis-account-page-local.c:453
 msgid "We need a few details to complete setup."
 msgstr "אנחנו צריכים כמה פרטים להשלמת ההתקנה."
 
-#: gnome-initial-setup/pages/account/gis-account-page-local.c:559
+#: scarecrow-initial-setup/pages/account/gis-account-page-local.c:559
 msgid "Administrator"
 msgstr "מנהל"
 
-#: gnome-initial-setup/pages/account/gis-account-page-local.c:565
-#: gnome-initial-setup/pages/account/gis-account-page-local.c:608
+#: scarecrow-initial-setup/pages/account/gis-account-page-local.c:565
+#: scarecrow-initial-setup/pages/account/gis-account-page-local.c:608
 #, c-format
 msgid "Failed to create user '%s': "
 msgstr "ארע כשל ביצירת משתמש „%s”:"
 
-#: gnome-initial-setup/pages/account/gis-account-page-local.ui:21
+#: scarecrow-initial-setup/pages/account/gis-account-page-local.ui:21
 msgid "Avatar image"
 msgstr "בחירת תמונה אישית"
 
-#: gnome-initial-setup/pages/account/gis-account-page-local.ui:38
-#: gnome-initial-setup/pages/account/gis-account-page.c:283
+#: scarecrow-initial-setup/pages/account/gis-account-page-local.ui:38
+#: scarecrow-initial-setup/pages/account/gis-account-page.c:283
 msgid "About You"
 msgstr "על אודותיך"
 
-#: gnome-initial-setup/pages/account/gis-account-page-local.ui:39
+#: scarecrow-initial-setup/pages/account/gis-account-page-local.ui:39
 msgid "Please provide a name and username. You can choose a picture too."
 msgstr "נא לספק שם ושם משתמש. ניתן גם לבחור תמונה."
 
-#: gnome-initial-setup/pages/account/gis-account-page-local.ui:53
+#: scarecrow-initial-setup/pages/account/gis-account-page-local.ui:53
 msgid "_Full Name"
 msgstr "שם מ_לא"
 
-#: gnome-initial-setup/pages/account/gis-account-page-local.ui:149
+#: scarecrow-initial-setup/pages/account/gis-account-page-local.ui:149
 msgid "Set up _parental controls for this user"
 msgstr "הגדרת פיקוח הורים למשתמש זה_"
 
-#: gnome-initial-setup/pages/account/gis-account-page-local.ui:156
+#: scarecrow-initial-setup/pages/account/gis-account-page-local.ui:156
 msgid "For use by a parent or supervisor, who must set up their own password."
 msgstr "לשימוש על ידי הורה או מפקח, אשר בתורו חייב להגדיר ססמה משלו."
 
-#: gnome-initial-setup/pages/account/gis-account-page.ui:43
+#: scarecrow-initial-setup/pages/account/gis-account-page.ui:43
 msgid "_Enterprise Login"
 msgstr "_כניסה ארגונית"
 
-#: gnome-initial-setup/pages/account/gis-account-page.ui:53
+#: scarecrow-initial-setup/pages/account/gis-account-page.ui:53
 msgid "Go online to set up Enterprise Login."
 msgstr "התחברות לרשת להגדרת כניסה ארגונית."
 
-#: gnome-initial-setup/pages/account/um-realm-manager.c:310
+#: scarecrow-initial-setup/pages/account/um-realm-manager.c:310
 msgid "Cannot automatically join this type of domain"
 msgstr "לא ניתן להצטרף אוטומטית למתחם מסוג זה"
 
-#: gnome-initial-setup/pages/account/um-realm-manager.c:373
+#: scarecrow-initial-setup/pages/account/um-realm-manager.c:373
 #, c-format
 msgid "No such domain or realm found"
 msgstr "לא נמצאו מתחמים או תחומים כאלה"
 
-#: gnome-initial-setup/pages/account/um-realm-manager.c:782
-#: gnome-initial-setup/pages/account/um-realm-manager.c:796
+#: scarecrow-initial-setup/pages/account/um-realm-manager.c:782
+#: scarecrow-initial-setup/pages/account/um-realm-manager.c:796
 #, c-format
 msgid "Cannot log in as %s at the %s domain"
 msgstr "לא ניתן להיכנס בשם %s למתחם %s"
 
-#: gnome-initial-setup/pages/account/um-realm-manager.c:788
+#: scarecrow-initial-setup/pages/account/um-realm-manager.c:788
 msgid "Invalid password, please try again"
 msgstr "ססמה שגויה, נא לנסות שוב"
 
-#: gnome-initial-setup/pages/account/um-realm-manager.c:801
+#: scarecrow-initial-setup/pages/account/um-realm-manager.c:801
 #, c-format
 msgid "Couldn’t connect to the %s domain: %s"
 msgstr "לא ניתן להתחבר אל המתחם %s:‏ %s"
 
-#: gnome-initial-setup/pages/account/um-utils.c:248
+#: scarecrow-initial-setup/pages/account/um-utils.c:248
 msgid "Sorry, that user name isn’t available. Please try another."
 msgstr "למרבה הצער, שם משתמש זה אינו זמין. יש לנסות שם אחר."
 
-#: gnome-initial-setup/pages/account/um-utils.c:251
+#: scarecrow-initial-setup/pages/account/um-utils.c:251
 #, c-format
 msgid "The username is too long."
 msgstr "שם המשתמש ארוך מדי."
 
-#: gnome-initial-setup/pages/account/um-utils.c:254
+#: scarecrow-initial-setup/pages/account/um-utils.c:254
 msgid "The username cannot start with a “-”."
 msgstr "שם המשתמש לא יכול להתחיל עם „-”."
 
-#: gnome-initial-setup/pages/account/um-utils.c:257
+#: scarecrow-initial-setup/pages/account/um-utils.c:257
 msgid "That username isn’t available. Please try another."
 msgstr "שם משתמש זה אינו זמין. יש לנסות שם אחר."
 
-#: gnome-initial-setup/pages/account/um-utils.c:260
+#: scarecrow-initial-setup/pages/account/um-utils.c:260
 msgid ""
 "The username should only consist of upper and lower case letters from a-z, "
 "digits and the following characters: . - _"
@@ -235,23 +235,23 @@ msgstr ""
 "שם המשתמש יכול להכיל רק אותיות קטנות ורישיות מהאלפבית האנגלי, ספרות ואחד  "
 "מהתווים: . - _"
 
-#: gnome-initial-setup/pages/account/um-utils.c:264
+#: scarecrow-initial-setup/pages/account/um-utils.c:264
 msgid "This will be used to name your home folder and can’t be changed."
 msgstr "שם זה ישמש לשם תיקיית הבית שלך ולא יהיה ניתן לשנותו."
 
-#: gnome-initial-setup/pages/goa/gis-goa-page.c:92
+#: scarecrow-initial-setup/pages/goa/gis-goa-page.c:92
 msgid "Add Account"
 msgstr "הוספת חשבון"
 
-#: gnome-initial-setup/pages/goa/gis-goa-page.c:357
+#: scarecrow-initial-setup/pages/goa/gis-goa-page.c:357
 msgid "Online Accounts"
 msgstr "חשבונות מקוונים"
 
-#: gnome-initial-setup/pages/goa/gis-goa-page.ui:17
+#: scarecrow-initial-setup/pages/goa/gis-goa-page.ui:17
 msgid "Connect Your Online Accounts"
 msgstr "התחברות לחשבונות המקוונים שלך"
 
-#: gnome-initial-setup/pages/goa/gis-goa-page.ui:18
+#: scarecrow-initial-setup/pages/goa/gis-goa-page.ui:18
 msgid ""
 "Connect your accounts to easily access your email, online calendar, "
 "contacts, documents and photos."
@@ -259,41 +259,41 @@ msgstr ""
 "התחברות לחשבונות שלך לגישה נוחה לדוא״ל, לוח שנה מקוון, אנשי קשר, תמונות ושאר "
 "מסמכים שלך."
 
-#: gnome-initial-setup/pages/goa/gis-goa-page.ui:48
+#: scarecrow-initial-setup/pages/goa/gis-goa-page.ui:48
 msgid ""
 "Accounts can be added and removed at any time from the Settings application."
 msgstr "חשבונות ניתנים להוספה ולהסרה בכל עת מיישום הגדרות."
 
-#: gnome-initial-setup/pages/keyboard/cc-input-chooser.c:240
+#: scarecrow-initial-setup/pages/keyboard/cc-input-chooser.c:240
 msgid "Preview"
 msgstr "תצוגה מקדימה"
 
-#: gnome-initial-setup/pages/keyboard/cc-input-chooser.c:299
-#: gnome-initial-setup/pages/language/cc-language-chooser.c:227
+#: scarecrow-initial-setup/pages/keyboard/cc-input-chooser.c:299
+#: scarecrow-initial-setup/pages/language/cc-language-chooser.c:227
 msgid "More…"
 msgstr "עוד…"
 
 #. Translators: a search for input methods or keyboard layouts
 #. * did not yield any results
 #.
-#: gnome-initial-setup/pages/keyboard/cc-input-chooser.c:321
+#: scarecrow-initial-setup/pages/keyboard/cc-input-chooser.c:321
 msgid "No inputs found"
 msgstr "לא נמצא קלט"
 
-#: gnome-initial-setup/pages/keyboard/gis-keyboard-page.c:504
-#: gnome-initial-setup/pages/keyboard/gis-keyboard-page.ui:15
+#: scarecrow-initial-setup/pages/keyboard/gis-keyboard-page.c:504
+#: scarecrow-initial-setup/pages/keyboard/gis-keyboard-page.ui:15
 msgid "Typing"
 msgstr "הקלדה"
 
-#: gnome-initial-setup/pages/keyboard/gis-keyboard-page.ui:16
+#: scarecrow-initial-setup/pages/keyboard/gis-keyboard-page.ui:16
 msgid "Select your keyboard layout or an input method."
 msgstr "בחירת פריסות המקלדת שלך או שיטת קלט."
 
-#: gnome-initial-setup/pages/language/cc-language-chooser.c:243
+#: scarecrow-initial-setup/pages/language/cc-language-chooser.c:243
 msgid "No languages found"
 msgstr "לא נמצאו שפות"
 
-#: gnome-initial-setup/pages/language/gis-language-page.c:262
+#: scarecrow-initial-setup/pages/language/gis-language-page.c:262
 msgid "Welcome"
 msgstr "ברוך בואך"
 
@@ -301,32 +301,32 @@ msgstr "ברוך בואך"
 #. * like greeting somebody at the door. If the exclamation mark is not
 #. * suitable for this in your language you may replace it.
 #.
-#: gnome-initial-setup/pages/language/gis-welcome-widget.c:136
+#: scarecrow-initial-setup/pages/language/gis-welcome-widget.c:136
 msgid "Welcome!"
 msgstr "ברוך בואך!"
 
-#: gnome-initial-setup/pages/network/gis-network-page.c:318
+#: scarecrow-initial-setup/pages/network/gis-network-page.c:318
 msgctxt "Wireless access point"
 msgid "Other…"
 msgstr "אחר…"
 
-#: gnome-initial-setup/pages/network/gis-network-page.c:403
+#: scarecrow-initial-setup/pages/network/gis-network-page.c:403
 msgid "Wireless networking is disabled"
 msgstr "הרשת האלחוטית מושבתת"
 
-#: gnome-initial-setup/pages/network/gis-network-page.c:410
+#: scarecrow-initial-setup/pages/network/gis-network-page.c:410
 msgid "Checking for available wireless networks"
 msgstr "מתבצע חיפוש אחר רשתות אלחוטיות זמינות"
 
-#: gnome-initial-setup/pages/network/gis-network-page.c:805
+#: scarecrow-initial-setup/pages/network/gis-network-page.c:805
 msgid "Network"
 msgstr "רשת"
 
-#: gnome-initial-setup/pages/network/gis-network-page.ui:18
+#: scarecrow-initial-setup/pages/network/gis-network-page.ui:18
 msgid "Wi-Fi"
 msgstr "רשת אלחוטית"
 
-#: gnome-initial-setup/pages/network/gis-network-page.ui:19
+#: scarecrow-initial-setup/pages/network/gis-network-page.ui:19
 msgid ""
 "Connecting to the internet helps you get new apps, information, and other "
 "upgrades. It also helps set the time and your location automatically."
@@ -334,153 +334,153 @@ msgstr ""
 "התחברות לרשת תעזור לך לקבל יישומים חדשים, מידע ושדרוגים אחרים. זה גם יסייע "
 "להגדרת התאריך והשעה לפי האזור שלך באופן אוטומטי."
 
-#: gnome-initial-setup/pages/network/gis-network-page.ui:76
+#: scarecrow-initial-setup/pages/network/gis-network-page.ui:76
 msgid "No wireless available"
 msgstr "אין אלחוט זמין"
 
-#: gnome-initial-setup/pages/network/gis-network-page.ui:91
+#: scarecrow-initial-setup/pages/network/gis-network-page.ui:91
 msgid "Turn On"
 msgstr "הפעלה"
 
 #. Translators: The placeholder is the user’s full name.
-#: gnome-initial-setup/pages/parental-controls/gis-parental-controls-page.c:102
+#: scarecrow-initial-setup/pages/parental-controls/gis-parental-controls-page.c:102
 #, c-format
 msgid "Parental Controls for %s"
 msgstr "פיקוח הורים עבור %s"
 
-#: gnome-initial-setup/pages/parental-controls/gis-parental-controls-page.c:104
+#: scarecrow-initial-setup/pages/parental-controls/gis-parental-controls-page.c:104
 msgid "Set restrictions on what this user can run or install."
 msgstr "הגדרת הגבלות על מה שמשתמש זה יכול להריץ או להתקין."
 
-#: gnome-initial-setup/pages/parental-controls/gis-parental-controls-page.c:199
+#: scarecrow-initial-setup/pages/parental-controls/gis-parental-controls-page.c:199
 msgid "Parental Controls"
 msgstr "פיקוח הורים"
 
 #. Don’t break UI compatibility if parental controls are disabled.
-#: gnome-initial-setup/pages/password/gis-password-page.c:79
+#: scarecrow-initial-setup/pages/password/gis-password-page.c:79
 msgid "Set a Password"
 msgstr "הגדרת ססמה"
 
-#: gnome-initial-setup/pages/password/gis-password-page.c:80
-#: gnome-initial-setup/pages/password/gis-password-page.c:89
+#: scarecrow-initial-setup/pages/password/gis-password-page.c:80
+#: scarecrow-initial-setup/pages/password/gis-password-page.c:89
 msgid "Be careful not to lose your password."
 msgstr "יש להיזהר לא לאבד את הססמה שלך."
 
 #. Translators: The placeholder is for the user’s full name.
-#: gnome-initial-setup/pages/password/gis-password-page.c:87
+#: scarecrow-initial-setup/pages/password/gis-password-page.c:87
 #, c-format
 msgid "Set a Password for %s"
 msgstr "הגדרת ססמה עבור %s"
 
-#: gnome-initial-setup/pages/password/gis-password-page.c:95
+#: scarecrow-initial-setup/pages/password/gis-password-page.c:95
 msgid "Set a Parent Password"
 msgstr "הגדרת ססמת הורה"
 
 #. Translators: The placeholder is the full name of the child user on the system.
-#: gnome-initial-setup/pages/password/gis-password-page.c:97
+#: scarecrow-initial-setup/pages/password/gis-password-page.c:97
 #, c-format
 msgid "This password will control access to the parental controls for %s."
 msgstr "ססמה זו תשלוט בגישה לפיקוח הורים עבור %s."
 
-#: gnome-initial-setup/pages/password/gis-password-page.c:228
+#: scarecrow-initial-setup/pages/password/gis-password-page.c:228
 msgid "This is a weak password."
 msgstr "ססמה זו חלשה."
 
-#: gnome-initial-setup/pages/password/gis-password-page.c:234
+#: scarecrow-initial-setup/pages/password/gis-password-page.c:234
 msgid "The passwords do not match."
 msgstr "הססמאות אינן תואמות."
 
-#: gnome-initial-setup/pages/password/gis-password-page.c:420
+#: scarecrow-initial-setup/pages/password/gis-password-page.c:420
 msgid "Password"
 msgstr "ססמה"
 
-#: gnome-initial-setup/pages/password/gis-password-page.ui:66
+#: scarecrow-initial-setup/pages/password/gis-password-page.ui:66
 msgid "_Confirm"
 msgstr "_אישור"
 
-#: gnome-initial-setup/pages/password/pw-utils.c:81
+#: scarecrow-initial-setup/pages/password/pw-utils.c:81
 msgctxt "Password hint"
 msgid "The new password needs to be different from the old one."
 msgstr "הססמה החדשה מוכרחה להיות שונה מהקודמת."
 
-#: gnome-initial-setup/pages/password/pw-utils.c:83
+#: scarecrow-initial-setup/pages/password/pw-utils.c:83
 msgctxt "Password hint"
 msgid ""
 "This password is very similar to your last one. Try changing some letters "
 "and numbers."
 msgstr "ססמה זו דומה מאוד לזו הקודמת. כדאי לנסות כמה תווים ומספרים."
 
-#: gnome-initial-setup/pages/password/pw-utils.c:85
-#: gnome-initial-setup/pages/password/pw-utils.c:93
+#: scarecrow-initial-setup/pages/password/pw-utils.c:85
+#: scarecrow-initial-setup/pages/password/pw-utils.c:93
 msgctxt "Password hint"
 msgid ""
 "This password is very similar to your last one. Try changing the password a "
 "bit more."
 msgstr "ססמה זו דומה מאוד לזו הקודמת. כדאי לשנות את הססמה עוד מעט."
 
-#: gnome-initial-setup/pages/password/pw-utils.c:87
+#: scarecrow-initial-setup/pages/password/pw-utils.c:87
 msgctxt "Password hint"
 msgid ""
 "This is a weak password. A password without your user name would be stronger."
 msgstr "זו ססמה חלשה. ססמה ללא השם שלך תהיה חזקה יותר."
 
-#: gnome-initial-setup/pages/password/pw-utils.c:89
+#: scarecrow-initial-setup/pages/password/pw-utils.c:89
 msgctxt "Password hint"
 msgid "This is a weak password. Try to avoid using your name in the password."
 msgstr "זו ססמה חלשה. כדאי לנסות להימנע משימוש בשם שלך בססמה."
 
-#: gnome-initial-setup/pages/password/pw-utils.c:91
+#: scarecrow-initial-setup/pages/password/pw-utils.c:91
 msgctxt "Password hint"
 msgid ""
 "This is a weak password. Try to avoid some of the words included in the "
 "password."
 msgstr "זו ססמה חלשה. כדאי לנסות להימנע מכמה מילים הכלולות בססמה."
 
-#: gnome-initial-setup/pages/password/pw-utils.c:95
+#: scarecrow-initial-setup/pages/password/pw-utils.c:95
 msgctxt "Password hint"
 msgid "This is a weak password. Try to avoid common words."
 msgstr "זו ססמה חלשה. כדאי לנסות להימנע ממילים נפוצות."
 
-#: gnome-initial-setup/pages/password/pw-utils.c:97
+#: scarecrow-initial-setup/pages/password/pw-utils.c:97
 msgctxt "Password hint"
 msgid "This is a weak password. Try to avoid reordering existing words."
 msgstr "זו ססמה חלשה. כדאי להימנע מסידור מחודש של מילים קיימות."
 
-#: gnome-initial-setup/pages/password/pw-utils.c:99
+#: scarecrow-initial-setup/pages/password/pw-utils.c:99
 msgctxt "Password hint"
 msgid "This is a weak password. Try to use more numbers."
 msgstr "זו ססמה חלשה. כדאי לנסות להשתמש ביותר מספרים."
 
-#: gnome-initial-setup/pages/password/pw-utils.c:101
+#: scarecrow-initial-setup/pages/password/pw-utils.c:101
 msgctxt "Password hint"
 msgid "This is a weak password. Try to use more uppercase letters."
 msgstr "זו ססמה חלשה. כדאי להשתמש בעוד אותיות רישיות."
 
-#: gnome-initial-setup/pages/password/pw-utils.c:103
+#: scarecrow-initial-setup/pages/password/pw-utils.c:103
 msgctxt "Password hint"
 msgid "This is a weak password. Try to use more lowercase letters."
 msgstr "זו ססמה חלשה. כדאי להשתמש בעוד אותיות קטנות."
 
-#: gnome-initial-setup/pages/password/pw-utils.c:105
+#: scarecrow-initial-setup/pages/password/pw-utils.c:105
 msgctxt "Password hint"
 msgid ""
 "This is a weak password. Try to use more special characters, like "
 "punctuation."
 msgstr "זו ססמה חלשה. כדאי להשתמש בתווים מסוימים יותר, כמו סימני פיסוק."
 
-#: gnome-initial-setup/pages/password/pw-utils.c:107
+#: scarecrow-initial-setup/pages/password/pw-utils.c:107
 msgctxt "Password hint"
 msgid ""
 "This is a weak password. Try to use a mixture of letters, numbers and "
 "punctuation."
 msgstr "זו ססמה חלשה. כדאי להשתמש בערבוב של תווים, מספרים וסימני פיסוק."
 
-#: gnome-initial-setup/pages/password/pw-utils.c:109
+#: scarecrow-initial-setup/pages/password/pw-utils.c:109
 msgctxt "Password hint"
 msgid "This is a weak password. Try to avoid repeating the same character."
 msgstr "זו ססמה חלשה. כדאי לנסות להימנע מחזרה על אותו התו."
 
-#: gnome-initial-setup/pages/password/pw-utils.c:111
+#: scarecrow-initial-setup/pages/password/pw-utils.c:111
 msgctxt "Password hint"
 msgid ""
 "This is a weak password. Try to avoid repeating the same type of character: "
@@ -489,23 +489,23 @@ msgstr ""
 "זו ססמה חלשה. כדאי לנסות להימנע מחזרה על אותו סוג של תו: צריך לערבב אותיות, "
 "מספרים וסימני פיסוק."
 
-#: gnome-initial-setup/pages/password/pw-utils.c:113
+#: scarecrow-initial-setup/pages/password/pw-utils.c:113
 msgctxt "Password hint"
 msgid "This is a weak password. Try to avoid sequences like 1234 or abcd."
 msgstr "זו ססמה חלשה. כדאי להימנע מרצפים כמו 1234 או abcd או אבגד."
 
-#: gnome-initial-setup/pages/password/pw-utils.c:115
+#: scarecrow-initial-setup/pages/password/pw-utils.c:115
 msgctxt "Password hint"
 msgid ""
 "This is a weak password. Try to add more letters, numbers and punctuation."
 msgstr "זו ססמה חלשה. כדאי להוסיף עוד תווים, מספרים וסימני פיסוק."
 
-#: gnome-initial-setup/pages/password/pw-utils.c:117
+#: scarecrow-initial-setup/pages/password/pw-utils.c:117
 msgctxt "Password hint"
 msgid "Mix uppercase and lowercase and try to use a number or two."
 msgstr "יש לערבב אותיות רישיות וקטנות ולהשתמש במספר או שניים."
 
-#: gnome-initial-setup/pages/password/pw-utils.c:119
+#: scarecrow-initial-setup/pages/password/pw-utils.c:119
 msgctxt "Password hint"
 msgid ""
 "Adding more letters, numbers and punctuation will make the password stronger."
@@ -515,7 +515,7 @@ msgstr "הוספת תווים נוספים, מספרים וסימני פיסוק
 #. * like "Fedora" or "Ubuntu". It falls back to "GNOME" if we can't
 #. * detect any distribution.
 #.
-#: gnome-initial-setup/pages/privacy/gis-privacy-page.c:68
+#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:68
 #, c-format
 msgid ""
 "Sending reports of technical problems helps us to improve %s. Reports are "
@@ -528,31 +528,31 @@ msgstr ""
 #. * like "Fedora" or "Ubuntu". It falls back to "GNOME" if we can't
 #. * detect any distribution.
 #.
-#: gnome-initial-setup/pages/privacy/gis-privacy-page.c:78
+#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:78
 #, c-format
 msgid "Problem data will be collected by %s:"
 msgstr "מידע בעייתי יאסף על ידי %s:"
 
-#: gnome-initial-setup/pages/privacy/gis-privacy-page.c:79
-#: gnome-initial-setup/pages/privacy/gis-privacy-page.c:135
-#: gnome-initial-setup/pages/privacy/gis-privacy-page.c:210
+#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:79
+#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:135
+#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:210
 msgid "Privacy Policy"
 msgstr "מדיניות פרטיות"
 
-#: gnome-initial-setup/pages/privacy/gis-privacy-page.c:135
+#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:135
 msgid "Uses Mozilla Location Service:"
 msgstr "שימוש בשרת האיכון של מוזילה:"
 
-#: gnome-initial-setup/pages/privacy/gis-privacy-page.c:246
-#: gnome-initial-setup/pages/privacy/gis-privacy-page.ui:16
+#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:246
+#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.ui:16
 msgid "Privacy"
 msgstr "פרטיות"
 
-#: gnome-initial-setup/pages/privacy/gis-privacy-page.ui:31
+#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.ui:31
 msgid "Location Services"
 msgstr "שירותי איכון"
 
-#: gnome-initial-setup/pages/privacy/gis-privacy-page.ui:52
+#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.ui:52
 msgid ""
 "Allows applications to determine your geographical location. An indication "
 "is shown when location services are in use."
@@ -560,11 +560,11 @@ msgstr ""
 "מאפשר ליישומים לקבוע את המיקום הגאוגרפי שלך. סימן מוצג כאשר שירותי האיכון "
 "בשימוש."
 
-#: gnome-initial-setup/pages/privacy/gis-privacy-page.ui:74
+#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.ui:74
 msgid "Automatic Problem Reporting"
 msgstr "דיווח בעיות אוטומטית"
 
-#: gnome-initial-setup/pages/privacy/gis-privacy-page.ui:110
+#: scarecrow-initial-setup/pages/privacy/gis-privacy-page.ui:110
 msgid ""
 "Privacy controls can be changed at any time from the Settings application."
 msgstr "פיקוח על הפרטיות ניתן לשינוי בכל עת מיישום הגדרות."
@@ -572,7 +572,7 @@ msgstr "פיקוח על הפרטיות ניתן לשינוי בכל עת מיי�
 #. Translators: the parameter here is the name of a distribution,
 #. * like "Fedora" or "Ubuntu". It falls back to "GNOME 3" if we can't
 #. * detect any distribution.
-#: gnome-initial-setup/pages/summary/gis-summary-page.c:233
+#: scarecrow-initial-setup/pages/summary/gis-summary-page.c:233
 #, c-format
 msgid "_Start Using %s"
 msgstr "להת_חיל להשתמש ב־%s"
@@ -580,23 +580,23 @@ msgstr "להת_חיל להשתמש ב־%s"
 #. Translators: the parameter here is the name of a distribution,
 #. * like "Fedora" or "Ubuntu". It falls back to "GNOME 3" if we can't
 #. * detect any distribution.
-#: gnome-initial-setup/pages/summary/gis-summary-page.c:240
+#: scarecrow-initial-setup/pages/summary/gis-summary-page.c:240
 #, c-format
 msgid "%s is ready to be used. We hope that you love it!"
 msgstr ""
 "‏%s מוכן לשימושך.\n"
 "אנו מקווים שתאהבו את זה."
 
-#: gnome-initial-setup/pages/summary/gis-summary-page.c:264
+#: scarecrow-initial-setup/pages/summary/gis-summary-page.c:264
 msgid "Setup Complete"
 msgstr "ההגדרה הושלמה"
 
-#: gnome-initial-setup/pages/summary/gis-summary-page.ui:70
+#: scarecrow-initial-setup/pages/summary/gis-summary-page.ui:70
 msgid "All done!"
 msgstr "הכל בוצע!"
 
 #. Translators: "city, country"
-#: gnome-initial-setup/pages/timezone/gis-timezone-page.c:261
+#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:261
 #, c-format
 msgctxt "timezone loc"
 msgid "%s, %s"
@@ -605,33 +605,33 @@ msgstr "‏%s, ‏%s"
 #. Translators: UTC here means the Coordinated Universal Time.
 #. * %:::z will be replaced by the offset from UTC e.g. UTC+02
 #.
-#: gnome-initial-setup/pages/timezone/gis-timezone-page.c:298
+#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:298
 msgid "UTC%:::z"
 msgstr "UTC%:::z"
 
 #. Translators: This is the time format used in 12-hour mode.
-#: gnome-initial-setup/pages/timezone/gis-timezone-page.c:302
+#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:302
 msgid "%l:%M %p"
 msgstr "%l:%M %p"
 
 #. Translators: This is the time format used in 24-hour mode.
-#: gnome-initial-setup/pages/timezone/gis-timezone-page.c:305
+#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:305
 msgid "%R"
 msgstr "%R"
 
 #. Translators: "timezone (utc shift)"
-#: gnome-initial-setup/pages/timezone/gis-timezone-page.c:308
+#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:308
 #, c-format
 msgctxt "timezone map"
 msgid "%s (%s)"
 msgstr "‏%s ‏(%s)"
 
-#: gnome-initial-setup/pages/timezone/gis-timezone-page.c:473
-#: gnome-initial-setup/pages/timezone/gis-timezone-page.ui:17
+#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:473
+#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.ui:17
 msgid "Time Zone"
 msgstr "אזור זמן"
 
-#: gnome-initial-setup/pages/timezone/gis-timezone-page.ui:18
+#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.ui:18
 msgid ""
 "The time zone will be set automatically if your location can be found. You "
 "can also search for a city to set it yourself."
@@ -639,7 +639,7 @@ msgstr ""
 "אזור הזמן יוגדר באופן אוטומטי אם המיקום שלך ניתן לאיכון. ניתן גם לחפש עיר "
 "ולהגדיר אותו בעצמך."
 
-#: gnome-initial-setup/pages/timezone/gis-timezone-page.ui:56
+#: scarecrow-initial-setup/pages/timezone/gis-timezone-page.ui:56
 msgid "Please search for a nearby city"
 msgstr "נא לחפש עיר סמוכה"
 
@@ -651,17 +651,17 @@ msgstr "נא לחפש עיר סמוכה"
 #. * keep or remove. The %s is getting replaced with the name and version
 #. * of the OS, e.g. "GNOME 3.38"
 #.
-#: gnome-initial-setup/pages/welcome/gis-welcome-page.c:209
+#: scarecrow-initial-setup/pages/welcome/gis-welcome-page.c:209
 #, c-format
 #| msgid "Welcome!"
 msgid "Welcome to %s !"
 msgstr "ברוך בואך אל %s!"
 
-#: gnome-initial-setup/pages/welcome/gis-welcome-page.ui:5
+#: scarecrow-initial-setup/pages/welcome/gis-welcome-page.ui:5
 msgid "Setup"
 msgstr "התקנה"
 
-#: gnome-initial-setup/pages/welcome/gis-welcome-page.ui:43
+#: scarecrow-initial-setup/pages/welcome/gis-welcome-page.ui:43
 msgid ""
 "Setup will guide you through making an account and enabling some features. "
 "We’ll have you up and running in no time."
@@ -669,7 +669,7 @@ msgstr ""
 "התקנה תדריך אותך דרך יצירת חשבון ואפשור כמה תכונות. נקבל בשבילך מערכת מוכנה "
 "ופועלת בזמן קצר."
 
-#: gnome-initial-setup/pages/welcome/gis-welcome-page.ui:54
+#: scarecrow-initial-setup/pages/welcome/gis-welcome-page.ui:54
 #| msgid "Initial Setup"
 msgid "_Start Setup"
 msgstr "התחלת ה_תקנה"

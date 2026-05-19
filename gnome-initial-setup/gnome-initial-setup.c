@@ -21,7 +21,7 @@
 
 #include "config.h"
 
-#include "gnome-initial-setup.h"
+#include "scarecrow-initial-setup.h"
 
 #include <pwd.h>
 #include <unistd.h>
@@ -287,7 +287,7 @@ main (int argc, char *argv[])
 
   gtk_init (&argc, &argv);
 
-  g_message ("Starting gnome-initial-setup");
+  g_message ("Starting scarecrow-initial-setup");
   if (gis_get_mock_mode ())
     g_message ("Mock mode: changes will not be saved to disk");
   else
@@ -296,7 +296,7 @@ main (int argc, char *argv[])
   skipped_pages = g_ptr_array_new_with_free_func ((GDestroyNotify) gtk_widget_destroy);
   mode = get_mode ();
 
-  /* When we are running as the gnome-initial-setup user we
+  /* When we are running as the scarecrow-initial-setup user we
    * dont have a normal user session and need to initialize
    * the keyring manually so that we can pass the credentials
    * along to the new user in the handoff.
@@ -306,8 +306,8 @@ main (int argc, char *argv[])
 
   driver = gis_driver_new (mode);
 
-  /* We only do this in existing-user mode, because if gdm launches us
-   * in new-user mode and we just exit, gdm's special g-i-s session
+  /* We only do this in existing-user mode, because if scdm launches us
+   * in new-user mode and we just exit, scdm's special g-i-s session
    * never terminates. */
   if (initial_setup_disabled_by_anaconda () &&
       mode == GIS_DRIVER_MODE_EXISTING_USER) {
@@ -343,7 +343,7 @@ gis_ensure_stamp_files (GisDriver *driver)
       }
   }
 
-  done_file = g_build_filename (g_get_user_config_dir (), "gnome-initial-setup-done", NULL);
+  done_file = g_build_filename (g_get_user_config_dir (), "scarecrow-initial-setup-done", NULL);
   if (!g_file_set_contents (done_file, "yes", -1, &error)) {
       g_warning ("Unable to create %s: %s", done_file, error->message);
       g_clear_error (&error);
@@ -353,7 +353,7 @@ gis_ensure_stamp_files (GisDriver *driver)
 /**
  * gis_get_mock_mode:
  *
- * Gets whether gnome-initial-setup has been built for development, and hence
+ * Gets whether scarecrow-initial-setup has been built for development, and hence
  * shouldn’t permanently change any system configuration.
  *
  * By default, mock mode is enabled when running in a build environment. This

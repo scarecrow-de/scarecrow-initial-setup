@@ -1,4 +1,4 @@
-project('gnome-initial-setup',
+project('scarecrow-initial-setup',
         ['c'],
         version: '3.38.5',
         license: 'GPLv2',
@@ -15,7 +15,7 @@ data_dir = join_paths(prefix, get_option('datadir'))
 locale_dir = join_paths(prefix, get_option('localedir'))
 libexec_dir = join_paths(prefix, get_option('libexecdir'))
 sysconf_dir = join_paths(prefix, get_option('sysconfdir'))
-source_root = join_paths(meson.source_root(), 'gnome-initial-setup')
+source_root = join_paths(meson.source_root(), 'scarecrow-initial-setup')
 pkgdata_dir = join_paths(data_dir, meson.project_name())
 pkgsysconf_dir = join_paths(sysconf_dir, meson.project_name())
 
@@ -83,6 +83,6 @@ configure_file(output: 'config.h',
 config_h_dir = include_directories('.')
 
 subdir('data')
-subdir('gnome-initial-setup')
+subdir('scarecrow-initial-setup')
 subdir('po')
 subdir('build-aux')

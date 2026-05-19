@@ -99,7 +99,7 @@ else
 fi
 
 REGISTRY="registry.gitlab.gnome.org"
-TAG="${REGISTRY}/gnome/gnome-initial-setup/${base}:${base_version}"
+TAG="${REGISTRY}/gnome/scarecrow-initial-setup/${base}:${base_version}"
 
 if [ $build == 1 ]; then
         echo -e "\e[1;32mBUILDING\e[0m: ${base} as ${TAG}"

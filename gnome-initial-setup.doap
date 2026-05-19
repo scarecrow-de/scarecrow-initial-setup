@@ -6,10 +6,10 @@
 
   <name xml:lang="en">GNOME Initial Setup</name>
   <shortdesc xml:lang="en">Bootstrapping your OS</shortdesc>
-  <description xml:lang="en">gnome-initial-setup helps you set up your OS when you boot or log in for the first time.</description>
+  <description xml:lang="en">scarecrow-initial-setup helps you set up your OS when you boot or log in for the first time.</description>
 
-  <download-page rdf:resource="http://download.gnome.org/sources/gnome-initial-setup/" />
-  <bug-database rdf:resource="https://gitlab.gnome.org/GNOME/gnome-initial-setup/issues/" />
+  <download-page rdf:resource="http://download.gnome.org/sources/scarecrow-initial-setup/" />
+  <bug-database rdf:resource="https://gitlab.gnome.org/GNOME/scarecrow-initial-setup/issues/" />
   <category rdf:resource="http://api.gnome.org/doap-extensions#apps" />
   <programming-language>C</programming-language>
 

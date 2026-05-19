@@ -25,7 +25,7 @@
 #include "gis-assistant.h"
 #include "gis-page.h"
 #include <act/act-user-manager.h>
-#include <gdm/gdm-client.h>
+#include <scdm/scdm-client.h>
 
 G_BEGIN_DECLS
 
@@ -111,9 +111,9 @@ void gis_driver_set_avatar (GisDriver *driver,
                             GdkPixbuf *avatar);
 GdkPixbuf *gis_driver_get_avatar (GisDriver *driver);
 
-gboolean gis_driver_get_gdm_objects (GisDriver        *driver,
-                                     GdmGreeter      **greeter,
-                                     GdmUserVerifier **user_verifier);
+gboolean gis_driver_get_scdm_objects (GisDriver        *driver,
+                                     ScdmGreeter      **greeter,
+                                     ScdmUserVerifier **user_verifier);
 
 GisDriverMode gis_driver_get_mode (GisDriver *driver);
 

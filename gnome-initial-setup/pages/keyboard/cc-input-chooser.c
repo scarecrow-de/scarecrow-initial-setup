@@ -29,8 +29,8 @@
 #include <gtk/gtk.h>
 
 #define GNOME_DESKTOP_USE_UNSTABLE_API
-#include <libgnome-desktop/gnome-languages.h>
-#include <libgnome-desktop/gnome-xkb-info.h>
+#include <libscarecrow-desktop/scarecrow-languages.h>
+#include <libscarecrow-desktop/scarecrow-xkb-info.h>
 
 #ifdef HAVE_IBUS
 #include <ibus.h>

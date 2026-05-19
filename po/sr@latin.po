@@ -1,16 +1,16 @@
-# Serbian translation for gnome-initial-setup.
-# Copyright © 2012 gnome-initial-setup's COPYRIGHT HOLDER
-# This file is distributed under the same license as the gnome-initial-setup package.
+# Serbian translation for scarecrow-initial-setup.
+# Copyright © 2012 scarecrow-initial-setup's COPYRIGHT HOLDER
+# This file is distributed under the same license as the scarecrow-initial-setup package.
 # Miroslav Nikolić <miroslavnikolic@rocketmail.com>, 2012—2017.
 msgid ""
 msgstr ""
-"Project-Id-Version: gnome-initial-setup master\n"
-"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-initial-setup/"
+"Project-Id-Version: scarecrow-initial-setup master\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/scarecrow-initial-setup/"
 "issues\n"
 "POT-Creation-Date: 2018-02-22 11:39+0000\n"
 "PO-Revision-Date: 2018-02-22 19:54+0100\n"
 "Last-Translator: Marko M. Kostić <marko.m.kostic@gmail.com>\n"
-"Language-Team: srpski <gnome-sr@googlegroups.org>\n"
+"Language-Team: srpski <scarecrow-sr@googlegroups.org>\n"
 "Language: sr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -20,65 +20,65 @@ msgstr ""
 "X-Project-Style: gnome\n"
 "X-Generator: Poedit 2.0.6\n"
 
-#: ../data/gnome-initial-setup.desktop.in.in.h:1
-#: ../data/gnome-initial-setup-first-login.desktop.in.in.h:1
+#: ../data/scarecrow-initial-setup.desktop.in.in.h:1
+#: ../data/scarecrow-initial-setup-first-login.desktop.in.in.h:1
 msgid "Initial Setup"
 msgstr "Početno podešavanje"
 
-#: ../gnome-initial-setup/gis-assistant.c:403
+#: ../scarecrow-initial-setup/gis-assistant.c:403
 msgid "_Next"
 msgstr "_Sledeće"
 
-#: ../gnome-initial-setup/gis-assistant.c:404
+#: ../scarecrow-initial-setup/gis-assistant.c:404
 msgid "_Accept"
 msgstr "Prihv_ati"
 
-#: ../gnome-initial-setup/gis-assistant.c:405
+#: ../scarecrow-initial-setup/gis-assistant.c:405
 msgid "_Skip"
 msgstr "Pre_skoči"
 
-#: ../gnome-initial-setup/gis-assistant.c:406
+#: ../scarecrow-initial-setup/gis-assistant.c:406
 msgid "_Previous"
 msgstr "_Prethodno"
 
-#: ../gnome-initial-setup/gis-assistant.c:407
+#: ../scarecrow-initial-setup/gis-assistant.c:407
 msgid "_Cancel"
 msgstr "_Otkaži"
 
-#: ../gnome-initial-setup/gnome-initial-setup.c:217
+#: ../scarecrow-initial-setup/scarecrow-initial-setup.c:217
 msgid "Force existing user mode"
 msgstr "Primoraj režim postojećeg korisnika"
 
-#: ../gnome-initial-setup/gnome-initial-setup.c:223
+#: ../scarecrow-initial-setup/scarecrow-initial-setup.c:223
 msgid "— GNOME initial setup"
 msgstr "— Početno podešavanje Gnoma"
 
-#: ../gnome-initial-setup/pages/account/gis-account-page.c:242
-#: ../gnome-initial-setup/pages/account/gis-account-page-local.ui.h:2
+#: ../scarecrow-initial-setup/pages/account/gis-account-page.c:242
+#: ../scarecrow-initial-setup/pages/account/gis-account-page-local.ui.h:2
 msgid "About You"
 msgstr "O vama"
 
-#: ../gnome-initial-setup/pages/account/gis-account-page-enterprise.c:182
+#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.c:182
 msgid "Failed to register account"
 msgstr "Nisam uspeo da registrujem nalog"
 
-#: ../gnome-initial-setup/pages/account/gis-account-page-enterprise.c:376
+#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.c:376
 msgid "No supported way to authenticate with this domain"
 msgstr "Nema podržanog načina za prijavu na ovaj domen"
 
-#: ../gnome-initial-setup/pages/account/gis-account-page-enterprise.c:416
+#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.c:416
 msgid "Failed to join domain"
 msgstr "Nisam uspeo da pristupim domenu"
 
-#: ../gnome-initial-setup/pages/account/gis-account-page-enterprise.c:484
+#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.c:484
 msgid "Failed to log into domain"
 msgstr "Nisam uspeo da se prijavim na domen"
 
-#: ../gnome-initial-setup/pages/account/gis-account-page-enterprise.ui.h:1
+#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui.h:1
 msgid "Enterprise Login"
 msgstr "Poslovna prijava"
 
-#: ../gnome-initial-setup/pages/account/gis-account-page-enterprise.ui.h:2
+#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui.h:2
 msgid ""
 "Enterprise login allows an existing centrally managed user account to be "
 "used on this device. You can also use this account to access company "
@@ -88,33 +88,33 @@ msgstr ""
 "korisničkog naloga na ovom uređaju. Možete takođe koristiti ovaj nalog da "
 "pristupite resursima preduzeća na internetu."
 
-#: ../gnome-initial-setup/pages/account/gis-account-page-enterprise.ui.h:3
+#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui.h:3
 msgid "_Domain"
 msgstr "_Domen"
 
-#: ../gnome-initial-setup/pages/account/gis-account-page-enterprise.ui.h:4
-#: ../gnome-initial-setup/pages/account/gis-account-page-local.ui.h:5
+#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui.h:4
+#: ../scarecrow-initial-setup/pages/account/gis-account-page-local.ui.h:5
 msgid "_Username"
 msgstr "_Korisnik"
 
-#: ../gnome-initial-setup/pages/account/gis-account-page-enterprise.ui.h:5
-#: ../gnome-initial-setup/pages/password/gis-password-page.ui.h:3
+#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui.h:5
+#: ../scarecrow-initial-setup/pages/password/gis-password-page.ui.h:3
 msgid "_Password"
 msgstr "_Lozinka"
 
-#: ../gnome-initial-setup/pages/account/gis-account-page-enterprise.ui.h:6
+#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui.h:6
 msgid "Enterprise domain or realm name"
 msgstr "Poslovni domen ili naziv područja"
 
-#: ../gnome-initial-setup/pages/account/gis-account-page-enterprise.ui.h:7
+#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui.h:7
 msgid "C_ontinue"
 msgstr "_Nastavi"
 
-#: ../gnome-initial-setup/pages/account/gis-account-page-enterprise.ui.h:8
+#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui.h:8
 msgid "Domain Administrator Login"
 msgstr "Prijava administratora domena"
 
-#: ../gnome-initial-setup/pages/account/gis-account-page-enterprise.ui.h:9
+#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui.h:9
 msgid ""
 "In order to use enterprise logins, this computer needs to be enrolled in a "
 "domain. Please have your network administrator type the domain password "
@@ -124,89 +124,89 @@ msgstr ""
 "Neka administrator vaše mreže ovde upiše lozinku domena, i neka izabere "
 "jedinstveni naziv za vaš računar."
 
-#: ../gnome-initial-setup/pages/account/gis-account-page-enterprise.ui.h:10
+#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui.h:10
 msgid "_Computer"
 msgstr "_Računar"
 
-#: ../gnome-initial-setup/pages/account/gis-account-page-enterprise.ui.h:11
+#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui.h:11
 msgid "Administrator _Name"
 msgstr "Ime _administratora"
 
-#: ../gnome-initial-setup/pages/account/gis-account-page-enterprise.ui.h:12
+#: ../scarecrow-initial-setup/pages/account/gis-account-page-enterprise.ui.h:12
 msgid "Administrator Password"
 msgstr "Lozinka administratora"
 
-#: ../gnome-initial-setup/pages/account/gis-account-page-local.c:203
+#: ../scarecrow-initial-setup/pages/account/gis-account-page-local.c:203
 msgid "Please check the name and username. You can choose a picture too."
 msgstr "Proverite ime i korisničko ime. Možete takođe i sliku da izaberete."
 
-#: ../gnome-initial-setup/pages/account/gis-account-page-local.c:413
+#: ../scarecrow-initial-setup/pages/account/gis-account-page-local.c:413
 msgid "We need a few details to complete setup."
 msgstr ""
 "Potrebno nam je još par detalja da bismo završili sa početnim podešavanjem."
 
-#: ../gnome-initial-setup/pages/account/gis-account-page-local.ui.h:1
+#: ../scarecrow-initial-setup/pages/account/gis-account-page-local.ui.h:1
 msgid "Avatar image"
 msgstr "Slika avatara"
 
-#: ../gnome-initial-setup/pages/account/gis-account-page-local.ui.h:3
+#: ../scarecrow-initial-setup/pages/account/gis-account-page-local.ui.h:3
 msgid "Please provide a name and username. You can choose a picture too."
 msgstr "Dostavite ime i korisničko ime. Možete takođe i sliku da izaberete."
 
-#: ../gnome-initial-setup/pages/account/gis-account-page-local.ui.h:4
+#: ../scarecrow-initial-setup/pages/account/gis-account-page-local.ui.h:4
 msgid "_Full Name"
 msgstr "_Ime i prezime"
 
-#: ../gnome-initial-setup/pages/account/gis-account-page.ui.h:1
+#: ../scarecrow-initial-setup/pages/account/gis-account-page.ui.h:1
 msgid "Set Up _Enterprise Login"
 msgstr "Podesi _poslovnu prijavu"
 
-#: ../gnome-initial-setup/pages/account/um-photo-dialog.c:246
+#: ../scarecrow-initial-setup/pages/account/um-photo-dialog.c:246
 msgid "Disable image"
 msgstr "Isključi sliku"
 
-#: ../gnome-initial-setup/pages/account/um-photo-dialog.c:264
+#: ../scarecrow-initial-setup/pages/account/um-photo-dialog.c:264
 msgid "Take a photo…"
 msgstr "Snimite fotografiju…"
 
-#: ../gnome-initial-setup/pages/account/um-realm-manager.c:310
+#: ../scarecrow-initial-setup/pages/account/um-realm-manager.c:310
 msgid "Cannot automatically join this type of domain"
 msgstr "Ne mogu sam da pristupim ovoj vrsti domena"
 
-#: ../gnome-initial-setup/pages/account/um-realm-manager.c:373
+#: ../scarecrow-initial-setup/pages/account/um-realm-manager.c:373
 #, c-format
 msgid "No such domain or realm found"
 msgstr "Nije pronađen takav domen ili područje"
 
-#: ../gnome-initial-setup/pages/account/um-realm-manager.c:782
-#: ../gnome-initial-setup/pages/account/um-realm-manager.c:796
+#: ../scarecrow-initial-setup/pages/account/um-realm-manager.c:782
+#: ../scarecrow-initial-setup/pages/account/um-realm-manager.c:796
 #, c-format
 msgid "Cannot log in as %s at the %s domain"
 msgstr "Ne mogu da se prijavim kao „%s“ na domenu %s"
 
-#: ../gnome-initial-setup/pages/account/um-realm-manager.c:788
+#: ../scarecrow-initial-setup/pages/account/um-realm-manager.c:788
 msgid "Invalid password, please try again"
 msgstr "Neispravna lozinka, pokušajte ponovo"
 
-#: ../gnome-initial-setup/pages/account/um-realm-manager.c:801
+#: ../scarecrow-initial-setup/pages/account/um-realm-manager.c:801
 #, c-format
 msgid "Couldn’t connect to the %s domain: %s"
 msgstr "Ne mogu da se povežem na domen „%s“: %s"
 
-#: ../gnome-initial-setup/pages/account/um-utils.c:245
+#: ../scarecrow-initial-setup/pages/account/um-utils.c:245
 msgid "Sorry, that user name isn’t available. Please try another."
 msgstr "Izvinite, ovo korisničko ime nije dostupno. Probajte neko drugo."
 
-#: ../gnome-initial-setup/pages/account/um-utils.c:248
+#: ../scarecrow-initial-setup/pages/account/um-utils.c:248
 #, c-format
 msgid "The username is too long."
 msgstr "Korisničko ime je predugo."
 
-#: ../gnome-initial-setup/pages/account/um-utils.c:251
+#: ../scarecrow-initial-setup/pages/account/um-utils.c:251
 msgid "The username cannot start with a “-”."
 msgstr "Korisničko ime ne može počinjati sa „-“."
 
-#: ../gnome-initial-setup/pages/account/um-utils.c:254
+#: ../scarecrow-initial-setup/pages/account/um-utils.c:254
 msgid ""
 "The username should only consist of upper and lower case letters from a-z, "
 "digits and the following characters: . - _"
@@ -214,37 +214,37 @@ msgstr ""
 "Korisničko ime treba da sadrži samo slova iz engleskog alfabeta (a-z), "
 "brojeve i sledeće znakove (. - _)."
 
-#: ../gnome-initial-setup/pages/account/um-utils.c:258
+#: ../scarecrow-initial-setup/pages/account/um-utils.c:258
 msgid "This will be used to name your home folder and can’t be changed."
 msgstr ""
 "Ovo će biti korišćeno za imenovanje vaše lične fascikle i ne može se menjati "
 "kasnije."
 
-#: ../gnome-initial-setup/pages/eulas/gis-eula-page.c:301
-#: ../gnome-initial-setup/pages/eulas/gis-eula-page.ui.h:1
+#: ../scarecrow-initial-setup/pages/eulas/gis-eula-page.c:301
+#: ../scarecrow-initial-setup/pages/eulas/gis-eula-page.ui.h:1
 msgid "License Agreements"
 msgstr "Ugovor o korišćenju"
 
-#: ../gnome-initial-setup/pages/eulas/gis-eula-page.ui.h:2
+#: ../scarecrow-initial-setup/pages/eulas/gis-eula-page.ui.h:2
 msgid ""
 "I have _agreed to the terms and conditions in this end user license "
 "agreement."
 msgstr ""
 "Slažem se sa _odredbama i uslovima o korišćenju navedenim u ovoj licenci."
 
-#: ../gnome-initial-setup/pages/goa/gis-goa-page.c:87
+#: ../scarecrow-initial-setup/pages/goa/gis-goa-page.c:87
 msgid "Add Account"
 msgstr "Dodaj nalog"
 
-#: ../gnome-initial-setup/pages/goa/gis-goa-page.c:339
+#: ../scarecrow-initial-setup/pages/goa/gis-goa-page.c:339
 msgid "Online Accounts"
 msgstr "Nalozi na mreži"
 
-#: ../gnome-initial-setup/pages/goa/gis-goa-page.ui.h:1
+#: ../scarecrow-initial-setup/pages/goa/gis-goa-page.ui.h:1
 msgid "Connect Your Online Accounts"
 msgstr "Povežite vaše naloge na mreži"
 
-#: ../gnome-initial-setup/pages/goa/gis-goa-page.ui.h:2
+#: ../scarecrow-initial-setup/pages/goa/gis-goa-page.ui.h:2
 msgid ""
 "Connect your accounts to easily access your email, online calendar, "
 "contacts, documents and photos."
@@ -252,42 +252,42 @@ msgstr ""
 "Povežite vaše naloge da lakše pristupite vašoj el. pošti, mrežnom kalendaru, "
 "kontaktima, dokumentima i fotografijama."
 
-#: ../gnome-initial-setup/pages/goa/gis-goa-page.ui.h:3
+#: ../scarecrow-initial-setup/pages/goa/gis-goa-page.ui.h:3
 msgid ""
 "Accounts can be added and removed at any time from the Settings application."
 msgstr "Nalozi mogu biti dodati i uklonjeni bilo kada u podešavanjima programa."
 
-#: ../gnome-initial-setup/pages/keyboard/cc-input-chooser.c:240
+#: ../scarecrow-initial-setup/pages/keyboard/cc-input-chooser.c:240
 msgid "Preview"
 msgstr "Pregled"
 
-#: ../gnome-initial-setup/pages/keyboard/cc-input-chooser.c:299
-#: ../gnome-initial-setup/pages/language/cc-language-chooser.c:222
-#: ../gnome-initial-setup/pages/region/cc-region-chooser.c:210
+#: ../scarecrow-initial-setup/pages/keyboard/cc-input-chooser.c:299
+#: ../scarecrow-initial-setup/pages/language/cc-language-chooser.c:222
+#: ../scarecrow-initial-setup/pages/region/cc-region-chooser.c:210
 msgid "More…"
 msgstr "Još…"
 
 #. Translators: a search for input methods or keyboard layouts
 #. * did not yield any results
 #.
-#: ../gnome-initial-setup/pages/keyboard/cc-input-chooser.c:321
+#: ../scarecrow-initial-setup/pages/keyboard/cc-input-chooser.c:321
 msgid "No inputs found"
 msgstr "Nisam pronašao unose"
 
-#: ../gnome-initial-setup/pages/keyboard/gis-keyboard-page.c:363
-#: ../gnome-initial-setup/pages/keyboard/gis-keyboard-page.ui.h:1
+#: ../scarecrow-initial-setup/pages/keyboard/gis-keyboard-page.c:363
+#: ../scarecrow-initial-setup/pages/keyboard/gis-keyboard-page.ui.h:1
 msgid "Typing"
 msgstr "Kucanje"
 
-#: ../gnome-initial-setup/pages/keyboard/gis-keyboard-page.ui.h:2
+#: ../scarecrow-initial-setup/pages/keyboard/gis-keyboard-page.ui.h:2
 msgid "Select your keyboard layout or an input method."
 msgstr "Izaberite raspored tastature ili način unosa."
 
-#: ../gnome-initial-setup/pages/language/cc-language-chooser.c:238
+#: ../scarecrow-initial-setup/pages/language/cc-language-chooser.c:238
 msgid "No languages found"
 msgstr "Nisam pronašao jezik"
 
-#: ../gnome-initial-setup/pages/language/gis-language-page.c:292
+#: ../scarecrow-initial-setup/pages/language/gis-language-page.c:292
 msgid "Welcome"
 msgstr "Dobro došli"
 
@@ -295,33 +295,33 @@ msgstr "Dobro došli"
 #. * like greeting somebody at the door. If the exclamation mark is not
 #. * suitable for this in your language you may replace it.
 #.
-#: ../gnome-initial-setup/pages/language/gis-welcome-widget.c:123
+#: ../scarecrow-initial-setup/pages/language/gis-welcome-widget.c:123
 msgid "Welcome!"
 msgstr "Dobro došli!"
 
-#: ../gnome-initial-setup/pages/network/gis-network-page.c:304
+#: ../scarecrow-initial-setup/pages/network/gis-network-page.c:304
 msgctxt "Wireless access point"
 msgid "Other…"
 msgstr "Ostalo…"
 
 # bug: no plural forms
-#: ../gnome-initial-setup/pages/network/gis-network-page.c:363
+#: ../scarecrow-initial-setup/pages/network/gis-network-page.c:363
 msgid "Wireless networking is disabled"
 msgstr "Bežično umrežavanje je isključeno"
 
-#: ../gnome-initial-setup/pages/network/gis-network-page.c:370
+#: ../scarecrow-initial-setup/pages/network/gis-network-page.c:370
 msgid "Checking for available wireless networks"
 msgstr "Proveravam dostupne bežične mreže"
 
-#: ../gnome-initial-setup/pages/network/gis-network-page.c:662
+#: ../scarecrow-initial-setup/pages/network/gis-network-page.c:662
 msgid "Network"
 msgstr "Mreža"
 
-#: ../gnome-initial-setup/pages/network/gis-network-page.ui.h:1
+#: ../scarecrow-initial-setup/pages/network/gis-network-page.ui.h:1
 msgid "Wi-Fi"
 msgstr "Bežična mreža"
 
-#: ../gnome-initial-setup/pages/network/gis-network-page.ui.h:2
+#: ../scarecrow-initial-setup/pages/network/gis-network-page.ui.h:2
 msgid ""
 "Connecting to the Internet will enable you to set the time, add your "
 "details, and enable you to access your email, calendar, and contacts. It is "
@@ -331,106 +331,106 @@ msgstr ""
 "detalje i da pristupite vašim e-porukama, kalendaru i kontaktima. Takođe, "
 "izlaz na internet je neophodan za poslovnu prijavu."
 
-#: ../gnome-initial-setup/pages/network/gis-network-page.ui.h:3
+#: ../scarecrow-initial-setup/pages/network/gis-network-page.ui.h:3
 msgid "No wireless available"
 msgstr "Nema dostupnih bežičnih mreža"
 
-#: ../gnome-initial-setup/pages/network/gis-network-page.ui.h:4
+#: ../scarecrow-initial-setup/pages/network/gis-network-page.ui.h:4
 msgid "Turn On"
 msgstr "Uključi"
 
-#: ../gnome-initial-setup/pages/password/gis-password-page.c:142
+#: ../scarecrow-initial-setup/pages/password/gis-password-page.c:142
 msgid "The passwords do not match."
 msgstr "Lozinke se ne podudaraju."
 
-#: ../gnome-initial-setup/pages/password/gis-password-page.c:264
+#: ../scarecrow-initial-setup/pages/password/gis-password-page.c:264
 msgid "Password"
 msgstr "Lozinka"
 
-#: ../gnome-initial-setup/pages/password/gis-password-page.ui.h:1
+#: ../scarecrow-initial-setup/pages/password/gis-password-page.ui.h:1
 msgid "Set a Password"
 msgstr "Podesite lozinku"
 
-#: ../gnome-initial-setup/pages/password/gis-password-page.ui.h:2
+#: ../scarecrow-initial-setup/pages/password/gis-password-page.ui.h:2
 msgid "Be careful not to lose your password."
 msgstr "Pazite da ne izgubite lozinku."
 
-#: ../gnome-initial-setup/pages/password/gis-password-page.ui.h:4
+#: ../scarecrow-initial-setup/pages/password/gis-password-page.ui.h:4
 msgid "_Confirm"
 msgstr "_Potvrdi"
 
-#: ../gnome-initial-setup/pages/password/pw-utils.c:81
+#: ../scarecrow-initial-setup/pages/password/pw-utils.c:81
 msgctxt "Password hint"
 msgid "The new password needs to be different from the old one."
 msgstr "Nova lozinka treba da se razlikuje od stare."
 
-#: ../gnome-initial-setup/pages/password/pw-utils.c:83
+#: ../scarecrow-initial-setup/pages/password/pw-utils.c:83
 msgctxt "Password hint"
 msgid "Try changing some letters and numbers."
 msgstr "Promenite neka slova i brojeve."
 
-#: ../gnome-initial-setup/pages/password/pw-utils.c:85
-#: ../gnome-initial-setup/pages/password/pw-utils.c:93
+#: ../scarecrow-initial-setup/pages/password/pw-utils.c:85
+#: ../scarecrow-initial-setup/pages/password/pw-utils.c:93
 msgctxt "Password hint"
 msgid "Try changing the password a bit more."
 msgstr "Promenite lozinku još malo."
 
-#: ../gnome-initial-setup/pages/password/pw-utils.c:87
+#: ../scarecrow-initial-setup/pages/password/pw-utils.c:87
 msgctxt "Password hint"
 msgid "A password without your user name would be stronger."
 msgstr "Lozinka bez vašeg korisničkog imena bi bila jača."
 
-#: ../gnome-initial-setup/pages/password/pw-utils.c:89
+#: ../scarecrow-initial-setup/pages/password/pw-utils.c:89
 msgctxt "Password hint"
 msgid "Try to avoid using your name in the password."
 msgstr "Izbegavajte korišćenje vašeg korisničkog imena u lozinci."
 
-#: ../gnome-initial-setup/pages/password/pw-utils.c:91
+#: ../scarecrow-initial-setup/pages/password/pw-utils.c:91
 msgctxt "Password hint"
 msgid "Try to avoid some of the words included in the password."
 msgstr "Izbegavajte korišćenje nekih reči u vašoj lozinci."
 
-#: ../gnome-initial-setup/pages/password/pw-utils.c:95
+#: ../scarecrow-initial-setup/pages/password/pw-utils.c:95
 msgctxt "Password hint"
 msgid "Try to avoid common words."
 msgstr "Izbegavajte korišćenje često korišćenih reči."
 
-#: ../gnome-initial-setup/pages/password/pw-utils.c:97
+#: ../scarecrow-initial-setup/pages/password/pw-utils.c:97
 msgctxt "Password hint"
 msgid "Try to avoid reordering existing words."
 msgstr "Nemojte menjati raspored već postojećih reči."
 
-#: ../gnome-initial-setup/pages/password/pw-utils.c:99
+#: ../scarecrow-initial-setup/pages/password/pw-utils.c:99
 msgctxt "Password hint"
 msgid "Try to use more numbers."
 msgstr "Koristite više brojeva."
 
-#: ../gnome-initial-setup/pages/password/pw-utils.c:101
+#: ../scarecrow-initial-setup/pages/password/pw-utils.c:101
 msgctxt "Password hint"
 msgid "Try to use more uppercase letters."
 msgstr "Koristite više velikih slova."
 
-#: ../gnome-initial-setup/pages/password/pw-utils.c:103
+#: ../scarecrow-initial-setup/pages/password/pw-utils.c:103
 msgctxt "Password hint"
 msgid "Try to use more lowercase letters."
 msgstr "Koristite više malih slova."
 
-#: ../gnome-initial-setup/pages/password/pw-utils.c:105
+#: ../scarecrow-initial-setup/pages/password/pw-utils.c:105
 msgctxt "Password hint"
 msgid "Try to use more special characters, like punctuation."
 msgstr "Koristite više naročitih znakova, kao što su znakovi interpunkcije."
 
-#: ../gnome-initial-setup/pages/password/pw-utils.c:107
+#: ../scarecrow-initial-setup/pages/password/pw-utils.c:107
 msgctxt "Password hint"
 msgid "Try to use a mixture of letters, numbers and punctuation."
 msgstr "Koristite mešavinu slova, brojeva i interpunkcijskih znakova."
 
-#: ../gnome-initial-setup/pages/password/pw-utils.c:109
+#: ../scarecrow-initial-setup/pages/password/pw-utils.c:109
 msgctxt "Password hint"
 msgid "Try to avoid repeating the same character."
 msgstr "Izbegavajte ponavljanje jednog te istog znaka."
 
-#: ../gnome-initial-setup/pages/password/pw-utils.c:111
+#: ../scarecrow-initial-setup/pages/password/pw-utils.c:111
 msgctxt "Password hint"
 msgid ""
 "Try to avoid repeating the same type of character: you need to mix up "
@@ -439,12 +439,12 @@ msgstr ""
 "Izbegavajte ponavljanje znaka iste vrste. Mešajte slova, brojeve i "
 "interpunkcijske znake."
 
-#: ../gnome-initial-setup/pages/password/pw-utils.c:113
+#: ../scarecrow-initial-setup/pages/password/pw-utils.c:113
 msgctxt "Password hint"
 msgid "Try to avoid sequences like 1234 or abcd."
 msgstr "Izbegavajte kombinacije znakova kao što su 1234 ili „abcd“."
 
-#: ../gnome-initial-setup/pages/password/pw-utils.c:115
+#: ../scarecrow-initial-setup/pages/password/pw-utils.c:115
 msgctxt "Password hint"
 msgid ""
 "Password needs to be longer. Try to add more letters, numbers and "
@@ -453,12 +453,12 @@ msgstr ""
 "Lozinka treba da bude duža. Pokušajte da dodate još slova, brojeva i "
 "interpunkcijskih znakova."
 
-#: ../gnome-initial-setup/pages/password/pw-utils.c:117
+#: ../scarecrow-initial-setup/pages/password/pw-utils.c:117
 msgctxt "Password hint"
 msgid "Mix uppercase and lowercase and try to use a number or two."
 msgstr "Pomešajte velika i mala slova i koristite broj ili dva."
 
-#: ../gnome-initial-setup/pages/password/pw-utils.c:119
+#: ../scarecrow-initial-setup/pages/password/pw-utils.c:119
 msgctxt "Password hint"
 msgid ""
 "Adding more letters, numbers and punctuation will make the password stronger."
@@ -470,7 +470,7 @@ msgstr ""
 #. * like "Fedora" or "Ubuntu". It falls back to "GNOME" if we can't
 #. * detect any distribution.
 #.
-#: ../gnome-initial-setup/pages/privacy/gis-privacy-page.c:110
+#: ../scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:110
 #, c-format
 msgid ""
 "Sending reports of technical problems helps us to improve %s. Reports are "
@@ -483,31 +483,31 @@ msgstr ""
 #. * like "Fedora" or "Ubuntu". It falls back to "GNOME" if we can't
 #. * detect any distribution.
 #.
-#: ../gnome-initial-setup/pages/privacy/gis-privacy-page.c:120
+#: ../scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:120
 #, c-format
 msgid "Problem data will be collected by %s:"
 msgstr "„%s“ će prikupiti podatke o problemu:"
 
-#: ../gnome-initial-setup/pages/privacy/gis-privacy-page.c:121
-#: ../gnome-initial-setup/pages/privacy/gis-privacy-page.c:181
-#: ../gnome-initial-setup/pages/privacy/gis-privacy-page.c:256
+#: ../scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:121
+#: ../scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:181
+#: ../scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:256
 msgid "Privacy Policy"
 msgstr "Politika privatnosti"
 
-#: ../gnome-initial-setup/pages/privacy/gis-privacy-page.c:181
+#: ../scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:181
 msgid "Uses Mozilla Location Service:"
 msgstr "Koristi Mozilinu uslugu mesta:"
 
-#: ../gnome-initial-setup/pages/privacy/gis-privacy-page.c:292
-#: ../gnome-initial-setup/pages/privacy/gis-privacy-page.ui.h:1
+#: ../scarecrow-initial-setup/pages/privacy/gis-privacy-page.c:292
+#: ../scarecrow-initial-setup/pages/privacy/gis-privacy-page.ui.h:1
 msgid "Privacy"
 msgstr "Privatnost"
 
-#: ../gnome-initial-setup/pages/privacy/gis-privacy-page.ui.h:2
+#: ../scarecrow-initial-setup/pages/privacy/gis-privacy-page.ui.h:2
 msgid "Location Services"
 msgstr "Usluge određivanja mesta"
 
-#: ../gnome-initial-setup/pages/privacy/gis-privacy-page.ui.h:3
+#: ../scarecrow-initial-setup/pages/privacy/gis-privacy-page.ui.h:3
 msgid ""
 "Allows applications to determine your geographical location. An indication "
 "is shown when location services are in use."
@@ -515,48 +515,48 @@ msgstr ""
 "Omogućava programima da odrede vaš geografski položaj. Pokazivač će se "
 "prikazati kada su usluge određivanja mesta u upotrebi."
 
-#: ../gnome-initial-setup/pages/privacy/gis-privacy-page.ui.h:4
+#: ../scarecrow-initial-setup/pages/privacy/gis-privacy-page.ui.h:4
 msgid "Automatic Problem Reporting"
 msgstr "Samostalno izveštavanje o problemima"
 
-#: ../gnome-initial-setup/pages/privacy/gis-privacy-page.ui.h:5
+#: ../scarecrow-initial-setup/pages/privacy/gis-privacy-page.ui.h:5
 msgid ""
 "Privacy controls can be changed at any time from the Settings application."
 msgstr ""
 "Podešavanja privatnosti možete izmeniti u bilo kom trenutku u podešavanjima "
 "programa."
 
-#: ../gnome-initial-setup/pages/region/cc-region-chooser.c:228
+#: ../scarecrow-initial-setup/pages/region/cc-region-chooser.c:228
 msgid "No regions found"
 msgstr "Nisam pronašao oblasti"
 
-#: ../gnome-initial-setup/pages/region/gis-region-page.c:226
-#: ../gnome-initial-setup/pages/region/gis-region-page.ui.h:1
+#: ../scarecrow-initial-setup/pages/region/gis-region-page.c:226
+#: ../scarecrow-initial-setup/pages/region/gis-region-page.ui.h:1
 msgid "Region"
 msgstr "Oblast"
 
-#: ../gnome-initial-setup/pages/region/gis-region-page.ui.h:2
+#: ../scarecrow-initial-setup/pages/region/gis-region-page.ui.h:2
 msgid "Choose your country or region."
 msgstr "Izaberite vašu državu ili oblast."
 
 #. Translators: the parameter here is the name of a distribution,
 #. * like "Fedora" or "Ubuntu". It falls back to "GNOME 3" if we can't
 #. * detect any distribution.
-#: ../gnome-initial-setup/pages/summary/gis-summary-page.c:304
+#: ../scarecrow-initial-setup/pages/summary/gis-summary-page.c:304
 #, c-format
 msgid "_Start Using %s"
 msgstr "_Počni da koristiš „%s“"
 
-#: ../gnome-initial-setup/pages/summary/gis-summary-page.c:334
+#: ../scarecrow-initial-setup/pages/summary/gis-summary-page.c:334
 msgid "Ready to Go"
 msgstr "Spremni za polazak"
 
-#: ../gnome-initial-setup/pages/summary/gis-summary-page.ui.h:1
+#: ../scarecrow-initial-setup/pages/summary/gis-summary-page.ui.h:1
 msgid "You’re ready to go!"
 msgstr "Spremni ste za polazak!"
 
 #. Translators: "city, country"
-#: ../gnome-initial-setup/pages/timezone/gis-timezone-page.c:236
+#: ../scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:236
 #, c-format
 msgctxt "timezone loc"
 msgid "%s, %s"
@@ -565,33 +565,33 @@ msgstr "%s, %s"
 #. Translators: UTC here means the Coordinated Universal Time.
 #. * %:::z will be replaced by the offset from UTC e.g. UTC+02
 #.
-#: ../gnome-initial-setup/pages/timezone/gis-timezone-page.c:273
+#: ../scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:273
 msgid "UTC%:::z"
 msgstr "UTC%:::z"
 
 #. Translators: This is the time format used in 12-hour mode.
-#: ../gnome-initial-setup/pages/timezone/gis-timezone-page.c:277
+#: ../scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:277
 msgid "%l:%M %p"
 msgstr "%l:%M %p"
 
 #. Translators: This is the time format used in 24-hour mode.
-#: ../gnome-initial-setup/pages/timezone/gis-timezone-page.c:280
+#: ../scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:280
 msgid "%R"
 msgstr "%R"
 
 #. Translators: "timezone (utc shift)"
-#: ../gnome-initial-setup/pages/timezone/gis-timezone-page.c:283
+#: ../scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:283
 #, c-format
 msgctxt "timezone map"
 msgid "%s (%s)"
 msgstr "%s (%s)"
 
-#: ../gnome-initial-setup/pages/timezone/gis-timezone-page.c:423
-#: ../gnome-initial-setup/pages/timezone/gis-timezone-page.ui.h:1
+#: ../scarecrow-initial-setup/pages/timezone/gis-timezone-page.c:423
+#: ../scarecrow-initial-setup/pages/timezone/gis-timezone-page.ui.h:1
 msgid "Time Zone"
 msgstr "Vremenska zona"
 
-#: ../gnome-initial-setup/pages/timezone/gis-timezone-page.ui.h:2
+#: ../scarecrow-initial-setup/pages/timezone/gis-timezone-page.ui.h:2
 msgid ""
 "The time zone will be set automatically if your location can be found. You "
 "can also search for a city to set it yourself."
@@ -599,21 +599,21 @@ msgstr ""
 "Vremenska zona će sama biti postavljena ako vaše mesto bude bilo pronađeno. "
 "Takođe možete da potražite grad da ga sami postavite."
 
-#: ../gnome-initial-setup/pages/timezone/gis-timezone-page.ui.h:3
+#: ../scarecrow-initial-setup/pages/timezone/gis-timezone-page.ui.h:3
 msgid "Please search for a nearby city"
 msgstr "Potražite najbliži grad"
 
-#: ../gnome-initial-setup/pages/software/gis-software-page.c:184
+#: ../scarecrow-initial-setup/pages/software/gis-software-page.c:184
 msgid "Software Repositories"
 msgstr "Riznice programa"
 
 #. TRANSLATORS: this is the third party repositories info bar.
-#: ../gnome-initial-setup/pages/software/gis-software-page.c:188
+#: ../scarecrow-initial-setup/pages/software/gis-software-page.c:188
 msgid "Access additional software from selected third party sources."
 msgstr "Pristupite dodatnim programima sa izvora probranih trećih strana."
 
 #. TRANSLATORS: this is the third party repositories info bar.
-#: ../gnome-initial-setup/pages/software/gis-software-page.c:192
+#: ../scarecrow-initial-setup/pages/software/gis-software-page.c:192
 msgid ""
 "Some of this software is proprietary and therefore has restrictions on use, "
 "sharing, and access to source code."
@@ -621,19 +621,19 @@ msgstr ""
 "Deo ovog programa je vlasnički te je deljenje programa, korišćenje programa i "
 "pristupanje izvornom kodu ograničeno."
 
-#: ../gnome-initial-setup/pages/software/gis-software-page.ui.h:1
+#: ../scarecrow-initial-setup/pages/software/gis-software-page.ui.h:1
 msgid "Additional Software Repositories"
 msgstr "Dodatni riznice programa"
 
-#: ../gnome-initial-setup/pages/software/gis-software-page.ui.h:2
+#: ../scarecrow-initial-setup/pages/software/gis-software-page.ui.h:2
 msgid "<a href=\"more\">Find out more…</a>"
 msgstr "<a href=\"more\">Pronađi još…</a>"
 
-#: ../gnome-initial-setup/pages/software/gis-software-page.ui.h:3
+#: ../scarecrow-initial-setup/pages/software/gis-software-page.ui.h:3
 msgid "Third Party Repositories"
 msgstr "Riznice treće strane"
 
-#: ../gnome-initial-setup/pages/software/gis-software-page.ui.h:4
+#: ../scarecrow-initial-setup/pages/software/gis-software-page.ui.h:4
 msgid ""
 "Proprietary software typically has restrictions on how it can be used and on "
 "access to source code. This prevents anyone but the software owner from "
@@ -643,7 +643,7 @@ msgstr ""
 "izvornom kȏdu. Time se ne dozvoljava nikome osim vlasniku softvera da "
 "pregleda, poboljšava ili da uči iz njegovog kȏda."
 
-#: ../gnome-initial-setup/pages/software/gis-software-page.ui.h:5
+#: ../scarecrow-initial-setup/pages/software/gis-software-page.ui.h:5
 msgid ""
 "In contrast, Free Software can be freely run, copied, distributed, studied "
 "and modified."

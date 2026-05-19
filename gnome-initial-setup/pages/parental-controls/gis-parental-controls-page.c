@@ -157,7 +157,7 @@ gis_parental_controls_page_constructed (GObject *object)
   app_filter = mct_app_filter_builder_end (&builder);
   mct_user_controls_set_app_filter (MCT_USER_CONTROLS (page->user_controls), app_filter);
 
-  /* The gnome-initial-setup user should always be allowed to set parental
+  /* The scarecrow-initial-setup user should always be allowed to set parental
    * controls. */
   permission = g_simple_permission_new (TRUE);
   mct_user_controls_set_permission (MCT_USER_CONTROLS (page->user_controls), permission);

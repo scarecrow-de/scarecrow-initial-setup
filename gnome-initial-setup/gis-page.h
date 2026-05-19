@@ -22,7 +22,7 @@
 #ifndef __GIS_PAGE_H__
 #define __GIS_PAGE_H__
 
-#include "gnome-initial-setup.h"
+#include "scarecrow-initial-setup.h"
 
 G_BEGIN_DECLS
 
