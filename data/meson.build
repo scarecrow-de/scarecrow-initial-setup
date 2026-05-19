@@ -32,7 +32,6 @@ desktop_conf.set('systemd_hidden', enable_systemd ? 'true' : 'false')
 
 foreach desktop_file: autostart_files
     i18n.merge_file(
-        'desktop',
         input: configure_file(
             input: files(desktop_file + '.in.in'),
             output: desktop_file + '.in',
@@ -47,7 +46,6 @@ foreach desktop_file: autostart_files
 endforeach
 
 i18n.merge_file(
-    'desktop',
     input: configure_file(
         input: files('scarecrow-initial-setup.desktop.in.in'),
         output: 'scarecrow-initial-setup.desktop.in',
