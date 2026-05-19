@@ -38,7 +38,6 @@
 #include "pages/network/gis-network-page.h"
 #include "pages/timezone/gis-timezone-page.h"
 #include "pages/privacy/gis-privacy-page.h"
-#include "pages/goa/gis-goa-page.h"
 #include "pages/account/gis-account-pages.h"
 #include "pages/parental-controls/gis-parental-controls-page.h"
 #include "pages/password/gis-password-page.h"
@@ -71,7 +70,6 @@ static PageData page_table[] = {
   PAGE (network,  FALSE),
   PAGE (privacy,  FALSE),
   PAGE (timezone, TRUE),
-  PAGE (goa,      FALSE),
   PAGE (account,  TRUE),
   PAGE (password, TRUE),
 #ifdef HAVE_PARENTAL_CONTROLS
