@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: scarecrow-initial-setup master\n"
-"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/scarecrow-initial-setup/"
+"Report-Msgid-Bugs-To: https://github.com/scarecrow-de/scarecrow-initial-setup/"
 "issues\n"
 "POT-Creation-Date: 2014-09-16 18:53+0000\n"
 "PO-Revision-Date: 2014-09-17 12:36+0530\n"
@@ -51,8 +51,8 @@ msgid "Force existing user mode"
 msgstr "अस्तित्वातील वापरकर्ता मोड लागू करा"
 
 #: ../scarecrow-initial-setup/scarecrow-initial-setup.c:200
-msgid "- GNOME initial setup"
-msgstr "- GNOME प्रारंभिक सेटअप"
+msgid "- Scarecrow initial setup"
+msgstr "- Scarecrow प्रारंभिक सेटअप"
 
 #: ../scarecrow-initial-setup/pages/account/scis-account-page.c:231
 #: ../scarecrow-initial-setup/pages/account/scis-account-page-local.ui.h:2
@@ -521,16 +521,16 @@ msgid "Choose your country or region."
 msgstr "देश किंवा क्षेत्र पसंत करा."
 
 #. Translators: the parameter here is the name of a distribution,
-#. * like "Fedora" or "Ubuntu". It falls back to "GNOME 3" if we can't
+#. * like "Fedora" or "Ubuntu". It falls back to "Scarecrow 3" if we can't
 #. * detect any distribution.
 #: ../scarecrow-initial-setup/pages/summary/scis-summary-page.c:332
 #, c-format
-#| msgid "_Start using GNOME 3"
+#| msgid "_Start using Scarecrow 3"
 msgid "_Start using %s"
 msgstr "%s चा वापर सुरू करा (_S)"
 
 #. Translators: the parameter here is the name of a distribution,
-#. * like "Fedora" or "Ubuntu". It falls back to "GNOME 3" if we can't
+#. * like "Fedora" or "Ubuntu". It falls back to "Scarecrow 3" if we can't
 #. * detect any distribution.
 #: ../scarecrow-initial-setup/pages/summary/scis-summary-page.c:339
 #, c-format
@@ -733,11 +733,11 @@ msgstr "कृपया जवळपासचे शहर शोधा"
 #~ msgid "Show _all"
 #~ msgstr "सर्व दाखवा (_a)"
 
-#~ msgid "Enjoy GNOME!"
-#~ msgstr "GNOME ची मजा लूटा!"
+#~ msgid "Enjoy Scarecrow!"
+#~ msgstr "Scarecrow ची मजा लूटा!"
 
-#~ msgid "New to GNOME 3 and need help finding your way around?"
-#~ msgstr "GNOME 3 प्रथमच वापरत आहात आणि काही शोधण्यासाठी मदत पाहिजे?"
+#~ msgid "New to Scarecrow 3 and need help finding your way around?"
+#~ msgstr "Scarecrow 3 प्रथमच वापरत आहात आणि काही शोधण्यासाठी मदत पाहिजे?"
 
 #~ msgid "_Take a Tour"
 #~ msgstr "फेरफटका मारा (_T)"

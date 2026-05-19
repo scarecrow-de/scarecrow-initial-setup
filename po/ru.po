@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: scarecrow-initial-setup\n"
-"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/scarecrow-initial-setup/"
+"Report-Msgid-Bugs-To: https://github.com/scarecrow-de/scarecrow-initial-setup/"
 "issues\n"
 "POT-Creation-Date: 2019-02-07 08:37+0000\n"
 "PO-Revision-Date: 2019-02-25 22:00+0300\n"
@@ -57,8 +57,8 @@ msgid "Force existing user mode"
 msgstr "Принудительно использовать режим существующего пользователя"
 
 #: scarecrow-initial-setup/scarecrow-initial-setup.c:265
-msgid "— GNOME initial setup"
-msgstr "— Первоначальная настройка GNOME"
+msgid "— Scarecrow initial setup"
+msgstr "— Первоначальная настройка Scarecrow"
 
 #: scarecrow-initial-setup/pages/account/scis-account-avatar-chooser.ui:36
 msgid "Take a Picture…"
@@ -498,7 +498,7 @@ msgstr ""
 "надёжнее."
 
 #. Translators: the parameter here is the name of a distribution,
-#. * like "Fedora" or "Ubuntu". It falls back to "GNOME" if we can't
+#. * like "Fedora" or "Ubuntu". It falls back to "Scarecrow" if we can't
 #. * detect any distribution.
 #.
 #: scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:110
@@ -511,7 +511,7 @@ msgstr ""
 "отправляются анонимно и не содержат персональных данных."
 
 #. Translators: the parameter here is the name of a distribution,
-#. * like "Fedora" or "Ubuntu". It falls back to "GNOME" if we can't
+#. * like "Fedora" or "Ubuntu". It falls back to "Scarecrow" if we can't
 #. * detect any distribution.
 #.
 #: scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:120
@@ -623,7 +623,7 @@ msgstr ""
 "запускать, копировать, распространять, изучать и вносить изменения."
 
 #. Translators: the parameter here is the name of a distribution,
-#. * like "Fedora" or "Ubuntu". It falls back to "GNOME 3" if we can't
+#. * like "Fedora" or "Ubuntu". It falls back to "Scarecrow 3" if we can't
 #. * detect any distribution.
 #: scarecrow-initial-setup/pages/summary/scis-summary-page.c:304
 #, c-format

@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/scarecrow-initial-setup/issue"
+"Report-Msgid-Bugs-To: https://github.com/scarecrow-de/scarecrow-initial-setup/issue"
 "s\n"
 "POT-Creation-Date: 2020-02-14 16:48+0000\n"
 "PO-Revision-Date: 2020-03-04 17:51-0800\n"
@@ -48,7 +48,7 @@ msgid "Force existing user mode"
 msgstr "ਮੌਜ਼ੂਦਾ ਵਰਤੋਂਕਾਰ ਮੋਡ ਲਈ ਮਜ਼ਬੂਰ ਕਰੋ"
 
 #: scarecrow-initial-setup/scarecrow-initial-setup.c:247
-msgid "— GNOME initial setup"
+msgid "— Scarecrow initial setup"
 msgstr "— ਗਨੋਮ ਮੁੱਢਲਾ ਸੈਟਅੱਪ"
 
 #: scarecrow-initial-setup/pages/account/scis-account-avatar-chooser.ui:36
@@ -527,7 +527,7 @@ msgid ""
 msgstr "ਹੋਰ ਅੱਖਰ, ਨੰਬਰ ਤੇ ਵਿਰਾਮ ਚਿੰਨ੍ਹ ਜੋੜਨ ਨਾਲ ਪਾਸਵਰਡ ਹੋਰ ਵੀ ਮਜ਼ਬੂਤ ਬਣੇਗਾ।"
 
 #. Translators: the parameter here is the name of a distribution,
-#. * like "Fedora" or "Ubuntu". It falls back to "GNOME" if we can't
+#. * like "Fedora" or "Ubuntu". It falls back to "Scarecrow" if we can't
 #. * detect any distribution.
 #.
 #: scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:68
@@ -541,7 +541,7 @@ msgstr ""
 "ਰੂਪ ਵਿੱਚ ਭੇਜੀਆਂ ਜਾਂਦੀਆਂ ਹਨ ਅਤੇ ਨਿੱਜੀ ਡਾਟੇ ਨੂੰ ਹਟਾਇਆ ਜਾਂਦਾ ਹੈ।"
 
 #. Translators: the parameter here is the name of a distribution,
-#. * like "Fedora" or "Ubuntu". It falls back to "GNOME" if we can't
+#. * like "Fedora" or "Ubuntu". It falls back to "Scarecrow" if we can't
 #. * detect any distribution.
 #.
 #: scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:78
@@ -588,7 +588,7 @@ msgstr ""
 "ਪਰਦੇਦਾਰੀ ਕੰਟਰੋਲ ਨੂੰ ਕਿਸੇ ਵੀ ਸਮੇਂ ਸੈਟਿੰਗਾਂ ਐਪਲੀਕੇਸ਼ਨ ਤੋਂ ਕੰਟਰੋਲ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ।"
 
 #. Translators: the parameter here is the name of a distribution,
-#. * like "Fedora" or "Ubuntu". It falls back to "GNOME 3" if we can't
+#. * like "Fedora" or "Ubuntu". It falls back to "Scarecrow 3" if we can't
 #. * detect any distribution.
 #: scarecrow-initial-setup/pages/summary/scis-summary-page.c:227
 #, c-format
@@ -596,7 +596,7 @@ msgid "_Start Using %s"
 msgstr "%s ਨੂੰ ਵਰਤਣਾ ਸ਼ੁਰੂ ਕਰੋ(_S)"
 
 #. Translators: the parameter here is the name of a distribution,
-#. * like "Fedora" or "Ubuntu". It falls back to "GNOME 3" if we can't
+#. * like "Fedora" or "Ubuntu". It falls back to "Scarecrow 3" if we can't
 #. * detect any distribution.
 #: scarecrow-initial-setup/pages/summary/scis-summary-page.c:234
 #, c-format
@@ -905,7 +905,7 @@ msgstr "ਆਪਣੇ ਨੇੜਲਾ ਸ਼ਹਿਰ ਦੀ ਖੋਜ ਕਰੋ ਜ
 #~ msgid "You may change these options at any time in Settings."
 #~ msgstr "ਤੁਸੀਂ ਇਹ ਚੋਣਾਂ ਨੂੰ ਬਾਅਦ ਵਿੱਚ ਸੈਟਿੰਗ ਵਿੱਚ ਜਾ ਕੇ ਕਦੇ ਵੀ ਬਦਲ ਸਕਦੇ ਹੋ।"
 
-#~ msgid "_Start using GNOME 3"
+#~ msgid "_Start using Scarecrow 3"
 #~ msgstr "ਗਨੋਮ ੩ ਵਰਤਣਾ ਸ਼ੁਰੂ ਕਰੋ(_S)"
 
 #~ msgid "_Back"
@@ -992,10 +992,10 @@ msgstr "ਆਪਣੇ ਨੇੜਲਾ ਸ਼ਹਿਰ ਦੀ ਖੋਜ ਕਰੋ ਜ
 #~ msgid "Show _all"
 #~ msgstr "ਸਭ ਵੇਖਾਓ(_a)"
 
-#~ msgid "Enjoy GNOME!"
+#~ msgid "Enjoy Scarecrow!"
 #~ msgstr "ਗਨੋਮ ਦਾ ਆਨੰਦ ਲਵੋ!"
 
-#~ msgid "New to GNOME 3 and need help finding your way around?"
+#~ msgid "New to Scarecrow 3 and need help finding your way around?"
 #~ msgstr "ਗਨੋਮ 3 ਤੁਹਾਡੇ ਲਈ ਨਵਾਂ ਅਤੇ ਵਰਤੋਂ ਸਿੱਖਣ ਲਈ ਮੱਦਦ ਦੀ ਲੋੜ ਹੈ?"
 
 #~ msgid "_Take a Tour"

@@ -26,7 +26,7 @@
 
 #define PAGE_ID "language"
 
-#define GNOME_SYSTEM_LOCALE_DIR "io.github.scarecrow_de.system.locale"
+#define Scarecrow_SYSTEM_LOCALE_DIR "io.github.scarecrow_de.system.locale"
 #define REGION_KEY "region"
 
 #include "config.h"
@@ -139,7 +139,7 @@ language_changed (CcLanguageChooser  *chooser,
   }
 
   /* Ensure we won't override the selected language for format strings */
-  region_settings = g_settings_new (GNOME_SYSTEM_LOCALE_DIR);
+  region_settings = g_settings_new (Scarecrow_SYSTEM_LOCALE_DIR);
   g_settings_reset (region_settings, REGION_KEY);
   g_object_unref (region_settings);
 

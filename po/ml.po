@@ -8,7 +8,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: scarecrow-initial-setup master\n"
-"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/scarecrow-initial-setup/issues\n"
+"Report-Msgid-Bugs-To: https://github.com/scarecrow-de/scarecrow-initial-setup/issues\n"
 "POT-Creation-Date: 2018-10-09 11:08+0000\n"
 "PO-Revision-Date: 2018-10-15 21:46+0800\n"
 "Last-Translator: apeter <apeter@redhat.com>\n"
@@ -57,7 +57,7 @@ msgid "Force existing user mode"
 msgstr "നിലവിലുള്ള  യൂസര്‍ രീതി നിര്‍ബന്ധമാക്കുക"
 
 #: scarecrow-initial-setup/scarecrow-initial-setup.c:266
-msgid "— GNOME initial setup"
+msgid "— Scarecrow initial setup"
 msgstr "— ഗ്നോം പ്രാരംഭ സജ്ജീകരണം"
 
 #: scarecrow-initial-setup/pages/account/scis-account-avatar-chooser.ui:27
@@ -447,7 +447,7 @@ msgid "Adding more letters, numbers and punctuation will make the password stron
 msgstr "കൂടുതൽ അക്ഷരങ്ങൾ, അക്കങ്ങൾ, ചിഹ്നനം എന്നിവ ചേർത്താൽ രഹസ്യവാക്ക് കൂടുതൽ ശക്തമാകും."
 
 #. Translators: the parameter here is the name of a distribution,
-#. * like "Fedora" or "Ubuntu". It falls back to "GNOME" if we can't
+#. * like "Fedora" or "Ubuntu". It falls back to "Scarecrow" if we can't
 #. * detect any distribution.
 #.
 #: scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:110
@@ -460,7 +460,7 @@ msgstr ""
 "കളഞ്ഞ് അജ്ഞാതമായാണ് അയക്കുന്നത്."
 
 #. Translators: the parameter here is the name of a distribution,
-#. * like "Fedora" or "Ubuntu". It falls back to "GNOME" if we can't
+#. * like "Fedora" or "Ubuntu". It falls back to "Scarecrow" if we can't
 #. * detect any distribution.
 #.
 #: scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:120
@@ -558,7 +558,7 @@ msgstr ""
 "എന്നാൽ സ്വതന്ത്ര സോഫ്റ്റ്വെയർ സ്വതന്ത്രമായി പ്രവർത്തിപ്പിക്കാനും പകർത്താനും വിതരണം ചെയ്യാനും പഠിക്കാനും പരിഷ്ക്കരിക്കാനും കഴിയും."
 
 #. Translators: the parameter here is the name of a distribution,
-#. * like "Fedora" or "Ubuntu". It falls back to "GNOME 3" if we can't
+#. * like "Fedora" or "Ubuntu". It falls back to "Scarecrow 3" if we can't
 #. * detect any distribution.
 #: scarecrow-initial-setup/pages/summary/scis-summary-page.c:304
 #, c-format

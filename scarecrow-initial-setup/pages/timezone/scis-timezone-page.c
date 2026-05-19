@@ -32,7 +32,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-#define GNOME_DESKTOP_USE_UNSTABLE_API
+#define Scarecrow_DESKTOP_USE_UNSTABLE_API
 #include <libscarecrow-desktop/scarecrow-languages.h>
 #include <libscarecrow-desktop/scarecrow-wall-clock.h>
 #include <gdesktop-enums.h>
@@ -435,7 +435,7 @@ gis_timezone_page_constructed (GObject *object)
     exit (1);
   }
 
-  priv->clock = g_object_new (GNOME_TYPE_WALL_CLOCK, NULL);
+  priv->clock = g_object_new (Scarecrow_TYPE_WALL_CLOCK, NULL);
   g_signal_connect (priv->clock, "notify::clock", G_CALLBACK (on_clock_changed), page);
 
   settings = g_settings_new (CLOCK_SCHEMA);

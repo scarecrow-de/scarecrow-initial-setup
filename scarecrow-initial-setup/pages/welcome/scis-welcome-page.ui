@@ -31,7 +31,7 @@
               <object class="GtkLabel" id="title">
                  <property name="visible">True</property>
                  <!-- This is set to a translated string at runtime -->
-                 <property name="label">Welcome to the latest GNOME!</property>
+                 <property name="label">Welcome to the latest Scarecrow!</property>
                  <style>
                    <class name="title-1"/>
                  </style>

@@ -1,5 +1,5 @@
 [Unit]
-Description=GNOME Initial Setup Copy Worker
+Description=Scarecrow Initial Setup Copy Worker
 
 # Make sure we run really early
 Before=scarecrow-session-pre.target graphical-session-pre.target

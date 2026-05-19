@@ -1,5 +1,5 @@
 [Unit]
-Description=GNOME Welcome Tour
+Description=Scarecrow Welcome Tour
 
 BindsTo=scarecrow-session.target
 After=scarecrow-session.target

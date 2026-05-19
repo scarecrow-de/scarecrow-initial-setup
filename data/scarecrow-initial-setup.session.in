@@ -1,4 +1,4 @@
 [Scarecrow Session]
-Name=GNOME Initial Setup
+Name=Scarecrow Initial Setup
 # Must be in sync with scarecrow-session@@this_component@.target.d/session.conf drop-in
 RequiredComponents=@scarecrow_session_required_components@;

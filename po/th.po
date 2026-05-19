@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: scarecrow-initial-setup master\n"
-"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/scarecrow-initial-setup/"
+"Report-Msgid-Bugs-To: https://github.com/scarecrow-de/scarecrow-initial-setup/"
 "issues\n"
 "POT-Creation-Date: 2012-09-18 16:57+0000\n"
 "PO-Revision-Date: 2012-09-20 11:14+0700\n"
@@ -166,7 +166,7 @@ msgid "License Agreements"
 msgstr "ข้อตกลงสัญญาอนุญาต"
 
 #. translators: This is the title of the "Add Account" dialogue.
-#. * The title is not visible when using GNOME Shell
+#. * The title is not visible when using Scarecrow Shell
 #: ../scarecrow-initial-setup/pages/goa/cc-online-accounts-add-account-dialog.c:251
 #: ../scarecrow-initial-setup/pages/goa/cc-online-accounts-add-account-dialog.c:257
 msgid "Add Account"
@@ -300,8 +300,8 @@ msgid "Thank You"
 msgstr "ขอขอบคุณ"
 
 #: ../scarecrow-initial-setup/pages/summary/scis-summary-page.ui.h:1
-msgid "Enjoy GNOME!"
-msgstr "ขอให้สนุกกับ GNOME!"
+msgid "Enjoy Scarecrow!"
+msgstr "ขอให้สนุกกับ Scarecrow!"
 
 #: ../scarecrow-initial-setup/pages/summary/scis-summary-page.ui.h:2
 msgid "Your new account is ready to use."
@@ -312,12 +312,12 @@ msgid "You may change any of these options at any time in the System Settings."
 msgstr "คุณอาจเปลี่ยนตัวเลือกต่างๆ เหล่านี้เมื่อใดก็ได้ด้วยเมนู \"ตั้งค่าระบบ\""
 
 #: ../scarecrow-initial-setup/pages/summary/scis-summary-page.ui.h:4
-msgid "_Start using GNOME 3"
-msgstr "เ_ริ่มใช้ GNOME 3"
+msgid "_Start using Scarecrow 3"
+msgstr "เ_ริ่มใช้ Scarecrow 3"
 
 #: ../scarecrow-initial-setup/pages/summary/scis-summary-page.ui.h:5
-msgid "New to GNOME 3 and need help finding your way around?"
-msgstr "เป็นผู้ใช้ GNOME 3 ใหม่และต้องการให้ช่วยนำทางไหม?"
+msgid "New to Scarecrow 3 and need help finding your way around?"
+msgstr "เป็นผู้ใช้ Scarecrow 3 ใหม่และต้องการให้ช่วยนำทางไหม?"
 
 #: ../scarecrow-initial-setup/pages/summary/scis-summary-page.ui.h:6
 msgid "_Take a Tour"

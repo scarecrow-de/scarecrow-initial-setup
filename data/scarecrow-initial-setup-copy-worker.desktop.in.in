@@ -1,10 +1,10 @@
 [Desktop Entry]
-Name=GNOME Initial Setup Copy Worker
+Name=Scarecrow Initial Setup Copy Worker
 Type=Application
 Exec=@LIBEXECDIR@/scarecrow-initial-setup-copy-worker
-OnlyShowIn=GNOME;
+OnlyShowIn=Scarecrow;
 NoDisplay=true
-X-GNOME-AutoRestart=false
-X-GNOME-Autostart-Phase=EarlyInitialization
+X-Scarecrow-AutoRestart=false
+X-Scarecrow-Autostart-Phase=EarlyInitialization
 AutostartCondition=unless-exists scarecrow-initial-setup-done
-X-GNOME-HiddenUnderSystemd=@systemd_hidden@
+X-Scarecrow-HiddenUnderSystemd=@systemd_hidden@

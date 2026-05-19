@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: scarecrow-initial-setup\n"
-"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/scarecrow-initial-setup/"
+"Report-Msgid-Bugs-To: https://github.com/scarecrow-de/scarecrow-initial-setup/"
 "issues\n"
 "POT-Creation-Date: 2013-02-09 17:07+0000\n"
 "PO-Revision-Date: 2013-02-10 11:37+0900\n"
@@ -39,7 +39,7 @@ msgstr "قەتئىي يېڭى ئىشلەتكۈچى ھالىتىدە"
 
 #: ../scarecrow-initial-setup/scarecrow-initial-setup.c:208
 #| msgid "Initial Setup"
-msgid "- GNOME initial setup"
+msgid "- Scarecrow initial setup"
 msgstr "- گىنوم دەسلەپكى تەڭشەش"
 
 #: ../scarecrow-initial-setup/pages/account/scis-account-page.c:202
@@ -378,7 +378,7 @@ msgid "You may change these options at any time in Settings."
 msgstr "بۇ تاللانمىلارنى سىز خالىغان ۋاقىتتا «تەڭشەكلەر»دىن ئۆزگەرتەلەيسىز."
 
 #: ../scarecrow-initial-setup/pages/summary/scis-summary-page.ui.h:3
-msgid "_Start using GNOME 3"
+msgid "_Start using Scarecrow 3"
 msgstr "گىنوم 3 نى باشلاي(_S)"
 
 #~ msgid "_Login Name"

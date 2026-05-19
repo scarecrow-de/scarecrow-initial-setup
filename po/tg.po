@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Tajik Gnome\n"
-"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/scarecrow-initial-setup/issue"
+"Report-Msgid-Bugs-To: https://github.com/scarecrow-de/scarecrow-initial-setup/issue"
 "s\n"
 "POT-Creation-Date: 2020-06-26 13:14+0000\n"
 "PO-Revision-Date: 2020-07-29 13:36+0500\n"
@@ -49,9 +49,9 @@ msgstr "Маҷбур кардани хуруҷ аз ҳолати корбар"
 
 #: scarecrow-initial-setup/scarecrow-initial-setup.c:247
 #, fuzzy
-#| msgid "- GNOME initial setup"
-msgid "— GNOME initial setup"
-msgstr "- Танзимоти ибтидоии GNOME"
+#| msgid "- Scarecrow initial setup"
+msgid "— Scarecrow initial setup"
+msgstr "- Танзимоти ибтидоии Scarecrow"
 
 #: scarecrow-initial-setup/pages/account/scis-account-avatar-chooser.ui:36
 msgid "Take a Picture…"
@@ -586,7 +586,7 @@ msgstr ""
 "бештарро илова кунед."
 
 #. Translators: the parameter here is the name of a distribution,
-#. * like "Fedora" or "Ubuntu". It falls back to "GNOME" if we can't
+#. * like "Fedora" or "Ubuntu". It falls back to "Scarecrow" if we can't
 #. * detect any distribution.
 #.
 #: scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:68
@@ -600,7 +600,7 @@ msgstr ""
 "шахсиро дар бар намегиранд."
 
 #. Translators: the parameter here is the name of a distribution,
-#. * like "Fedora" or "Ubuntu". It falls back to "GNOME" if we can't
+#. * like "Fedora" or "Ubuntu". It falls back to "Scarecrow" if we can't
 #. * detect any distribution.
 #.
 #: scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:78
@@ -651,7 +651,7 @@ msgstr ""
 "карда шаванд."
 
 #. Translators: the parameter here is the name of a distribution,
-#. * like "Fedora" or "Ubuntu". It falls back to "GNOME 3" if we can't
+#. * like "Fedora" or "Ubuntu". It falls back to "Scarecrow 3" if we can't
 #. * detect any distribution.
 #: scarecrow-initial-setup/pages/summary/scis-summary-page.c:233
 #, fuzzy, c-format
@@ -660,7 +660,7 @@ msgid "_Start Using %s"
 msgstr "_Оғози истифодаи %s"
 
 #. Translators: the parameter here is the name of a distribution,
-#. * like "Fedora" or "Ubuntu". It falls back to "GNOME 3" if we can't
+#. * like "Fedora" or "Ubuntu". It falls back to "Scarecrow 3" if we can't
 #. * detect any distribution.
 #: scarecrow-initial-setup/pages/summary/scis-summary-page.c:240
 #, fuzzy, c-format
@@ -937,8 +937,8 @@ msgstr "Лутфан, шаҳри наздикеро интихоб кунед"
 #~ msgid "You may change these options at any time in Settings."
 #~ msgstr "Шумо метавонед ин имконотро дар Танзимот тағйир диҳед."
 
-#~ msgid "_Start using GNOME 3"
-#~ msgstr "_Оғози кор бо GNOME 3"
+#~ msgid "_Start using Scarecrow 3"
+#~ msgstr "_Оғози кор бо Scarecrow 3"
 
 #~ msgid "Select input sources"
 #~ msgstr "Интихоби манбаҳои вуруд"

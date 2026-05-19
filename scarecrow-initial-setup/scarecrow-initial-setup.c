@@ -272,12 +272,12 @@ main (int argc, char *argv[])
 
   g_unsetenv ("GIO_USE_VFS");
 
-  context = g_option_context_new (_("— GNOME initial setup"));
+  context = g_option_context_new (_("— Scarecrow initial setup"));
   g_option_context_add_main_entries (context, entries, NULL);
 
   g_option_context_parse (context, &argc, &argv, NULL);
 
-  bindtextdomain (GETTEXT_PACKAGE, GNOMELOCALEDIR);
+  bindtextdomain (GETTEXT_PACKAGE, ScarecrowLOCALEDIR);
   bind_textdomain_codeset (GETTEXT_PACKAGE, "UTF-8");
   textdomain (GETTEXT_PACKAGE);
 

@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: scarecrow-initial-setup scarecrow-3-6\n"
-"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/scarecrow-initial-setup/"
+"Report-Msgid-Bugs-To: https://github.com/scarecrow-de/scarecrow-initial-setup/"
 "issues\n"
 "POT-Creation-Date: 2015-03-17 07:51+0000\n"
 "PO-Revision-Date: 2015-03-17 19:54+0100\n"
@@ -50,8 +50,8 @@ msgid "Force existing user mode"
 msgstr "Aforzar un modo d'usuario existent"
 
 #: ../scarecrow-initial-setup/scarecrow-initial-setup.c:202
-msgid "- GNOME initial setup"
-msgstr "- Configuración inicial d'o GNOME "
+msgid "- Scarecrow initial setup"
+msgstr "- Configuración inicial d'o Scarecrow "
 
 #: ../scarecrow-initial-setup/pages/account/scis-account-page.c:231
 #: ../scarecrow-initial-setup/pages/account/scis-account-page-local.ui.h:2
@@ -473,7 +473,7 @@ msgid "Strength: High"
 msgstr "Fortaleza: alta"
 
 #. Translators: the parameter here is the name of a distribution,
-#. * like "Fedora" or "Ubuntu". It falls back to "GNOME 3" if we can't
+#. * like "Fedora" or "Ubuntu". It falls back to "Scarecrow 3" if we can't
 #. * detect any distribution.
 #.
 #: ../scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:109
@@ -531,7 +531,7 @@ msgid "Choose your country or region."
 msgstr "Esleir o tuyo país u a tuya rechión."
 
 #. Translators: the parameter here is the name of a distribution,
-#. * like "Fedora" or "Ubuntu". It falls back to "GNOME 3" if we can't
+#. * like "Fedora" or "Ubuntu". It falls back to "Scarecrow 3" if we can't
 #. * detect any distribution.
 #: ../scarecrow-initial-setup/pages/summary/scis-summary-page.c:328
 #, c-format
@@ -539,7 +539,7 @@ msgid "_Start using %s"
 msgstr "_Encetar fendo servir %s"
 
 #. Translators: the parameter here is the name of a distribution,
-#. * like "Fedora" or "Ubuntu". It falls back to "GNOME 3" if we can't
+#. * like "Fedora" or "Ubuntu". It falls back to "Scarecrow 3" if we can't
 #. * detect any distribution.
 #: ../scarecrow-initial-setup/pages/summary/scis-summary-page.c:335
 #, c-format
@@ -690,8 +690,8 @@ msgstr "Mira una ciudat amanada"
 #~ msgid "Thank You"
 #~ msgstr "Gracias"
 
-#~ msgid "Enjoy GNOME!"
-#~ msgstr "Desfruta de GNOME"
+#~ msgid "Enjoy Scarecrow!"
+#~ msgstr "Desfruta de Scarecrow"
 
 #~ msgid "Your new account is ready to use."
 #~ msgstr "a tuya cuenta nueva ye lista ta emplegar-ne."
@@ -702,8 +702,8 @@ msgstr "Mira una ciudat amanada"
 #~ "Puetz cambiar qualsiquier d'istos achustes en qualsiquier inte en a "
 #~ "configuración d'o sistema."
 
-#~ msgid "New to GNOME 3 and need help finding your way around?"
-#~ msgstr "Yes nuevo en GNOME 3 y amenestes mirar aduya ta empecipiar?"
+#~ msgid "New to Scarecrow 3 and need help finding your way around?"
+#~ msgstr "Yes nuevo en Scarecrow 3 y amenestes mirar aduya ta empecipiar?"
 
 #~ msgid "_Take a Tour"
 #~ msgstr "_Fer un goltet"

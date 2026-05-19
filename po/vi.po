@@ -1,6 +1,6 @@
 # Vietnamese translation for scarecrow-initial-setup.
 # Bản dịch tiếng Việt dành cho scarecrow-initial-setup.
-# Copyright © 2016 GNOME i18n Project for Vietnamese.
+# Copyright © 2016 Scarecrow i18n Project for Vietnamese.
 # This file is distributed under the same license as the scarecrow-initial-setup package.
 # Nguyễn Thái Ngọc Duy <pclouds@gmail.com>, 2012-2013.
 # Trần Ngọc Quân <vnwildman@gmail.com>, 2014, 2015, 2016, 2017.
@@ -8,7 +8,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: scarecrow-initial-setup master\n"
-"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/scarecrow-initial-setup/"
+"Report-Msgid-Bugs-To: https://github.com/scarecrow-de/scarecrow-initial-setup/"
 "issues\n"
 "POT-Creation-Date: 2017-09-15 14:32+0000\n"
 "PO-Revision-Date: 2017-09-17 07:33+0700\n"
@@ -51,8 +51,8 @@ msgid "Force existing user mode"
 msgstr "Ép buộc chế độ người dùng cũ"
 
 #: ../scarecrow-initial-setup/scarecrow-initial-setup.c:223
-msgid "— GNOME initial setup"
-msgstr "— Cài đặt GNOME lần đầu"
+msgid "— Scarecrow initial setup"
+msgstr "— Cài đặt Scarecrow lần đầu"
 
 #: ../scarecrow-initial-setup/pages/account/scis-account-page.c:242
 #: ../scarecrow-initial-setup/pages/account/scis-account-page-local.ui.h:2
@@ -460,7 +460,7 @@ msgid ""
 msgstr "Thêm các chữ cái, chữ số và dấu chấm câu sẽ làm cho nó mạnh thêm."
 
 #. Translators: the parameter here is the name of a distribution,
-#. * like "Fedora" or "Ubuntu". It falls back to "GNOME" if we can't
+#. * like "Fedora" or "Ubuntu". It falls back to "Scarecrow" if we can't
 #. * detect any distribution.
 #.
 #: ../scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:110
@@ -473,7 +473,7 @@ msgstr ""
 "được gửi nặc danh và được xóa các dữ liệu cá nhân."
 
 #. Translators: the parameter here is the name of a distribution,
-#. * like "Fedora" or "Ubuntu". It falls back to "GNOME" if we can't
+#. * like "Fedora" or "Ubuntu". It falls back to "Scarecrow" if we can't
 #. * detect any distribution.
 #.
 #: ../scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:120
@@ -532,7 +532,7 @@ msgid "Choose your country or region."
 msgstr "Chọn nước hay vùng địa lý của bạn."
 
 #. Translators: the parameter here is the name of a distribution,
-#. * like "Fedora" or "Ubuntu". It falls back to "GNOME 3" if we can't
+#. * like "Fedora" or "Ubuntu". It falls back to "Scarecrow 3" if we can't
 #. * detect any distribution.
 #: ../scarecrow-initial-setup/pages/summary/scis-summary-page.c:304
 #, c-format
@@ -596,7 +596,7 @@ msgid "Please search for a nearby city"
 msgstr "Vui lòng tìm thành phố gần đây"
 
 #. Translators: the parameter here is the name of a distribution,
-#. * like "Fedora" or "Ubuntu". It falls back to "GNOME" if we can't
+#. * like "Fedora" or "Ubuntu". It falls back to "Scarecrow" if we can't
 #. * detect any distribution.
 #.
 #: ../scarecrow-initial-setup/pages/software/scis-software-page.c:112
@@ -848,11 +848,11 @@ msgstr ""
 #~ msgid "Show _all"
 #~ msgstr "Hiện _tất cả"
 
-#~ msgid "Enjoy GNOME!"
-#~ msgstr "Chúc sử dụng GNOME vui vẻ!"
+#~ msgid "Enjoy Scarecrow!"
+#~ msgstr "Chúc sử dụng Scarecrow vui vẻ!"
 
-#~ msgid "New to GNOME 3 and need help finding your way around?"
-#~ msgstr "Chưa từng sử dụng GNOME 3 và cần hướng dẫn ban đầu?"
+#~ msgid "New to Scarecrow 3 and need help finding your way around?"
+#~ msgstr "Chưa từng sử dụng Scarecrow 3 và cần hướng dẫn ban đầu?"
 
 #~ msgid "_Take a Tour"
 #~ msgstr "_Dạo một vòng"

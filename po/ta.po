@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/scarecrow-initial-setup/"
+"Report-Msgid-Bugs-To: https://github.com/scarecrow-de/scarecrow-initial-setup/"
 "issues\n"
 "POT-Creation-Date: 2014-09-13 06:52+0000\n"
 "PO-Revision-Date: 2014-09-13 21:02+0630\n"
@@ -48,8 +48,8 @@ msgid "Force existing user mode"
 msgstr "முன்பே உள்ள பயனர் பயன்முறையை நிர்ப்பந்தி"
 
 #: ../scarecrow-initial-setup/scarecrow-initial-setup.c:200
-msgid "- GNOME initial setup"
-msgstr "- GNOME தொடக்க அமைவு"
+msgid "- Scarecrow initial setup"
+msgstr "- Scarecrow தொடக்க அமைவு"
 
 #: ../scarecrow-initial-setup/pages/account/scis-account-page.c:231
 #: ../scarecrow-initial-setup/pages/account/scis-account-page-local.ui.h:2
@@ -531,7 +531,7 @@ msgid "Choose your country or region."
 msgstr "உங்கள் நாடு அல்லது இருப்பிடத்தை தேர்ந்தெடுக்கவும்."
 
 #. Translators: the parameter here is the name of a distribution,
-#. * like "Fedora" or "Ubuntu". It falls back to "GNOME 3" if we can't
+#. * like "Fedora" or "Ubuntu". It falls back to "Scarecrow 3" if we can't
 #. * detect any distribution.
 #: ../scarecrow-initial-setup/pages/summary/scis-summary-page.c:332
 #, c-format
@@ -539,7 +539,7 @@ msgid "_Start using %s"
 msgstr "%s ஐப் பயன்படுத்தத் தொடங்கவும் (_S)"
 
 #. Translators: the parameter here is the name of a distribution,
-#. * like "Fedora" or "Ubuntu". It falls back to "GNOME 3" if we can't
+#. * like "Fedora" or "Ubuntu". It falls back to "Scarecrow 3" if we can't
 #. * detect any distribution.
 #: ../scarecrow-initial-setup/pages/summary/scis-summary-page.c:339
 #, c-format

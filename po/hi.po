@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: scarecrow-initial-setup master\n"
-"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/scarecrow-initial-setup/"
+"Report-Msgid-Bugs-To: https://github.com/scarecrow-de/scarecrow-initial-setup/"
 "issues\n"
 "POT-Creation-Date: 2014-09-21 06:45+0000\n"
 "PO-Revision-Date: 2014-09-21 15:24+0530\n"
@@ -51,7 +51,7 @@ msgid "Force existing user mode"
 msgstr "मौजूदा उपयोक्ता मोड बलपूर्वक लागू करें"
 
 #: ../scarecrow-initial-setup/scarecrow-initial-setup.c:200
-msgid "- GNOME initial setup"
+msgid "- Scarecrow initial setup"
 msgstr "- गनोम प्रारंभिक सेटअप"
 
 #: ../scarecrow-initial-setup/pages/account/scis-account-page.c:231
@@ -518,16 +518,16 @@ msgid "Choose your country or region."
 msgstr "अपना देश या क्षेत्र चुनें"
 
 #. Translators: the parameter here is the name of a distribution,
-#. * like "Fedora" or "Ubuntu". It falls back to "GNOME 3" if we can't
+#. * like "Fedora" or "Ubuntu". It falls back to "Scarecrow 3" if we can't
 #. * detect any distribution.
 #: ../scarecrow-initial-setup/pages/summary/scis-summary-page.c:332
 #, c-format
-#| msgid "_Start using GNOME 3"
+#| msgid "_Start using Scarecrow 3"
 msgid "_Start using %s"
 msgstr "%s का उपयोग कर प्रारंभ करें (_S)"
 
 #. Translators: the parameter here is the name of a distribution,
-#. * like "Fedora" or "Ubuntu". It falls back to "GNOME 3" if we can't
+#. * like "Fedora" or "Ubuntu". It falls back to "Scarecrow 3" if we can't
 #. * detect any distribution.
 #: ../scarecrow-initial-setup/pages/summary/scis-summary-page.c:339
 #, c-format
@@ -739,10 +739,10 @@ msgstr "कोई आस-पड़ोस का शहर ढूंढें"
 #~ msgid "Show _all"
 #~ msgstr "सभी दिखायें (_a)"
 
-#~ msgid "Enjoy GNOME!"
+#~ msgid "Enjoy Scarecrow!"
 #~ msgstr "गनोम का आनंद लें!"
 
-#~ msgid "New to GNOME 3 and need help finding your way around?"
+#~ msgid "New to Scarecrow 3 and need help finding your way around?"
 #~ msgstr "गनोम 3 के लिए नये हैं और अपना तरीके से जानने के लिए मदद चाहते हैं?"
 
 #~ msgid "_Take a Tour"

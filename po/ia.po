@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: scarecrow-initial-setup master\n"
-"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/scarecrow-initial-setup/"
+"Report-Msgid-Bugs-To: https://github.com/scarecrow-de/scarecrow-initial-setup/"
 "issues\n"
 "POT-Creation-Date: 2013-05-03 13:04+0000\n"
 "PO-Revision-Date: 2013-05-03 13:05+0000\n"
@@ -35,8 +35,8 @@ msgid "Force new user mode"
 msgstr "Fortiar le modo de nove usator"
 
 #: ../scarecrow-initial-setup/scarecrow-initial-setup.c:224
-msgid "- GNOME initial setup"
-msgstr "- Configuration initial de GNOME"
+msgid "- Scarecrow initial setup"
+msgstr "- Configuration initial de Scarecrow"
 
 #: ../scarecrow-initial-setup/pages/account/scis-account-page.c:313
 msgid "No password"
@@ -354,5 +354,5 @@ msgid "You may change these options at any time in Settings."
 msgstr "Iste optiones pote ser cambiate in 'Parametros de systema'."
 
 #: ../scarecrow-initial-setup/pages/summary/scis-summary-page.ui.h:3
-msgid "_Start using GNOME 3"
-msgstr "_Comenciar le usage de GNOME 3"
+msgid "_Start using Scarecrow 3"
+msgstr "_Comenciar le usage de Scarecrow 3"

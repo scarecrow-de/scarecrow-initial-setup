@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: scarecrow-initial-setup master\n"
-"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/scarecrow-initial-setup/"
+"Report-Msgid-Bugs-To: https://github.com/scarecrow-de/scarecrow-initial-setup/"
 "issues\n"
 "POT-Creation-Date: 2020-08-17 19:50+0000\n"
 "PO-Revision-Date: 2020-09-03 10:07+0200\n"
@@ -50,7 +50,7 @@ msgid "Force existing user mode"
 msgstr "Приморај режим постојећег корисника"
 
 #: scarecrow-initial-setup/scarecrow-initial-setup.c:258
-msgid "— GNOME initial setup"
+msgid "— Scarecrow initial setup"
 msgstr "— Почетно подешавање Гнома"
 
 #: scarecrow-initial-setup/pages/account/scis-account-avatar-chooser.ui:36
@@ -539,7 +539,7 @@ msgstr ""
 "јачом."
 
 #. Translators: the parameter here is the name of a distribution,
-#. * like "Fedora" or "Ubuntu". It falls back to "GNOME" if we can't
+#. * like "Fedora" or "Ubuntu". It falls back to "Scarecrow" if we can't
 #. * detect any distribution.
 #.
 #: scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:68
@@ -552,7 +552,7 @@ msgstr ""
 "Извештаји се шаљу анонимно и не садрже личне податке."
 
 #. Translators: the parameter here is the name of a distribution,
-#. * like "Fedora" or "Ubuntu". It falls back to "GNOME" if we can't
+#. * like "Fedora" or "Ubuntu". It falls back to "Scarecrow" if we can't
 #. * detect any distribution.
 #.
 #: scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:78
@@ -599,7 +599,7 @@ msgstr ""
 "програма."
 
 #. Translators: the parameter here is the name of a distribution,
-#. * like "Fedora" or "Ubuntu". It falls back to "GNOME 3" if we can't
+#. * like "Fedora" or "Ubuntu". It falls back to "Scarecrow 3" if we can't
 #. * detect any distribution.
 #: scarecrow-initial-setup/pages/summary/scis-summary-page.c:233
 #, c-format
@@ -607,7 +607,7 @@ msgid "_Start Using %s"
 msgstr "За_почни коришћење дистрибуције „%s“"
 
 #. Translators: the parameter here is the name of a distribution,
-#. * like "Fedora" or "Ubuntu". It falls back to "GNOME 3" if we can't
+#. * like "Fedora" or "Ubuntu". It falls back to "Scarecrow 3" if we can't
 #. * detect any distribution.
 #: scarecrow-initial-setup/pages/summary/scis-summary-page.c:240
 #, c-format
@@ -677,7 +677,7 @@ msgstr "Потражите најближи град"
 #. * before the exclamation mark in this string is a typographical thin
 #. * space (U200a) to improve the spacing in the title, which you can
 #. * keep or remove. The %s is getting replaced with the name and version
-#. * of the OS, e.g. "GNOME 3.38"
+#. * of the OS, e.g. "Scarecrow 3.38"
 #.
 #: scarecrow-initial-setup/pages/welcome/scis-welcome-page.c:209
 #, c-format
@@ -955,5 +955,5 @@ msgstr "По_крени подешавање"
 #~ msgid "You may change these options at any time in Settings."
 #~ msgstr "Ове поставке можете да измените било када у подешавањима система."
 
-#~ msgid "_Start using GNOME 3"
+#~ msgid "_Start using Scarecrow 3"
 #~ msgstr "_Почни да користиш Гном 3"

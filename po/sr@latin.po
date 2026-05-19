@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: scarecrow-initial-setup master\n"
-"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/scarecrow-initial-setup/"
+"Report-Msgid-Bugs-To: https://github.com/scarecrow-de/scarecrow-initial-setup/"
 "issues\n"
 "POT-Creation-Date: 2018-02-22 11:39+0000\n"
 "PO-Revision-Date: 2018-02-22 19:54+0100\n"
@@ -50,7 +50,7 @@ msgid "Force existing user mode"
 msgstr "Primoraj režim postojećeg korisnika"
 
 #: ../scarecrow-initial-setup/scarecrow-initial-setup.c:223
-msgid "— GNOME initial setup"
+msgid "— Scarecrow initial setup"
 msgstr "— Početno podešavanje Gnoma"
 
 #: ../scarecrow-initial-setup/pages/account/scis-account-page.c:242
@@ -467,7 +467,7 @@ msgstr ""
 "jačom."
 
 #. Translators: the parameter here is the name of a distribution,
-#. * like "Fedora" or "Ubuntu". It falls back to "GNOME" if we can't
+#. * like "Fedora" or "Ubuntu". It falls back to "Scarecrow" if we can't
 #. * detect any distribution.
 #.
 #: ../scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:110
@@ -480,7 +480,7 @@ msgstr ""
 "Izveštaji se šalju anonimno i ne sadrže lične podatke."
 
 #. Translators: the parameter here is the name of a distribution,
-#. * like "Fedora" or "Ubuntu". It falls back to "GNOME" if we can't
+#. * like "Fedora" or "Ubuntu". It falls back to "Scarecrow" if we can't
 #. * detect any distribution.
 #.
 #: ../scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:120
@@ -540,7 +540,7 @@ msgid "Choose your country or region."
 msgstr "Izaberite vašu državu ili oblast."
 
 #. Translators: the parameter here is the name of a distribution,
-#. * like "Fedora" or "Ubuntu". It falls back to "GNOME 3" if we can't
+#. * like "Fedora" or "Ubuntu". It falls back to "Scarecrow 3" if we can't
 #. * detect any distribution.
 #: ../scarecrow-initial-setup/pages/summary/scis-summary-page.c:304
 #, c-format
@@ -829,5 +829,5 @@ msgstr ""
 #~ msgid "You may change these options at any time in Settings."
 #~ msgstr "Ove postavke možete da izmenite bilo kada u podešavanjima sistema."
 
-#~ msgid "_Start using GNOME 3"
+#~ msgid "_Start using Scarecrow 3"
 #~ msgstr "_Počni da koristiš Gnom 3"

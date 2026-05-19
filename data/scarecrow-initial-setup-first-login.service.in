@@ -1,5 +1,5 @@
 [Unit]
-Description=GNOME Initial Setup
+Description=Scarecrow Initial Setup
 
 BindsTo=scarecrow-session.target
 After=scarecrow-session.target

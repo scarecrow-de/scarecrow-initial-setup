@@ -8,7 +8,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: scarecrow-initial-setup master\n"
-"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/scarecrow-initial-setup/"
+"Report-Msgid-Bugs-To: https://github.com/scarecrow-de/scarecrow-initial-setup/"
 "issues\n"
 "POT-Creation-Date: 2012-11-20 00:08+0000\n"
 "MIME-Version: 1.0\n"
@@ -45,8 +45,8 @@ msgid "Force new user mode"
 msgstr "বলপূর্বক নতুন ব্যবহারকারী মোড"
 
 #: ../scarecrow-initial-setup/scarecrow-initial-setup.c:224
-msgid "- GNOME initial setup"
-msgstr "- GNOME প্রাথমিক সেটআপ"
+msgid "- Scarecrow initial setup"
+msgstr "- Scarecrow প্রাথমিক সেটআপ"
 
 #: ../scarecrow-initial-setup/pages/account/scis-account-page.c:334
 msgid "No password"

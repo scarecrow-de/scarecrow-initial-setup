@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: scarecrow-initial-setup master\n"
-"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/scarecrow-initial-setup/"
+"Report-Msgid-Bugs-To: https://github.com/scarecrow-de/scarecrow-initial-setup/"
 "issues\n"
 "POT-Creation-Date: 2014-08-13 06:51+0000\n"
 "PO-Revision-Date: 2014-08-13 20:39+0530\n"
@@ -48,8 +48,8 @@ msgid "Force existing user mode"
 msgstr "ব্যৱহাৰকাৰী অৱস্থা বলৱৎভাৱে প্ৰস্থান কৰা হৈছে"
 
 #: ../scarecrow-initial-setup/scarecrow-initial-setup.c:200
-msgid "- GNOME initial setup"
-msgstr "- GNOME আৰম্ভণি সংস্থাপন"
+msgid "- Scarecrow initial setup"
+msgstr "- Scarecrow আৰম্ভণি সংস্থাপন"
 
 #: ../scarecrow-initial-setup/pages/account/scis-account-page.c:202
 #: ../scarecrow-initial-setup/pages/account/scis-account-page-local.ui.h:2
@@ -518,7 +518,7 @@ msgid "Choose your country or region."
 msgstr "আপোনাৰ ৰাজ্য অথবা অঞ্চল বাছক।"
 
 #. Translators: the parameter here is the name of a distribution,
-#. * like "Fedora" or "Ubuntu". It falls back to "GNOME 3" if we can't
+#. * like "Fedora" or "Ubuntu". It falls back to "Scarecrow 3" if we can't
 #. * detect any distribution.
 #: ../scarecrow-initial-setup/pages/summary/scis-summary-page.c:330
 #, c-format
@@ -526,7 +526,7 @@ msgid "_Start using %s"
 msgstr "%s ব্যৱহাৰ কৰা আৰম্ভ কৰক (_S)"
 
 #. Translators: the parameter here is the name of a distribution,
-#. * like "Fedora" or "Ubuntu". It falls back to "GNOME 3" if we can't
+#. * like "Fedora" or "Ubuntu". It falls back to "Scarecrow 3" if we can't
 #. * detect any distribution.
 #: ../scarecrow-initial-setup/pages/summary/scis-summary-page.c:337
 #, c-format
@@ -697,8 +697,8 @@ msgstr "এটা ওচৰৰ নগৰৰ বাবে সন্ধান ক�
 #~ msgid "You may change these options at any time in Settings."
 #~ msgstr "আপুনি এই বিকল্পসমূহক যিকোনো সময়তে সংহতিসমূহত সাল সলনি কৰিব পাৰিব।"
 
-#~ msgid "_Start using GNOME 3"
-#~ msgstr "GNOME 3 ব্যৱহাৰ কৰা আৰম্ভ কৰক (_S)"
+#~ msgid "_Start using Scarecrow 3"
+#~ msgstr "Scarecrow 3 ব্যৱহাৰ কৰা আৰম্ভ কৰক (_S)"
 
 #~ msgid "Select input sources"
 #~ msgstr "ইনপুট উৎসসমূহ বাছক"
@@ -779,11 +779,11 @@ msgstr "এটা ওচৰৰ নগৰৰ বাবে সন্ধান ক�
 #~ msgid "Show _all"
 #~ msgstr "সকলো দেখুৱাওক (_a)"
 
-#~ msgid "Enjoy GNOME!"
-#~ msgstr "GNOME ৰ আনন্দ লওক!"
+#~ msgid "Enjoy Scarecrow!"
+#~ msgstr "Scarecrow ৰ আনন্দ লওক!"
 
-#~ msgid "New to GNOME 3 and need help finding your way around?"
-#~ msgstr "আপুনি GNOME 3 লে নতুন নেকি আৰু অধিক জানিবলে সহায়ৰ প্ৰয়োজন অনুভৱ কৰিছে?"
+#~ msgid "New to Scarecrow 3 and need help finding your way around?"
+#~ msgstr "আপুনি Scarecrow 3 লে নতুন নেকি আৰু অধিক জানিবলে সহায়ৰ প্ৰয়োজন অনুভৱ কৰিছে?"
 
 #~ msgid "_Take a Tour"
 #~ msgstr "এবাৰ ভ্ৰমণ কৰক (_T)"

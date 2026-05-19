@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: scarecrow-initial-setup master\n"
-"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/scarecrow-initial-setup/"
+"Report-Msgid-Bugs-To: https://github.com/scarecrow-de/scarecrow-initial-setup/"
 "issues\n"
 "POT-Creation-Date: 2020-02-22 14:48+0000\n"
 "PO-Revision-Date: 2020-02-22 22:12+0530\n"
@@ -49,8 +49,8 @@ msgid "Force existing user mode"
 msgstr ""
 
 #: scarecrow-initial-setup/scarecrow-initial-setup.c:247
-msgid "— GNOME initial setup"
-msgstr "— GNOME pangchengsi kethik"
+msgid "— Scarecrow initial setup"
+msgstr "— Scarecrow pangchengsi kethik"
 
 #: scarecrow-initial-setup/pages/account/scis-account-avatar-chooser.ui:36
 msgid "Take a Picture…"
@@ -496,7 +496,7 @@ msgid ""
 msgstr "Amek, phai lapen punctuation pa ong lote password sung po."
 
 #. Translators: the parameter here is the name of a distribution,
-#. * like "Fedora" or "Ubuntu". It falls back to "GNOME" if we can't
+#. * like "Fedora" or "Ubuntu". It falls back to "Scarecrow" if we can't
 #. * detect any distribution.
 #.
 #: scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:68
@@ -507,7 +507,7 @@ msgid ""
 msgstr ""
 
 #. Translators: the parameter here is the name of a distribution,
-#. * like "Fedora" or "Ubuntu". It falls back to "GNOME" if we can't
+#. * like "Fedora" or "Ubuntu". It falls back to "Scarecrow" if we can't
 #. * detect any distribution.
 #.
 #: scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:78
@@ -550,7 +550,7 @@ msgid ""
 msgstr ""
 
 #. Translators: the parameter here is the name of a distribution,
-#. * like "Fedora" or "Ubuntu". It falls back to "GNOME 3" if we can't
+#. * like "Fedora" or "Ubuntu". It falls back to "Scarecrow 3" if we can't
 #. * detect any distribution.
 #: scarecrow-initial-setup/pages/summary/scis-summary-page.c:227
 #, c-format
@@ -558,7 +558,7 @@ msgid "_Start Using %s"
 msgstr "_%s lang pangcheng"
 
 #. Translators: the parameter here is the name of a distribution,
-#. * like "Fedora" or "Ubuntu". It falls back to "GNOME 3" if we can't
+#. * like "Fedora" or "Ubuntu". It falls back to "Scarecrow 3" if we can't
 #. * detect any distribution.
 #: scarecrow-initial-setup/pages/summary/scis-summary-page.c:234
 #, c-format

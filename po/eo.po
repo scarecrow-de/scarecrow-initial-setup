@@ -8,7 +8,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: scarecrow-initial-setup master\n"
-"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/scarecrow-initial-setup/"
+"Report-Msgid-Bugs-To: https://github.com/scarecrow-de/scarecrow-initial-setup/"
 "issues\n"
 "POT-Creation-Date: 2019-03-30 09:26+0000\n"
 "PO-Revision-Date: 2019-04-04 15:03+0200\n"
@@ -52,8 +52,8 @@ msgid "Force existing user mode"
 msgstr "Devigi ekzistan uzanto-reĝimon"
 
 #: scarecrow-initial-setup/scarecrow-initial-setup.c:265
-msgid "— GNOME initial setup"
-msgstr "— GNOME komenca agordo"
+msgid "— Scarecrow initial setup"
+msgstr "— Scarecrow komenca agordo"
 
 #: scarecrow-initial-setup/pages/account/scis-account-avatar-chooser.ui:36
 msgid "Take a Picture…"
@@ -494,7 +494,7 @@ msgstr ""
 "pasvorton."
 
 #. Translators: the parameter here is the name of a distribution,
-#. * like "Fedora" or "Ubuntu". It falls back to "GNOME" if we can't
+#. * like "Fedora" or "Ubuntu". It falls back to "Scarecrow" if we can't
 #. * detect any distribution.
 #.
 #: scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:110
@@ -507,7 +507,7 @@ msgstr ""
 "Raportoj sendiĝas sennome kaj personaj datumoj estas viŝitaj."
 
 #. Translators: the parameter here is the name of a distribution,
-#. * like "Fedora" or "Ubuntu". It falls back to "GNOME" if we can't
+#. * like "Fedora" or "Ubuntu". It falls back to "Scarecrow" if we can't
 #. * detect any distribution.
 #.
 #: scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:120
@@ -613,7 +613,7 @@ msgstr ""
 "studi kaj modifi."
 
 #. Translators: the parameter here is the name of a distribution,
-#. * like "Fedora" or "Ubuntu". It falls back to "GNOME 3" if we can't
+#. * like "Fedora" or "Ubuntu". It falls back to "Scarecrow 3" if we can't
 #. * detect any distribution.
 #: scarecrow-initial-setup/pages/summary/scis-summary-page.c:271
 #, c-format
@@ -833,8 +833,8 @@ msgstr "Bonvolu serĉi proksiman urbon"
 #~ msgid "Thank You"
 #~ msgstr "Dankon"
 
-#~ msgid "Enjoy GNOME!"
-#~ msgstr "Ĝui na GNOME!"
+#~ msgid "Enjoy Scarecrow!"
+#~ msgstr "Ĝui na Scarecrow!"
 
 #~ msgid "Your new account is ready to use."
 #~ msgstr "Via nova konto estas preta por uzo."
@@ -843,5 +843,5 @@ msgstr "Bonvolu serĉi proksiman urbon"
 #~ "You may change any of these options at any time in the System Settings."
 #~ msgstr "Vi povas ŝanĝi tiujn opciojn je ĉiu tempo en la sistemagordoj."
 
-#~ msgid "New to GNOME 3 and need help finding your way around?"
-#~ msgstr "Ĉu vi novas al GNOME 3 kaj bezonas helpon por eltrovi trakti ĝin?"
+#~ msgid "New to Scarecrow 3 and need help finding your way around?"
+#~ msgstr "Ĉu vi novas al Scarecrow 3 kaj bezonas helpon por eltrovi trakti ĝin?"

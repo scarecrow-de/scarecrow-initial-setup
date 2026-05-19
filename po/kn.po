@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: scarecrow-initial-setup master\n"
-"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/scarecrow-initial-setup/"
+"Report-Msgid-Bugs-To: https://github.com/scarecrow-de/scarecrow-initial-setup/"
 "issues\n"
 "POT-Creation-Date: 2014-09-02 06:53+0000\n"
 "PO-Revision-Date: 2014-09-17 14:01+0530\n"
@@ -50,8 +50,8 @@ msgid "Force existing user mode"
 msgstr "ಈಗಿರುವ ಬಳಕೆದಾರ ಕ್ರಮದಿಂದ ನಿರ್ಗಮಿಸಲು ಒತ್ತಾಯಿಸು"
 
 #: ../scarecrow-initial-setup/scarecrow-initial-setup.c:200
-msgid "- GNOME initial setup"
-msgstr "- GNOME ಆರಂಭಿಕ ಏರ್ಪಾಡು"
+msgid "- Scarecrow initial setup"
+msgstr "- Scarecrow ಆರಂಭಿಕ ಏರ್ಪಾಡು"
 
 #: ../scarecrow-initial-setup/pages/account/scis-account-page.c:202
 #: ../scarecrow-initial-setup/pages/account/scis-account-page-local.ui.h:2
@@ -529,7 +529,7 @@ msgid "Choose your country or region."
 msgstr "ನಿಮ್ಮ ದೇಶ ಅಥವ ಪ್ರದೇಶವನ್ನು ಆರಿಸಿ."
 
 #. Translators: the parameter here is the name of a distribution,
-#. * like "Fedora" or "Ubuntu". It falls back to "GNOME 3" if we can't
+#. * like "Fedora" or "Ubuntu". It falls back to "Scarecrow 3" if we can't
 #. * detect any distribution.
 #: ../scarecrow-initial-setup/pages/summary/scis-summary-page.c:330
 #, c-format
@@ -537,7 +537,7 @@ msgid "_Start using %s"
 msgstr "%s  ಅನ್ನು ಬಳಸಲು ಆರಂಭಿಸಿ (_S)"
 
 #. Translators: the parameter here is the name of a distribution,
-#. * like "Fedora" or "Ubuntu". It falls back to "GNOME 3" if we can't
+#. * like "Fedora" or "Ubuntu". It falls back to "Scarecrow 3" if we can't
 #. * detect any distribution.
 #: ../scarecrow-initial-setup/pages/summary/scis-summary-page.c:337
 #, c-format
@@ -688,8 +688,8 @@ msgstr "ದಯವಿಟ್ಟು ಹತ್ತಿರದ ಊರನ್ನು ಹು
 #~ msgstr ""
 #~ "ನೀವು ಈ ಆಯ್ಕೆಗಳನ್ನು ಯಾವುದೆ ಸಮಯದಲ್ಲಿ ಸಿದ್ಧತೆಗಳು ಎಂಬಲ್ಲಿ ಬದಲಾಯಿಸಲು ಸಾಧ್ಯವಿರುತ್ತದೆ."
 
-#~ msgid "_Start using GNOME 3"
-#~ msgstr "GNOME 3 ಅನ್ನು ಬಳಸಲು ಆರಂಭಿಸಿ (_S)"
+#~ msgid "_Start using Scarecrow 3"
+#~ msgstr "Scarecrow 3 ಅನ್ನು ಬಳಸಲು ಆರಂಭಿಸಿ (_S)"
 
 #~ msgid "Select input sources"
 #~ msgstr "ಇನ್‌ಪುಟ್ ಆಕರಗಳನ್ನು ಆರಿಸಿ"

@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/scarecrow-initial-setup/"
+"Report-Msgid-Bugs-To: https://github.com/scarecrow-de/scarecrow-initial-setup/"
 "issues\n"
 "POT-Creation-Date: 2017-06-19 01:03+0200\n"
 "PO-Revision-Date: 2017-06-19 01:28+0200\n"
@@ -49,7 +49,7 @@ msgid "Force existing user mode"
 msgstr "افرِض وضع المستخدم الموجود"
 
 #: ../scarecrow-initial-setup/scarecrow-initial-setup.c:223
-msgid "- GNOME initial setup"
+msgid "- Scarecrow initial setup"
 msgstr "- إعداد جنوم الأولي"
 
 #: ../scarecrow-initial-setup/pages/account/scis-account-page.c:242
@@ -453,7 +453,7 @@ msgid ""
 msgstr "إضافة حروف و أرقام و علامات ترقيم أكثر ستجعل كلمة السر أقوى."
 
 #. Translators: the parameter here is the name of a distribution,
-#. * like "Fedora" or "Ubuntu". It falls back to "GNOME" if we can't
+#. * like "Fedora" or "Ubuntu". It falls back to "Scarecrow" if we can't
 #. * detect any distribution.
 #.
 #: ../scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:110
@@ -466,7 +466,7 @@ msgstr ""
 "أي معلومات شخصية."
 
 #. Translators: the parameter here is the name of a distribution,
-#. * like "Fedora" or "Ubuntu". It falls back to "GNOME" if we can't
+#. * like "Fedora" or "Ubuntu". It falls back to "Scarecrow" if we can't
 #. * detect any distribution.
 #.
 #: ../scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:120
@@ -523,7 +523,7 @@ msgid "Choose your country or region."
 msgstr "اختر بلدك أو منطقتك."
 
 #. Translators: the parameter here is the name of a distribution,
-#. * like "Fedora" or "Ubuntu". It falls back to "GNOME 3" if we can't
+#. * like "Fedora" or "Ubuntu". It falls back to "Scarecrow 3" if we can't
 #. * detect any distribution.
 #: ../scarecrow-initial-setup/pages/summary/scis-summary-page.c:304
 #, c-format
@@ -587,7 +587,7 @@ msgid "Please search for a nearby city"
 msgstr "من فضلك ابحث عن مدينة قريبة"
 
 #. Translators: the parameter here is the name of a distribution,
-#. * like "Fedora" or "Ubuntu". It falls back to "GNOME" if we can't
+#. * like "Fedora" or "Ubuntu". It falls back to "Scarecrow" if we can't
 #. * detect any distribution.
 #.
 #: ../scarecrow-initial-setup/pages/software/scis-software-page.c:112
@@ -766,7 +766,7 @@ msgstr ""
 #~ msgid "You may change these options at any time in Settings."
 #~ msgstr "يمكنك تغيير أي من هذه الخيارات من ”الإعدادات“."
 
-#~ msgid "_Start using GNOME 3"
+#~ msgid "_Start using Scarecrow 3"
 #~ msgstr "اب_دأ باستخدام جنوم 3"
 
 #~ msgid "_Back"
@@ -820,10 +820,10 @@ msgstr ""
 #~ msgid "Show _all"
 #~ msgstr "أظهر ال_كل"
 
-#~ msgid "Enjoy GNOME!"
+#~ msgid "Enjoy Scarecrow!"
 #~ msgstr "استمتع بجنوم"
 
-#~ msgid "New to GNOME 3 and need help finding your way around?"
+#~ msgid "New to Scarecrow 3 and need help finding your way around?"
 #~ msgstr "هل تستخدم جنوم 3 لأول مرة وتحتاج للمساعدة في التعرف عليها؟"
 
 #~ msgid "_Take a Tour"

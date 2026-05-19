@@ -4,5 +4,5 @@
 
 Requires=@requires_component@.target
 
-# Only difference to a standard GNOME session is the @this_component@ service
+# Only difference to a standard Scarecrow session is the @this_component@ service
 Requires=@this_component@.service

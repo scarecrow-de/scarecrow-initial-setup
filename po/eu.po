@@ -7,7 +7,7 @@
 #
 msgid ""
 msgstr "Project-Id-Version: scarecrow-initial-setup master\n"
-"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/scarecrow-initial-setup/issues\n"
+"Report-Msgid-Bugs-To: https://github.com/scarecrow-de/scarecrow-initial-setup/issues\n"
 "POT-Creation-Date: 2020-08-17 19:50+0000\n"
 "PO-Revision-Date: 2020-08-11 10:00+0100\n"
 "Last-Translator: Asier Sarasua Garmendia <asiersarasua@ni.eus>\n"
@@ -48,8 +48,8 @@ msgid "Force existing user mode"
 msgstr "Behartu dagoen erabiltzaile-modura"
 
 #: scarecrow-initial-setup/scarecrow-initial-setup.c:258
-msgid "— GNOME initial setup"
-msgstr "— GNOMEren hasierako konfigurazioa"
+msgid "— Scarecrow initial setup"
+msgstr "— Scarecrowren hasierako konfigurazioa"
 
 #: scarecrow-initial-setup/pages/account/scis-account-avatar-chooser.ui:36
 msgid "Take a Picture…"
@@ -497,7 +497,7 @@ msgid ""
 msgstr "Hizki, zenbaki eta ikur gehiago gehitzeak sendoagoa egingo du."
 
 #. Translators: the parameter here is the name of a distribution,
-#. * like "Fedora" or "Ubuntu". It falls back to "GNOME" if we can't
+#. * like "Fedora" or "Ubuntu". It falls back to "Scarecrow" if we can't
 #. * detect any distribution.
 #.
 #: scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:68
@@ -508,7 +508,7 @@ msgid ""
 msgstr "Arazo teknikoei buruzko txostenak bidaltzean '%s' hobetzen laguntzen gaituzu. Txostenak anonimo gisa bidaltzen dira eta datu pertsonaletatik garbi daude."
 
 #. Translators: the parameter here is the name of a distribution,
-#. * like "Fedora" or "Ubuntu". It falls back to "GNOME" if we can't
+#. * like "Fedora" or "Ubuntu". It falls back to "Scarecrow" if we can't
 #. * detect any distribution.
 #.
 #: scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:78
@@ -551,7 +551,7 @@ msgid ""
 msgstr "Pribatutasunaren kontrolak edozer unetan alda daitezke Ezarpenenetatik."
 
 #. Translators: the parameter here is the name of a distribution,
-#. * like "Fedora" or "Ubuntu". It falls back to "GNOME 3" if we can't
+#. * like "Fedora" or "Ubuntu". It falls back to "Scarecrow 3" if we can't
 #. * detect any distribution.
 #: scarecrow-initial-setup/pages/summary/scis-summary-page.c:233
 #, c-format
@@ -559,7 +559,7 @@ msgid "_Start Using %s"
 msgstr "_Hasi %s erabiltzen"
 
 #. Translators: the parameter here is the name of a distribution,
-#. * like "Fedora" or "Ubuntu". It falls back to "GNOME 3" if we can't
+#. * like "Fedora" or "Ubuntu". It falls back to "Scarecrow 3" if we can't
 #. * detect any distribution.
 #: scarecrow-initial-setup/pages/summary/scis-summary-page.c:240
 #, c-format
@@ -626,7 +626,7 @@ msgstr "Bilatu hurbileko herri bat"
 #. * before the exclamation mark in this string is a typographical thin
 #. * space (U200a) to improve the spacing in the title, which you can
 #. * keep or remove. The %s is getting replaced with the name and version
-#. * of the OS, e.g. "GNOME 3.38"
+#. * of the OS, e.g. "Scarecrow 3.38"
 #.
 #: scarecrow-initial-setup/pages/welcome/scis-welcome-page.c:209
 #, c-format
@@ -919,8 +919,8 @@ msgstr "_Hasi konfigurazioa"
 #~ msgid "You may change these options at any time in Settings."
 #~ msgstr "Aukera hauek edozein momentutan alda ditzakezu Ezarpenak atalean."
 
-#~ msgid "_Start using GNOME 3"
-#~ msgstr "_Hasi GNOME 3 erabiltzen"
+#~ msgid "_Start using Scarecrow 3"
+#~ msgstr "_Hasi Scarecrow 3 erabiltzen"
 
 #~ msgid "Unspecified"
 #~ msgstr "Zehaztu gabea"

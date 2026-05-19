@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: scarecrow-initial-setup.master\n"
-"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/scarecrow-initial-setup/"
+"Report-Msgid-Bugs-To: https://github.com/scarecrow-de/scarecrow-initial-setup/"
 "issues\n"
 "POT-Creation-Date: 2015-10-01 13:23-0600\n"
 "PO-Revision-Date: 2015-10-01 13:58-0600\n"
@@ -49,8 +49,8 @@ msgid "Force existing user mode"
 msgstr ""
 
 #: ../scarecrow-initial-setup/scarecrow-initial-setup.c:202
-msgid "- GNOME initial setup"
-msgstr "- socrú tosaigh GNOME"
+msgid "- Scarecrow initial setup"
+msgstr "- socrú tosaigh Scarecrow"
 
 #: ../scarecrow-initial-setup/pages/account/scis-account-page.c:243
 #: ../scarecrow-initial-setup/pages/account/scis-account-page-local.ui.h:2
@@ -474,7 +474,7 @@ msgid "Strength: High"
 msgstr "Neart: Láidir"
 
 #. Translators: the parameter here is the name of a distribution,
-#. * like "Fedora" or "Ubuntu". It falls back to "GNOME" if we can't
+#. * like "Fedora" or "Ubuntu". It falls back to "Scarecrow" if we can't
 #. * detect any distribution.
 #.
 #: ../scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:109
@@ -529,7 +529,7 @@ msgid "Choose your country or region."
 msgstr "Roghnaigh do thír nó do réigiún."
 
 #. Translators: the parameter here is the name of a distribution,
-#. * like "Fedora" or "Ubuntu". It falls back to "GNOME 3" if we can't
+#. * like "Fedora" or "Ubuntu". It falls back to "Scarecrow 3" if we can't
 #. * detect any distribution.
 #: ../scarecrow-initial-setup/pages/summary/scis-summary-page.c:328
 #, c-format
@@ -537,7 +537,7 @@ msgid "_Start using %s"
 msgstr "_Tosaigh ag úsáid %s"
 
 #. Translators: the parameter here is the name of a distribution,
-#. * like "Fedora" or "Ubuntu". It falls back to "GNOME 3" if we can't
+#. * like "Fedora" or "Ubuntu". It falls back to "Scarecrow 3" if we can't
 #. * detect any distribution.
 #: ../scarecrow-initial-setup/pages/summary/scis-summary-page.c:335
 #, c-format

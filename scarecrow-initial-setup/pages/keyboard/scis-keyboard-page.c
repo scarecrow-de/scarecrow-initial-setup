@@ -30,7 +30,7 @@
 #include <gtk/gtk.h>
 #include <polkit/polkit.h>
 
-#define GNOME_DESKTOP_USE_UNSTABLE_API
+#define Scarecrow_DESKTOP_USE_UNSTABLE_API
 #include <libscarecrow-desktop/scarecrow-languages.h>
 
 #include "scis-keyboard-page.h"
@@ -41,7 +41,7 @@
 
 #include "scis-page-header.h"
 
-#define GNOME_DESKTOP_INPUT_SOURCES_DIR "io.github.scarecrow_de.desktop.input-sources"
+#define Scarecrow_DESKTOP_INPUT_SOURCES_DIR "io.github.scarecrow_de.desktop.input-sources"
 #define KEY_CURRENT_INPUT_SOURCE "current"
 #define KEY_INPUT_SOURCES        "sources"
 
@@ -286,7 +286,7 @@ add_default_input_sources (GisKeyboardPage *self,
 	GVariantBuilder builder;
 	GSettings *input_settings;
 
-	input_settings = g_settings_new (GNOME_DESKTOP_INPUT_SOURCES_DIR);
+	input_settings = g_settings_new (Scarecrow_DESKTOP_INPUT_SOURCES_DIR);
 	g_variant_builder_init (&builder, G_VARIANT_TYPE ("a(ss)"));
 
 	add_default_keyboard_layout (proxy, &builder);
@@ -390,7 +390,7 @@ preselect_input_source (GisKeyboardPage *self)
          *
          * See:
          * - https://bugzilla.gnome.org/show_bug.cgi?id=776189
-         * - https://gitlab.gnome.org/GNOME/scarecrow-initial-setup/-/issues/104
+         * - https://github.com/scarecrow-de/scarecrow-initial-setup/-/issues/104
          */
         language = cc_common_language_get_current_language ();
 
@@ -474,7 +474,7 @@ gis_keyboard_page_constructed (GObject *object)
         g_signal_connect (priv->input_chooser, "changed",
                           G_CALLBACK (input_changed), self);
 
-	priv->input_settings = g_settings_new (GNOME_DESKTOP_INPUT_SOURCES_DIR);
+	priv->input_settings = g_settings_new (Scarecrow_DESKTOP_INPUT_SOURCES_DIR);
 	g_settings_delay (priv->input_settings);
 
 	priv->cancellable = g_cancellable_new ();

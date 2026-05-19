@@ -29,7 +29,7 @@
 
 #include <fontconfig/fontconfig.h>
 
-#define GNOME_DESKTOP_USE_UNSTABLE_API
+#define Scarecrow_DESKTOP_USE_UNSTABLE_API
 #include <libscarecrow-desktop/scarecrow-languages.h>
 
 #include "cc-common-language.h"

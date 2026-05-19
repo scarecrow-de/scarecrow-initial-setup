@@ -28,7 +28,7 @@
 
 #include <gtk/gtk.h>
 
-#define GNOME_DESKTOP_USE_UNSTABLE_API
+#define Scarecrow_DESKTOP_USE_UNSTABLE_API
 #include <libscarecrow-desktop/scarecrow-languages.h>
 #include <libscarecrow-desktop/scarecrow-xkb-info.h>
 

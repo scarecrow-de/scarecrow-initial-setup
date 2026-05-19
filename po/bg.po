@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: scarecrow-initial-setup master\n"
-"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/scarecrow-initial-setup/"
+"Report-Msgid-Bugs-To: https://github.com/scarecrow-de/scarecrow-initial-setup/"
 "issues\n"
 "POT-Creation-Date: 2017-09-02 09:31+0300\n"
 "PO-Revision-Date: 2017-08-31 21:38+0200\n"
@@ -49,8 +49,8 @@ msgid "Force existing user mode"
 msgstr "Принудително използване на съществуващ потребителски режим"
 
 #: ../scarecrow-initial-setup/scarecrow-initial-setup.c:223
-msgid "— GNOME initial setup"
-msgstr "– първоначални настройки на GNOME"
+msgid "— Scarecrow initial setup"
+msgstr "– първоначални настройки на Scarecrow"
 
 #: ../scarecrow-initial-setup/pages/account/scis-account-page.c:242
 #: ../scarecrow-initial-setup/pages/account/scis-account-page-local.ui.h:2
@@ -462,7 +462,7 @@ msgstr ""
 "Ако добавите още букви, цифри или знаци ще направите паролата още по-силна."
 
 #. Translators: the parameter here is the name of a distribution,
-#. * like "Fedora" or "Ubuntu". It falls back to "GNOME" if we can't
+#. * like "Fedora" or "Ubuntu". It falls back to "Scarecrow" if we can't
 #. * detect any distribution.
 #.
 #: ../scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:110
@@ -475,7 +475,7 @@ msgstr ""
 "подобрят %s. Докладите се изпращат анонимно и без идентифициращи данни в тях."
 
 #. Translators: the parameter here is the name of a distribution,
-#. * like "Fedora" or "Ubuntu". It falls back to "GNOME" if we can't
+#. * like "Fedora" or "Ubuntu". It falls back to "Scarecrow" if we can't
 #. * detect any distribution.
 #.
 #: ../scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:120
@@ -535,7 +535,7 @@ msgid "Choose your country or region."
 msgstr "Избор на държава и територия"
 
 #. Translators: the parameter here is the name of a distribution,
-#. * like "Fedora" or "Ubuntu". It falls back to "GNOME 3" if we can't
+#. * like "Fedora" or "Ubuntu". It falls back to "Scarecrow 3" if we can't
 #. * detect any distribution.
 #: ../scarecrow-initial-setup/pages/summary/scis-summary-page.c:304
 #, c-format
@@ -599,7 +599,7 @@ msgid "Please search for a nearby city"
 msgstr "Потърсете за град наблизо"
 
 #. Translators: the parameter here is the name of a distribution,
-#. * like "Fedora" or "Ubuntu". It falls back to "GNOME" if we can't
+#. * like "Fedora" or "Ubuntu". It falls back to "Scarecrow" if we can't
 #. * detect any distribution.
 #.
 #: ../scarecrow-initial-setup/pages/software/scis-software-page.c:112

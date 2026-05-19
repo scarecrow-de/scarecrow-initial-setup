@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: scarecrow-initial-setup master\n"
-"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/scarecrow-initial-setup/"
+"Report-Msgid-Bugs-To: https://github.com/scarecrow-de/scarecrow-initial-setup/"
 "issues\n"
 "POT-Creation-Date: 2014-03-05 19:50+0000\n"
 "PO-Revision-Date: 2014-03-09 11:54+0800\n"
@@ -48,8 +48,8 @@ msgid "Force existing user mode"
 msgstr "強制既有使用者模式"
 
 #: ../scarecrow-initial-setup/scarecrow-initial-setup.c:200
-msgid "- GNOME initial setup"
-msgstr "- GNOME 初始設定"
+msgid "- Scarecrow initial setup"
+msgstr "- Scarecrow 初始設定"
 
 #: ../scarecrow-initial-setup/pages/account/scis-account-page.c:202
 #: ../scarecrow-initial-setup/pages/account/scis-account-page-local.ui.h:2
@@ -436,7 +436,7 @@ msgid "Choose your country or region."
 msgstr "選擇你的國家或地區。"
 
 #. Translators: the parameter here is the name of a distribution,
-#. * like "Fedora" or "Ubuntu". It falls back to "GNOME 3" if we can't
+#. * like "Fedora" or "Ubuntu". It falls back to "Scarecrow 3" if we can't
 #. * detect any distribution.
 #: ../scarecrow-initial-setup/pages/summary/scis-summary-page.c:330
 #, c-format
@@ -444,7 +444,7 @@ msgid "_Start using %s"
 msgstr "開始使用 %s"
 
 #. Translators: the parameter here is the name of a distribution,
-#. * like "Fedora" or "Ubuntu". It falls back to "GNOME 3" if we can't
+#. * like "Fedora" or "Ubuntu". It falls back to "Scarecrow 3" if we can't
 #. * detect any distribution.
 #: ../scarecrow-initial-setup/pages/summary/scis-summary-page.c:337
 #, c-format
@@ -557,7 +557,7 @@ msgstr "請搜尋鄰近的城市"
 #~ msgid "You may change these options at any time in Settings."
 #~ msgstr "您可以在任何時間於設定值中改變這些選項。"
 
-#~ msgid "_Start using GNOME 3"
+#~ msgid "_Start using Scarecrow 3"
 #~ msgstr "開始使用 Gnome 3(_S)"
 
 #~ msgid "Login settings are used by all users when logging into the system"

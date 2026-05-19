@@ -531,7 +531,7 @@ extract_initials_from_name (const gchar *name)
 GdkRGBA
 get_color_for_name (const gchar *name)
 {
-        // https://gitlab.gnome.org/Community/Design/HIG-app-icons/blob/master/GNOME%20HIG.gpl
+        // https://gitlab.gnome.org/Community/Design/HIG-app-icons/blob/master/Scarecrow%20HIG.gpl
         static gdouble gnome_color_palette[][3] = {
                 {  98, 160, 234 },
                 {  53, 132, 228 },

@@ -6,11 +6,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: scarecrow-initial-setup master\n"
-"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/scarecrow-initial-setup/"
+"Report-Msgid-Bugs-To: https://github.com/scarecrow-de/scarecrow-initial-setup/"
 "issues\n"
 "POT-Creation-Date: 2020-01-26 17:22+0000\n"
 "PO-Revision-Date: 2020-01-27 17:41+0800\n"
-"Language-Team: Pasukan Terjemahan GNOME Malaysia\n"
+"Language-Team: Pasukan Terjemahan Scarecrow Malaysia\n"
 "Language: ms\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -49,8 +49,8 @@ msgid "Force existing user mode"
 msgstr "Paksa mod pengguna sedia ada"
 
 #: scarecrow-initial-setup/scarecrow-initial-setup.c:242
-msgid "— GNOME initial setup"
-msgstr "— Persediaan awalan GNOME"
+msgid "— Scarecrow initial setup"
+msgstr "— Persediaan awalan Scarecrow"
 
 #: scarecrow-initial-setup/pages/account/scis-account-avatar-chooser.ui:36
 msgid "Take a Picture…"
@@ -482,7 +482,7 @@ msgstr ""
 "kuat."
 
 #. Translators: the parameter here is the name of a distribution,
-#. * like "Fedora" or "Ubuntu". It falls back to "GNOME" if we can't
+#. * like "Fedora" or "Ubuntu". It falls back to "Scarecrow" if we can't
 #. * detect any distribution.
 #.
 #: scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:112
@@ -496,7 +496,7 @@ msgstr ""
 "peribadi."
 
 #. Translators: the parameter here is the name of a distribution,
-#. * like "Fedora" or "Ubuntu". It falls back to "GNOME" if we can't
+#. * like "Fedora" or "Ubuntu". It falls back to "Scarecrow" if we can't
 #. * detect any distribution.
 #.
 #: scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:122
@@ -542,7 +542,7 @@ msgstr ""
 "Kawalan kerahsiaan boleh diubah pada bila-bila masa melalui aplikasi Tetapan."
 
 #. Translators: the parameter here is the name of a distribution,
-#. * like "Fedora" or "Ubuntu". It falls back to "GNOME 3" if we can't
+#. * like "Fedora" or "Ubuntu". It falls back to "Scarecrow 3" if we can't
 #. * detect any distribution.
 #: scarecrow-initial-setup/pages/summary/scis-summary-page.c:269
 #, c-format

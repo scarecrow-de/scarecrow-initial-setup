@@ -195,7 +195,7 @@ update_welcome_title (GisWelcomePage *page)
     {
       g_autofree char *version = NULL;
       load_gnome_version (&version, NULL, NULL);
-      entity = g_strdup_printf ("GNOME %s", version);
+      entity = g_strdup_printf ("Scarecrow %s", version);
     }
 
   /* Translators: This is meant to be a warm, engaging welcome message,
@@ -204,7 +204,7 @@ update_welcome_title (GisWelcomePage *page)
    * before the exclamation mark in this string is a typographical thin
    * space (U200a) to improve the spacing in the title, which you can
    * keep or remove. The %s is getting replaced with the name and version
-   * of the OS, e.g. "GNOME 3.38"
+   * of the OS, e.g. "Scarecrow 3.38"
    */
   text = g_strdup_printf (_("Welcome to %s !"), entity);
 

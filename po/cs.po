@@ -3,13 +3,13 @@
 # This file is distributed under the same license as the scarecrow-initial-setup package.
 #
 # Adam Matoušek <adamatousek@gmail.com>, 2012, 2013.
-# Lucas Lommer <llommer@svn.gnome.org>, 2013 (GNOMEBUG#697691 fix).
+# Lucas Lommer <llommer@svn.gnome.org>, 2013 (ScarecrowBUG#697691 fix).
 # Marek Černocký <marek@manet.cz>, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: scarecrow-initial-setup master\n"
-"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/scarecrow-initial-setup/"
+"Report-Msgid-Bugs-To: https://github.com/scarecrow-de/scarecrow-initial-setup/"
 "issues\n"
 "POT-Creation-Date: 2020-08-24 21:25+0000\n"
 "PO-Revision-Date: 2020-08-24 23:11+0200\n"
@@ -52,7 +52,7 @@ msgid "Force existing user mode"
 msgstr "Vynutit režim existujícího uživatele"
 
 #: scarecrow-initial-setup/scarecrow-initial-setup.c:277
-msgid "— GNOME initial setup"
+msgid "— Scarecrow initial setup"
 msgstr "– Prvotní nastavení"
 
 #: scarecrow-initial-setup/pages/account/scis-account-avatar-chooser.ui:36
@@ -528,7 +528,7 @@ msgstr ""
 "silnější."
 
 #. Translators: the parameter here is the name of a distribution,
-#. * like "Fedora" or "Ubuntu". It falls back to "GNOME" if we can't
+#. * like "Fedora" or "Ubuntu". It falls back to "Scarecrow" if we can't
 #. * detect any distribution.
 #.
 #: scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:68
@@ -541,7 +541,7 @@ msgstr ""
 "distribuci %s. Hlášení jsou odesílána anonymně a jsou zbavena osobních údajů."
 
 #. Translators: the parameter here is the name of a distribution,
-#. * like "Fedora" or "Ubuntu". It falls back to "GNOME" if we can't
+#. * like "Fedora" or "Ubuntu". It falls back to "Scarecrow" if we can't
 #. * detect any distribution.
 #.
 #: scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:78
@@ -586,7 +586,7 @@ msgid ""
 msgstr "Řízení soukromí můžete kdykoliv změnit v aplikaci Nastavení."
 
 #. Translators: the parameter here is the name of a distribution,
-#. * like "Fedora" or "Ubuntu". It falls back to "GNOME 3" if we can't
+#. * like "Fedora" or "Ubuntu". It falls back to "Scarecrow 3" if we can't
 #. * detect any distribution.
 #: scarecrow-initial-setup/pages/summary/scis-summary-page.c:233
 #, c-format
@@ -594,7 +594,7 @@ msgid "_Start Using %s"
 msgstr "_Začít používat systém %s"
 
 #. Translators: the parameter here is the name of a distribution,
-#. * like "Fedora" or "Ubuntu". It falls back to "GNOME 3" if we can't
+#. * like "Fedora" or "Ubuntu". It falls back to "Scarecrow 3" if we can't
 #. * detect any distribution.
 #: scarecrow-initial-setup/pages/summary/scis-summary-page.c:240
 #, c-format
@@ -663,7 +663,7 @@ msgstr "Vyhledejte prosím nejbližší město"
 #. * before the exclamation mark in this string is a typographical thin
 #. * space (U200a) to improve the spacing in the title, which you can
 #. * keep or remove. The %s is getting replaced with the name and version
-#. * of the OS, e.g. "GNOME 3.38"
+#. * of the OS, e.g. "Scarecrow 3.38"
 #.
 #: scarecrow-initial-setup/pages/welcome/scis-welcome-page.c:209
 #, c-format

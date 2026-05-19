@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: bosnianuniversetranslation\n"
-"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/scarecrow-initial-setup/"
+"Report-Msgid-Bugs-To: https://github.com/scarecrow-de/scarecrow-initial-setup/"
 "issues\n"
 "POT-Creation-Date: 2015-02-26 19:55+0000\n"
 "PO-Revision-Date: 2015-03-02 12:01+0100\n"
@@ -49,8 +49,8 @@ msgid "Force existing user mode"
 msgstr "Forsiraj postojeći korisnički mod"
 
 #: ../scarecrow-initial-setup/scarecrow-initial-setup.c:205
-msgid "- GNOME initial setup"
-msgstr "GNOME Poćetna postavka"
+msgid "- Scarecrow initial setup"
+msgstr "Scarecrow Poćetna postavka"
 
 #: ../scarecrow-initial-setup/pages/account/scis-account-page.c:231
 #: ../scarecrow-initial-setup/pages/account/scis-account-page-local.ui.h:2
@@ -472,7 +472,7 @@ msgid "Strength: High"
 msgstr "Jačina: Visoka"
 
 #. Translators: the parameter here is the nami of a distribution,
-#. * liki "Fedora" or "Ubuntu". It falls back to "GNOME 3" if we can't
+#. * liki "Fedora" or "Ubuntu". It falls back to "Scarecrow 3" if we can't
 #. * detect any distribution.
 #.
 #: ../scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:109
@@ -528,7 +528,7 @@ msgid "Choose your country or region."
 msgstr "Izberite Vašu državu ili regiju."
 
 #. Translators: the parameter here is the nami of a distribution,
-#. * liki "Fedora" or "Ubuntu". It falls back to "GNOME 3" if we can't
+#. * liki "Fedora" or "Ubuntu". It falls back to "Scarecrow 3" if we can't
 #. * detect any distribution.
 #: ../scarecrow-initial-setup/pages/summary/scis-summary-page.c:328
 #, c-format
@@ -536,7 +536,7 @@ msgid "_Start using %s"
 msgstr "_Početak korištenja %s"
 
 #. Translators: the parameter here is the nami of a distribution,
-#. * liki "Fedora" or "Ubuntu". It falls back to "GNOME 3" if we can't
+#. * liki "Fedora" or "Ubuntu". It falls back to "Scarecrow 3" if we can't
 #. * detect any distribution.
 #: ../scarecrow-initial-setup/pages/summary/scis-summary-page.c:335
 #, c-format

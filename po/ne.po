@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Gnome Nepali Translation Project\n"
-"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/scarecrow-initial-setup/"
+"Report-Msgid-Bugs-To: https://github.com/scarecrow-de/scarecrow-initial-setup/"
 "issues\n"
 "POT-Creation-Date: 2017-06-23 23:13+0000\n"
 "PO-Revision-Date: 2017-09-01 16:58+0545\n"
@@ -51,7 +51,7 @@ msgid "Force existing user mode"
 msgstr "भै राखेको लै ध्यान नदिएर  बल पुर्बक retracing"
 
 #: ../scarecrow-initial-setup/scarecrow-initial-setup.c:223
-msgid "— GNOME initial setup"
+msgid "— Scarecrow initial setup"
 msgstr "—  जिनोम सुरुको सेटअप"
 
 #: ../scarecrow-initial-setup/pages/account/scis-account-page.c:242
@@ -449,7 +449,7 @@ msgid ""
 msgstr ""
 
 #. Translators: the parameter here is the name of a distribution,
-#. * like "Fedora" or "Ubuntu". It falls back to "GNOME" if we can't
+#. * like "Fedora" or "Ubuntu". It falls back to "Scarecrow" if we can't
 #. * detect any distribution.
 #.
 #: ../scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:110
@@ -460,7 +460,7 @@ msgid ""
 msgstr ""
 
 #. Translators: the parameter here is the name of a distribution,
-#. * like "Fedora" or "Ubuntu". It falls back to "GNOME" if we can't
+#. * like "Fedora" or "Ubuntu". It falls back to "Scarecrow" if we can't
 #. * detect any distribution.
 #.
 #: ../scarecrow-initial-setup/pages/privacy/scis-privacy-page.c:120
@@ -519,7 +519,7 @@ msgid "Choose your country or region."
 msgstr "तपाईँको देश छान्नुहोस्"
 
 #. Translators: the parameter here is the name of a distribution,
-#. * like "Fedora" or "Ubuntu". It falls back to "GNOME 3" if we can't
+#. * like "Fedora" or "Ubuntu". It falls back to "Scarecrow 3" if we can't
 #. * detect any distribution.
 #: ../scarecrow-initial-setup/pages/summary/scis-summary-page.c:304
 #, c-format
@@ -582,7 +582,7 @@ msgid "Please search for a nearby city"
 msgstr "नजिकको शहर खोज्नुहोस्"
 
 #. Translators: the parameter here is the name of a distribution,
-#. * like "Fedora" or "Ubuntu". It falls back to "GNOME" if we can't
+#. * like "Fedora" or "Ubuntu". It falls back to "Scarecrow" if we can't
 #. * detect any distribution.
 #.
 #: ../scarecrow-initial-setup/pages/software/scis-software-page.c:112
