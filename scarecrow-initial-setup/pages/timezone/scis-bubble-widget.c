@@ -123,7 +123,7 @@ gis_bubble_widget_class_init (GisBubbleWidgetClass *klass)
 {
   GObjectClass *object_class = G_OBJECT_CLASS (klass);
 
-  gtk_widget_class_set_template_from_resource (GTK_WIDGET_CLASS (klass), "/org/gnome/initial-setup/scis-bubble-widget.ui");
+  gtk_widget_class_set_template_from_resource (GTK_WIDGET_CLASS (klass), "/io/github/scarecrow_de/initial-setup/scis-bubble-widget.ui");
 
   gtk_widget_class_bind_template_child_private (GTK_WIDGET_CLASS (klass), GisBubbleWidget, icon);
   gtk_widget_class_bind_template_child_private (GTK_WIDGET_CLASS (klass), GisBubbleWidget, label);
@@ -136,7 +136,7 @@ gis_bubble_widget_class_init (GisBubbleWidgetClass *klass)
 
   g_object_class_install_properties (object_class, PROP_LAST, obj_props);
 
-  add_style_from_resource ("/org/gnome/initial-setup/scis-bubble-widget.css");
+  add_style_from_resource ("/io/github/scarecrow_de/initial-setup/scis-bubble-widget.css");
 }
 
 static void

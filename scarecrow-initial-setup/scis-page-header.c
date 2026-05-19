@@ -153,7 +153,7 @@ gis_page_header_class_init (GisPageHeaderClass *klass)
 {
   GObjectClass *gobject_class = G_OBJECT_CLASS (klass);
 
-  gtk_widget_class_set_template_from_resource (GTK_WIDGET_CLASS (klass), "/org/gnome/initial-setup/scis-page-header.ui");
+  gtk_widget_class_set_template_from_resource (GTK_WIDGET_CLASS (klass), "/io/github/scarecrow_de/initial-setup/scis-page-header.ui");
 
   gtk_widget_class_bind_template_child (GTK_WIDGET_CLASS (klass), GisPageHeader, box);
   gtk_widget_class_bind_template_child (GTK_WIDGET_CLASS (klass), GisPageHeader, icon);
@@ -196,7 +196,7 @@ gis_page_header_class_init (GisPageHeaderClass *klass)
   g_object_class_install_properties (gobject_class, PROP_LAST, obj_props);
 
   g_autoptr(GtkCssProvider) provider = gtk_css_provider_new ();
-  gtk_css_provider_load_from_resource (provider, "/org/gnome/initial-setup/scis-page-header.css");
+  gtk_css_provider_load_from_resource (provider, "/io/github/scarecrow_de/initial-setup/scis-page-header.css");
   gtk_style_context_add_provider_for_screen (gdk_screen_get_default (),
                                              GTK_STYLE_PROVIDER (provider),
                                              GTK_STYLE_PROVIDER_PRIORITY_APPLICATION);

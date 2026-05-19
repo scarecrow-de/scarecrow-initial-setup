@@ -494,7 +494,7 @@ gis_assistant_class_init (GisAssistantClass *klass)
 {
   GObjectClass *gobject_class = G_OBJECT_CLASS (klass);
 
-  gtk_widget_class_set_template_from_resource (GTK_WIDGET_CLASS (klass), "/org/gnome/initial-setup/scis-assistant.ui");
+  gtk_widget_class_set_template_from_resource (GTK_WIDGET_CLASS (klass), "/io/github/scarecrow_de/initial-setup/scis-assistant.ui");
 
   gtk_widget_class_bind_template_child_private (GTK_WIDGET_CLASS (klass), GisAssistant, forward);
   gtk_widget_class_bind_template_child_private (GTK_WIDGET_CLASS (klass), GisAssistant, accept);

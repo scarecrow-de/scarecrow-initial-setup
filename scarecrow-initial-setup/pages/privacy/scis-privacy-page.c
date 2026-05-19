@@ -252,7 +252,7 @@ gis_privacy_page_class_init (GisPrivacyPageClass *klass)
   GisPageClass *page_class = GIS_PAGE_CLASS (klass);
   GObjectClass *object_class = G_OBJECT_CLASS (klass);
 
-  gtk_widget_class_set_template_from_resource (GTK_WIDGET_CLASS (klass), "/org/gnome/initial-setup/scis-privacy-page.ui");
+  gtk_widget_class_set_template_from_resource (GTK_WIDGET_CLASS (klass), "/io/github/scarecrow_de/initial-setup/scis-privacy-page.ui");
   gtk_widget_class_bind_template_child_private (GTK_WIDGET_CLASS (klass), GisPrivacyPage, location_switch);
   gtk_widget_class_bind_template_child_private (GTK_WIDGET_CLASS (klass), GisPrivacyPage, reporting_row);
   gtk_widget_class_bind_template_child_private (GTK_WIDGET_CLASS (klass), GisPrivacyPage, reporting_switch);

@@ -46,7 +46,7 @@ static void
 update_welcome_header (GisWelcomePage *page)
 {
   GisWelcomePagePrivate *priv = gis_welcome_page_get_instance_private (page);
-  const char *path = "/org/gnome/initial-setup/initial-setup-welcome.svg";
+  const char *path = "/io/github/scarecrow_de/initial-setup/initial-setup-welcome.svg";
   g_autoptr(GdkPixbuf) pixbuf = NULL;
 
   pixbuf = gdk_pixbuf_new_from_resource_at_scale (path, 1000, -1, TRUE, NULL);
@@ -241,7 +241,7 @@ gis_welcome_page_class_init (GisWelcomePageClass *klass)
   GisPageClass *page_class = GIS_PAGE_CLASS (klass);
   GObjectClass *object_class = G_OBJECT_CLASS (klass);
 
-  gtk_widget_class_set_template_from_resource (GTK_WIDGET_CLASS (klass), "/org/gnome/initial-setup/scis-welcome-page.ui");
+  gtk_widget_class_set_template_from_resource (GTK_WIDGET_CLASS (klass), "/io/github/scarecrow_de/initial-setup/scis-welcome-page.ui");
 
   gtk_widget_class_bind_template_child_private (GTK_WIDGET_CLASS (klass), GisWelcomePage, header);
   gtk_widget_class_bind_template_child_private (GTK_WIDGET_CLASS (klass), GisWelcomePage, title);

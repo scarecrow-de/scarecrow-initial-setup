@@ -819,7 +819,7 @@ gis_network_page_class_init (GisNetworkPageClass *klass)
   GisPageClass *page_class = GIS_PAGE_CLASS (klass);
   GObjectClass *object_class = G_OBJECT_CLASS (klass);
 
-  gtk_widget_class_set_template_from_resource (GTK_WIDGET_CLASS (klass), "/org/gnome/initial-setup/scis-network-page.ui");
+  gtk_widget_class_set_template_from_resource (GTK_WIDGET_CLASS (klass), "/io/github/scarecrow_de/initial-setup/scis-network-page.ui");
 
   gtk_widget_class_bind_template_child_private (GTK_WIDGET_CLASS (klass), GisNetworkPage, network_list);
   gtk_widget_class_bind_template_child_private (GTK_WIDGET_CLASS (klass), GisNetworkPage, scrolled_window);

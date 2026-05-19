@@ -817,7 +817,7 @@ cc_input_chooser_class_init (CcInputChooserClass *klass)
 {
         GObjectClass *object_class = G_OBJECT_CLASS (klass);
 
-        gtk_widget_class_set_template_from_resource (GTK_WIDGET_CLASS (klass), "/org/gnome/initial-setup/input-chooser.ui");
+        gtk_widget_class_set_template_from_resource (GTK_WIDGET_CLASS (klass), "/io/github/scarecrow_de/initial-setup/input-chooser.ui");
 
         gtk_widget_class_bind_template_child_private (GTK_WIDGET_CLASS (klass), CcInputChooser, filter_entry);
         gtk_widget_class_bind_template_child_private (GTK_WIDGET_CLASS (klass), CcInputChooser, input_list);

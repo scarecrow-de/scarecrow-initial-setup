@@ -559,7 +559,7 @@ cc_language_chooser_class_init (CcLanguageChooserClass *klass)
 {
         GObjectClass *object_class = G_OBJECT_CLASS (klass);
 
-        gtk_widget_class_set_template_from_resource (GTK_WIDGET_CLASS (klass), "/org/gnome/control-center/language-chooser.ui");
+        gtk_widget_class_set_template_from_resource (GTK_WIDGET_CLASS (klass), "/io/github/scarecrow_de/control-center/language-chooser.ui");
 
         gtk_widget_class_bind_template_child_private (GTK_WIDGET_CLASS (klass), CcLanguageChooser, filter_entry);
         gtk_widget_class_bind_template_child_private (GTK_WIDGET_CLASS (klass), CcLanguageChooser, language_list);

@@ -464,7 +464,7 @@ um_photo_dialog_class_init (UmPhotoDialogClass *klass)
         GtkWidgetClass *wclass = GTK_WIDGET_CLASS (klass);
         GObjectClass *oclass = G_OBJECT_CLASS (klass);
 
-        gtk_widget_class_set_template_from_resource (wclass, "/org/gnome/initial-setup/scis-account-avatar-chooser.ui");
+        gtk_widget_class_set_template_from_resource (wclass, "/io/github/scarecrow_de/initial-setup/scis-account-avatar-chooser.ui");
 
         gtk_widget_class_bind_template_child (wclass, UmPhotoDialog, flowbox);
         gtk_widget_class_bind_template_child (wclass, UmPhotoDialog, recent_pictures);

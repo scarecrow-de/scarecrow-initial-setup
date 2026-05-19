@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gresources>
-  <gresource prefix="/org/gnome/initial-setup">
+  <gresource prefix="/io/github/scarecrow_de/initial-setup">
     <file preprocess="xml-stripblanks" alias="scis-timezone-page.ui">scis-timezone-page.ui</file>
     <file preprocess="xml-stripblanks" alias="scis-bubble-widget.ui">scis-bubble-widget.ui</file>
     <file alias="scis-bubble-widget.css">scis-bubble-widget.css</file>

@@ -475,7 +475,7 @@ gis_account_page_local_constructed (GObject *object)
   validate (page);
 
   provider = gtk_css_provider_new ();
-  gtk_css_provider_load_from_resource (provider, "/org/gnome/initial-setup/scis-account-page-style.css");
+  gtk_css_provider_load_from_resource (provider, "/io/github/scarecrow_de/initial-setup/scis-account-page-style.css");
   gtk_style_context_add_provider_for_screen (gdk_screen_get_default (),
                                              GTK_STYLE_PROVIDER (provider),
                                              GTK_STYLE_PROVIDER_PRIORITY_APPLICATION);
@@ -624,7 +624,7 @@ gis_account_page_local_class_init (GisAccountPageLocalClass *klass)
 {
   GObjectClass *object_class = G_OBJECT_CLASS (klass);
 
-  gtk_widget_class_set_template_from_resource (GTK_WIDGET_CLASS (klass), "/org/gnome/initial-setup/scis-account-page-local.ui");
+  gtk_widget_class_set_template_from_resource (GTK_WIDGET_CLASS (klass), "/io/github/scarecrow_de/initial-setup/scis-account-page-local.ui");
 
   gtk_widget_class_bind_template_child_private (GTK_WIDGET_CLASS (klass), GisAccountPageLocal, avatar_button);
   gtk_widget_class_bind_template_child_private (GTK_WIDGET_CLASS (klass), GisAccountPageLocal, avatar_image);

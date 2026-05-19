@@ -816,7 +816,7 @@ gis_account_page_enterprise_class_init (GisAccountPageEnterpriseClass *klass)
 
   widget_class->realize = gis_account_page_enterprise_realize;
 
-  gtk_widget_class_set_template_from_resource (GTK_WIDGET_CLASS (klass), "/org/gnome/initial-setup/scis-account-page-enterprise.ui");
+  gtk_widget_class_set_template_from_resource (GTK_WIDGET_CLASS (klass), "/io/github/scarecrow_de/initial-setup/scis-account-page-enterprise.ui");
 
   gtk_widget_class_bind_template_child_private (GTK_WIDGET_CLASS (klass), GisAccountPageEnterprise, login);
   gtk_widget_class_bind_template_child_private (GTK_WIDGET_CLASS (klass), GisAccountPageEnterprise, password);

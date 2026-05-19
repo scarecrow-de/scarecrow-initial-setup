@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gresources>
-  <gresource prefix="/org/gnome/initial-setup">
+  <gresource prefix="/io/github/scarecrow_de/initial-setup">
     <file preprocess="xml-stripblanks">scis-keyboard-page.ui</file>
     <file preprocess="xml-stripblanks">input-chooser.ui</file>
   </gresource>

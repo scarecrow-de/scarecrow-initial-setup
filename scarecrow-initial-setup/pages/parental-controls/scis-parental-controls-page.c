@@ -215,7 +215,7 @@ gis_parental_controls_page_class_init (GisParentalControlsPageClass *klass)
   page_class->save_data = gis_parental_controls_page_save_data;
   page_class->shown = gis_parental_controls_page_shown;
 
-  gtk_widget_class_set_template_from_resource (widget_class, "/org/gnome/initial-setup/scis-parental-controls-page.ui");
+  gtk_widget_class_set_template_from_resource (widget_class, "/io/github/scarecrow_de/initial-setup/scis-parental-controls-page.ui");
 
   gtk_widget_class_bind_template_child (widget_class, GisParentalControlsPage, header);
   gtk_widget_class_bind_template_child (widget_class, GisParentalControlsPage, user_controls);
