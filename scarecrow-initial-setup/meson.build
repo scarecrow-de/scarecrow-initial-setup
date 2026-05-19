@@ -33,7 +33,7 @@ dependencies = [
     dependency ('scarecrow-desktop-3.0', version: '>= 3.7.5'),
     dependency ('scarecrow-gsettings-desktop-schemas', version: '>= 3.37.1'),
     dependency ('fontconfig'),
-    dependency ('gweather-3.0'),
+    dependency ('gweather4'),
     dependency ('goa-1.0'),
     dependency ('goa-backend-1.0'),
     dependency ('gtk+-3.0', version: '>= 3.11.3'),
