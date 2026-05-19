@@ -32,7 +32,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-#define Scarecrow_DESKTOP_USE_UNSTABLE_API
+#define GNOME_DESKTOP_USE_UNSTABLE_API
 #include <libscarecrow-desktop/scarecrow-languages.h>
 #include <libscarecrow-desktop/scarecrow-wall-clock.h>
 #include <gdesktop-enums.h>
