@@ -126,7 +126,7 @@ set_location (GisTimezonePage  *page,
 {
   GisTimezonePagePrivate *priv = gis_timezone_page_get_instance_private (page);
 
-  g_clear_pointer (&priv->current_location, gweather_location_unref);
+  g_clear_pointer (&priv->current_location, g_object_unref);
 
   gtk_widget_set_visible (priv->search_overlay, (location == NULL));
   gis_page_set_complete (GIS_PAGE (page), (location != NULL));
@@ -136,10 +136,10 @@ set_location (GisTimezonePage  *page,
       GWeatherTimezone *zone;
       const char *tzid;
 
-      priv->current_location = gweather_location_ref (location);
+      priv->current_location = g_object_ref (location);
 
       zone = gweather_location_get_timezone (location);
-      tzid = gweather_timezone_get_tzid (zone);
+      tzid = g_time_zone_get_identifier (zone);
 
       cc_timezone_map_set_timezone (CC_TIMEZONE_MAP (priv->map), tzid);
 
